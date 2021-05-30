@@ -56,7 +56,7 @@ The dwarven tools are smithed from Dwarven Bars \(smelted from dwarven ore, see 
 
 #### Dwarven Armor
 
-Dwarven armor is smithable from Dwarven Bars with 120 Smithing and is also dropped by King Goldemar \(see [Bosses](bosses.md)\). It currently provides no boosts to content but provides high crush defence.
+Dwarven armor is smithable from Dwarven Bars with 120 Smithing and is also dropped by King Goldemar \(see [Bosses](bosses/)\). It currently provides no boosts to content but provides high crush defence.
 
 | Armor Piece | Bars Needed |
 | :--- | :--- |
@@ -70,7 +70,7 @@ Dwarven armor is smithable from Dwarven Bars with 120 Smithing and is also dropp
 
 These dwarven gear are unlike the previous in that they are not smithable from Dwarven bars and instead are rare drops.
 
-**Dwarven Warhammer**: Rare drop from King Goldemar \(see [Bosses](bosses.md)\) and provides a 40% PvM boost. Drops as a **Broken Dwarven Warhammer** and must be fixed, requiring 120 Smithing, Blacksmith's Outfit, and Dwarven Bars.
+**Dwarven Warhammer**: Rare drop from King Goldemar \(see [Bosses](bosses/)\) and provides a 40% PvM boost. Drops as a **Broken Dwarven Warhammer** and must be fixed, requiring 120 Smithing, Blacksmith's Outfit, and Dwarven Bars.
 
 **Dwarven Blessing**: Rare drop from Grandmaster Caskets \(see [Misc](misc.md)\) and provides a 20% boost to PvM \(25% with Amulet of Zealots\). Consumes 1 Prayer Potion per 5 minutes of PvM \(reduced by 40% with Prayer Master Cape\).
 

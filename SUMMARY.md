@@ -14,6 +14,9 @@
 
 * [Pets](custom-items/pets.md)
 * [Equippables](custom-items/untitled.md)
-* [Bosses](custom-items/bosses.md)
+* [Bosses](custom-items/bosses/README.md)
+  * [Nex](custom-items/bosses/nex.md)
+  * [King Goldemar](custom-items/bosses/king-goldemar.md)
+  * [Kalphite King](custom-items/bosses/kalphite-king.md)
 * [Misc](custom-items/misc.md)
 
