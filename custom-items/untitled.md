@@ -56,15 +56,15 @@ The dwarven tools are smithed from Dwarven Bars \(smelted from dwarven ore, see 
 
 #### Dwarven Armor
 
-Dwarven armor is smithable from Dwarven Bars and is also dropped by King Goldemar \(see [Bosses](bosses.md)\). It currently provides no boosts to content but provides high crush defence.
+Dwarven armor is smithable from Dwarven Bars with 120 Smithing and is also dropped by King Goldemar \(see [Bosses](bosses.md)\). It currently provides no boosts to content but provides high crush defence.
 
 | Armor Piece | Bars Needed |
 | :--- | :--- |
 | Dwarven Full Helm | 2 |
-| Dwarven Platebody | 3 |
-| Dwarven Platelegs | 3 |
-| Dwarven Boots | 1 |
-| Dwarven Gloves | 1 |
+| Dwarven Platebody | 5 |
+| Dwarven Platelegs | 4 |
+| Dwarven Boots | 2 |
+| Dwarven Gloves | 2 |
 
 #### Other Dwarven Gear
 
