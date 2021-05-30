@@ -138,8 +138,9 @@ There are pets exclusive to BSO that provide unique and powerful perks and are r
     <tr>
       <td style="text-align:left">Hammy</td>
       <td style="text-align:left">
-        <p>Free plank-making at sawmills</p>
         <p>Can interrupt commands</p>
+        <p>Can <code>=feed</code> a random item to Hammy with a 1/10 chance to spare,
+          1/100 chance to double</p>
       </td>
       <td style="text-align:left">1/140 for each Sacrifice over 51.3M</td>
     </tr>

@@ -10,12 +10,10 @@
 
 * [Untitled](minigames/untitled.md)
 
-## Bosses
-
-* [Untitled](bosses/untitled.md)
-
-## Custom Items
+## Custom Content <a id="custom-items"></a>
 
 * [Pets](custom-items/pets.md)
-* [Untitled](custom-items/untitled.md)
+* [Equippables](custom-items/untitled.md)
+* [Bosses](custom-items/bosses.md)
+* [Misc](custom-items/misc.md)
 
