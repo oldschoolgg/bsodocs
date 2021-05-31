@@ -8,7 +8,7 @@
 
 ## Minigames
 
-* [Untitled](minigames/untitled.md)
+* [Dungeoneering](minigames/untitled.md)
 
 ## Custom Content <a id="custom-items"></a>
 
