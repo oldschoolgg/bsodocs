@@ -91,6 +91,16 @@ The following items can be obtained by killing Nex \(see [Bosses](bosses/)\). Th
 
 These items can also be upgraded \(except for Virtus Wand and Book\) using Gorajan Shards to make Gorajan Armor.
 
+Additionally, the **Zartye** **Bow** is also obtainable as a drop. It provides the highest range attack and strength bonus of any bow and gives a 20% boost to Nex.
+
+### Drygore Weapons
+
+Drygore weapons are a drop from the Kalphite King \(see [Bosses](bosses/)\). Each type of weapon has a main hand a offhand pair. 
+
+* **Drygore Rapier** + **Offhand Drygore Rapier** - BiS CoX Points and CoX boost
+* **Drygore Mace** + **Offhand Drygore Rapier** - BiS Kalphite King
+* **Drygore Longsword** + **Offhand Drygore Longsword** - BiS King Goldemar
+
 ### Dungeoneering Gear
 
 There are various types of gear that can be obtained from Dungeoneering \(see [Dungeoneering](../minigames/untitled.md)\). 
