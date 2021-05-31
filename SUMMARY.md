@@ -13,7 +13,7 @@
 ## Custom Content <a id="custom-items"></a>
 
 * [Pets](custom-items/pets.md)
-* [Equippables](custom-items/untitled.md)
+* [Equippables](custom-items/equippables.md)
 * [Bosses](custom-items/bosses/README.md)
   * [Nex](custom-items/bosses/nex.md)
   * [King Goldemar](custom-items/bosses/king-goldemar.md)
