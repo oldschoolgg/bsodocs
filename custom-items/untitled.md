@@ -76,13 +76,45 @@ These dwarven gear are unlike the previous in that they are not smithable from D
 
 ### Abyssal Equipment
 
+Abyssal equipment can be obtained by killing Malygos \(see [Bosses](bosses/)\). 
+
+* Abyssal Cape - Provides an aura which reduces food consumption by 50%
+* Dragon Hunter Lance - Provides a large boost against dragons \(varies\)
+
 ### Nex Equipment
+
+The following items can be obtained by killing Nex \(see [Bosses](bosses/)\). These items all have very high bonuses in their respective style, Pernix - range, Torva - melee, and Virtus - magic. 
+
+* **Pernix**: Cowl, Body, Legs, Gloves, Boots
+* **Torva**: Full Helm, Platebody, Platelegs, Gloves, Boots
+* **Virtus**: Hood, Rob Top, Robe Legs, Gloves, Boots, Wand Book
+
+These items can also be upgraded \(except for Virtus Wand and Book\) using Gorajan Shards to make Gorajan Armor.
 
 ### Dungeoneering Gear
 
 ### Clue Hunter Outfit
 
+The Clue Hunter outfit can be obtained as a rare drop from Grandmaster Caskets \(see [Misc](misc.md)\). Previously it was obtainable from the Crack the Clue event. It gives a 2x speed boost to completing clues and increases Grandmaster Clue drop rate from Master caskets. 
+
+* Helm of Raedwald
+* Clue Hunter Cloak
+* Clue Hunter Garb
+* Clue Hunter Trousers
+* Clue Hunter Boots
+* Clue Hunter Glovves
+
 ### Master Farmer Outfit
+
+The Master Farmer outfit is craftable with 110 Crafting using Ent hides dropped from Treebeard \(see [Bosses](bosses/)\). The outfit gives +3 extra maximum patches, for every type of patch. This stacks with the +2 patches from the Scroll of farming. It does not have to be equipped.
+
+| Piece | Ent Hide Needed |
+| :--- | :--- |
+| Master Farmer Hat | 1 |
+| Master Farmer Jacket | 3 |
+| Master Farmer Pants | 2 |
+| Master Farmer Boots | 1 |
+| Master Farmer Gloves | 1 |
 
 ### Master Capes
 
