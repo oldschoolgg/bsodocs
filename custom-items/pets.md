@@ -2,7 +2,7 @@
 
 There are pets exclusive to BSO that provide unique and powerful perks and are rare drops from certain activities. These custom pets must equipped using `=equippet` and in most cases, only one pet's effect can be active at once.
 
-#### List of Custom Pets
+## Miscellaneous Pets
 
 <table>
   <thead>
@@ -14,19 +14,9 @@ There are pets exclusive to BSO that provide unique and powerful perks and are r
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left">Brock</td>
-      <td style="text-align:left">Brings back random logs (non-PvM trips)</td>
-      <td style="text-align:left">1/5,500 Minutes of Zulrah</td>
-    </tr>
-    <tr>
       <td style="text-align:left">Lil Lamb</td>
       <td style="text-align:left">Boosts XP from offering bones by 1x-3x</td>
       <td style="text-align:left">1/8,000 Minutes of Alching</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Peky</td>
-      <td style="text-align:left">Brings back random seeds (non-PvM trips)</td>
-      <td style="text-align:left">1/4,000 Minutes of Woodcutting</td>
     </tr>
     <tr>
       <td style="text-align:left">Scruffy</td>
@@ -34,14 +24,10 @@ There are pets exclusive to BSO that provide unique and powerful perks and are r
       <td style="text-align:left">1/4,000 Minutes of Varrock Agility Course</td>
     </tr>
     <tr>
-      <td style="text-align:left">Doug</td>
-      <td style="text-align:left">Brings back random minables</td>
-      <td style="text-align:left">1/10,000 Minutes of Mining</td>
-    </tr>
-    <tr>
       <td style="text-align:left">Obis</td>
       <td style="text-align:left">
         <p>2x Zalcano Boost</p>
+        <p>2x Runecraft boost</p>
         <p>Brings back random runes</p>
       </td>
       <td style="text-align:left">1/5,000 Minutes of Runecrafting</td>
@@ -90,13 +76,8 @@ There are pets exclusive to BSO that provide unique and powerful perks and are r
     </tr>
     <tr>
       <td style="text-align:left">Takon</td>
-      <td style="text-align:left">5x smithing boost (not smelting)</td>
+      <td style="text-align:left">5x Smithing boost (not smelting)</td>
       <td style="text-align:left">1/4,500 from CoX</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Steve</td>
-      <td style="text-align:left">No perk</td>
-      <td style="text-align:left">1/2,000 from CoX</td>
     </tr>
     <tr>
       <td style="text-align:left">Wilvus</td>
@@ -119,8 +100,58 @@ There are pets exclusive to BSO that provide unique and powerful perks and are r
       <td style="text-align:left">Increases maximum trip length by 40%</td>
       <td style="text-align:left">
         <p>1/6,500 Minutes of Smelting</p>
-        <p>(requires 10 qp)</p>
+        <p>(requires 10 QP)</p>
       </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Voidling</td>
+      <td style="text-align:left">Can alch your items while doing any activity</td>
+      <td style="text-align:left">Vasa Magus</td>
+    </tr>
+  </tbody>
+</table>
+
+## Resource Gathering & Loot Effecting pets
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left">Pet</th>
+      <th style="text-align:left">Perk</th>
+      <th style="text-align:left">Source</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left">Brock</td>
+      <td style="text-align:left">Brings back random logs (non-PvM trips)</td>
+      <td style="text-align:left">1/5,500 Minutes of Zulrah</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Peky</td>
+      <td style="text-align:left">Brings back random seeds (non-PvM trips)</td>
+      <td style="text-align:left">1/4,000 Minutes of Woodcutting</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Ori</td>
+      <td style="text-align:left">Boosts loot from PvM trips by 25% (rounds up)</td>
+      <td style="text-align:left">1/3,000 from Malygos</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Sandy</td>
+      <td style="text-align:left">Triples hunter loot (doubles sand gecko loot if Hunter Master Cape is
+        equipped)</td>
+      <td style="text-align:left">1/16,000 from Sand Geckos</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Ori</td>
+      <td style="text-align:left">Boosts loot from PvM trips by 25% (rounds up)</td>
+      <td style="text-align:left">1/3,000 from Malygos</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Doug</td>
+      <td style="text-align:left">Brings back random ores</td>
+      <td style="text-align:left">1/10,000 Minutes of Mining</td>
     </tr>
     <tr>
       <td style="text-align:left">Zippy</td>
@@ -130,10 +161,29 @@ There are pets exclusive to BSO that provide unique and powerful perks and are r
       </td>
       <td style="text-align:left">1/350 Trips of Questing</td>
     </tr>
+  </tbody>
+</table>
+
+## Meme pets & No Perk pets
+
+{% hint style="info" %}
+These pets are a meta-joke, or a meme pet, that serve no real use apart from being a joke.
+{% endhint %}
+
+<table>
+  <thead>
     <tr>
-      <td style="text-align:left">Ori</td>
-      <td style="text-align:left">Boosts loot from PvM trips by 25% (rounds up)</td>
-      <td style="text-align:left">1/3,000 from Malygos</td>
+      <th style="text-align:left">Name</th>
+      <th style="text-align:left">Perk</th>
+      <th style="text-align:left">Source</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left">Ishi</td>
+      <td style="text-align:left">Chance to interrupt commands and change any PvM trip to <code>=k ogress warrior</code>
+      </td>
+      <td style="text-align:left">1/6,500 from Ogress Warriors</td>
     </tr>
     <tr>
       <td style="text-align:left">Hammy</td>
@@ -145,22 +195,33 @@ There are pets exclusive to BSO that provide unique and powerful perks and are r
       <td style="text-align:left">1/140 for each Sacrifice over 51.3M</td>
     </tr>
     <tr>
-      <td style="text-align:left">Ishi</td>
-      <td style="text-align:left">Chance to interrupt commands and change any PvM trip to <code>=k ogress warrior</code>
-      </td>
-      <td style="text-align:left">1/6,500 from Ogress Warriors</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Sandy</td>
-      <td style="text-align:left">Triples hunter loot (doubles sand gecko loot if Hunter Master Cape is
-        equipped)</td>
-      <td style="text-align:left">1/16,000 from Sand Geckos</td>
-    </tr>
-    <tr>
       <td style="text-align:left">Frosty</td>
       <td style="text-align:left">No Perk</td>
       <td style="text-align:left">2M Dungeoneering Tokens</td>
     </tr>
+    <tr>
+      <td style="text-align:left">Steve</td>
+      <td style="text-align:left">No perk</td>
+      <td style="text-align:left">1/2,000 from CoX</td>
+    </tr>
+  </tbody>
+</table>
+
+## Discontinued pets
+
+{% hint style="info" %}
+These pets are no longer obtainable, they are disc
+{% endhint %}
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left">Name</th>
+      <th style="text-align:left">Perk</th>
+      <th style="text-align:left">Source</th>
+    </tr>
+  </thead>
+  <tbody>
     <tr>
       <td style="text-align:left">Cob</td>
       <td style="text-align:left">

@@ -56,7 +56,7 @@ The dwarven tools are smithed from Dwarven Bars \(smelted from dwarven ore, see 
 
 #### Dwarven Armor
 
-Dwarven armor is smithable from Dwarven Bars with 120 Smithing and is also dropped by King Goldemar \(see [Bosses](bosses/)\). It currently provides no boosts to content but provides high crush defence.
+Dwarven armor is smithable from Dwarven Bars with 120 Smithing and is also dropped by King Goldemar \(see [Bosses]()\). It currently provides no boosts to content but provides high crush defence.
 
 | Armor Piece | Bars Needed |
 | :--- | :--- |
@@ -70,20 +70,20 @@ Dwarven armor is smithable from Dwarven Bars with 120 Smithing and is also dropp
 
 These dwarven gear are unlike the previous in that they are not smithable from Dwarven bars and instead are rare drops.
 
-**Dwarven Warhammer**: Rare drop from King Goldemar \(see [Bosses](bosses/)\) and provides a 40% PvM boost. Drops as a **Broken Dwarven Warhammer** and must be fixed, requiring 120 Smithing, Blacksmith's Outfit, and Dwarven Bars.
+**Dwarven Warhammer**: Rare drop from King Goldemar \(see [Bosses]()\) and provides a 40% PvM boost. Drops as a **Broken Dwarven Warhammer** and must be fixed, requiring 120 Smithing, Blacksmith's Outfit, and Dwarven Bars.
 
 **Dwarven Blessing**: Rare drop from Grandmaster Caskets \(see [Misc](misc.md)\) and provides a 20% boost to PvM \(25% with Amulet of Zealots\). Consumes 1 Prayer Potion per 5 minutes of PvM \(reduced by 40% with Prayer Master Cape\).
 
 ### Abyssal Equipment
 
-Abyssal equipment can be obtained by killing Malygos \(see [Bosses](bosses/)\). 
+Abyssal equipment can be obtained by killing Malygos \(see [Bosses]()\). 
 
 * Abyssal Cape - Provides an aura which reduces food consumption by 50%
 * Dragon Hunter Lance - Provides a large boost against dragons \(varies\)
 
 ### Nex Equipment
 
-The following items can be obtained by killing Nex \(see [Bosses](bosses/)\). These items all have very high bonuses in their respective style, Pernix - range, Torva - melee, and Virtus - magic. 
+The following items can be obtained by killing Nex \(see [Bosses]()\). These items all have very high bonuses in their respective style, Pernix - range, Torva - melee, and Virtus - magic. 
 
 * **Pernix**: Cowl, Body, Legs, Gloves, Boots
 * **Torva**: Full Helm, Platebody, Platelegs, Gloves, Boots
@@ -95,7 +95,7 @@ Additionally, the **Zartye** **Bow** is also obtainable as a drop. It provides t
 
 ### Drygore Weapons
 
-Drygore weapons are a drop from the Kalphite King \(see [Bosses](bosses/)\). Each type of weapon has a main hand a offhand pair. 
+Drygore weapons are a drop from the Kalphite King \(see [Bosses]()\). Each type of weapon has a main hand a offhand pair. 
 
 * **Drygore Rapier** + **Offhand Drygore Rapier** - BiS CoX Points and CoX boost
 * **Drygore Mace** + **Offhand Drygore Rapier** - BiS Kalphite King
@@ -103,7 +103,7 @@ Drygore weapons are a drop from the Kalphite King \(see [Bosses](bosses/)\). Eac
 
 ### Dungeoneering Gear
 
-There are various types of gear that can be obtained from Dungeoneering \(see [Dungeoneering](../minigames/untitled.md)\). 
+There are various types of gear that can be obtained from Dungeoneering \(see [Dungeoneering](../skills/untitled-1.md)\). 
 
 The following gear can be bought with tokens:
 
@@ -148,7 +148,7 @@ The Clue Hunter outfit can be obtained as a rare drop from Grandmaster Caskets \
 
 ### Master Farmer Outfit
 
-The Master Farmer outfit is craftable with 110 Crafting using Ent hides dropped from Treebeard \(see [Bosses](bosses/)\). The outfit gives +3 extra maximum patches, for every type of patch. This stacks with the +2 patches from the Scroll of farming. It does not have to be equipped.
+The Master Farmer outfit is craftable with 110 Crafting using Ent hides dropped from Treebeard \(see [Bosses]()\). The outfit gives +3 extra maximum patches, for every type of patch. This stacks with the +2 patches from the Scroll of farming. It does not have to be equipped.
 
 | Piece | Ent Hide Needed |
 | :--- | :--- |

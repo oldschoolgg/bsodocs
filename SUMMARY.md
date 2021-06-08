@@ -4,19 +4,20 @@
 
 ## Skills
 
-* [Untitled](skills/untitled.md)
+* [Dungeoneering](skills/untitled-1.md)
 
-## Minigames
+## Bosses
 
-* [Dungeoneering](minigames/untitled.md)
+* [Vasa Magus](bosses/vasa-magus.md)
+* [Kalphite King](bosses/kalphite-king.md)
+* [King Goldemar](bosses/king-goldemar.md)
+* [Nex](bosses/nex.md)
 
 ## Custom Content <a id="custom-items"></a>
 
+* [Ourania Delivery Service \(ODS\)](custom-items/ourania-delivery-service-ods.md)
+* [Item Contracts](custom-items/item-contracts.md)
 * [Pets](custom-items/pets.md)
 * [Equippables](custom-items/equippables.md)
-* [Bosses](custom-items/bosses/README.md)
-  * [Nex](custom-items/bosses/nex.md)
-  * [King Goldemar](custom-items/bosses/king-goldemar.md)
-  * [Kalphite King](custom-items/bosses/kalphite-king.md)
 * [Misc](custom-items/misc.md)
 
