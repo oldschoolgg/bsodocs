@@ -1,6 +1,8 @@
 # Nex
 
-Nex is an endgame boss that requires 95 prayer and a Frozen Key to start. You can either Solo or Mass it and requires some high level ranged gear to fight. It drops Pernix, Torva and Virtus gear.
+Nex is an endgame boss that requires 95 prayer and a Frozen Key to start. You can either Solo or Mass it and requires some high level ranged gear to fight. It drops Pernix, Torva and Virtus gear.  
+`=nex solo`  
+`=nex mass`
 
 ## Gear Recommendations
 
