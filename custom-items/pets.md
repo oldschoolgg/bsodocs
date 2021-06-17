@@ -210,7 +210,7 @@ These pets are a meta-joke, or a meme pet, that serve no real use apart from bei
 ## Discontinued pets
 
 {% hint style="info" %}
-These pets are no longer obtainable, they are disc
+These pets are no longer obtainable, they are discontinued and were obtained from certain events. You can only obtain them from buying them from other players. Ironmen can get some of these from Pet Mystery Boxes.
 {% endhint %}
 
 <table>
