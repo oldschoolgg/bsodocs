@@ -12,6 +12,7 @@
 * [Kalphite King](bosses/kalphite-king.md)
 * [King Goldemar](bosses/king-goldemar.md)
 * [Nex](bosses/nex.md)
+* [Chambers of Xeric](bosses/chambers-of-xeric.md)
 
 ## Custom Content <a id="custom-items"></a>
 
