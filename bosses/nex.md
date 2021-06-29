@@ -6,6 +6,8 @@ Nex is an endgame boss that requires 95 prayer and a Frozen Key to start. You ca
 
 ## Gear Recommendations
 
+Its important to note here that the community estimates there is very little difference in death chance at higher KC's between these two setups despite the test results suggesting otherwise. 100 kills is a very small sample size in reality, however KC does play a big part and it is suggested you use tank gear to start out with.
+
 ### **Max Range Setup**
 
 * Each kill takes - 9 Minutes and 26 Seconds.
