@@ -15,9 +15,12 @@
 * [Nex](bosses/nex.md)
 * [Chambers of Xeric](bosses/chambers-of-xeric.md)
 
+## Minigames
+
+* [Ourania Delivery Service \(ODS\)](minigames/ourania-delivery-service-ods.md)
+
 ## Custom Content <a id="custom-items"></a>
 
-* [Ourania Delivery Service \(ODS\)](custom-items/ourania-delivery-service-ods.md)
 * [Item Contracts](custom-items/item-contracts.md)
 * [Pets](custom-items/pets.md)
 * [Equippables](custom-items/equippables.md)
