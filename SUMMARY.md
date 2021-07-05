@@ -8,6 +8,7 @@
 
 ## Bosses
 
+* [Ignecarus](bosses/ignecarus.md)
 * [Vasa Magus](bosses/vasa-magus.md)
 * [Kalphite King](bosses/kalphite-king.md)
 * [King Goldemar](bosses/king-goldemar.md)
