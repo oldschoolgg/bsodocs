@@ -2,14 +2,14 @@
 
 Ignecarus is a giant dragon boss, it fights primarily using dragonfire, far hotter than any other dragon in runescape, your resistance to fire is therefore the most important thing. Not everything is known about it yet.
 
-The glass of typical potions \(brews/restores\) have a low melting point, and will melt and break during the fight. You need specially made Heat resistant potions.
+The glass of typical potions \(brews/restores\) have a low melting point, and will melt and break during the fight. You need specially made [Heat resistant potions.](../custom-items/misc.md#heat-res-potions)
 
 You can kill Ignecarus using `=igne`.
 
 ## Requirements
 
 * 110 Slayer
-* Heat res. brews and Heat res. restores
+* [Heat res. brews and Heat res. restores](../custom-items/misc.md#heat-res-potions)
 * Highly recommended: dragonfire shield
 
 ## Gear

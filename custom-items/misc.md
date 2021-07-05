@@ -20,3 +20,9 @@ Shadow, Blood, Ice and Third age dyes can be obtained from Grandmaster clues, th
 
 The ancient rejuvenation pool can be built in your PoH ontop of an Ornate rejuvenation pool, with 500 brews, 150 restores, 100 stams, 200 prayer pots, 20 marble blocks, 30 elder planks. It gives speed boosts to: Corp, Treebeard, Abyssal Dragon \(Malygos\), Sea Kraken, Barrows.
 
+#### Heat res. potions
+
+1. Create Athelas paste from crushing the Athelas herb.
+2. Craft Heat res. vials with molten glass and athelas paste.
+3. Mix a Super antifire, 4-dose brew/restore into the heat res. vial. E.g. `=mix heat res. brew`.
+
