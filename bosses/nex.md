@@ -6,9 +6,11 @@ Nex is an endgame boss that requires 95 prayer and a Frozen Key to start. You ca
 
 ## Gear Recommendations
 
-_Abyssal cape is absolutely essential to start out with. You will repeatedly die without it._
+_Abyssal cape is highly recommended to start out with. It significantly reduces your chance of death._
 
 Its important to note here that the community estimates there is very little difference in death chance at higher KC's between these two setups despite the test results suggesting otherwise. 100 kills is a very small sample size in reality, however KC does play a big part and it is suggested you use tank gear to start out with.
+
+Having a barbarian assault arrow \(from untradeable mystery boxes\) equipped in your ammo slot will help immensely with range attack bonus, allowing you to use more tanky gear. You will receive a speed penalty if you have less than 200 range attack bonus. 
 
 ### **Max Range Setup**
 
@@ -90,4 +92,13 @@ Using **Max Range** is **3,225,000gp** more per kill than using **Max Defence**.
 Using **Max Defence** takes **2 Minutes and 22 Seconds** **LONGER** than using **Max Range**.
 {% endtab %}
 {% endtabs %}
+
+### Welfare setup
+
+**Warning -** It is extremely likely you will die repeatedly with this setup but your mileage may vary.  
+
+
+![Nex Welfare](../.gitbook/assets/image%20%287%29.png)
+
+
 
