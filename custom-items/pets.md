@@ -52,7 +52,7 @@ There are pets exclusive to BSO that provide unique and powerful perks and are r
         <p>Increases mark of grace rate</p>
         <p>Eliminates level-scaling for marks of grace</p>
       </td>
-      <td style="text-align:left">1/1,600 Minutes of Radbourne Agility Course</td>
+      <td style="text-align:left">1/1,600 Minutes of Ardougne Agility Course</td>
     </tr>
     <tr>
       <td style="text-align:left">Klik</td>
