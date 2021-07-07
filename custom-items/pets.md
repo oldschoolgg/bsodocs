@@ -144,11 +144,6 @@ There are pets exclusive to BSO that provide unique and powerful perks and are r
       <td style="text-align:left">1/16,000 from Sand Geckos</td>
     </tr>
     <tr>
-      <td style="text-align:left">Ori</td>
-      <td style="text-align:left">Boosts loot from PvM trips by 25% (rounds up)</td>
-      <td style="text-align:left">1/3,000 from Malygos</td>
-    </tr>
-    <tr>
       <td style="text-align:left">Doug</td>
       <td style="text-align:left">Brings back random ores</td>
       <td style="text-align:left">1/10,000 Minutes of Mining</td>
