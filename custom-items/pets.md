@@ -187,7 +187,7 @@ These pets are a meta-joke, or a meme pet, that serve no real use apart from bei
         <p>Can <code>=feed</code> a random item to Hammy with a 1/10 chance to spare,
           1/100 chance to double</p>
       </td>
-      <td style="text-align:left">1/140 for each Sacrifice over 51.3M</td>
+      <td style="text-align:left">1/140 for each Sacrifice over 51.53M</td>
     </tr>
     <tr>
       <td style="text-align:left">Frosty</td>
