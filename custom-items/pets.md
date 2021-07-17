@@ -146,7 +146,7 @@ There are pets exclusive to BSO that provide unique and powerful perks and are r
     <tr>
       <td style="text-align:left">Doug</td>
       <td style="text-align:left">Brings back random ores</td>
-      <td style="text-align:left">1/10,000 Minutes of Mining</td>
+      <td style="text-align:left">1/12,000 Minutes of Mining</td>
     </tr>
     <tr>
       <td style="text-align:left">Zippy</td>
