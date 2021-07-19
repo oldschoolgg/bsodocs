@@ -56,7 +56,7 @@ The dwarven tools are smithed from Dwarven Bars \(smelted from dwarven ore, see 
 
 #### Dwarven Armor
 
-Dwarven armor is smithable from Dwarven Bars with 120 Smithing and is also dropped by King Goldemar \(see [Bosses]()\). It currently provides no boosts to content but provides high crush defence.
+Dwarven armor is smithable from Dwarven Bars with 120 Smithing and is also dropped by King Goldemar \(see [King Goldemar]()\). It has a resistance to dragonfire at ignecarus \(see [Ignecarus]()\) and provides high crush defence.
 
 | Armor Piece | Bars Needed |
 | :--- | :--- |
@@ -70,20 +70,20 @@ Dwarven armor is smithable from Dwarven Bars with 120 Smithing and is also dropp
 
 These dwarven gear are unlike the previous in that they are not smithable from Dwarven bars and instead are rare drops.
 
-**Dwarven Warhammer**: Rare drop from King Goldemar \(see [Bosses]()\) and provides a 40% PvM boost. Drops as a **Broken Dwarven Warhammer** and must be fixed, requiring 120 Smithing, Blacksmith's Outfit, and Dwarven Bars.
+**Dwarven Warhammer**: Rare drop from King Goldemar \(see [King Goldemar]()\) and provides a 40% PvM boost. Drops as a **Broken Dwarven Warhammer** and must be fixed, requiring 120 Smithing, Blacksmith's Outfit, and Dwarven Bars.
 
 **Dwarven Blessing**: Rare drop from Grandmaster Caskets \(see [Misc](misc.md)\) and provides a 20% boost to PvM \(25% with Amulet of Zealots\). Consumes 1 Prayer Potion per 5 minutes of PvM \(reduced by 40% with Prayer Master Cape\).
 
 ### Abyssal Equipment
 
-Abyssal equipment can be obtained by killing Malygos \(see [Bosses]()\). 
+Abyssal equipment can be obtained by killing Malygos \(see [Malygos]()\). 
 
 * Abyssal Cape - Provides an aura which reduces food consumption by 50%
 * Dragon Hunter Lance - Provides a large boost against dragons \(varies\)
 
 ### Nex Equipment
 
-The following items can be obtained by killing Nex \(see [Bosses]()\). These items all have very high bonuses in their respective style, Pernix - range, Torva - melee, and Virtus - magic. 
+The following items can be obtained by killing Nex \(see [Nex]()\). These items all have very high bonuses in their respective style, Pernix - range, Torva - melee, and Virtus - magic. 
 
 * **Pernix**: Cowl, Body, Legs, Gloves, Boots
 * **Torva**: Full Helm, Platebody, Platelegs, Gloves, Boots
@@ -95,7 +95,7 @@ Additionally, the **Zartye** **Bow** is also obtainable as a drop. It provides t
 
 ### Drygore Weapons
 
-Drygore weapons are a drop from the Kalphite King \(see [Bosses]()\). Each type of weapon has a main hand a offhand pair. 
+Drygore weapons are a drop from the Kalphite King \(see [Kalphite King]()\). Each type of weapon has a main hand a offhand pair. 
 
 * **Drygore Rapier** + **Offhand Drygore Rapier** - BiS CoX Points and CoX boost
 * **Drygore Mace** + **Offhand Drygore Rapier** - BiS Kalphite King
@@ -128,7 +128,7 @@ Additionally, with a **Chaotic Remnant** \(500,000 tokens\), the three BiS amule
 * Necklace of Anguish + Chaotic Remnant = **Farsight Snapshot Necklace**
 * Occult Necklace + Chaotic Remnant = **Arcane Blast Necklace**
 
-**Gorajan Armor** is made by using Gorajan Shards with Nex Armor. Each piece of armor requires 2 Gorajan Shards to upgrade and will become untradeable. Stats will remain the same as the original Nex Armor but give additional boosts. They give 2x XP when used to train their respective style \(ex. Gorajan Occult Outfit gives 2x Magic XP\) and they also give a boost to Dungeoneering XP.
+**Gorajan Armor** is made by using Gorajan Shards with Nex Armor. Each piece of armor requires 2 Gorajan Shards to upgrade and will become untradeable. Stats will remain the same as the original Nex Armor but give additional boosts. They give 2x XP when used to train their respective style \(ex. Gorajan Occult Outfit gives 2x Magic XP\) and they also give a 10% boost to killing monsters in their respective styles. Each full set of gorajan gives a 6% boost to Dungeoneering XP.
 
 * Torva + Gorajan Shards = **Gorajan Warrior Outfit**
   * Gives boost at King Goldemar
@@ -166,27 +166,28 @@ Additionally, master capes have a perk that is related to the skill that they ar
 
 | Skill | Perk |
 | :--- | :--- |
-| Attack | 15% Boost to PvM |
+| Attack | 15% Boost to all PvM Doesnt stack with other cape boosts |
 | Strength |  |
 | Defence |  |
 | Hitpoints |  |
-| Ranged |  |
+| Ranged | 15% Boost to PvM while training range |
 | Prayer | 40% Less Prayer Potions consumed while using Dwarven Blessing |
-| Magic |  |
+| Magic | 15% boost to PvM while training mage |
 | Runecrafting |  |
 | Construction |  |
 | Agility | Acts as a full set of graceful |
-| Herblore |  |
+| Herblore | 10% bonus potions |
 | Thieving | 30% Thieving boost |
 | Crafting |  |
 | Fletching |  |
 | Slayer |  |
 | Hunter | 2x Hunter speed |
 | Mining |  |
-| Smithing |  |
+| Smithing | 2x speed bost at blast burance, & 2x reduction in iron fails |
 | Fishing | 4x loot and Mystery Boxes from Fishing Trawler |
 | Cooking | 5x Cooking speed |
 | Firemaking | 2x Wintertodt loot |
 | Woodcutting | 2x Woodcutting loot |
-| Farming |  |
+| Farming | Mystery Boxes from farm trips longer then 20 minutes |
+| Dungeoneering | Increases the droprate of Gorajan shards |
 
