@@ -56,7 +56,7 @@ The dwarven tools are smithed from Dwarven Bars \(smelted from dwarven ore, see 
 
 #### Dwarven Armor
 
-Dwarven armor is smithable from Dwarven Bars with 120 Smithing and is also dropped by King Goldemar \(see [King Goldemar]()\). It has a resistance to dragonfire at ignecarus \(see [Ignecarus]()\) and provides high crush defence.
+Dwarven armor is smithable from Dwarven Bars with 120 Smithing and is also dropped by King Goldemar \(see [King Goldemar](../bosses/king-goldemar.md)\). It has a resistance to dragonfire at ignecarus \(see [Ignecarus](../bosses/ignecarus.md)\) and provides high crush defence.
 
 | Armor Piece | Bars Needed |
 | :--- | :--- |
