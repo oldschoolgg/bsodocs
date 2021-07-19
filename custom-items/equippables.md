@@ -70,7 +70,7 @@ Dwarven armor is smithable from Dwarven Bars with 120 Smithing and is also dropp
 
 These dwarven gear are unlike the previous in that they are not smithable from Dwarven bars and instead are rare drops.
 
-**Dwarven Warhammer**: Rare drop from King Goldemar \(see [King Goldemar]()\) and provides a 40% PvM boost. Drops as a **Broken Dwarven Warhammer** and must be fixed, requiring 120 Smithing, Blacksmith's Outfit, and Dwarven Bars.
+**Dwarven Warhammer**: Rare drop from King Goldemar \(see [King Goldemar](../bosses/king-goldemar.md)\) and provides a 40% PvM boost. Drops as a **Broken Dwarven Warhammer** and must be fixed, requiring 120 Smithing, Blacksmith's Outfit, and Dwarven Bars.
 
 **Dwarven Blessing**: Rare drop from Grandmaster Caskets \(see [Misc](misc.md)\) and provides a 20% boost to PvM \(25% with Amulet of Zealots\). Consumes 1 Prayer Potion per 5 minutes of PvM \(reduced by 40% with Prayer Master Cape\).
 
@@ -83,7 +83,7 @@ Abyssal equipment can be obtained by killing Malygos \(see [Malygos]()\).
 
 ### Nex Equipment
 
-The following items can be obtained by killing Nex \(see [Nex]()\). These items all have very high bonuses in their respective style, Pernix - range, Torva - melee, and Virtus - magic. 
+The following items can be obtained by killing Nex \(see [Nex](../bosses/nex.md)\). These items all have very high bonuses in their respective style, Pernix - range, Torva - melee, and Virtus - magic. 
 
 * **Pernix**: Cowl, Body, Legs, Gloves, Boots
 * **Torva**: Full Helm, Platebody, Platelegs, Gloves, Boots
@@ -95,11 +95,11 @@ Additionally, the **Zartye** **Bow** is also obtainable as a drop. It provides t
 
 ### Drygore Weapons
 
-Drygore weapons are a drop from the Kalphite King \(see [Kalphite King]()\). Each type of weapon has a main hand a offhand pair. 
+Drygore weapons are a drop from the Kalphite King \(see [Kalphite King](../bosses/kalphite-king.md)\). Each type of weapon has a main hand a offhand pair. 
 
 * **Drygore Rapier** + **Offhand Drygore Rapier** - BiS CoX Points and CoX boost
 * **Drygore Mace** + **Offhand Drygore Rapier** - BiS Kalphite King
-* **Drygore Longsword** + **Offhand Drygore Longsword** - BiS King Goldemar
+* **Drygore Longsword** + **Offhand Drygore Longsword** - BiS King Goldemar and Ignecarus
 
 ### Dungeoneering Gear
 
@@ -148,7 +148,7 @@ The Clue Hunter outfit can be obtained as a rare drop from Grandmaster Caskets \
 
 ### Master Farmer Outfit
 
-The Master Farmer outfit is craftable with 110 Crafting using Ent hides dropped from Treebeard \(see [Bosses]()\). The outfit gives +3 extra maximum patches, for every type of patch. This stacks with the +2 patches from the Scroll of farming. It does not have to be equipped.
+The Master Farmer outfit is craftable with 110 Crafting using Ent hides dropped from Treebeard \(see [Treebeard]()\). The outfit gives +3 extra maximum patches, for every type of patch. This stacks with the +2 patches from the Scroll of farming. It does not have to be equipped.
 
 | Piece | Ent Hide Needed |
 | :--- | :--- |
@@ -166,7 +166,7 @@ Additionally, master capes have a perk that is related to the skill that they ar
 
 | Skill | Perk |
 | :--- | :--- |
-| Attack | 15% Boost to all PvM Doesnt stack with other cape boosts |
+| Attack | 15% Boost to all PvM this doesnt stack with other cape boosts |
 | Strength |  |
 | Defence |  |
 | Hitpoints |  |
@@ -183,7 +183,7 @@ Additionally, master capes have a perk that is related to the skill that they ar
 | Slayer |  |
 | Hunter | 2x Hunter speed |
 | Mining |  |
-| Smithing | 2x speed bost at blast burance, & 2x reduction in iron fails |
+| Smithing | 2x speed bost at blast burance, & 2x reduction in smithing fails |
 | Fishing | 4x loot and Mystery Boxes from Fishing Trawler |
 | Cooking | 5x Cooking speed |
 | Firemaking | 2x Wintertodt loot |
