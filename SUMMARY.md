@@ -4,7 +4,7 @@
 
 ## Skills
 
-* [Dungeoneering](skills/untitled-1.md)
+* [Dungeoneering](skills/dungeoneering/dg-training.md)
 
 ## Bosses
 
