@@ -265,3 +265,5 @@ These pets are no longer obtainable, they are discontinued and were obtained fro
   </tbody>
 </table>
 
+Note: Corgi and Snappy are no longer obtainable, even by ironmen.
+
