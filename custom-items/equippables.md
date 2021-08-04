@@ -19,7 +19,7 @@ The dwarven tools are smithed from Dwarven Bars \(smelted from dwarven ore, see 
   <tbody>
     <tr>
       <td style="text-align:left">Dwarven Greataxe</td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">3</td>
       <td style="text-align:left">
         <p>2x Woodcutting speed</p>
         <p>2x Wintertodt speed</p>
@@ -27,12 +27,12 @@ The dwarven tools are smithed from Dwarven Bars \(smelted from dwarven ore, see 
     </tr>
     <tr>
       <td style="text-align:left">Dwarven Pickaxe</td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">3</td>
       <td style="text-align:left">2x Mining speed</td>
     </tr>
     <tr>
       <td style="text-align:left">Dwarven Gauntlets</td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">3</td>
       <td style="text-align:left">
         <p>2x Smelting speed</p>
         <p>3x Cooking speed</p>
@@ -40,7 +40,7 @@ The dwarven tools are smithed from Dwarven Bars \(smelted from dwarven ore, see 
     </tr>
     <tr>
       <td style="text-align:left">Dwarven Greathammer</td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">4</td>
       <td style="text-align:left">
         <p>2x Smithing speed</p>
         <p>2x Crafting Speed</p>
@@ -48,7 +48,7 @@ The dwarven tools are smithed from Dwarven Bars \(smelted from dwarven ore, see 
     </tr>
     <tr>
       <td style="text-align:left">Dwarven Knife</td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">2</td>
       <td style="text-align:left">No boost</td>
     </tr>
   </tbody>
@@ -56,7 +56,7 @@ The dwarven tools are smithed from Dwarven Bars \(smelted from dwarven ore, see 
 
 #### Dwarven Armor
 
-Dwarven armor is smithable from Dwarven Bars with 120 Smithing and is also dropped by King Goldemar \(see [Bosses]()\). It currently provides no boosts to content but provides high crush defence.
+Dwarven armor is smithable from Dwarven Bars with 120 Smithing and is also dropped by King Goldemar \(see [King Goldemar](../bosses/king-goldemar.md)\). It currently provides no boosts to content but provides high crush defence.
 
 | Armor Piece | Bars Needed |
 | :--- | :--- |
@@ -70,7 +70,7 @@ Dwarven armor is smithable from Dwarven Bars with 120 Smithing and is also dropp
 
 These dwarven gear are unlike the previous in that they are not smithable from Dwarven bars and instead are rare drops.
 
-**Dwarven Warhammer**: Rare drop from King Goldemar \(see [Bosses]()\) and provides a 40% PvM boost. Drops as a **Broken Dwarven Warhammer** and must be fixed, requiring 120 Smithing, Blacksmith's Outfit, and Dwarven Bars.
+**Dwarven Warhammer**: Rare drop from King Goldemar \(see [King Goldemar](../bosses/king-goldemar.md)\) and provides a 40% PvM boost. Drops as a **Broken Dwarven Warhammer** and must be fixed, requiring 120 Smithing, Blacksmith's Outfit, and Dwarven Bars.
 
 **Dwarven Blessing**: Rare drop from Grandmaster Caskets \(see [Misc](misc.md)\) and provides a 20% boost to PvM \(25% with Amulet of Zealots\). Consumes 1 Prayer Potion per 5 minutes of PvM \(reduced by 40% with Prayer Master Cape\).
 
@@ -83,9 +83,9 @@ Abyssal equipment can be obtained by killing Malygos \(see [Bosses]()\).
 
 ### Nex Equipment
 
-The following items can be obtained by killing Nex \(see [Bosses]()\). These items all have very high bonuses in their respective style, Pernix - range, Torva - melee, and Virtus - magic. 
+The following items can be obtained by killing Nex \(see [Nex](../bosses/nex.md)\). These items all have very high bonuses in their respective style, Pernix - range, Torva - melee, and Virtus - magic. 
 
-* **Pernix**: Cowl, Body, Legs, Gloves, Boots
+* **Pernix**: Cowl, Body, Chaps, Gloves, Boots
 * **Torva**: Full Helm, Platebody, Platelegs, Gloves, Boots
 * **Virtus**: Hood, Rob Top, Robe Legs, Gloves, Boots, Wand Book
 
@@ -95,7 +95,7 @@ Additionally, the **Zaryte** **Bow** is also obtainable as a drop. It provides t
 
 ### Drygore Weapons
 
-Drygore weapons are a drop from the Kalphite King \(see [Kalphite King](../bosses/kalphite-king.md)\). Each type of weapon has a main hand a offhand pair. 
+Drygore weapons are a drop from the Kalphite King \(see [Kalphite King](../bosses/kalphite-king.md)\). Each type of weapon has a main hand and offhand pair. 
 
 * **Drygore Rapier** + **Offhand Drygore Rapier** - BiS CoX Points and CoX boost
 * **Drygore Mace** + **Offhand Drygore Rapier** - BiS Kalphite King
@@ -139,21 +139,21 @@ Additionally, master capes have a perk that is related to the skill that they ar
 | Attack | 15% Boost to PvM |
 | Strength |  |
 | Defence |  |
-| Hitpoints |  |
+| Hitpoints | Extends PvM trips by 5-10% |
 | Ranged |  |
 | Prayer | 40% Less Prayer Potions consumed while using Dwarven Blessing |
 | Magic |  |
-| Runecrafting |  |
+| Runecrafting | 2x boost to runecrafting, and 2x boost to the ODS minigame |
 | Construction |  |
 | Agility | Acts as a full set of graceful |
 | Herblore |  |
 | Thieving | 30% Thieving boost |
 | Crafting |  |
 | Fletching |  |
-| Slayer |  |
+| Slayer | 2x superior rolls |
 | Hunter | 2x Hunter speed |
 | Mining |  |
-| Smithing |  |
+| Smithing | 2x boost to blast furnace and halves failure rate of smelting |
 | Fishing | 4x loot and Mystery Boxes from Fishing Trawler |
 | Cooking | 5x Cooking speed |
 | Firemaking | 2x Wintertodt loot |
