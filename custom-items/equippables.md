@@ -103,7 +103,7 @@ Drygore weapons are a drop from the Kalphite King \(see [Bosses]()\). Each type 
 
 ### Dungeoneering Gear
 
-There are various types of gear that can be obtained from Dungeoneering \(see [Dungeoneering](../skills/untitled-1.md)\). 
+There are various types of gear that can be obtained from Dungeoneering \(see [Dungeoneering](../skills/dungeoneering-training/)\). 
 
 The following gear can be bought with tokens:
 
