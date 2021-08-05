@@ -1,6 +1,6 @@
 # Pets
 
-There are pets exclusive to BSO that provide unique and powerful perks and are rare drops from certain activities. These custom pets must equipped using `=equippet` and in most cases, only one pet's effect can be active at once.
+There are pets exclusive to BSO that provide unique and powerful perks and are rare drops from certain activities. These custom pets must equipped using `=equippet` or `=ep` and in most cases, only one pet's effect can be active at once.
 
 ## Miscellaneous Pets
 
