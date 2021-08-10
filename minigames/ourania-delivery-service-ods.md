@@ -22,8 +22,10 @@ These are the things you can buy with the tokens:
 | Master Runecrafter Boots | 200 |
 | Elder Thread | 500 |
 | Elder Talisman | 350 |
+| Magic Crate | 115 |
 
 * **Master runecrafter hat/robe/skirt/boots:** Gives 10% bonus XP when Runecrafting and must be equipped in skilling or misc.
 * **Elder thread:** Can be used to upgrade an Abyssal pouch to make it carry significantly more essence, which hugely increases Runecraft XP/hr.
 * **Elder talisman:** Allows you to be able to runecraft Elder runes, if it's in your bank. Crafting Elder runes is the best Runecraft XP/hr.
+* **Magic Crate**: A mystery box that has a chance to win a Huge Lamp or Magus Scroll
 
