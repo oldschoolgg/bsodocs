@@ -6,6 +6,7 @@
 
 * [Dungeoneering](skills/dungeoneering-training/README.md)
   * [Rewards](skills/dungeoneering-training/dg-rewards.md)
+* [Prayer](skills/prayer.md)
 
 ## Bosses
 
