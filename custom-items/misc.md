@@ -22,7 +22,7 @@ The ancient rejuvenation pool can be built in your PoH ontop of an Ornate rejuve
 
 #### Heat res. potions
 
-1. Create Athelas paste from crushing the Athelas herb.
-2. Craft Heat res. vials with molten glass and athelas paste.
+1. Create Athelas paste from crushing the Athelas herb. `=mix athelas paste`
+2. Craft Heat res. vials with molten glass and athelas paste. `=craft heat res. vial`
 3. Mix a Super antifire, 4-dose brew/restore into the heat res. vial. E.g. `=mix heat res. brew`.
 
