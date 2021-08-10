@@ -1,6 +1,6 @@
 # King Goldemar
 
-You can use the command : =kg  to begin
+You can use the command : `=kg`  to begin
 
 **Skill Reqs:** ![:attack:](https://cdn.discordapp.com/emojis/630911039969427467.png?v=1) **105** Attack, ![:strength:](https://cdn.discordapp.com/emojis/630911040481263617.png?v=1) **105** Strength, ![:defence:](https://cdn.discordapp.com/emojis/630911040393052180.png?v=1) **105** Defence
 
