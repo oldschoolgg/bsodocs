@@ -23,9 +23,10 @@ You should use the best possible mage gear you have, Virtus is the best gear you
 
 * **Magus scroll:**
   * Can be used to imbue a Bryophyta staff, making it 2x more effective at saving nature runes. Using `=create Bryophyta staff(i)`
-  * Can be used to imbue an Ignis ring to make the bis melee ring
+  * Can be used to imbue an Ignis ring to make the bis melee ring 
+    * `=create ignis ring (i)`
 * **Jar of magic:** Just a magical jar, has no use.
-* **Voidling:** A pet that will alch items from your bank when you're on a trip, must be items in your favorite alchs list.
+* **Voidling:** A pet that will alch items from your bank when you're on a trip, must be items in your favorite alchs list. `=favalch`
 * **Tattered robes of Vasa:** Used to craft a Vasa cloak, the BiS mage cape.
 * **Random Loot:**
   * Vasa has a special loot mechanic, it drops the loot of 3 kills of a random boss every kill.
