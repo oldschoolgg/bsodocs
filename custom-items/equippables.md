@@ -76,7 +76,7 @@ These dwarven gear are unlike the previous in that they are not smithable from D
 
 ### Abyssal Equipment
 
-Abyssal equipment can be obtained by killing Malygos \(see [Bosses]()\). 
+Abyssal equipment can be obtained by killing [Malygos](../bosses/malygos.md). 
 
 * Abyssal Cape - Provides an aura which reduces food consumption by 50%
 * Dragon Hunter Lance - Provides a large boost against dragons \(varies\)
