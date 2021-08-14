@@ -4,6 +4,8 @@ Malygos is the Abyssal dragon boss. It attacks with slash/stab/ranged and magic.
 
 You can kill Malygos with `=k malygos` or `=k mally`. To mass Malygos you can start the mass with `=mass malygos`.
 
+**Note**: Malygos also counts for abyssal demon slayer tasks.
+
 ## Requirements
 
 * 999 Quest Points

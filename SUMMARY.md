@@ -10,7 +10,8 @@
 
 ## Bosses
 
-* [Ignecarus](bosses/ignecarus.md)
+* [Ignecarus](bosses/ignecarus/README.md)
+  * [Igne Tame](bosses/ignecarus/igne-tame.md)
 * [Vasa Magus](bosses/vasa-magus.md)
 * [Kalphite King](bosses/kalphite-king.md)
 * [King Goldemar](bosses/king-goldemar.md)
@@ -27,5 +28,6 @@
 * [Item Contracts](custom-items/item-contracts.md)
 * [Pets](custom-items/pets.md)
 * [Equippables](custom-items/equippables.md)
+* [Tames](custom-items/tames.md)
 * [Misc](custom-items/misc.md)
 
