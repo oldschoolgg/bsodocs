@@ -7,7 +7,7 @@ Items that your tames get will not be added to your collection log.
 
 **Note:** Currently the only tame that is in game is the dragon tame which only does combat. See [Igne Tame](../bosses/ignecarus/igne-tame.md).
 
-| Commands | Usage |
+| Commands | Description |
 | :--- | :--- |
 | =tame/s | Show tames and current status |
 | =tame select \[name/id\] | Select a tame |
