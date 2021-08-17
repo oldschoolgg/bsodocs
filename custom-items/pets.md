@@ -27,8 +27,8 @@ There are pets exclusive to BSO that provide unique and powerful perks and are r
       <td style="text-align:left">Obis</td>
       <td style="text-align:left">
         <p>2x Zalcano Boost</p>
-        <p>2x Runecraft boost</p>
-        <p>Brings back random runes</p>
+        <p>2x Runecraft boost (uses 3x essence)</p>
+        <p>Brings back random runes (non-PvM trips only)</p>
       </td>
       <td style="text-align:left">1/5,000 Minutes of Runecrafting</td>
     </tr>
@@ -124,12 +124,12 @@ There are pets exclusive to BSO that provide unique and powerful perks and are r
   <tbody>
     <tr>
       <td style="text-align:left">Brock</td>
-      <td style="text-align:left">Brings back random logs (non-PvM trips)</td>
+      <td style="text-align:left">Brings back random logs (non-PvM trips only)</td>
       <td style="text-align:left">1/5,500 Minutes of Zulrah</td>
     </tr>
     <tr>
       <td style="text-align:left">Peky</td>
-      <td style="text-align:left">Brings back random seeds (non-PvM trips)</td>
+      <td style="text-align:left">Brings back random seeds (non-PvM trips only)</td>
       <td style="text-align:left">1/4,000 Minutes of Woodcutting</td>
     </tr>
     <tr>
@@ -187,7 +187,9 @@ These pets are a meta-joke, or a meme pet, that serve no real use apart from bei
         <p>Can <code>=feed</code> a random item to Hammy with a 1/10 chance to spare,
           1/100 chance to double</p>
       </td>
-      <td style="text-align:left">1/140 for each Sacrifice over 51.53M</td>
+      <td style="text-align:left">1/140 for every
+        <br />51.53m sacrificed.
+        <br />(In 1 command)</td>
     </tr>
     <tr>
       <td style="text-align:left">Frosty</td>
