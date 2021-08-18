@@ -13,6 +13,7 @@
 * [Ignecarus](bosses/ignecarus/README.md)
   * [Igne Tame](bosses/ignecarus/igne-tame.md)
 * [Vasa Magus](bosses/vasa-magus.md)
+* [Treebeard](bosses/treebeard.md)
 * [Kalphite King](bosses/kalphite-king.md)
 * [King Goldemar](bosses/king-goldemar.md)
 * [Nex](bosses/nex.md)
