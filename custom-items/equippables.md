@@ -97,10 +97,6 @@ Additionally, the **Zaryte** **Bow** is also obtainable as a drop. It provides t
 
 Drygore weapons are a drop from the Kalphite King \(see [Kalphite King](../bosses/kalphite-king.md)\). Each type of weapon has a main hand and offhand pair. 
 
-* **Drygore Rapier** + **Offhand Drygore Rapier** - BiS CoX Points and CoX boost
-* **Drygore Mace** + **Offhand Drygore Rapier** - BiS Kalphite King
-* **Drygore Longsword** + **Offhand Drygore Longsword** - BiS King Goldemar
-
 ### Dungeoneering Gear
 
 There are various types of gear that can be obtained from Dungeoneering \(see [Dungeoneering](../skills/dungeoneering-training/dg-rewards.md)\). 
