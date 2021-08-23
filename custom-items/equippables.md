@@ -43,13 +43,13 @@ The dwarven tools are smithed from Dwarven Bars \(smelted from dwarven ore, see 
       <td style="text-align:left">4</td>
       <td style="text-align:left">
         <p>2x Smithing speed</p>
-        <p>2x Crafting Speed</p>
+        <p>2x Crafting speed</p>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">Dwarven Knife</td>
       <td style="text-align:left">2</td>
-      <td style="text-align:left">No boost</td>
+      <td style="text-align:left">2x Fletching speed</td>
     </tr>
   </tbody>
 </table>
