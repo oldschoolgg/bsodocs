@@ -38,7 +38,7 @@ There are pets exclusive to BSO that provide unique and powerful perks and are r
         <p>Crops never die</p>
         <p>4x farming yield</p>
       </td>
-      <td style="text-align:left">1/5th Tangleroot Rate while Farming</td>
+      <td style="text-align:left">5x more common than Tangleroot while Farming</td>
     </tr>
     <tr>
       <td style="text-align:left">Shelldon</td>
