@@ -30,5 +30,6 @@
 * [Pets](custom-items/pets.md)
 * [Equippables](custom-items/equippables.md)
 * [Tames](custom-items/tames.md)
+* [Implings](custom-items/implings.md)
 * [Misc](custom-items/misc.md)
 
