@@ -14,7 +14,7 @@
 | Scroll of proficiency | 900,000 | 15% of planks saved in construction |
 | Scroll of longevity | 800,000 | 2x increase to slayer task quantitites |
 
-Note: Only the scroll of farming and the scroll of longevity are tradeable. To enable these scrolls you must `=use` them.
+Note: Only the scroll of farming and the scroll of longevity are tradeable/useable. To enable these scrolls you must `=use` them, you can only do this once. Other scrolls work out of the bank.
 
 ## Buyable Gear
 
