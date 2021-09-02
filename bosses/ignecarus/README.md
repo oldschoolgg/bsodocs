@@ -24,9 +24,9 @@ Ignecarus drops lots of metal bars, uncut gems and rune items.
 
 * **Ignis ring:**
   * The BIS melee ring. Can be imbued with a Magus scroll from [Vasa Magus](../vasa-magus.md#loot).
-* **Ignecarus scales:** can be used with abyssal dragon bones to create the Dragon's fury potion. The use of the potion is to create the hellfire bow. it provides the highest herblore xp/hr.
-* **Ignecarus dragonclaw:** Unknown use.
-* **Dragon egg**_**:**_ Can be placed in a nursery to hatch into a dragon tame \(like a pet\), which can be sent out on PvM trips. Eggs are tradeable but once they hatch they can not be traded.
+* **Ignecarus scales:** can be used with abyssal dragon bones to create the Dragon's fury potion \(2 scales, 1 abyssal dragon bones per potion\). The use of the potion is to create the hellfire bow. it provides the highest herblore xp/hr. Additional use: can be used to create hellfire arrowtips, 1 scale=5 arrowtips.
+* **Ignecarus dragonclaw:** Used in conjunction with Dragon's fury, twisted bow, zaryte bow, and 3 smouldering stones to create a Hellfire Bow \(BIS range weapon\). 
+* **Dragon egg**_**:**_ Can be placed in a nursery to hatch into a dragon tame \(like a pet\), which can be sent out on PvM trips. Eggs are tradeable but once they hatch they can not be traded.  Nursery commands: =nursery build \(requires 200 elder planks, 500 feathers, and 10 marble blocks\)  =nursery fuel \(10,000 coal and 2500 elder logs\)
 
 
 
