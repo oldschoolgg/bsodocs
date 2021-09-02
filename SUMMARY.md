@@ -33,3 +33,7 @@
 * [Implings](custom-items/implings.md)
 * [Misc](custom-items/misc.md)
 
+## Events
+
+* [Lottery](events/lottery.md)
+
