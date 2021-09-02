@@ -26,6 +26,7 @@ You can kill Malygos with `=k malygos` or `=k mally`. To mass Malygos you can st
 * Dragon Warhammer
 * Bandos Godsword
 * Ancient Rejuvenation Pool
+* Hellfire Bow 
 
 ## Loot
 
