@@ -29,7 +29,7 @@ You should use the best possible mage gear you have, Virtus is the best gear you
 * **Voidling:** A pet that will alch items from your bank when you're on a trip, must be items in your favorite alchs list. `=favalch`
 * **Tattered robes of Vasa:** Used to craft a Vasa cloak, the BiS mage cape. Needs 105 runecrafting and 105 crafting to create. `=create vasa cloak`
 * **Random Loot:**
-  * Vasa has a special loot mechanic, it drops the loot of 3 kills of a random boss every kill.
+  * Vasa has a special loot mechanic, every kill, it drops the loot of 1-3 kills of a random boss.
 
 
 
