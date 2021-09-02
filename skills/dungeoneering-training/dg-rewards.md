@@ -13,6 +13,7 @@
 | Scroll of mystery | 500,000 | 1/5 chance at receiving a mystery box when training dungeoneering |
 | Scroll of proficiency | 900,000 | 15% of planks saved in construction |
 | Scroll of longevity | 800,000 | 2x increase to slayer task quantitites |
+| Scroll of the hunt | 800,000 | Gives 2x higher chances of impling spawns, and +4 higher limit on birdhouses \(4-&gt;8\) |
 
 Note: Only the scroll of farming and the scroll of longevity are tradeable/useable. To enable these scrolls you must `=use` them, you can only do this once. Other scrolls work out of the bank.
 
