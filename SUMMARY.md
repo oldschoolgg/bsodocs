@@ -20,6 +20,10 @@
 * [Chambers of Xeric](bosses/chambers-of-xeric.md)
 * [Malygos](bosses/malygos.md)
 
+## Skilling
+
+* [Runecraft](skilling/runecraft.md)
+
 ## Minigames
 
 * [Mad Marimbo's Monkey Rumble](minigames/mad-marimbos-monkey-rumble/README.md)
