@@ -22,6 +22,7 @@
 
 ## Minigames
 
+* [Mad Marimbo's Monkey Rumble](minigames/mad-marimbos-monkey-rumble.md)
 * [Ourania Delivery Service \(ODS\)](minigames/ourania-delivery-service-ods.md)
 
 ## Custom Content <a id="custom-items"></a>
