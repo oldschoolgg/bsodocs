@@ -38,6 +38,7 @@
 * [Tames](custom-items/tames.md)
 * [Implings](custom-items/implings.md)
 * [Misc](custom-items/misc.md)
+* [Dyes](custom-items/dyes.md)
 
 ## Events
 
