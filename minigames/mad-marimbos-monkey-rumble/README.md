@@ -2,6 +2,13 @@
 
 Monkey Rumble is a minigame where you wear a greegree to turn into a monkey, and then _fight_ other monkeys/gorillas! You will gain Strength, Agility and Defence XP, as well as some unique rewards.
 
+### Quickstart Guide
+
+1. `=buy m'speak amulet`
+2. `=mr buy beginners rumble greegree`
+3. Make sure you have some fruit, for your monkey-form to eat!
+4. `=mr start`
+
 * You need a m'speak amulet \(`=buy` it\), and a rumble greegree to compete. You start off buying a Beginner rumble greegree, and after doing more games, you unlock higher greegrees.
 * Higher greegrees \(monkey tiers\) increase XP and chances of unique rewards, the XP you get scales off your monkey tier AND your strength level.
 * You need food for the fights, but as you're fighting in your monkey form, you can only eat fruits. All of them act as equal amount of healing, except lychee/mango/avocado give a special speed boost when using them.
