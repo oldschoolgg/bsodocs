@@ -7,6 +7,7 @@
 * [Dungeoneering](skills/dungeoneering-training/README.md)
   * [Rewards](skills/dungeoneering-training/dg-rewards.md)
 * [Prayer](skills/prayer.md)
+* [Runecraft](skills/runecraft.md)
 
 ## Bosses
 
@@ -19,10 +20,6 @@
 * [Nex](bosses/nex.md)
 * [Chambers of Xeric](bosses/chambers-of-xeric.md)
 * [Malygos](bosses/malygos.md)
-
-## Skilling
-
-* [Runecraft](skilling/runecraft.md)
 
 ## Minigames
 

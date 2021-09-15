@@ -8,8 +8,8 @@ The best Xp/Hr is achievable via the [Ourania Delivery Service](https://bso-wiki
 
 ### Item Boosts
 
-Abyssal pouch - Upgrade to the giant pouch to hold much more essence. Requires abyssal thread, obtained from Malygos. `=create abyssal pouch`  
-Elder pouch - Upgrade the Abyssal pouch to hold much more essence. Requires elder thread from ODS. `=create elder pouch`  
+**Abyssal pouch** - Upgrade to the giant pouch to hold much more essence. Requires abyssal thread, obtained from Malygos. `=create abyssal pouch`  
+**Elder pouch** - Upgrade the Abyssal pouch to hold much more essence. Requires elder thread from ODS. `=create elder pouch`  
 f
 
 h
