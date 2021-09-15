@@ -136,7 +136,7 @@ Additionally, master capes have a perk that is related to the skill that they ar
 | Strength |  |
 | Defence |  |
 | Hitpoints | Extends PvM trips by 5-10% |
-| Ranged | Reduces arrow usage bij 90% |
+| Ranged | Reduces arrow usage by 90% |
 | Prayer | 40% Less Prayer Potions consumed while using Dwarven Blessing |
 | Magic | Voidling pet alches 3x faster with master cape equipped |
 | Runecrafting | 2x boost to runecrafting, and 2x boost to the ODS minigame |
