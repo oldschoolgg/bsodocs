@@ -5,7 +5,7 @@ Monkey Rumble is a minigame where you wear a greegree to turn into a monkey, and
 ### Quickstart Guide
 
 1. `=buy m'speak amulet`
-2. `=mr buy beginners rumble greegree`
+2. `=mr buy beginner rumble greegree`
 3. Make sure you have some fruit, for your monkey-form to eat!
 4. `=mr start`
 
