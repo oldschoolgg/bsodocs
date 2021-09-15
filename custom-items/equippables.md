@@ -136,9 +136,9 @@ Additionally, master capes have a perk that is related to the skill that they ar
 | Strength |  |
 | Defence |  |
 | Hitpoints | Extends PvM trips by 5-10% |
-| Ranged | Reduces arrow usage by 90% |
+| Ranged |  |
 | Prayer | 40% Less Prayer Potions consumed while using Dwarven Blessing |
-| Magic | Voidling pet alches 3x faster with master cape equipped |
+| Magic |  |
 | Runecrafting | 2x boost to runecrafting, and 2x boost to the ODS minigame |
 | Construction |  |
 | Agility | Acts as a full set of graceful |
@@ -154,5 +154,6 @@ Additionally, master capes have a perk that is related to the skill that they ar
 | Cooking | 5x Cooking speed |
 | Firemaking | 2x Wintertodt loot |
 | Woodcutting | 2x Woodcutting loot |
-| Farming | Chance to roll mystery box per patch farmed, always save at least 1 seed \(with scroll of life\) |
+| Farming | 35% seeds saved when equipped \(up to 50% with scroll of life\), 1/10 per planted seed chance of a mystery box |
+|  |  |
 
