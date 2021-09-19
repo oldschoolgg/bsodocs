@@ -24,6 +24,7 @@
 ## Minigames
 
 * [Mad Marimbo's Monkey Rumble](minigames/mad-marimbos-monkey-rumble/README.md)
+  * [Monkey Tame](minigames/mad-marimbos-monkey-rumble/monkey-tame.md)
   * [Monkey Rumble Store](minigames/mad-marimbos-monkey-rumble/monkey-rumble-store.md)
 * [Ourania Delivery Service \(ODS\)](minigames/ourania-delivery-service-ods.md)
 
