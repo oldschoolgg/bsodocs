@@ -56,4 +56,6 @@ Additionally, with a **Chaotic Remnant** \(500,000 tokens\), the three BiS amule
 | Herbicide | 400,000 |  |
 | Frosty | 2,000,000 | None |
 | Chaotic Remnant | 500,000 | Secondary for BiS necklace upgrade |
+| Daemonheim Agility Pass | 1,000,000 | Unlocks Daemonheim agility course |
+| Dungeoneering Dye | 4,000,000 | Dyes gorajan armor pieces to look like dungeoneering armor |
 
