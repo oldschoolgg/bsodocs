@@ -7,7 +7,7 @@ Items that your tames get will not be added to your collection log.
 
 **Currently the only tames that are in game are:**  
 The dragon tame which only does combat, see [Igne Tame](../bosses/ignecarus/igne-tame.md).  
-The Monkey tame &lt;which does something&gt;, see Monkey Tame.
+The Monkey tame which collects secondaries, see [Monkey Tame](../minigames/mad-marimbos-monkey-rumble/monkey-tame.md).
 
 | Commands | Description |
 | :--- | :--- |
