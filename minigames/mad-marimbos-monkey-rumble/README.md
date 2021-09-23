@@ -23,12 +23,7 @@ Monkey Rumble is a minigame where you wear a greegree to turn into a monkey, and
 
 **Monkey Egg \(which hatches into the new Monkey Tame\)**
 
-* The biggest reward, is the rare Monkey Egg, which is given to you by special monkeys in fights.
-* Upon getting a Monkey Egg, you can put it in your nursery, hatch it - and it will grow over time from a baby -&gt; juvenile -&gt; adult.
-* The Monkey tame, does collecting for you! Like the `=collect` command, you can send your monkey tame off to go collect items. e.g. `=t c blue dragon scales`
-* A baby monkey is equivalent to the collecting speed of a minion, an adult monkey can get over 3x faster, with the 2 fed item boosts!
-* Feeding your baby monkey a _Zak_ will give it 35 minutes longer trip length.
-* Feeding it a Voidling and a Ring of endurance will each give your monkey a 10% speed increase.
+* The biggest reward, is the rare Monkey Egg, which is given to you by special monkeys in fights. See [Monkey Tame](monkey-tame.md) for more information.
 
 **Big Banana** 
 
