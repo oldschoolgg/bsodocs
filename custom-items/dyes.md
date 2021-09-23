@@ -6,7 +6,7 @@ description: Dyes are custom items that cosmetically enhance various items
 
 Dyes can be used on certain items by using the `=create` command. This process is irreversible, permanently turns items untradeable, and removes the dye.
 
-Ice, blood, shadow, and 3a dyes can only be obtained from grandmaster caskets, while monkey dyes can be obtained from catching chimplings, encountering special monkeys during [Mad Marimbo's Monkey Rumble](../minigames/mad-marimbos-monkey-rumble/), or by buying them from the minigame's shop.
+Ice, blood, shadow, and 3a dyes can only be obtained from grandmaster caskets, while monkey dyes can be obtained from catching chimplings, encountering special monkeys during [Mad Marimbo's Monkey Rumble](../minigames/mad-marimbos-monkey-rumble/), or by buying them from the minigame's shop. Dungeoneering dyes can be purchased from the dungeoneering shop.
 
 ## Ice dye
 
@@ -64,4 +64,24 @@ Ice, blood, shadow, and 3a dyes can only be obtained from grandmaster caskets, w
 | Twisted bow | Twisted bownana |
 | Zaryte bow | Zaryte bownana |
 | Hellfire bow | Hellfire bownana |
+
+## Dungeoneering  dye
+
+| Required item name | Dyed item name |
+| :--- | :--- |
+| Gorajan warrior helmet | Gorajan warrior helmet \(Primal\) |
+| Gorajan warrior top | Gorajan warrior top \(Primal\) |
+| Gorajan warrior legs | Gorajan warrior legs \(Primal\) |
+| Gorajan warrior gloves | Gorajan warrior gloves \(Primal\) |
+| Gorajan warrior boots | Gorajan warrior boots \(Primal\) |
+| Gorajan occult helmet | Gorajan occult helmet \(Celestial\) |
+| Gorajan occult top | Gorajan occult top \(Celestial\) |
+| Gorajan occult legs | Gorajan occult legs \(Celestial\) |
+| Gorajan occult gloves | Gorajan occult gloves \(Celestial\) |
+| Gorajan occult boots | Gorajan occult boots \(Celestial\) |
+| Gorajan archer helmet | Gorajan archer helmet \(Sagittarian\) |
+| Gorajan archer top | Gorajan archer top \(Sagittarian\) |
+| Gorajan archer legs | Gorajan archer legs \(Sagittarian\) |
+| Gorajan archer gloves | Gorajan archer gloves \(Sagittarian\) |
+| Gorajan archer boots | Gorajan archer boots \(Sagittarian\) |
 
