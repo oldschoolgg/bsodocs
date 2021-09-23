@@ -2,8 +2,7 @@
 
 The Kalphite King is a strong boss, known for the strong Drygore weapons it drops.
 
-You can kill Kalphite King using `=kk` or, `=kk solo` to solo.  
-
+You can kill Kalphite King using `=kk` or, `=kk solo` to solo.
 
 ## Requirements
 
@@ -16,7 +15,7 @@ You can kill Kalphite King using `=kk` or, `=kk solo` to solo.
 
 You should use the best melee gear you have.
 
-![BiS Gear for Kalphite King](../.gitbook/assets/image%20%288%29.png)
+![BiS Gear for Kalphite King](../.gitbook/assets/image%20%289%29.png)
 
 ## Boosts
 
