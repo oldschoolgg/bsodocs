@@ -9,12 +9,21 @@ You can kill Kalphite King using `=kk` or, `=kk solo` to solo.
 
 * Decent melee gear
 * Brews and restores
+* 95 Prayer
+* 90 Attack, Strength and Defence
 
 ## Gear
 
 You should use the best melee gear you have.
 
-![The BiS Gear for Kalphite King](../.gitbook/assets/osbot%20%282%29.png)
+![BiS Gear for Kalphite King](../.gitbook/assets/image%20%288%29.png)
+
+## Boosts
+
+* Full Gorajan - 15% \(solo\)
+* Drygore mace - 14%
+* Full Torva - 8%
+* Offhand drygore mace - 5%
 
 ## Loot
 
