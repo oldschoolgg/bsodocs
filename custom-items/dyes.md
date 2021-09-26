@@ -12,6 +12,8 @@ Ice, blood, shadow, and 3a dyes can only be obtained from grandmaster caskets, w
 
 | Required item name | Dyed item name |
 | :--- | :--- |
+| Zaryte bow | Zaryte bow \(ice\) |
+| Twisted bow | Twisted bow \(ice\) |
 | Dwarven warhammer | Dwarven warhammer \(ice\) |
 | Drygore longsword | Drygore longsword \(ice\) |
 | Offhand drygore longsword | Offhand drygore longsword \(ice\) |
@@ -24,6 +26,8 @@ Ice, blood, shadow, and 3a dyes can only be obtained from grandmaster caskets, w
 
 | Required item name | Dyed item name |
 | :--- | :--- |
+| Zaryte bow | Zaryte bow \(blood\) |
+| Twisted bow | Twisted bow \(blood\) |
 | Dwarven warhammer | Dwarven warhammer \(blood\) |
 | Drygore longsword | Drygore longsword \(blood\) |
 | Offhand drygore longsword | Offhand drygore longsword \(blood\) |
@@ -36,6 +40,8 @@ Ice, blood, shadow, and 3a dyes can only be obtained from grandmaster caskets, w
 
 | Required item name | Dyed item name |
 | :--- | :--- |
+| Zaryte bow | Zaryte bow \(shadow\) |
+| Twisted bow | Twisted bow \(shadow\) |
 | Dwarven warhammer | Dwarven warhammer \(shadow\) |
 | Drygore longsword | Drygore longsword \(shadow\) |
 | Offhand drygore longsword | Offhand drygore longsword \(shadow\) |
@@ -48,6 +54,8 @@ Ice, blood, shadow, and 3a dyes can only be obtained from grandmaster caskets, w
 
 | Required item name | Dyed item name |
 | :--- | :--- |
+| Zaryte bow | Zaryte bow \(3a\) |
+| Twisted bow | Twisted bow \(3a\) |
 | Dwarven warhammer | Dwarven warhammer \(3a\) |
 | Drygore longsword | Drygore longsword \(3a\) |
 | Offhand drygore longsword | Offhand drygore longsword \(3a\) |
