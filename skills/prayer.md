@@ -8,13 +8,11 @@ The Chaos Altar works like in-game, your minion will do 1 inventory trips back a
 
 ## Optimal Prayer
 
-It is recommened to offer dragon bones up until level 70 when you unlock the ability to offer superior dragon bones up until level 99. If going for the Prayer master skill cape, it is recommended to use abyssal dragon bones until the necessary 500m xp total.
+It is recommended to offer dragon bones up until level 70 when you unlock the ability to offer superior dragon bones up until level 99. If going for the Prayer master skill cape, it is recommended to use abyssal dragon bones until the necessary 500m xp total.
 
 Usage of the custom pet, Lil Lamb, is very useful to speed up the process of gaining prayer xp. The perk of Lil Lamb is to boost XP from offering bones by 1x-3x multiplier. 
 
 **Note:** When going for 500m xp, please use `=m lvl prayer`to determine how much xp you have gained after each trip as the trip report may be inaccurate in displaying your full xp gained per trip.
-
-
 
 ### Master Skill Cape
 

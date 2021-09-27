@@ -54,6 +54,8 @@ The dwarven tools are smithed from Dwarven Bars \(smelted from dwarven ore, see 
   </tbody>
 </table>
 
+Note: Currently, the greathammer, when equipped in conjunction with a Takon, will be prioritized despite the higher bonus from Takon.
+
 #### Dwarven Armor
 
 Dwarven armor is smithable from Dwarven Bars with 120 Smithing and is also dropped by King Goldemar \(see [King Goldemar](../bosses/king-goldemar.md)\). It currently provides no boosts to content but provides high crush defence.
