@@ -19,7 +19,13 @@ Monkey Rumble is a minigame where you wear a greegree to turn into a monkey, and
 * You also earn Rumble tokens, the reward currency of this minigame, which you can spend on some rewards, if you have all the rewards, you can spend them on Monkey crates.
 * Monkey rumble has a collection log, `=cl mr`
 
-### Rewards
+### **Boosts**
+
+* Strength master cape - 15% speed boost
+* Gorilla rumble greegree - 15% speed boost
+* Big banana - 10% more likely to fight purple monkeys
+
+### **Rewards**
 
 **Monkey Egg \(which hatches into the new Monkey Tame\)**
 
