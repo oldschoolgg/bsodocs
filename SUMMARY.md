@@ -20,6 +20,7 @@
 * [Nex](bosses/nex.md)
 * [Chambers of Xeric](bosses/chambers-of-xeric.md)
 * [Malygos](bosses/malygos.md)
+* [Sea Kraken](bosses/sea-kraken.md)
 
 ## Minigames
 
