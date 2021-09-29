@@ -52,3 +52,12 @@ It is recommended to Mass for the 1st 50kc as it reduces your death chance.
 | 9 | 76 | 65 |
 | 10 | 71 | 60 |
 
+| Unique Drop Table | Drop Rate |
+| :--- | :--- |
+| Dwarven Ore | 1/15 |
+| Dwarven Armour | 1/150 |
+| Mystery Box | 1/20 |
+| Blacksmith Crate  | 1/60 |
+| Clue scroll \(grandmaster\) | 1/15 |
+| Broken dwarven warhammer | 1/850 \(approx.\) |
+
