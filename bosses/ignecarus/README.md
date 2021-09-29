@@ -28,5 +28,12 @@ Ignecarus drops lots of metal bars, uncut gems and rune items.
 * **Ignecarus dragonclaw:** Used in conjunction with Dragon's fury, twisted bow, zaryte bow, and 3 smouldering stones to create a Hellfire Bow \(BIS range weapon\). 
 * **Dragon egg**_**:**_ Can be placed in a nursery to hatch into a dragon tame \(like a pet\), which can be sent out on PvM trips. Eggs are tradeable but once they hatch they can not be traded.  
 
+| Unique Drop Table | Drop Rate |
+| :--- | :--- |
+| Ignecarus Dragonclaw | 1/200 |
+| Dragon Egg | 1/500 |
+| Ignis Ring | 1/250 |
+| Clue scroll \(grandmaster\) | 1/10 |
+
 
 
