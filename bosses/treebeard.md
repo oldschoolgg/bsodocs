@@ -21,3 +21,13 @@ Treebeard is an ent-like boss that drops mostly seeds and herbs. You will need d
   * Note: Mysterious trees can only be grown at 120 Farming
 * Elder Logs
 
+| Unique Drop Table | Drop Rate |
+| :--- | :--- |
+| Tangleroot | 1/1200 |
+| Mysterious seed | 1/100 |
+| Ent Hide | 1/100 |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+
