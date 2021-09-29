@@ -31,5 +31,14 @@ You should use the best possible mage gear you have, Virtus is the best gear you
 * **Random Loot:**
   * Vasa has a special loot mechanic, every kill, it drops the loot of 1-3 kills of a random boss.
 
-
+| Unique Drop Table | Drop Rate |
+| :--- | :--- |
+| Mystery Box  | 1/15 |
+| Tattered Robes of Vasa | 1/350 |
+| Magus Scroll | 1/350 |
+| Voidling | 1/500 |
+| Jar of Magic | 1/1000 |
+| Clue scroll \(grandmaster\) | 1/12 |
+| Magical Artifact | 1/9 |
+| Other boss Drop Table | 1/16 |
 
