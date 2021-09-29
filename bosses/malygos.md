@@ -36,3 +36,12 @@ You can kill Malygos with `=k malygos` or `=k mally`. To mass Malygos you can st
 * Dragon Hunter Lance
 * [Ori](../custom-items/pets.md#resource-gathering-and-loot-effecting-pets)
 
+| Uniques Drop Table | Drop Rate |
+| :--- | :--- |
+| Ori | 1/300 |
+| Abyssal Cape | 1/2600 |
+| Abyssal Thread | 1/1024 |
+| Dragon Hunter Lance | 1/1024 |
+| Lump Of Crystal | 1/100 |
+| Clue scroll \(grandmaster\) | 1/140 |
+
