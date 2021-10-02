@@ -16,3 +16,5 @@ While doing dungeoneering in dungeons of Floor 5+, you have a chance of getting 
 
 You get boosts to your dungeoneering speed from: dung cape OR master dung cape, scroll of teleportation, and gorajan armor. You get negative boosts \(slower\) from doing solo or duo dungeons. You receive less XP if doing a floor lower than your max floor.
 
+* Ring of luck - 5% more likely to find gorajan shards
+

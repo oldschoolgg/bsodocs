@@ -11,6 +11,8 @@ Your ape can run around and gather supplies for you while you monkey around else
 
 There are no specific requirements to hatch the monkey tame. See [Tames](../../custom-items/tames.md#hatching-the-tame) for more information on hatching it. 
 
+On hatching, there is a 1/60 chance that it could be a shiny monkey!
+
 ## Growth
 
 Upon getting a Monkey Egg, you can put it in your nursery and hatch it. It will take 4.5 hours to hatch. Once hatched it will grow over time from a baby -&gt; juvenile -&gt; adult. 

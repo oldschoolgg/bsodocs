@@ -14,7 +14,7 @@ Fuelling the nursery will require 2,500 elder logs and 10,000 coal.
 
 Finally, once you have satisfied these requirements you can add your egg to the nursery with `=nursery add dragon egg`
 
-The dragon tame will take 18.5 hours to hatch.
+The dragon tame will take 18.5 hours to hatch. Once hatched there is a 1/30 chance its a rare shiny dragon.
 
 ## Growth
 

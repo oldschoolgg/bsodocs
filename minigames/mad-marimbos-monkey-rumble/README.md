@@ -24,6 +24,7 @@ Monkey Rumble is a minigame where you wear a greegree to turn into a monkey, and
 * Strength master cape - 15% speed boost
 * Gorilla rumble greegree - 15% speed boost
 * Big banana - 10% more likely to fight purple monkeys
+* Ring of luck - 2% more likely to fight purple monkeys
 
 ### **Rewards**
 
