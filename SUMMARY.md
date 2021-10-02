@@ -8,6 +8,7 @@
   * [Rewards](skills/dungeoneering-training/dg-rewards.md)
 * [Prayer](skills/prayer.md)
 * [Runecraft](skills/runecraft.md)
+* [Agility](skills/agility.md)
 
 ## Bosses
 
