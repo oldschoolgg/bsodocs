@@ -1,6 +1,6 @@
 # Rewards
 
-## Buyable Boosts/Utility
+### Buyable Boosts/Utility
 
 | Item | Token Cost | Boost |
 | :--- | :--- | :--- |
@@ -17,7 +17,7 @@
 
 Note: Only the scroll of farming and the scroll of longevity are tradeable/useable. To enable these scrolls you must `=use` them, you can only do this once. Other scrolls work out of the bank.
 
-## Buyable Gear
+### Buyable Gear
 
 The following gear can be bought with tokens:
 
@@ -49,7 +49,7 @@ Additionally, with a **Chaotic Remnant** \(500,000 tokens\), the three BiS amule
 * Virtus + Gorajan Shards = **Gorajan Occult Outfit**
 * Pernix + Gorajan Shards = **Gorajan Archer Outfit**
 
-## Miscellaneous Buyables
+### Miscellaneous Buyables
 
 | Item | Token Cost | Use |
 | :--- | :--- | :--- |

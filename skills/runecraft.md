@@ -4,7 +4,9 @@ description: Runecraft meta
 
 # Runecraft
 
-The best Xp/Hr is achievable by runecrafting elder runes which can be unlocked via the [Ourania Delivery Service](https://bso-wiki.oldschool.gg/minigames/ourania-delivery-service-ods) minigame. These can be runecrafted if you have an Elder talisman in your bank, and at least level 99 Runecraft. You start crafting +1 more at level 120. Required when killing the [Vasa Magus](../bosses/vasa-magus.md) boss.
+### **Training**
+
+The best xp/hr is achievable by runecrafting elder runes which can be unlocked via the [Ourania Delivery Service](https://bso-wiki.oldschool.gg/minigames/ourania-delivery-service-ods) minigame. These can be runecrafted if you have an Elder talisman in your bank, and at least level 99 Runecraft. You start crafting +1 more at level 120. Required when killing the [Vasa Magus](../bosses/vasa-magus.md) boss.
 
 ### Item Boosts
 

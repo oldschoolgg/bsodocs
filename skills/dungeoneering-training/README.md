@@ -1,6 +1,6 @@
 # Dungeoneering
 
-## Starting Out
+### Starting Out
 
 There are 1-7 floors. Each floor requires +20 DG levels, and increasingly higher stats in other skills, especially combat.
 
@@ -12,7 +12,7 @@ There are 1-7 floors. Each floor requires +20 DG levels, and increasingly higher
 
 While doing dungeoneering in dungeons of Floor 5+, you have a chance of getting a tradeable Gorajan shard. You can combine 2 of these with a nex armor piece to make a gorajan armor piece, using smithing. \(see [Dungeoneering Rewards](dg-rewards.md)\).
 
-## Boosts
+### Boosts
 
 You get boosts to your dungeoneering speed from: dung cape OR master dung cape, scroll of teleportation, and gorajan armor. You get negative boosts \(slower\) from doing solo or duo dungeons. You receive less XP if doing a floor lower than your max floor.
 

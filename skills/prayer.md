@@ -6,7 +6,7 @@ Offering the bones to the Chaos altar works exactly the same, except you use `=o
 
 The Chaos Altar works like in-game, your minion will do 1 inventory trips back and forth to sacrifice, with a 10% chance of being PKed in the trip and losing some amount of your inventory of bones \(depending on if you got PKed at the start/middle/finish\).  
 
-## Optimal Prayer
+### Optimal Prayer
 
 It is recommended to offer dragon bones up until level 70 when you unlock the ability to offer superior dragon bones up until level 99. If going for the Prayer master skill cape, it is recommended to use abyssal dragon bones until the necessary 500m xp total.
 
