@@ -135,7 +135,7 @@ Additionally, master capes have a perk that is related to the skill that they ar
 | Skill | Perk |
 | :--- | :--- |
 | Attack | 15% Boost to PvM |
-| Strength |  |
+| Strength | 15% Boost to [Mad Marimbo's Monkey Rumble](../minigames/mad-marimbos-monkey-rumble/) |
 | Defence |  |
 | Hitpoints | Extends PvM trips by 5-10% |
 | Ranged | Reduces arrow usage by 90% |
