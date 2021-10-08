@@ -38,7 +38,7 @@ You can kill Malygos with `=k malygos` or `=k mally`. To mass Malygos you can st
 
 | Uniques Drop Table | Drop Rate |
 | :--- | :--- |
-| Ori | 1/300 |
+| Ori | 1/3000 |
 | Abyssal Cape | 1/2600 |
 | Abyssal Thread | 1/1024 |
 | Dragon Hunter Lance | 1/1024 |
