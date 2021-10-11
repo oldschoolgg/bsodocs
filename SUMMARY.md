@@ -28,9 +28,9 @@
 * [Mad Marimbo's Monkey Rumble](minigames/mad-marimbos-monkey-rumble/README.md)
   * [Monkey Tame](minigames/mad-marimbos-monkey-rumble/monkey-tame.md)
   * [Monkey Rumble Store](minigames/mad-marimbos-monkey-rumble/monkey-rumble-store.md)
-* [Ourania Delivery Service \(ODS\)](minigames/ourania-delivery-service-ods.md)
+* [Ourania Delivery Service (ODS)](minigames/ourania-delivery-service-ods.md)
 
-## Custom Content <a id="custom-items"></a>
+## Custom Content <a href="custom-items" id="custom-items"></a>
 
 * [Item Contracts](custom-items/item-contracts.md)
 * [Pets](custom-items/pets.md)
@@ -42,5 +42,5 @@
 
 ## Events
 
+* [Halloween 2021](events/halloween-2021.md)
 * [Lottery](events/lottery.md)
-
