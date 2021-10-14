@@ -52,8 +52,6 @@ It's an event boss that spawns every 5 hours. Can find the times it'll spawn at 
 
 Two schedules for the boss can be found in the pinned messages of the Halloween channel in the discord. The boss rewards guaranteed Halloween candies, (listed above) as well as a chance (1/5) at a piece of the spooky armour set, and a pet. This consists of:
 
-Candy Teeth: 3 hp Toffeet: 5 hp Chocolified Skull: 8 hp Rotten sweets: 9 hp Hairyfloss: 12 hp Eyescream: 13 hp Goblinfinger soup: 20 hp Benny's brain brew: 50 hp Roasted newt: 120 hp
-
 * Haunted Boots
 * Haunted Gloves
 * Haunted Cloak
@@ -62,14 +60,10 @@ Candy Teeth: 3 hp Toffeet: 5 hp Chocolified Skull: 8 hp Rotten sweets: 9 hp Hair
 * Pumpkinhead's Pumpkin Head
 * Mini Pumpkinhead
 
-The items you can obtain from Pumpkinhead boss are:
-
-Note: Drop rate info may or may not be accurate. Compiled from discord.
-
-\-Haunted boots -Haunted cloak -Haunted gloves -Haunted amulet -Pumpkinhead's headbringer -Pumpkinhead's pumpkinhead -Obtainable Pet: Mini pumpkinhead
+Note: All the items obtainable from this event will be discontinued.
 
 **Special thanks to DarkLinkArisen and DT for compiling this information.**
 
-Note: All the items obtainable from this event will be discontinued.
 
-**Special thanks to DT for compiling this information.**
+
+****
