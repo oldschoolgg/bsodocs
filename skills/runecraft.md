@@ -10,12 +10,11 @@ The best xp/hr is achievable by runecrafting elder runes which can be unlocked v
 
 ### Item Boosts
 
-**Abyssal pouch** - Upgrade to the giant pouch to hold much more essence. Requires abyssal thread, obtained from Malygos. `=create abyssal pouch` Ensure you create a new giant pouch after creating this.  
-**Elder pouch** - Upgrade the Abyssal pouch to hold much more essence. Requires elder thread from ODS and level 105 RC to use. `=create elder pouch` Ensure you create a new Abyssal pouch after creating this.  
-**Obis \(pet\)** - Obtain from other players or 1/5000 minutes from runecrafting. This will consume 3x more pure essence and boost your RC speed by 2x, this essentially causes you to consume 6x more pure essence within the same timeframe.  
-**Master runecrafter outfit** - Provides a flat 10% bonus to RC XP. Obtained from ODS.  
-**Any master cape** - Provides 3% XP bonus to all skills. Requires 500m XP in the skill.  
+**Abyssal pouch** - Upgrade to the giant pouch to hold much more essence. Requires abyssal thread, obtained from Malygos. `=create abyssal pouch` Ensure you create a new giant pouch after creating this.\
+**Elder pouch** - Upgrade the Abyssal pouch to hold much more essence. Requires elder thread from ODS and level 105 RC to use. `=create elder pouch` Ensure you create a new Abyssal pouch after creating this.\
+**Obis (pet) **- Obtain from other players or 1/5000 minutes from runecrafting. This will consume 3x more pure essence and boost your RC speed by 2x, this essentially causes you to consume 6x more pure essence within the same timeframe.\
+**Master runecrafter outfit** - Provides a flat 10% bonus to RC XP. Obtained from ODS.\
+**Any master cape** - Provides 3% XP bonus to all skills. Requires 500m XP in the skill.\
 **Runecraft master cape** - Provides 8% xp boost. Requires 500m RC XP.
 
-At 99 RC with all pouches \(except elder\), Obis, Master runecrafter outfit and Dungeoneering master cape, you can expect rates of 944k/hr with elder runes. ODS is the best XP/HR until you reach 99.
-
+At 99 RC with all pouches (except elder), Obis, Master runecrafter outfit and Dungeoneering master cape, you can expect rates of 944k/hr with elder runes. ODS is the best XP/HR until you reach 99.

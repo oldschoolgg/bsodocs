@@ -4,7 +4,7 @@ You can train Prayer by burying bones, or offering them to the Chaos altar. For 
 
 Offering the bones to the Chaos altar works exactly the same, except you use `=offer` instead, for example: `=offer 100 Dragon bones`.
 
-The Chaos Altar works like in-game, your minion will do 1 inventory trips back and forth to sacrifice, with a 10% chance of being PKed in the trip and losing some amount of your inventory of bones \(depending on if you got PKed at the start/middle/finish\).  
+The Chaos Altar works like in-game, your minion will do 1 inventory trips back and forth to sacrifice, with a 10% chance of being PKed in the trip and losing some amount of your inventory of bones (depending on if you got PKed at the start/middle/finish).  
 
 ### Optimal Prayer
 
@@ -12,7 +12,7 @@ It is recommended to offer dragon bones up until level 70 when you unlock the ab
 
 Usage of the custom pet, Lil Lamb, is very useful to speed up the process of gaining prayer xp. The perk of Lil Lamb is to boost XP from offering bones by 1x-3x multiplier. 
 
-**Note:** When going for 500m xp, please use `=m lvl prayer`to determine how much xp you have gained after each trip as the trip report may be inaccurate in displaying your full xp gained per trip.
+**Note: **When going for 500m xp, please use `=m lvl prayer`to determine how much xp you have gained after each trip as the trip report may be inaccurate in displaying your full xp gained per trip.
 
 ### Master Skill Cape
 
@@ -22,10 +22,8 @@ Note: A master skill cape must be equipped in any of your gear setups in order f
 
 Perk: 40% Less Prayer Potions consumed when using Dwarven Blessing
 
-  
+\
 Note: Master cape perks do not currently include the original skill cape's perks, so you must equip both in different gear setups to get the effects of both.
-
-
 
 
 
