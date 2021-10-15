@@ -38,4 +38,5 @@ The general loot table from Grandmaster Caskets consists of:
 * Deathtouched Dart
 * [Dyes](https://bso-wiki.oldschool.gg/custom-items/dyes?q=dyes)
 * First Age Equipment
-
+* Dwarven Blessing
+* [Clue Hunter](https://bso-wiki.oldschool.gg/custom-items/equippables#clue-hunter-outfit)

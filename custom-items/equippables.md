@@ -2,6 +2,18 @@
 
 In BSO, there are various types of custom weapons and armor that have good stats or give bonuses at various activities.
 
+### First Age
+
+First Age equipment is obtained at a very rare (currently unknown) rate from [Grandmaster Caskets](https://bso-wiki.oldschool.gg/custom-items/grandmaster-clues)
+
+| Equipment          | Boost                 |
+| ------------------ | --------------------- |
+| First Age Bracelet | 2.5% Overall XP Boost |
+| First Age Ring     | 2.5% Overall XP Boost |
+| First Age Amulet   | 2.5% Overall XP Boost |
+| First Age Tiara    | 2.5% Overall XP Boost |
+| First Age Cloak    | 2.5% Overall XP Boost |
+
 ### Dwarven Equipment
 
 #### Dwarven Tools
@@ -36,7 +48,7 @@ These dwarven gear are unlike the previous in that they are not smithable from D
 
 **Dwarven Warhammer**: Rare drop from King Goldemar (see [King Goldemar](../bosses/king-goldemar.md)) and provides a 40% PvM boost. Drops as a **Broken Dwarven Warhammer** and must be fixed, requiring 120 Smithing, Blacksmith's Outfit, and Dwarven Bars.
 
-**Dwarven Blessing**: Rare drop from Grandmaster Caskets (see [Misc](misc.md)) and provides a 20% boost to PvM (25% with Amulet of Zealots). Consumes 1 Prayer Potion per 5 minutes of PvM (reduced by 40% with Prayer Master Cape).
+**Dwarven Blessing**: Rare drop from [Grandmaster Caskets](https://bso-wiki.oldschool.gg/custom-items/grandmaster-clues) and provides a 20% boost to PvM (25% with Amulet of Zealots). Consumes 1 Prayer Potion per 5 minutes of PvM (reduced by 40% with Prayer Master Cape).
 
 ### Abyssal Equipment
 
