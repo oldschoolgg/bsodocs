@@ -37,6 +37,7 @@
 * [Equippables](custom-items/equippables.md)
 * [Tames](custom-items/tames.md)
 * [Implings](custom-items/implings.md)
+* [Grandmaster Clues](custom-items/grandmaster-clues.md)
 * [Misc](custom-items/misc.md)
 * [Dyes](custom-items/dyes.md)
 
