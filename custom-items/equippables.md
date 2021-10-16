@@ -6,13 +6,13 @@ In BSO, there are various types of custom weapons and armor that have good stats
 
 First Age equipment is obtained at a very rare (currently unknown) rate from [Grandmaster Caskets](https://bso-wiki.oldschool.gg/custom-items/grandmaster-clues)
 
-| Equipment          | Boost                 |
-| ------------------ | --------------------- |
-| First Age Bracelet | 2.5% Overall XP Boost |
-| First Age Ring     | 2.5% Overall XP Boost |
-| First Age Amulet   | 2.5% Overall XP Boost |
-| First Age Tiara    | 2.5% Overall XP Boost |
-| First Age Cape     | 2.5% Overall XP Boost |
+| Equipment          | Boost               |
+| ------------------ | ------------------- |
+| First Age Bracelet | 1% Overall XP Boost |
+| First Age Ring     | 1% Overall XP Boost |
+| First Age Amulet   | 1% Overall XP Boost |
+| First Age Tiara    | 1% Overall XP Boost |
+| First Age Cape     | 1% Overall XP Boost |
 
 ### Dwarven Equipment
 
