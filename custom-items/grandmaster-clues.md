@@ -12,7 +12,7 @@ The most commonly used strategy to solve grandmaster clues is equipping full [cl
 
 Grandmaster Clues can be received from a vary wide range of content. The rates are not included here because they change rather often and are greatly different between sources. The full list of sources is as follows:
 
-[Kalphite King](https://bso-wiki.oldschool.gg/bosses/kalphite-king), [Vasa Magus](https://bso-wiki.oldschool.gg/bosses/vasa-magus?q=Vasa), [Sea Kraken](https://bso-wiki.oldschool.gg/bosses/sea-kraken), [Ignecarus](https://bso-wiki.oldschool.gg/bosses/ignecarus), [Nex](https://bso-wiki.oldschool.gg/bosses/nex), [Malygos](https://bso-wiki.oldschool.gg/bosses/malygos), Sand Geckos, Elder Birdhouses, Fishing, Woodcutting, Master Clue Caskets, and [Item Contracts](https://bso-wiki.oldschool.gg/custom-items/item-contracts).
+[Kalphite King](https://bso-wiki.oldschool.gg/bosses/kalphite-king), [Vasa Magus](https://bso-wiki.oldschool.gg/bosses/vasa-magus?q=Vasa), [Sea Kraken](https://bso-wiki.oldschool.gg/bosses/sea-kraken), [Ignecarus](https://bso-wiki.oldschool.gg/bosses/ignecarus), [Nex](https://bso-wiki.oldschool.gg/bosses/nex), [Malygos](https://bso-wiki.oldschool.gg/bosses/malygos), [Sand Geckos](https://bso-wiki.oldschool.gg/custom-items/misc), [Elder Birdhouses](https://bso-wiki.oldschool.gg/custom-items/misc), Fishing, Woodcutting, Master Clue Caskets, and [Item Contracts](https://bso-wiki.oldschool.gg/custom-items/item-contracts).
 
 ### General Loot Table
 
@@ -35,8 +35,8 @@ The general loot table from Grandmaster Caskets consists of:
 ### Unique Loot Table
 
 * Malygos and Ignecarus Masks
-* Deathtouched Dart
+* [Deathtouched Dart](https://bso-wiki.oldschool.gg/custom-items/misc)
 * [Dyes](https://bso-wiki.oldschool.gg/custom-items/dyes?q=dyes)
-* First Age Equipment
-* Dwarven Blessing
+* [First Age Equipment](https://bso-wiki.oldschool.gg/custom-items/equippables)
+* [Dwarven Blessing](https://bso-wiki.oldschool.gg/custom-items/equippables#dwarven-equipment)
 * [Clue Hunter](https://bso-wiki.oldschool.gg/custom-items/equippables#clue-hunter-outfit)
