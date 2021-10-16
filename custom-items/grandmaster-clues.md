@@ -46,7 +46,7 @@ The general loot table from Grandmaster Caskets consists of:
 
 ![Shadow -> Ice -> Blood -> Third Age (drops in pairs of two)](../.gitbook/assets/dyes.png)
 
-* [First Age Equipment](https://bso-wiki.oldschool.gg/custom-items/equippables)
+* [First Age Equipment](https://bso-wiki.oldschool.gg/custom-items/equippables#first-age)
 
 ![Tiara -> Amulet -> Cape -> Bracelet -> Ring](<../.gitbook/assets/first age.png>)
 
