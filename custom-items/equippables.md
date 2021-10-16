@@ -14,6 +14,8 @@ First Age equipment is obtained at a very rare (currently unknown) rate from [Gr
 | First Age Tiara    | 1% Overall XP Boost |
 | First Age Cape     | 1% Overall XP Boost |
 
+Having the entire First Age set equipped will give the player an extra 1% boost, for a total of 6%.
+
 ### Dwarven Equipment
 
 #### Dwarven Tools
