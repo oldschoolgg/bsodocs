@@ -100,6 +100,12 @@ The Master Farmer outfit is craftable with 110 Crafting using Ent hides dropped 
 | Master Farmer Boots  | 1               |
 | Master Farmer Gloves | 1               |
 
+### Blacksmith Equipment
+
+The Blacksmith set is a reward from Blacksmith Crates, which drop at a rate of roughly one in 75 hours from [King Goldemar](https://bso-wiki.oldschool.gg/bosses/king-goldemar?q=blacksmith). The full set is required to both smith dwarven bars and tools. When the full set is equipped, a 10% xp boost is given when smelting or smithing.
+
+Note: The 10% xp boost **does not apply to the Blast Furnace**.
+
 ### Master Capes
 
 Master capes are skillcapes that can be purchased upon getting 500M XP in the respective skill. The command to purchase a master cape is `=skillcape hunter master cape` for example. Each one costs 1b gp to purchase and is untradeable. A master cape will provide 8% XP boost if training the corresponding skill, or 3% when training any other skill. This perk is global, and the master cape can be equipped in any gear tab to receive the XP boost. Master capes also have the same stats as an Abyssal Cape without the food reduction perk. 
