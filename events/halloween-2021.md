@@ -54,6 +54,8 @@ Two schedules for the boss can be found in the pinned messages of the Halloween 
 * Pumpkinhead's Pumpkin Head
 * Mini Pumpkinhead
 
+![These are not in order as above, they follow this order: Pet, Cape, Headbringer, Pumpkinhead Helm, Haunted Amulet, Haunted Gloves, Haunted Boots](<../.gitbook/assets/hween items.png>)
+
 It is highly recommended for anybody that is dry on items from the boss to attempt to buy a Haunted Amulet, as when you have the amulet equipped, did not roll a unique item, and have received two or less total unique drops in the Pumpkinhead CL, you will have a 50% chance to receive a unique item in your name. If you have received a pet in the mass, your drop will be highlighted in **bold**.
 
 Note: All the items obtainable from this event will be discontinued, and mysterious tokens will be unusable.

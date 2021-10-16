@@ -35,8 +35,25 @@ The general loot table from Grandmaster Caskets consists of:
 ### Unique Loot Table
 
 * Malygos and Ignecarus Masks
+
+![Igne -> Maly](../.gitbook/assets/image\_2021-10-16\_012247.png)
+
 * [Deathtouched Dart](https://bso-wiki.oldschool.gg/custom-items/misc)
+
+![](<../.gitbook/assets/dt dart.png>)
+
 * [Dyes](https://bso-wiki.oldschool.gg/custom-items/dyes?q=dyes)
+
+![Shadow -> Ice -> Blood -> Third Age (drops in pairs of two)](../.gitbook/assets/dyes.png)
+
 * [First Age Equipment](https://bso-wiki.oldschool.gg/custom-items/equippables)
+
+![Tiara -> Amulet -> Cape -> Bracelet -> Ring](<../.gitbook/assets/first age.png>)
+
 * [Dwarven Blessing](https://bso-wiki.oldschool.gg/custom-items/equippables#dwarven-equipment)
+
+![](../.gitbook/assets/db.png)
+
 * [Clue Hunter](https://bso-wiki.oldschool.gg/custom-items/equippables#clue-hunter-outfit)
+
+![Helm of Raedwald -> CH Garb -> CH Gloves -> CH Trouser -> CH Boots -> CH Cloak](../.gitbook/assets/ch.png)
