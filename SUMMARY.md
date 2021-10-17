@@ -9,6 +9,7 @@
 * [Prayer](skills/prayer.md)
 * [Runecraft](skills/runecraft.md)
 * [Agility](skills/agility.md)
+* [Slayer](skills/slayer.md)
 
 ## Bosses
 
