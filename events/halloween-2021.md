@@ -16,7 +16,7 @@ You need only 4 scary items equipped for the max boost of 10 rolls. Be sure to e
 
 ### Trick or Treating
 
-The event can be started by using the command `=trickortreat or =tot` This command can only be run from 6pm - 4am (UK time) or from 1pm - 11pm (EST). You are also limited in the number of trips you can send per day to two, this was recently changed (1/15/21), along with an increase of rolls to 2.5x greater to allow you to still get the same output while sending less trips.
+The event can be started by using the command `=trickortreat or =tot` This command can only be run from 6pm - 4am (UK time) or from 1pm - 11pm (EST). You are also limited in the number of trips you can send per day to two, this was recently changed (10/15/21), along with an increase of rolls to 2.5x greater to allow you to still get the same output while sending less trips.
 
 It gives various Halloween themed candies and foods as a result, including: Choc'rock, Chocolified skull, Eyescream, Rotten Sweets, Toffeet, Candy Teeth, Hairyfloss, Goblinfinger Soup, Benny's Brain Brew, and Roasted Newt. (In order below) 
 

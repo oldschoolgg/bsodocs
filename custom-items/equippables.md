@@ -104,9 +104,7 @@ The Master Farmer outfit is craftable with 110 Crafting using Ent hides dropped 
 
 ### Blacksmith Equipment
 
-The Blacksmith set is a reward from Blacksmith Crates, which drop at a rate of roughly one in 75 hours from [King Goldemar](https://bso-wiki.oldschool.gg/bosses/king-goldemar?q=blacksmith). The full set is required to both smith dwarven bars and tools. When the full set is equipped, a 10% xp boost is given when smelting or smithing.
-
-Note: The 10% xp boost **does not apply to the Blast Furnace**.
+The Blacksmith set is a reward from Blacksmith Crates, which drop at a rate of roughly one in 75 hours from [King Goldemar](https://bso-wiki.oldschool.gg/bosses/king-goldemar?q=blacksmith). The full set is required to both smith dwarven bars and tools. When the full set is equipped, a 10% xp boost is given when smelting bars at the blast furnace.
 
 ### Master Capes
 
