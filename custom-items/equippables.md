@@ -6,7 +6,7 @@ In BSO, there are various types of custom weapons and armor that have good stats
 
 First Age equipment is obtained at a very rare (currently unknown) rate from [Grandmaster Caskets](https://bso-wiki.oldschool.gg/custom-items/grandmaster-clues)
 
-| Equipment          | Boost               |
+|                    |                     |
 | ------------------ | ------------------- |
 | First Age Bracelet | 1% Overall XP Boost |
 | First Age Ring     | 1% Overall XP Boost |
@@ -20,7 +20,7 @@ Having the entire First Age set equipped will give the player an extra 1% boost,
 
 #### Dwarven Tools
 
-The dwarven tools are smithed from Dwarven Bars (smelted from dwarven ore, see [Misc](misc.md)). 
+The dwarven tools are smithed from Dwarven Bars (smelted from dwarven ore, see [Misc](misc.md)).&#x20;
 
 | Tool                | Bars Needed | Boost                                                  |
 | ------------------- | ----------- | ------------------------------------------------------ |
@@ -54,14 +54,14 @@ These dwarven gear are unlike the previous in that they are not smithable from D
 
 ### Abyssal Equipment
 
-Abyssal equipment can be obtained by killing [Malygos](../bosses/malygos.md). 
+Abyssal equipment can be obtained by killing [Malygos](../bosses/malygos.md).&#x20;
 
 * Abyssal Cape - Provides an aura which reduces food consumption by 50%
 * Dragon Hunter Lance - Provides a large boost against dragons (varies)
 
 ### Nex Equipment
 
-The following items can be obtained by killing Nex (see [Nex](../bosses/nex.md)). These items all have very high bonuses in their respective style, Pernix - range, Torva - melee, and Virtus - magic. 
+The following items can be obtained by killing Nex (see [Nex](../bosses/nex.md)). These items all have very high bonuses in their respective style, Pernix - range, Torva - melee, and Virtus - magic.&#x20;
 
 * **Pernix**: Cowl, Body, Chaps, Gloves, Boots
 * **Torva**: Full Helm, Platebody, Platelegs, Gloves, Boots
@@ -73,15 +73,15 @@ Additionally, the **Zaryte** **Bow** is also obtainable as a drop. It provides t
 
 ### Drygore Weapons
 
-Drygore weapons are a drop from the Kalphite King (see [Kalphite King](../bosses/kalphite-king.md)). Each type of weapon has a main hand and offhand pair. 
+Drygore weapons are a drop from the Kalphite King (see [Kalphite King](../bosses/kalphite-king.md)). Each type of weapon has a main hand and offhand pair.&#x20;
 
 ### Dungeoneering Gear
 
-There are various types of gear that can be obtained from Dungeoneering (see [Dungeoneering](../skills/dungeoneering-training/dg-rewards.md)). 
+There are various types of gear that can be obtained from Dungeoneering (see [Dungeoneering](../skills/dungeoneering-training/dg-rewards.md)).&#x20;
 
 ### Clue Hunter Outfit
 
-The Clue Hunter outfit can be obtained as a rare drop from Grandmaster Caskets (see [Misc](misc.md)). Previously it was obtainable from the Crack the Clue event. It gives a 2x speed boost to completing clues and increases Grandmaster Clue drop rate from Master caskets. 
+The Clue Hunter outfit can be obtained as a rare drop from Grandmaster Caskets (see [Misc](misc.md)). Previously it was obtainable from the Crack the Clue event. It gives a 2x speed boost to completing clues and increases Grandmaster Clue drop rate from Master caskets.&#x20;
 
 * Helm of Raedwald
 * Clue Hunter Cloak
@@ -108,7 +108,7 @@ The Blacksmith set is a reward from Blacksmith Crates, which drop at a rate of r
 
 ### Master Capes
 
-Master capes are skillcapes that can be purchased upon getting 500M XP in the respective skill. The command to purchase a master cape is `=skillcape hunter master cape` for example. Each one costs 1b gp to purchase and is untradeable. A master cape will provide 8% XP boost if training the corresponding skill, or 3% when training any other skill. This perk is global, and the master cape can be equipped in any gear tab to receive the XP boost. Master capes also have the same stats as an Abyssal Cape without the food reduction perk. 
+Master capes are skillcapes that can be purchased upon getting 500M XP in the respective skill. The command to purchase a master cape is `=skillcape hunter master cape` for example. Each one costs 1b gp to purchase and is untradeable. A master cape will provide 8% XP boost if training the corresponding skill, or 3% when training any other skill. This perk is global, and the master cape can be equipped in any gear tab to receive the XP boost. Master capes also have the same stats as an Abyssal Cape without the food reduction perk.&#x20;
 
 Additionally, master capes have a perk that is related to the skill that they are corresponding to. Skills with missing perks are either yet to be added or still unknown.
 
