@@ -17,4 +17,4 @@ The best xp/hr is achievable by runecrafting elder runes which can be unlocked v
 **Any master cape** - Provides 3% XP bonus to all skills. Requires 500m XP in the skill.\
 **Runecraft master cape** - Provides 8% xp boost. Requires 500m RC XP.
 
-At 99 RC with all pouches (except elder), Obis, Master runecrafter outfit and Dungeoneering master cape, you can expect rates of 944k/hr with elder runes. ODS is the best XP/HR until you reach 99.
+At 99 RC with all pouches (except elder), Obis, Master runecrafter outfit and any master cape, you can expect rates of 944k/hr with elder runes. ODS is the best XP/HR until you reach 99.
