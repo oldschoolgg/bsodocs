@@ -4,7 +4,7 @@ There are pets exclusive to BSO that provide unique and powerful perks and are r
 
 ## Miscellaneous Pets
 
-| Pet        | Perk                                                                                                                   | Source                                                      |
+| **Pet**    | **Perk**                                                                                                               | **Source**                                                  |
 | ---------- | ---------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------- |
 | Lil Lamb   | Boosts XP from offering bones by 1x-3x                                                                                 | 1/8,000 Minutes of Alching                                  |
 | Scruffy    | 2x fletching speed                                                                                                     | 1/4,000 Minutes of Varrock Agility Course                   |
@@ -23,29 +23,14 @@ There are pets exclusive to BSO that provide unique and powerful perks and are r
 
 ## Resource Gathering & Loot Effecting pets
 
-| Pet   | Perk                                                                                                                                     | Source                         |
-| ----- | ---------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------ |
-| Brock | Brings back random logs (non-PvM trips only)                                                                                             | 1/5,500 Minutes of Zulrah      |
-| Peky  | Brings back random seeds (non-PvM trips only)                                                                                            | 1/4,000 Minutes of Woodcutting |
-| Ori   | Boosts loot from PvM trips by 25% (rounds up)                                                                                            | 1/3,000 from Malygos           |
-| Sandy | Triples hunter loot (doubles sand gecko loot if Hunter Master Cape is equipped)                                                          | 1/16,000 from Sand Geckos      |
-| Doug  | Brings back random ores                                                                                                                  | 1/12,000 Minutes of Mining     |
-| Zippy | <p>Gives extra clue caskets and mystery boxes while completing clues</p><p>Can double the amount of loot from a clue completing trip</p> | 1/350 Trips of Questing        |
-
-## Meme pets & No Perk pets
-
-{% hint style="info" %}
-These pets are a meta-joke, or a meme pet, that serve no real use apart from being a joke.
-{% endhint %}
-
-| Name          | Perk                                                                                                                                  | Source                                                                             |
-| ------------- | ------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- |
-| Ishi          | Chance to interrupt commands and change any PvM trip to `=k ogress warrior`                                                           | 1/6,500 from Ogress Warriors                                                       |
-| Hammy         | <p>Can interrupt commands</p><p>Can <code>=feed</code> a random item to Hammy with a 1/10 chance to spare, 1/100 chance to double</p> | <p>1/140 for every<br>51.53m sacrificed.<br>(In 1 command)</p>                     |
-| Frosty        | No Perk                                                                                                                               | 2M Dungeoneering Tokens                                                            |
-| Steve         | No perk                                                                                                                               | 1/2,000 from CoX                                                                   |
-| Greygoyle     | No perk                                                                                                                               | Chance of obtaining from Halloween event 2021 by feeding choc'rock via =k gargoyle |
-| Baby Duckling | No perk                                                                                                                               | Participate in the Megaduck community event. Obtained once per server.             |
+| **Pet** | **Perk**                                                                                                                                 | **Source**                     |
+| ------- | ---------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------ |
+| Brock   | Brings back random logs (non-PvM trips only)                                                                                             | 1/5,500 Minutes of Zulrah      |
+| Peky    | Brings back random seeds (non-PvM trips only)                                                                                            | 1/4,000 Minutes of Woodcutting |
+| Ori     | Boosts loot from PvM trips by 25% (rounds up)                                                                                            | 1/3,000 from Malygos           |
+| Sandy   | Triples hunter loot (doubles sand gecko loot if Hunter Master Cape is equipped)                                                          | 1/16,000 from Sand Geckos      |
+| Doug    | Brings back random ores                                                                                                                  | 1/12,000 Minutes of Mining     |
+| Zippy   | <p>Gives extra clue caskets and mystery boxes while completing clues</p><p>Can double the amount of loot from a clue completing trip</p> | 1/350 Trips of Questing        |
 
 ## Discontinued pets
 
@@ -53,14 +38,38 @@ These pets are a meta-joke, or a meme pet, that serve no real use apart from bei
 These pets are no longer obtainable, they are discontinued and were obtained from certain events. You can only obtain them from buying them from other players. Ironmen can get some of these from Pet Mystery Boxes.
 {% endhint %}
 
-| Name              | Perk                                                                                            | Source                                                         |
-| ----------------- | ----------------------------------------------------------------------------------------------- | -------------------------------------------------------------- |
-| Cob               | <p>2x Sepulchre speed</p><p>2x Nightmare speed</p>                                              | 2020 Halloween Event (discontinued)                            |
-| Smokey            | <p>10% chance of an extra roll when opening boxes</p><p>1/15 chance of bringing back a box </p> | 2020 Christmas Event (discontinued)                            |
-| Flappy            | Doubles minigame loot (Soul Wars, CoX, Fight Caves, Wintertodt, Rogues Den, Barbarian Assault)  | 2021 Birthday Event (discontinued)                             |
-| Craig             | No Perk                                                                                         | 2021 April Fools Event (discontinued)                          |
-| Hoppy             | No Perk                                                                                         | 2021 Easter Event (discontinued)                               |
-| Corgi             | No Perk                                                                                         | <p>Royal Mystery Box </p><p>Birthday Pack   (discontinued)</p> |
-| Snappy the Turtle | No Perk                                                                                         | Beach Mystery Box (discontinued)                               |
+{% tabs %}
+{% tab title="Perks" %}
+| Name   | Perk                                                                                           | Source               |
+| ------ | ---------------------------------------------------------------------------------------------- | -------------------- |
+| Cob    | <p>2x Sepulchre speed</p><p>2x Nightmare speed</p>                                             | 2020 Halloween Event |
+| Smokey | <p>10% chance of an extra roll when opening boxes</p><p>1/15 chance of bringing back a box</p> | 2020 Christmas Event |
+| Flappy | Doubles minigame loot (Soul Wars, CoX, Fight Caves, Wintertodt, Rogues Den, Barbarian Assault) | 2021 Birthday Event  |
+{% endtab %}
+
+{% tab title="No perks" %}
+| Name              | Source                          |
+| ----------------- | ------------------------------- |
+| Craig             | 2021 April Fools Event          |
+| Hoppy             | 2021 Easter Event               |
+| Corgi             | Royal Mystery Box Birthday Pack |
+| Snappy the Turtle | Beach Mystery Box               |
+{% endtab %}
+{% endtabs %}
 
 Note: Corgi and Snappy are no longer obtainable, even by ironmen.
+
+## Meme pets & No Perk pets
+
+{% hint style="info" %}
+These pets are a meta-joke, or a meme pet, that serve no real use apart from being a joke.
+{% endhint %}
+
+| **Name**      | **Perk**                                                                                                                              | **Source**                                                                         |
+| ------------- | ------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- |
+| Ishi          | Chance to interrupt commands and change any PvM trip to `=k ogress warrior`                                                           | 1/6,500 from Ogress Warriors                                                       |
+| Hammy         | <p>Can interrupt commands</p><p>Can <code>=feed</code> a random item to Hammy with a 1/10 chance to spare, 1/100 chance to double</p> | <p>1/140 for every<br>51.53m sacrificed.<br>(In 1 command)</p>                     |
+| Frosty        | No perk                                                                                                                               | 2M Dungeoneering Tokens                                                            |
+| Steve         | No perk                                                                                                                               | 1/2,000 from CoX                                                                   |
+| Gregoyle      | No perk                                                                                                                               | Chance of obtaining from Halloween event 2021 by feeding choc'rock via =k gargoyle |
+| Baby duckling | No perk                                                                                                                               | Participate in the Megaduck community event. Obtained once per server.             |
