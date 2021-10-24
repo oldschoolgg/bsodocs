@@ -138,3 +138,18 @@ Additionally, master capes have a perk that is related to the skill that they ar
 | Woodcutting  | 2x Woodcutting loot                                                                                          |
 | Farming      | 35% seeds saved when equipped (up to 50% with scroll of life), 1/10 per planted seed chance of a mystery box |
 |              |                                                                                                              |
+
+
+
+### **Expert Capes**
+
+There are 4 expert capes that you can buy once you have bought all required master capes. The expert cape combines all perks of the capes required to purchase it. You can purchase an expert cape with `=buy` after you meet the requirements, for example: `=buy combatants cape.`
+
+
+
+| Expert Cape | Required Master Capes                                                                                  |
+| ----------- | ------------------------------------------------------------------------------------------------------ |
+| Combatants  | <p>Attack/Strength/Defence/Hitpoints/</p><p>Prayer/Ranged/Magic</p>                                    |
+| Gatherers   | <p>Farming/Fishing/Hunter/Mining/</p><p>Woodcutting</p>                                                |
+| Support     | Agility/Dungeoneering/Thieving/Slayer                                                                  |
+| Artisans    | <p>Crafting/Construction/Cooking/</p><p>Firemaking/Fletching/Herblore/</p><p>Runecrafting/Smithing</p> |
