@@ -60,6 +60,16 @@ These pets are no longer obtainable, they are discontinued and were obtained fro
 
 Note: Corgi and Snappy are no longer obtainable, even by ironmen.
 
+## Growable pets
+
+Growable pets are pets which have a chance to grow as you do trips with them equipped.
+
+| Name      | Source                                                                                                                                                                          |
+| --------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Raven     | Getting a baby raven from [Peky's](pets.md#resource-gathering-and-loot-effecting-pets) passive ability, then takes 8 hours **on average** to grow.                              |
+| Magic cat | Buying any normal kitten with `=buy kitten`, doing [Vasa](../bosses/vasa-magus.md) has a 100% chance to turn it into a magic kitten, then takes 5 hours **on average** to grow. |
+| Shiny cat | Buying any normal kitten with `=buy kitten`, then has a 1/500 chance to turn shiny when growing up.                                                                             |
+
 ## Meme pets & No Perk pets
 
 {% hint style="info" %}
