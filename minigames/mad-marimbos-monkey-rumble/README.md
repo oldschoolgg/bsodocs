@@ -13,7 +13,7 @@ Monkey Rumble is a minigame where you wear a greegree to turn into a monkey, and
 
 * You need a m'speak amulet (`=buy` it), and a rumble greegree to compete. You start off buying a Beginner rumble greegree, and after doing more games, you unlock higher greegrees.
 * Higher greegrees (monkey tiers) increase XP and chances of unique rewards, the XP you get scales off your monkey tier AND your strength level.
-* You need food for the fights, but as you're fighting in your monkey form, you can only eat fruits. All of them act as equal amount of healing, except lychee/mango/avocado give a special speed boost when using them.
+* You need food for the fights, but as you're fighting in your monkey form, you can only eat fruits. All of them act as equal amount of healing, except lychee, avocado, and mango give a special speed boost when using them.
 * When doing fights, you will fight random monkeys, there are over 20,000+ possible monkeys you can fight. At a rare chance, you'll fight a special monkey.
 * Special monkeys have purple names and different appearances, and _they_ are the ones who give you the unique rewards after fighting them.
 * You also earn Rumble tokens, the reward currency of this minigame, which you can spend on some rewards, if you have all the rewards, you can spend them on Monkey crates.
@@ -25,6 +25,7 @@ Monkey Rumble is a minigame where you wear a greegree to turn into a monkey, and
 * Gorilla rumble greegree - 15% speed boost
 * Big banana - 10% more likely to fight purple monkeys
 * Ring of luck - 2% more likely to fight purple monkeys
+* Special Fruit - Lychee 9%, Avocado 6%, Mango 3%
 
 ### **Rewards**
 
@@ -34,7 +35,7 @@ Monkey Rumble is a minigame where you wear a greegree to turn into a monkey, and
 
 **Big Banana **
 
-* Partially a cosmetic item, worn in the shield slot, but also reduces food needed in your monkey form by 25%. 
+* Partially a cosmetic item, worn in the shield slot, but also reduces food needed in your monkey form by 25%.&#x20;
 * Dropped by special monkeys.
 
 **Monkey dye**
