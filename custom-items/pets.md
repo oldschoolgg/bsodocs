@@ -40,11 +40,12 @@ These pets are no longer obtainable, they are discontinued and were obtained fro
 
 {% tabs %}
 {% tab title="Perks" %}
-| Name   | Perk                                                                                           | Source               |
-| ------ | ---------------------------------------------------------------------------------------------- | -------------------- |
-| Cob    | <p>2x Sepulchre speed</p><p>2x Nightmare speed</p>                                             | 2020 Halloween Event |
-| Smokey | <p>10% chance of an extra roll when opening boxes</p><p>1/15 chance of bringing back a box</p> | 2020 Christmas Event |
-| Flappy | Doubles minigame loot (Soul Wars, CoX, Fight Caves, Wintertodt, Rogues Den, Barbarian Assault) | 2021 Birthday Event  |
+| Name     | Perk                                                                                           | Source                                              |
+| -------- | ---------------------------------------------------------------------------------------------- | --------------------------------------------------- |
+| Cob      | <p>2x Sepulchre speed</p><p>2x Nightmare speed</p>                                             | 2020 Halloween Event                                |
+| Smokey   | <p>10% chance of an extra roll when opening boxes</p><p>1/15 chance of bringing back a box</p> | 2020 Christmas Event                                |
+| Flappy   | Doubles minigame loot (Soul Wars, CoX, Fight Caves, Wintertodt, Rogues Den, Barbarian Assault) | 2021 Birthday Event                                 |
+| Gregoyle | 20% boost to gargoyles and Grotesque Guardians                                                 | [2021 Halloween Event](../events/halloween-2021.md) |
 {% endtab %}
 
 {% tab title="No perks" %}
@@ -65,11 +66,10 @@ Note: Corgi and Snappy are no longer obtainable, even by ironmen.
 These pets are a meta-joke, or a meme pet, that serve no real use apart from being a joke.
 {% endhint %}
 
-| **Name**      | **Perk**                                                                                                                              | **Source**                                                                         |
-| ------------- | ------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- |
-| Ishi          | Chance to interrupt commands and change any PvM trip to `=k ogress warrior`                                                           | 1/6,500 from Ogress Warriors                                                       |
-| Hammy         | <p>Can interrupt commands</p><p>Can <code>=feed</code> a random item to Hammy with a 1/10 chance to spare, 1/100 chance to double</p> | <p>1/140 for every<br>51.53m sacrificed.<br>(In 1 command)</p>                     |
-| Frosty        | No perk                                                                                                                               | 2M Dungeoneering Tokens                                                            |
-| Steve         | No perk                                                                                                                               | 1/2,000 from CoX                                                                   |
-| Gregoyle      | No perk                                                                                                                               | Chance of obtaining from Halloween event 2021 by feeding choc'rock via =k gargoyle |
-| Baby duckling | No perk                                                                                                                               | Participate in the Megaduck community event. Obtained once per server.             |
+| **Name**      | **Perk**                                                                                                                              | **Source**                                                             |
+| ------------- | ------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------- |
+| Ishi          | Chance to interrupt commands and change any PvM trip to `=k ogress warrior`                                                           | 1/6,500 from Ogress Warriors                                           |
+| Hammy         | <p>Can interrupt commands</p><p>Can <code>=feed</code> a random item to Hammy with a 1/10 chance to spare, 1/100 chance to double</p> | <p>1/140 for every<br>51.53m sacrificed.<br>(In 1 command)</p>         |
+| Frosty        | No perk                                                                                                                               | 2M Dungeoneering Tokens                                                |
+| Steve         | No perk                                                                                                                               | 1/2,000 from CoX                                                       |
+| Baby duckling | No perk                                                                                                                               | Participate in the Megaduck community event. Obtained once per server. |
