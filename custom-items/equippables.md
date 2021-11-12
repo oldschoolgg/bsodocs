@@ -137,7 +137,7 @@ Additionally, master capes have a perk that is related to the skill that they ar
 | Firemaking   | 2x Wintertodt loot                                                                                           |
 | Woodcutting  | 2x Woodcutting loot                                                                                          |
 | Farming      | 35% seeds saved when equipped (up to 50% with scroll of life), 1/10 per planted seed chance of a mystery box |
-|              |                                                                                                              |
+| Dungeoneering| Improved droprate of Gorajan Shards. (1/500 vs 1/1200 with regular skillcape)                                |
 
 
 
