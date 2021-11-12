@@ -15,7 +15,7 @@
 | Scroll of longevity | 800,000 | 2x increase to slayer task quantitites |
 | Scroll of the hunt | 800,000 | Gives 2x higher chances of impling spawns, and +4 higher limit on birdhouses \(4-&gt;8\) |
 
-Note: Only the scroll of farming and the scroll of longevity are tradeable/useable. To enable these scrolls you must `=use` them, you can only do this once. Other scrolls work out of the bank.
+Note: Only the scroll of farming, the scroll of longevity, and the scroll of the hunt are tradeable/useable. To enable these scrolls you must `=use` them, you can only do this once. Other scrolls work out of the bank.
 
 ### Buyable Gear
 
