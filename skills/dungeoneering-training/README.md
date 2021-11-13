@@ -10,11 +10,21 @@ There are 1-7 floors. Each floor requires +20 DG levels, and increasingly higher
 
 `=dg` to see your tokens and max floor.
 
-While doing dungeoneering in dungeons of Floor 5+, you have a chance of getting a tradeable Gorajan shard. You can combine 2 of these with a nex armor piece to make a gorajan armor piece, using smithing. \(see [Dungeoneering Rewards](dg-rewards.md)\).
+While doing dungeoneering in dungeons of Floor 5+, you have a chance of getting a tradeable Gorajan shard. You can combine 2 of these with a nex armor piece to make a gorajan armor piece, using smithing. (see [Dungeoneering Rewards](dg-rewards.md)).
 
 ### Boosts
 
-You get boosts to your dungeoneering speed from: dung cape OR master dung cape, scroll of teleportation, and gorajan armor. You get negative boosts \(slower\) from doing solo or duo dungeons. You receive less XP if doing a floor lower than your max floor.
+You get boosts to your dungeoneering speed from: dung cape OR master dung cape, scroll of teleportation, and gorajan armor. You get negative boosts (slower) from doing solo or duo dungeons. You receive less XP if doing a floor lower than your max floor.
+
+Dungeoneering boosts, excluding party size, are divided by the number of players in the mass.
+
+#### Ring of Luck (Individual)
 
 * Ring of luck - 5% more likely to find gorajan shards
+* Master Dungeoneering Cape - 2x
 
+#### Dungeoneering
+
+* Gorajan armour - 6% per completed set
+* Party Size - 5% for every person in a mass starting from a party of 2 to a limit of 25%
+* Scroll of Teleportation - 15%
