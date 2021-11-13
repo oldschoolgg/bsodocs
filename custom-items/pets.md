@@ -4,22 +4,22 @@ There are pets exclusive to BSO that provide unique and powerful perks and are r
 
 ## Miscellaneous Pets
 
-| **Pet**    | **Perk**                                                                                                               | **Source**                                                  |
-| ---------- | ---------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------- |
-| Lil Lamb   | Boosts XP from offering bones by 1x-3x                                                                                 | 1/8,000 Minutes of Alching                                  |
-| Scruffy    | 2x fletching speed                                                                                                     | 1/4,000 Minutes of Varrock Agility Course                   |
-| Obis       | <p>2x Zalcano Boost</p><p>2x Runecraft boost (uses 3x essence)</p><p>Brings back random runes (non-PvM trips only)</p> | 1/5,000 Minutes of Runecrafting                             |
-| Plopper    | <p>Crops never die</p><p>4x farming yield</p>                                                                          | 5x more common than Tangleroot while Farming                |
-| Shelldon   | 2x fishing speed                                                                                                       | 1/8,000 Minutes of Fishing                                  |
-| Harry      | <p>Brings back bananas</p><p>Increases mark of grace rate</p><p>Eliminates level-scaling for marks of grace </p>       | 1/1,600 Minutes of Ardougne Agility Course                  |
-| Klik       | Automatically smelts ore from mining and cooks fish from fishing (no xp given)                                         | 1/7,500 Minutes of Killing Dragons                          |
-| Remy       | 2x cooking speed                                                                                                       | 1/5,000 Minutes of Cooking                                  |
-| Skipper    | <p>Removes tax from selling items</p><p>Adds 40% to sacrifice value</p><p>Gives more GP on dailies </p>                | 1/1,600 Minutes of Penguin Agility Course                   |
-| Takon      | 5x Smithing boost (not smelting)                                                                                       | 1/4,500 from CoX                                            |
-| Wilvus     | <p>Brings back pickpocket loot</p><p>2x thieving speed</p>                                                             | 1/2,000 Minutes of Thieving                                 |
-| Wintertoad | Halves Fight Caves time                                                                                                | <p>1/100 Trips of Wintertodt</p><p>(minimum 20 minutes)</p> |
-| Zak        | Increases maximum trip length by 40%                                                                                   | <p>1/6,500 Minutes of Smelting</p><p>(requires 10 QP)</p>   |
-| Voidling   | Can alch your items while doing any activity                                                                           | Vasa Magus                                                  |
+| **Pet**    | **Perk**                                                                                                                               | **Source**                                                  |
+| ---------- | -------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------- |
+| Lil Lamb   | Boosts XP from offering bones by 1x-3x                                                                                                 | 1/8,000 Minutes of Alching                                  |
+| Scruffy    | 2x fletching speed                                                                                                                     | 1/4,000 Minutes of Varrock Agility Course                   |
+| Obis       | <p>2x Zalcano Boost</p><p>2x Runecraft boost (uses 3x essence)</p><p>Brings back random runes (non-PvM trips only)</p>                 | 1/5,000 Minutes of Runecrafting                             |
+| Plopper    | <p>Crops never die</p><p>4x farming yield</p>                                                                                          | 5x more common than Tangleroot while Farming                |
+| Shelldon   | 2x fishing speed                                                                                                                       | 1/8,000 Minutes of Fishing                                  |
+| Harry      | <p>Brings back bananas</p><p>Increases mark of grace rate</p><p>Eliminates level-scaling for marks of grace </p>                       | 1/1,600 Minutes of Ardougne Agility Course                  |
+| Klik       | <p>Automatically smelts ore from mining and cooks fish from fishing (no xp given)</p><p>3x tanning boost (Does not stack with dgh)</p> | 1/7,500 Minutes of Killing Dragons                          |
+| Remy       | 2x cooking speed                                                                                                                       | 1/5,000 Minutes of Cooking                                  |
+| Skipper    | <p>Removes tax from selling items</p><p>Adds 40% to sacrifice value</p><p>Gives more GP on dailies </p>                                | 1/1,600 Minutes of Penguin Agility Course                   |
+| Takon      | 5x Smithing boost (not smelting)                                                                                                       | 1/4,500 from CoX                                            |
+| Wilvus     | <p>Brings back pickpocket loot</p><p>2x thieving speed</p>                                                                             | 1/2,000 Minutes of Thieving                                 |
+| Wintertoad | Halves Fight Caves time                                                                                                                | <p>1/100 Trips of Wintertodt</p><p>(minimum 20 minutes)</p> |
+| Zak        | Increases maximum trip length by 40%                                                                                                   | <p>1/6,500 Minutes of Smelting</p><p>(requires 10 QP)</p>   |
+| Voidling   | Can alch your items while doing any activity                                                                                           | Vasa Magus                                                  |
 
 ## Resource Gathering & Loot Effecting pets
 
