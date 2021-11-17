@@ -4,12 +4,26 @@
 
 ## Skills
 
+* [Combat Skills](skills/combat-skills.md)
+* [Prayer](skills/prayer.md)
+* [Slayer](skills/slayer.md)
+* [Thieving](skills/thieving.md)
+* [Herblore](skills/herblore.md)
+* [Runecraft](skills/runecraft.md)
+* [Construction](skills/construction.md)
+* [Agility](skills/agility.md)
+* [Crafting](skills/crafting.md)
+* [Fletching](skills/fletching.md)
+* [Hunter](skills/hunter.md)
+* [Mining](skills/mining.md)
+* [Smithing](skills/smithing.md)
+* [Fishing](skills/fishing.md)
+* [Cooking](skills/cooking.md)
+* [Firemaking](skills/firemaking.md)
+* [Woodcutting](skills/woodcutting.md)
+* [Farming](skills/farming.md)
 * [Dungeoneering](skills/dungeoneering-training/README.md)
   * [Rewards](skills/dungeoneering-training/dg-rewards.md)
-* [Prayer](skills/prayer.md)
-* [Runecraft](skills/runecraft.md)
-* [Agility](skills/agility.md)
-* [Slayer](skills/slayer.md)
 
 ## Bosses
 
@@ -26,6 +40,7 @@
 
 ## Minigames
 
+* [Emerged Zuk Inferno](minigames/emerged-zuk-inferno.md)
 * [Mad Marimbo's Monkey Rumble](minigames/mad-marimbos-monkey-rumble/README.md)
   * [Monkey Tame](minigames/mad-marimbos-monkey-rumble/monkey-tame.md)
   * [Monkey Rumble Store](minigames/mad-marimbos-monkey-rumble/monkey-rumble-store.md)

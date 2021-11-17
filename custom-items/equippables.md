@@ -1,6 +1,6 @@
 # Equippables
 
-In BSO, there are various types of custom weapons and armor that have good stats or give bonuses at various activities.
+In BSO, there are many types of custom weapons and armor that have higher than usual stats or give bonuses to various skilling activities or bosses.
 
 ### First Age
 
@@ -34,7 +34,7 @@ Note: Currently, the greathammer, when equipped in conjunction with a Takon, wil
 
 #### Dwarven Armor
 
-Dwarven armor is smithable from Dwarven Bars with 120 Smithing and is also dropped by King Goldemar (see [King Goldemar](../bosses/king-goldemar.md)). It currently provides no boosts to content but provides high crush defence.
+Dwarven armor is smithable from Dwarven Bars with 120 Smithing and is also dropped by King Goldemar (see [King Goldemar](../bosses/king-goldemar.md)). It currently is only used at Ignecarus.
 
 | Armor Piece       | Bars Needed |
 | ----------------- | ----------- |

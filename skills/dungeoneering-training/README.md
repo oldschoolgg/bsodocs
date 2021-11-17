@@ -23,6 +23,10 @@ Dungeoneering boosts, excluding party size, are divided by the number of players
 * Ring of luck - 5% more likely to find gorajan shards
 * Master Dungeoneering Cape - 2x
 
+### Optimal Experience
+
+The best way to train dungeoneering is to lamp to either 99, from which you do floor 6 to 120 (or you can lamp to 120 to skip extra grinding, but it is **very** expensive.) When you reach 120, you can do floor 7 for optimal rates.
+
 #### Dungeoneering
 
 * Gorajan armour - 6% per completed set

@@ -11,10 +11,10 @@ Note: If you have a [Cob](../custom-items/pets.md#discontinued-pets), the fastes
 ### BSO Specific Content
 
 * Daemonheim agility course - Roughly 1.3m xp an hour and chance to find dungeoneering dyes and gorajan shards
-* Monkey Rumble - While doing this minigame you can receive agility experience at about 1/4th of the strength xp you receive.
+* Monkey Rumble - While doing this minigame you can receive agility experience at about 1/4th of the strength xp you receive
+* Sepulchre Floors 6/7
 
 ### Boosts
 
 * Cob - 2x speed boost at Hallowed Supulchre
 * Harry - Increases mark of grace rate and eliminates level-scaling for marks of grace
-

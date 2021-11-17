@@ -1,3 +1,9 @@
+---
+description: >-
+  This is now a **Discontinued** event, all information in this page is no
+  longer relevant to BSO, and only remains for informational purposes.
+---
+
 # Halloween 2021
 
 ### Prerequisites
