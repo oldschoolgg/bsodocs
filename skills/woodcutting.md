@@ -6,4 +6,4 @@
 
 ### Optimal Experience
 
-The best experience rates for Woodcutting are obtained from doing Sulliusceps from 65 to 105, and then doing Elder Trees from 105 Woodcutting forward.
+The best experience rates for Woodcutting are obtained from doing Sulliusceps from 65 to 105, and then doing Elder Trees from 105 Woodcutting forward. You will receive rates of roughly 2m xp/h with this method.

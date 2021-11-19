@@ -18,7 +18,7 @@ Block and Roll (5000 Slayer Points) - Allows you to block 3 extra tasks
 
 ### Optimal Experience
 
-Your block list, when aiming for optimal Slayer experience, should consist of the following: (This is assuming you have the elite Lumbridge/Draynor diary completed, and have unlocked Block and Roll. If not, then the tasks are listed in order of priority. Also note that you should **only use Duradel for optimal rates**, and you can default to using him with the command `=slayertask duradel --save`)
+Your block list, when aiming for optimal Slayer experience, should consist of the following: (This is assuming you have the elite Lumbridge/Draynor diary completed, and have unlocked Block and Roll. If not, then the tasks are listed in order of priority. Also note that you should **only use Konar for optimal rates**, and you can default to using him with the command `=slayertask konar --save`)
 
 1. Cave Kraken
 2. Black Demons
@@ -32,7 +32,7 @@ Your block list, when aiming for optimal Slayer experience, should consist of th
 
 You should **always** skip the following tasks, assuming you have the points to do so:
 
-Steel Dragons, Iron Dragons, Fossil Island Wyverns, Mutated Zygomites, Aberrant Spectres, Cave Horrors, Ankou, and Waterfiends.&#x20;
+Steel Dragons, Iron Dragons, Fossil Island Wyverns, Mutated Zygomites, Aberrant Spectres, Cave Horrors, Ankou, Aviansies, Brine Rats, and Waterfiends.&#x20;
 
 Unlock the following slayer task extensions, and also use the command `=autoslay ehp --save`:
 

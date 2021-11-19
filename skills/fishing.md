@@ -7,4 +7,4 @@
 
 ### Optimal Experience
 
-The best experience rates for fishing are obtained while catching Rocktails with a Shelldon equipped.
+The best experience rates for fishing are obtained while catching Rocktails with a Shelldon equipped. You can receive roughly 1.6m xp/h with this method.

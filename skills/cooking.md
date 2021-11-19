@@ -8,4 +8,4 @@
 
 ### Optimal Experience
 
-The best experience rates for Cooking are obtained while cooking Rocktails with a Remy and Dwarven Gauntlets equipped.
+The best experience rates for Cooking are obtained while cooking Rocktails with a Remy and Dwarven Gauntlets equipped. You can receive rates of roughly 3.3m xp/h with this method.

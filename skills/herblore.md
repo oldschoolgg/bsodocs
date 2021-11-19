@@ -12,4 +12,4 @@ The Herblore Master Cape, and Dragon's Fury (a potion made at 120 herblore using
 
 ### Optimal Experience
 
-The fastest experience rates are obtained through making Super Combat potions, which are unlocked at level 90 Herblore. An alternative, experimental method, is to make Dragon's Fury potions, where the rates are supposedly the highest. It is highly recommended to have a lot of spare cash to dump for this skill, as Super Combat potions are currently **useless**, and Dragon's Fury potions are rarely used, and when used, only one is needed.
+The fastest experience rates are obtained through making Heat Res. Brews , which are unlocked at level 105 Herblore. You can make roughly 3m xp/h with these rates. An alternative, experimental method, is to make Dragon's Fury potions, where the rates are roughly 14.6m xp/h.

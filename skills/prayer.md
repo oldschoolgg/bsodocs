@@ -6,6 +6,8 @@ It is recommended to offer dragon bones up until level 70 when you unlock the ab
 
 Usage of the custom pet, Lil Lamb, is very useful to speed up the process of gaining prayer xp. The perk of Lil Lamb is to boost XP from offering bones by 1x-3x multiplier.&#x20;
 
+Through this method, it is possible to reach rates of 17.2m xp/h
+
 **Note: **When going for 500m xp, please use `=m lvl prayer`to determine how much xp you have gained after each trip as the trip report may be inaccurate in displaying your full xp gained per trip.
 
 ### Master Skill Cape

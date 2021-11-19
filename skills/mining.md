@@ -7,4 +7,4 @@
 
 ### Optimal Experience
 
-The best experience rates for Mining are obtained while doing the Volcanic Mine activity with a Dwarven Pickaxe equipped.
+The best experience rates for Mining are obtained while doing the Volcanic Mine activity with a Dwarven Pickaxe equipped. You will get rates of roughly 1m xp/h.

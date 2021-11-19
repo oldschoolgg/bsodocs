@@ -8,4 +8,4 @@
 
 ### Optimal Experience
 
-The best experience rates for Construction are obtained building Mahogany tables to 105, and from there you can build Elder tables for the best xp rates.
+The best experience rates for Construction are obtained building Mahogany tables to 105, and from there you can build Elder tables for roughly 10m xp/h.

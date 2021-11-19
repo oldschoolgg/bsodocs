@@ -12,4 +12,4 @@
 
 ### Optimal Experience
 
-The fastest experience is obtained while wearing full Blacksmith Equipment, using a Dwarven Greathammer and Takon, smithing Rune Platebodies, where you can obtain roughly 6.2m xp/h.
+The fastest experience is obtained while wearing full Blacksmith Equipment, using a Dwarven Greathammer and Takon, smithing Rune Platebodies, where you can obtain roughly 3.2m xp/h.

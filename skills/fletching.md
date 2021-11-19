@@ -11,4 +11,6 @@ Currently BSO Fletching has several custom items, those being:
 
 ### Optimal Experience
 
-The best experience rates for fletching are obtained fletching Hellfire arrows at 110 Fletching with first age, Scruffy,  the Dwarven Knife, and any master cape (Fletching when you have reached 500m xp) Prior to 110 Fletching, several methods are viable to obtain 110 Fletching, so they are not listed here.
+The best experience rates for fletching are obtained fletching Hellfire arrows at 110 Fletching with first age, Scruffy, the Dwarven Knife, and any master cape (Fletching when you have reached 500m xp) Prior to 110 Fletching, several methods are viable to obtain 110 Fletching, so they are not listed here.
+
+Note: It is not possible to obtain a truly accurate xp rate for hellfire arrows, as if you theoretically have enough scales you can get 560m xp/h making them.
