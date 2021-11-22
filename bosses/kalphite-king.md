@@ -32,6 +32,6 @@ You should use the best melee gear you have.
 * **Perfect Chitin (1/2500)**: Currently does not have a use.
 * **Drygore weapons (1/150 for any): **A set of 6 drygore weapons which are very powerful, and used in many places.
   * **Drygore Rapier** + **Offhand Drygore Rapier** - BiS CoX Points and CoX boost
-  * **Drygore Mace** + **Offhand Drygore Rapier** - BiS Kalphite King
-  * **Drygore Longsword** + **Offhand Drygore Longsword** - BiS King Goldemar
+  * **Drygore Mace** + **Offhand Drygore Mace** - BiS Kalphite King
+  * **Drygore Longsword** + **Offhand Drygore Longsword** - BiS King Goldemar and Ignecarus
 
