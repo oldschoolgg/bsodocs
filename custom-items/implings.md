@@ -9,6 +9,6 @@ A single magic banana is consumed per catch and can be obtained by casting the `
 
 **Eternal impling:** (requires 99 hunter) Drops magic-related items (staves, runes, orbs) and grandmaster clues. 1 in 1 million chance of Eternal crystal. Eternal implings use magic to make themselves invisible to hide, thus you can only catch them if you have a Vasa cloak in your bank or equipped.
 
-**Mystery impling:** (requires 105 hunter) Drops a tradeable/untradeable/pet/equippable mystery box, always drops a grandmaster clue and has a 1 in 1 million chance of dropping another mystery impling jar.
+**Mystery impling:** (requires 105 hunter) Drops a tradeable/untradeable/pet/equippable mystery box, can drop a grandmaster clue and has a 1 in 1 million chance of dropping another mystery impling jar.
 
 You can view the collection log for implings with `=cl implings`.
