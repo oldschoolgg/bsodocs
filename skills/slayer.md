@@ -14,7 +14,9 @@ Scroll of Longevity - Obtained through Dungeoneering, doubles the length of slay
 
 Size Matters - Doubles the length of slayer tasks
 
-Block and Roll (5000 Slayer Points) - Allows you to block 3 extra tasks
+Block and Roll (5000 Slayer Points) - Allows you to block 3 extra tasks\
+\
+
 
 ### Optimal Experience
 

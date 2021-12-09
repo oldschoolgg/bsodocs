@@ -11,7 +11,7 @@
 ### Boosts
 
 * Scroll of Farming - Gives +2 patches of all types. Obtained through [Dungeoneering](dungeoneering-training/dg-rewards.md#buyable-boosts-utility), or purchased from other players. You must =use Scroll of Farming to receive the bonus patches.
-* [Master Farming Outfit](../custom-items/equippables.md#master-farmer-outfit) - Gives +3 patches of all types. Obtained via crafting with 110 Crafting using Ent hides dropped from [Treebeard](../bosses/treebeard.md). Does not need to be equipped.
+* [Master Farming Outfit](../custom-items/equippables.md#master-farmer-outfit) - Gives +3 patches of all types. Obtained via crafting with 110 Crafting using Ent hides dropped from [Treebeard](../bosses/demi-bosses/treebeard.md). Does not need to be equipped.
 * Scroll of Life - Save 15% seeds. Obtained through [Dungeoneering](dungeoneering-training/dg-rewards.md#buyable-boosts-utility)
 * [Farming Master Cape](../custom-items/equippables.md#master-capes) - Save 35% seeds. 1/10 chance per seed of a mystery box.
 * Farming Skill Cape - +5% Crop yield.

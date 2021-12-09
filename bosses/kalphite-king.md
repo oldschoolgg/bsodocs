@@ -2,7 +2,7 @@
 
 The Kalphite King is a strong boss, known for the strong Drygore weapons it drops.
 
-You can kill Kalphite King using `=kk `or, `=kk solo` to solo.
+You can kill Kalphite King using `=kk` or, `=kk solo` to solo.
 
 ## Requirements
 
@@ -28,9 +28,9 @@ You should use the best melee gear you have.
 
 ![Loot from 10,000 Kalphite King](<../.gitbook/assets/osbot (3).png>)
 
-* **Baby Kalphite King (1/6000): **A pet with no use.
+* **Baby Kalphite King (1/6000):** A pet with no use.
 * **Perfect Chitin (1/2500)**: Currently does not have a use.
-* **Drygore weapons (1/150 for any): **A set of 6 drygore weapons which are very powerful, and used in many places.
+* **Drygore weapons (1/150 for any):** A set of 6 drygore weapons which are very powerful, and used in many places.
   * **Drygore Rapier** + **Offhand Drygore Rapier** - BiS CoX Points and CoX boost
   * **Drygore Mace** + **Offhand Drygore Mace** - BiS Kalphite King
   * **Drygore Longsword** + **Offhand Drygore Longsword** - BiS King Goldemar and Ignecarus

@@ -30,13 +30,15 @@
 * [Ignecarus](bosses/ignecarus/README.md)
   * [Igne Tame](bosses/ignecarus/igne-tame.md)
 * [Vasa Magus](bosses/vasa-magus.md)
-* [Treebeard](bosses/treebeard.md)
 * [Kalphite King](bosses/kalphite-king.md)
 * [King Goldemar](bosses/king-goldemar.md)
 * [Nex](bosses/nex.md)
 * [Chambers of Xeric](bosses/chambers-of-xeric.md)
-* [Malygos](bosses/malygos.md)
-* [Sea Kraken](bosses/sea-kraken.md)
+* [Demi Bosses](bosses/demi-bosses/README.md)
+  * [Malygos](bosses/demi-bosses/malygos.md)
+  * [Sea Kraken](bosses/demi-bosses/sea-kraken.md)
+  * [Queen Black Dragon](bosses/demi-bosses/queen-black-dragon.md)
+  * [Treebeard](bosses/demi-bosses/treebeard.md)
 
 ## Minigames
 
@@ -46,8 +48,9 @@
   * [Monkey Rumble Store](minigames/mad-marimbos-monkey-rumble/monkey-rumble-store.md)
 * [Ourania Delivery Service (ODS)](minigames/ourania-delivery-service-ods.md)
 
-## Custom Content <a href="custom-items" id="custom-items"></a>
+## Custom Content <a href="#custom-items" id="custom-items"></a>
 
+* [Custom Monsters](custom-items/custom-monsters.md)
 * [Item Contracts](custom-items/item-contracts.md)
 * [Pets](custom-items/pets.md)
 * [Equippables](custom-items/equippables.md)

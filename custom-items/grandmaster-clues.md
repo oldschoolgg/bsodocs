@@ -34,26 +34,31 @@ The general loot table from Grandmaster Caskets consists of:
 
 ### Unique Loot Table
 
-* Malygos and Ignecarus Masks
+The Grandmaster loot system operates on rolls, of which there are 6-11 for each casket opened. Because of this, the drop rate varies based on the rolls you receive, so it will be represented as X.
+
+* Malygos and Ignecarus Masks (x/50)
 
 ![Igne -> Maly](../.gitbook/assets/image\_2021-10-16\_012247.png)
 
-* [Deathtouched Dart](https://bso-wiki.oldschool.gg/custom-items/misc)
+* [Deathtouched Dart](https://bso-wiki.oldschool.gg/custom-items/misc) (x/3000)
 
 ![](<../.gitbook/assets/dt dart.png>)
 
-* [Dyes](https://bso-wiki.oldschool.gg/custom-items/dyes?q=dyes)
+* [Dyes](https://bso-wiki.oldschool.gg/custom-items/dyes?q=dyes) (x/10000)
 
 ![Shadow -> Ice -> Blood -> Third Age (drops in pairs of two)](../.gitbook/assets/dyes.png)
 
-* [First Age Equipment](https://bso-wiki.oldschool.gg/custom-items/equippables#first-age)
+* [First Age Equipment](https://bso-wiki.oldschool.gg/custom-items/equippables#first-age) (x/130000)
 
 ![Tiara -> Amulet -> Cape -> Bracelet -> Ring](<../.gitbook/assets/first age.png>)
 
-* [Dwarven Blessing](https://bso-wiki.oldschool.gg/custom-items/equippables#dwarven-equipment)
+* [Dwarven Blessing](https://bso-wiki.oldschool.gg/custom-items/equippables#dwarven-equipment) (x/10000)
 
 ![](../.gitbook/assets/db.png)
 
-* [Clue Hunter](https://bso-wiki.oldschool.gg/custom-items/equippables#clue-hunter-outfit)
+* [Clue Hunter](https://bso-wiki.oldschool.gg/custom-items/equippables#clue-hunter-outfit) (x/2500)
 
 ![Helm of Raedwald -> CH Garb -> CH Gloves -> CH Trouser -> CH Boots -> CH Cloak](../.gitbook/assets/ch.png)
+
+* Blabberbeak (x/20000)
+

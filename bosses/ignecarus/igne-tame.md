@@ -7,7 +7,7 @@ You can send the dragon tame out on PvM trips and it will get you loot.
 ## Hatching the Tame
 
 In order to hatch the tame you must build a nursery with `=nursery build`.\
-You will need 105 Construction along with 200 elder planks, 10 marble blocks and 500 feathers to build the nursery. 
+You will need 105 Construction along with 200 elder planks, 10 marble blocks and 500 feathers to build the nursery.&#x20;
 
 Once the nursery is built you can then fuel the nursery with `=nursery fuel`\
 Fuelling the nursery will require 2,500 elder logs and 10,000 coal.
@@ -29,7 +29,7 @@ For more information on tame commands see [Tames](../../custom-items/tames.md)
 ## Boosts
 
 You can feed the dragon tame certain items with `=tame feed [item]`\
-**Note: **Feeding any other items (food included) will have no effect\
+**Note:** Feeding any other items (food included) will have no effect\
 
 
 | Item         | Boost                       |

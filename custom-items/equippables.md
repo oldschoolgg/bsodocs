@@ -14,6 +14,8 @@ First Age equipment is obtained at a very rare (currently unknown) rate from [Gr
 | First Age Tiara    | 1% Overall XP Boost |
 | First Age Cape     | 1% Overall XP Boost |
 
+![](../.gitbook/assets/1a.png)
+
 Having the entire First Age set equipped will give the player an extra 1% boost, for a total of 6%.
 
 ### Dwarven Equipment
@@ -44,6 +46,8 @@ Dwarven armor is smithable from Dwarven Bars with 120 Smithing and is also dropp
 | Dwarven Boots     | 2           |
 | Dwarven Gloves    | 2           |
 
+![](../.gitbook/assets/dwarven.png)
+
 #### Other Dwarven Gear
 
 These dwarven gear are unlike the previous in that they are not smithable from Dwarven bars and instead are rare drops.
@@ -54,7 +58,7 @@ These dwarven gear are unlike the previous in that they are not smithable from D
 
 ### Abyssal Equipment
 
-Abyssal equipment can be obtained by killing [Malygos](../bosses/malygos.md).&#x20;
+Abyssal equipment can be obtained by killing [Malygos](../bosses/demi-bosses/malygos.md).&#x20;
 
 * Abyssal Cape - Provides an aura which reduces food consumption by 50%
 * Dragon Hunter Lance - Provides a large boost against dragons (varies)
@@ -63,9 +67,11 @@ Abyssal equipment can be obtained by killing [Malygos](../bosses/malygos.md).&#x
 
 The following items can be obtained by killing Nex (see [Nex](../bosses/nex.md)). These items all have very high bonuses in their respective style, Pernix - range, Torva - melee, and Virtus - magic.&#x20;
 
-* **Pernix**: Cowl, Body, Chaps, Gloves, Boots
+* **Pernix**: Cowl, Body, Chaps, Gloves, Boots, Zaryte Bow
 * **Torva**: Full Helm, Platebody, Platelegs, Gloves, Boots
 * **Virtus**: Hood, Rob Top, Robe Legs, Gloves, Boots, Wand Book
+
+![](../.gitbook/assets/pernix.png) ![](../.gitbook/assets/virtus.png) ![](../.gitbook/assets/torva.png)
 
 These items can also be upgraded (except for Virtus Wand and Book) using Gorajan Shards to make Gorajan Armor.
 
@@ -90,6 +96,8 @@ The Clue Hunter outfit can be obtained as a rare drop from Grandmaster Caskets (
 * Clue Hunter Boots
 * Clue Hunter Gloves
 
+![](<../.gitbook/assets/clue hunter.png>)
+
 ### Master Farmer Outfit
 
 The Master Farmer outfit is craftable with 110 Crafting using Ent hides dropped from Treebeard (see [Bosses](broken-reference)). The outfit gives +3 extra maximum patches, for every type of patch. This stacks with the +2 patches from the Scroll of farming. It does not have to be equipped.
@@ -102,9 +110,19 @@ The Master Farmer outfit is craftable with 110 Crafting using Ent hides dropped 
 | Master Farmer Boots  | 1               |
 | Master Farmer Gloves | 1               |
 
+![](../.gitbook/assets/masterfarmer.png)
+
 ### Blacksmith Equipment
 
 The Blacksmith set is a reward from Blacksmith Crates, which drop at a rate of roughly one in 75 hours from [King Goldemar](https://bso-wiki.oldschool.gg/bosses/king-goldemar?q=blacksmith). The full set is required to both smith dwarven bars and tools. When the full set is equipped, a 10% xp boost is given when smelting bars at the blast furnace.
+
+![](../.gitbook/assets/blacksmith.png)
+
+### Dragonbone Equipment
+
+Dragonbone Equipment is an ornamental version of normal Dragon and Infinity equipment, and is created with Dragonbone Ornament Kits, which are an uncommon drop Queen Black Dragon.&#x20;
+
+![Dragonbone Melee](<../.gitbook/assets/dragonbone melee.png>) ![Dragonbone Mage](<../.gitbook/assets/dragonbone mage.png>)
 
 ### Master Capes
 
@@ -153,3 +171,23 @@ There are 4 expert capes that you can buy once you have bought all required mast
 | Gatherers   | <p>Farming/Fishing/Hunter/Mining/</p><p>Woodcutting</p>                                                |
 | Support     | Agility/Dungeoneering/Thieving/Slayer                                                                  |
 | Artisans    | <p>Crafting/Construction/Cooking/</p><p>Firemaking/Fletching/Herblore/</p><p>Runecrafting/Smithing</p> |
+
+## Polypore Equipment
+
+### Mycelium
+
+**Mycelium web armour** is a low level magic armour that can be upgraded to Ganodermic or Grifolic equipment using Grifolic or Ganodermic flakes.
+
+![](../.gitbook/assets/mycelium.png)
+
+### Grifolic
+
+**Grifolic equipment** is a medium level set of magical equipment created by upgrading Mycelium Web Equipment with Grifolic Flakes.
+
+![](../.gitbook/assets/grifolic.png)
+
+### Ganodermic
+
+**Grifolic equipment** is a mid-high level set of magical equipment created by upgrading Mycelium Web armour with Ganodermic Flakes.
+
+![](../.gitbook/assets/ganodermic.png)

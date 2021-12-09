@@ -33,7 +33,7 @@ Monkey Rumble is a minigame where you wear a greegree to turn into a monkey, and
 
 * The biggest reward, is the rare Monkey Egg, which is given to you by special monkeys in fights. See [Monkey Tame](monkey-tame.md) for more information.
 
-**Big Banana **
+**Big Banana**&#x20;
 
 * Partially a cosmetic item, worn in the shield slot, but also reduces food needed in your monkey form by 25%.&#x20;
 * Dropped by special monkeys.
@@ -43,7 +43,7 @@ Monkey Rumble is a minigame where you wear a greegree to turn into a monkey, and
 * Creates the following dyed items: Dwarven warnana Twisted bownana, Zaryte bownana, Hellfire bownana
 * Entirely cosmetic.
 * Received from chimplings, special monkeys, and buyable from the shop.
-* Items that are dyed, _cannot _be undyed.
+* Items that are dyed, _cannot_ be undyed.
 
 **Marimbo statue**
 

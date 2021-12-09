@@ -17,7 +17,7 @@ You can kill Malygos with `=k malygos` or `=k mally`. To mass Malygos you can st
 
 ## Gear
 
-![BiS Defensive Gear for Malygos](../.gitbook/assets/bis_mally.png)
+![BiS Defensive Gear for Malygos](../../.gitbook/assets/bis\_mally.png)
 
 ## Boosts
 
@@ -26,22 +26,21 @@ You can kill Malygos with `=k malygos` or `=k mally`. To mass Malygos you can st
 * Dragon Warhammer
 * Bandos Godsword
 * Ancient Rejuvenation Pool
-* Hellfire Bow 
+* Hellfire Bow&#x20;
 
 ## Loot
 
 * Abyssal Thread - Upgrades the giant pouch to hold more essence
-* Abyssal Cape - 50% Damage Reduction \(50% less food needed\), also required to make the Vasa Cloak
+* Abyssal Cape - 50% Damage Reduction (50% less food needed), also required to make the Vasa Cloak
 * Abyssal Dragon Bones - 5x more XP than superior dragon bones, also a secondary for Dragons Fury potions
 * Dragon Hunter Lance
-* [Ori](../custom-items/pets.md#resource-gathering-and-loot-effecting-pets)
+* [Ori](../../custom-items/pets.md#resource-gathering-and-loot-effecting-pets)
 
-| Uniques Drop Table | Drop Rate |
-| :--- | :--- |
-| Ori | 1/3000 |
-| Abyssal Cape | 1/2600 |
-| Abyssal Thread | 1/1024 |
-| Dragon Hunter Lance | 1/1024 |
-| Lump Of Crystal | 1/100 |
-| Clue scroll \(grandmaster\) | 1/140 |
-
+| Uniques Drop Table        | Drop Rate |
+| ------------------------- | --------- |
+| Ori                       | 1/3000    |
+| Abyssal Cape              | 1/2600    |
+| Abyssal Thread            | 1/1024    |
+| Dragon Hunter Lance       | 1/1024    |
+| Lump Of Crystal           | 1/100     |
+| Clue scroll (grandmaster) | 1/140     |
