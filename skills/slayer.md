@@ -14,6 +14,8 @@ Scroll of Longevity - Obtained through Dungeoneering, doubles the length of slay
 
 Size Matters - Doubles the length of slayer tasks
 
+Pore Decisions - Unlocks tasks within the [Polypore Dungeon](https://bso-wiki.oldschool.gg/custom-items/custom-monsters#polypore-dungeon)
+
 Block and Roll (5000 Slayer Points) - Allows you to block 3 extra tasks\
 \
 

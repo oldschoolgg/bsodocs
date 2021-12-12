@@ -191,3 +191,5 @@ There are 4 expert capes that you can buy once you have bought all required mast
 **Grifolic equipment** is a mid-high level set of magical equipment created by upgrading Mycelium Web armour with Ganodermic Flakes.
 
 ![](../.gitbook/assets/ganodermic.png)
+
+The Polypore Staff is another reward from monsters inside the [Polypore Dungeon](https://bso-wiki.oldschool.gg/custom-items/custom-monsters#polypore-dungeon), and currently has no use.
