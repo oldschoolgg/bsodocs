@@ -63,4 +63,5 @@
 ## Events
 
 * [Halloween 2021](events/halloween-2021.md)
+* [Christmas 2021](events/christmas-2021.md)
 * [Lottery](events/lottery.md)
