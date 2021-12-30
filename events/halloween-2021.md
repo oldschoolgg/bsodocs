@@ -27,7 +27,7 @@ The event can be started by using the command `=trickortreat or =tot` This comma
 
 It gives various Halloween themed candies and foods as a result, including: Choc'rock, Chocolified skull, Eyescream, Rotten Sweets, Toffeet, Candy Teeth, Hairyfloss, Goblinfinger Soup, Benny's Brain Brew, and Roasted Newt. (In order below)&#x20;
 
-![](<../.gitbook/assets/image (10).png>)
+![](<../.gitbook/assets/image (10) (1).png>)
 
 Four human pieces (those being the Human Appendage, Sliced Femur, Human Blood, and Human Tooth) can be found while doing farming trips at a rate of one in two-hundred minutes, upon which the trip return message will have an attached phrase which can vary.
 

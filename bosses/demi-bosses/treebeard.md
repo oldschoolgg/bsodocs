@@ -10,9 +10,17 @@ Treebeard is an ent-like boss that drops mostly seeds and herbs. You will need d
 
 ## Gear
 
+Below are some example gear setups for Treebeard. Both of these setups use 60HP/kill in food.
+
+![](<../../.gitbook/assets/image (10).png>)
+
+![](<../../.gitbook/assets/image (11).png>)\
+Note: The gloves are gorajan ranger and the boots are gorajan mage. You wil also have to satisfy the minimum magic attack required in your mage setup.
+
 ## Boosts
 
-* Ancient Rejuvenation Pool
+* Ancient Rejuvenation Pool - 10%
+* Hellfire Bow - 3x
 
 ## Loot
 
