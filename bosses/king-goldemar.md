@@ -12,15 +12,15 @@ You can use the command : `=kg`  to begin
 
 ## Gear
 
-**BiS Gear:** Gorajan warrior top, Abyssal cape, Gorajan warrior boots, Gorajan warrior gloves, Gorajan warrior helmet, Gorajan warrior legs, Brawler's hook necklace, Warrior ring (i), Offhand drygore longsword, Drygore longsword
+**BiS Gear:** Gorajan warrior top, TzKal cape, Gorajan warrior boots, Gorajan warrior gloves, Gorajan warrior helmet, Gorajan warrior legs, Brawler's hook necklace, Warrior ring (i), Offhand drygore longsword, Drygore longsword
 
-![Setup with RoL](<../.gitbook/assets/image (8).png>)
+![BiS Setup with RoL](../.gitbook/assets/kk\_bis\_rol.png)
 
 ## Boosts
 
-**Item Boosts:** 
+**Item Boosts:**&#x20;
 
-Drygore longsword: 10%, Offhand drygore longsword: 5%, Gorajan warrior helmet: 2%, Gorajan warrior top: 4%, Gorajan warrior legs: 2%, Gorajan warrior gloves: 1%, Gorajan warrior boots: 1%, Brawler's hook necklace: 4% 
+Drygore longsword: 10%, Offhand drygore longsword: 5%, Gorajan warrior helmet: 2%, Gorajan warrior top: 4%, Gorajan warrior legs: 2%, Gorajan warrior gloves: 1%, Gorajan warrior boots: 1%, Brawler's hook necklace: 4%&#x20;
 
 ## Loot
 
@@ -33,7 +33,7 @@ Drygore longsword: 10%, Offhand drygore longsword: 5%, Gorajan warrior helmet: 2
 
 ## Extra Information
 
-The most coveted drop from King Goldemar is the Broken Dwarven Warhammer, which when repaired becomes the Dwarven Warhammer (DWWH). When equipped in any gear setup, it provides a 40% speed boost to all  =k PVM activities. This does not include Nex, Vasa Magus, Ignecarus. 
+The most coveted drop from King Goldemar is the Broken Dwarven Warhammer, which when repaired becomes the Dwarven Warhammer (DWWH). When equipped in any gear setup, it provides a 40% speed boost to all  =k PVM activities. This does not include Nex, Vasa Magus, Ignecarus.&#x20;
 
 Players can equip a Ring of Luck, obtained via Grandmaster Clue Scrolls, to increase the drop rate of receiving the Broken Dwarven warhammer drop. **Note: If Participating in a mass, only 1 member of the party needs to have a Ring of Luck equipped to receive the increased drop rate.**
 
