@@ -20,6 +20,7 @@
 * Ardougne Elite Diary - 4% speed boost
 * Ring of Endurance - 10% speed boost
 * Farmers Outfit - 2.5% bonus exp. Does not need to be equipped.
+* 3000 QP - Unlocks additional Athelas and Mysterious Tree patches
 
 ### Optimal Experience
 

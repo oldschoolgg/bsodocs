@@ -10,8 +10,8 @@ Heat res. potions
 
 Neem Oil, used to kill monsters in the Polypore Dungeon, is made with Neem Drupe and Jugs of Water.
 
-The Herblore Master Cape, and Dragon's Fury (a potion made at 120 herblore using 2 Ignecarus Scales and 1 Abyssal Dragon Bones) are also custom to BSO.&#x20;
+The Herblore Master Cape, and Dragon's Fury (a potion made at 120 herblore using 3 Ignecarus Scales and 1 Abyssal Dragon Bones) are also custom to BSO.&#x20;
 
 ### Optimal Experience
 
-The fastest experience rates are obtained through making Heat Res. Brews , which are unlocked at level 105 Herblore. You can make roughly 3m xp/h with these rates. An alternative, experimental method, is to make Dragon's Fury potions, where the rates are roughly 14.6m xp/h.
+The fastest experience rates are obtained through making Heat Res. Brews , which are unlocked at level 110 Herblore alongside Heat Res. Restores. You can make roughly 3m xp/h with these rates. An alternative, experimental method, is to make Dragon's Fury potions, where the rates are roughly 14.6m xp/h.

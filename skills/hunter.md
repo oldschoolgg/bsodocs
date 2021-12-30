@@ -10,4 +10,4 @@ Sand Geckos can be hunted at 120 hunter, requiring simple kibble to catch them. 
 
 ### Optimal Experience
 
-The highest hunter experience rates are obtained by hunting Black Chinchompas. It is recommended to have a black d'hide body and chaps equipped in the wilderness setup for a cheap method of lowering your chance of dying on your trips. It is also recommended to have a sandy equipped to receive extra loot. When you have a hunter master cape, you will catch twice as many Chinchompas, as well as receiving a 10% boost from experience in catching Chinchompas when you have caught enough. You will receive rates of roughly 1.4m xp/h.
+The highest hunter experience rates are obtained by hunting Black Chinchompas. It is recommended to have a royal d'hide body and chaps equipped in the wilderness setup for a cheap method of lowering your chance of dying on your trips. It is also recommended to have a sandy equipped to receive extra loot. When you have a hunter master cape, you will catch twice as many Chinchompas, as well as receiving a 10% boost from experience in catching Chinchompas when you have caught enough. You will receive rates of roughly 1.4m xp/h.

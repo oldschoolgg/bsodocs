@@ -6,7 +6,7 @@ Currently, the best way to train agility is to do the highest level agility cour
 
 Once you reach lvl 101 agility you should do the Daemonheim agility course provided you have purchased the [Daemonheim agility pass](dungeoneering-training/dg-rewards.md#miscellaneous-buyables) from Dungeoneering.
 
-Note: If you have a [Cob](../custom-items/pets.md#discontinued-pets), the fastest experience will be the Hallowed Sepulchre.
+Note: If you have a [Cob](../custom-items/pets.md#discontinued-pets), the fastest experience will be the Hallowed Sepulchre. (Roughly 2.8m xp/h)
 
 ### BSO Specific Content
 

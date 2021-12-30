@@ -140,15 +140,15 @@ Additionally, master capes have a perk that is related to the skill that they ar
 | Prayer       | 40% Less Prayer Potions consumed while using Dwarven Blessing                                                |
 | Magic        | Voidling pet alches 3x faster with master cape equipped                                                      |
 | Runecrafting | 2x boost to runecrafting, and 2x boost to the ODS minigame                                                   |
-| Construction |                                                                                                              |
+| Construction | Hatches Nursery Eggs at 2x Speed                                                                             |
 | Agility      | Acts as a full set of graceful                                                                               |
-| Herblore     |                                                                                                              |
+| Herblore     | 10% extra products in mixing a potion                                                                        |
 | Thieving     | 30% Thieving boost                                                                                           |
 | Crafting     |                                                                                                              |
 | Fletching    |                                                                                                              |
 | Slayer       | 2x superior rolls                                                                                            |
 | Hunter       | 2x Hunter speed                                                                                              |
-| Mining       |                                                                                                              |
+| Mining       | 2x nuggets and minerals                                                                                      |
 | Smithing     | 2x boost to blast furnace and halves failure rate of smelting                                                |
 | Fishing      | 4x loot and Mystery Boxes from Fishing Trawler                                                               |
 | Cooking      | 5x Cooking speed                                                                                             |

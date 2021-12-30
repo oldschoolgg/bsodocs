@@ -7,4 +7,4 @@
 
 ### Optimal Experience
 
-The best experience rates for Firemaking are obtained while doing Wintertodt with a Dwarven Greataxe. You can receive rates of roughly 2.6m xp/h with this method.
+The best experience rates for Firemaking are obtained while doing Wintertodt with a Dwarven Greataxe and full Pyromancer set. You can receive rates of roughly 10.5m xp/h with this method. Higher rates of 11.5m xp/h are obtainable at 120 Woodcutting.
