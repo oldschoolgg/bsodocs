@@ -59,6 +59,7 @@
 * [Grandmaster Clues](custom-items/grandmaster-clues.md)
 * [Misc](custom-items/misc.md)
 * [Dyes](custom-items/dyes.md)
+* [Patronage](custom-items/patronage.md)
 
 ## Events
 
