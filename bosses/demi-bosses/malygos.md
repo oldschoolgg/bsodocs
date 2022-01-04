@@ -31,7 +31,7 @@ You can kill Malygos with `=k malygos` or `=k mally`. To mass Malygos you can st
 ## Loot
 
 * Abyssal Thread - Upgrades the giant pouch to hold more essence
-* Abyssal Cape - 50% Damage Reduction (50% less food needed), also required to make the Vasa Cloak
+* Abyssal Cape - 50% Damage Reduction (50% less food needed), also required to make the Vasa Cloak and the Tzkal Cape.
 * Abyssal Dragon Bones - 5x more XP than superior dragon bones, also a secondary for Dragons Fury potions
 * Dragon Hunter Lance
 * [Ori](../../custom-items/pets.md#resource-gathering-and-loot-effecting-pets)
