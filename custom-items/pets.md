@@ -26,7 +26,7 @@ There are pets exclusive to BSO that provide unique and powerful perks and are r
 
 | **Pet** | **Perk**                                                                                                                                 | **Source**                     |
 | ------- | ---------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------ |
-| Brock   | Brings back random logs (non-PvM trips only)                                                                                             | 1/5,500 Minutes of Zulrah      |
+| Brock   | <p>Brings back random logs (non-PvM trips only)<br>2x speed at Gauntlet<br>Bypass 50 Gauntlet KC requirement for Corrupted Gauntlet</p>  | 1/5,500 Minutes of Zulrah      |
 | Peky    | Brings back random seeds (non-PvM trips only)                                                                                            | 1/4,000 Minutes of Woodcutting |
 | Ori     | Boosts loot from PvM trips by 25% (rounds up)                                                                                            | 1/3,000 from Malygos           |
 | Sandy   | Triples hunter loot (doubles sand gecko loot if Hunter Master Cape is equipped)                                                          | 1/16,000 from Sand Geckos      |
