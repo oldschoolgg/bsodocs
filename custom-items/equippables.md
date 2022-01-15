@@ -22,29 +22,21 @@ Having the entire First Age set equipped will give the player an extra 1% boost,
 
 #### Dwarven Tools
 
-The dwarven tools are smithed from Dwarven Bars (smelted from dwarven ore, see [Misc](misc.md)).&#x20;
+The dwarven tools are smithed from Dwarven Bars (smelted from dwarven ore, see [Dwarven Ore](../skills/smithing.md#dwarven-ore)).&#x20;
 
-| Tool                | Bars Needed | Boost                                                  |
-| ------------------- | ----------- | ------------------------------------------------------ |
-| Dwarven Greataxe    | 3           | <p>2x Woodcutting speed </p><p>2x Wintertodt speed</p> |
-| Dwarven Pickaxe     | 3           | 2x Mining speed                                        |
-| Dwarven Gauntlets   | 3           | <p>2x Smelting speed</p><p>3x Cooking speed</p>        |
-| Dwarven Greathammer | 4           | <p>2x Smithing speed</p><p>2x Crafting speed</p>       |
-| Dwarven Knife       | 2           | 2x Fletching speed                                     |
+| Tool                | Boost                                                  |
+| ------------------- | ------------------------------------------------------ |
+| Dwarven Greataxe    | <p>2x Woodcutting speed </p><p>2x Wintertodt speed</p> |
+| Dwarven Pickaxe     | 2x Mining speed                                        |
+| Dwarven Gauntlets   | <p>2x Smelting speed</p><p>3x Cooking speed</p>        |
+| Dwarven Greathammer | <p>2x Smithing speed</p><p>2x Crafting speed</p>       |
+| Dwarven Knife       | 2x Fletching speed                                     |
 
 Note: Currently, the greathammer, when equipped in conjunction with a Takon, will be prioritized despite the higher bonus from Takon.
 
 #### Dwarven Armor
 
-Dwarven armor is smithable from Dwarven Bars with 120 Smithing and is also dropped by King Goldemar (see [King Goldemar](../bosses/king-goldemar.md)). It currently is only used at Ignecarus.
-
-| Armor Piece       | Bars Needed |
-| ----------------- | ----------- |
-| Dwarven Full Helm | 2           |
-| Dwarven Platebody | 5           |
-| Dwarven Platelegs | 4           |
-| Dwarven Boots     | 2           |
-| Dwarven Gloves    | 2           |
+[Dwarven armor](../skills/smithing.md#dwarven-equipment) is smithable from Dwarven Bars with 120 Smithing and is also dropped by King Goldemar (see [King Goldemar](../bosses/king-goldemar.md)). It currently is only used at Ignecarus.
 
 ![](../.gitbook/assets/dwarven.png)
 
@@ -52,7 +44,7 @@ Dwarven armor is smithable from Dwarven Bars with 120 Smithing and is also dropp
 
 These dwarven gear are unlike the previous in that they are not smithable from Dwarven bars and instead are rare drops.
 
-**Dwarven Warhammer**: Rare drop from King Goldemar (see [King Goldemar](../bosses/king-goldemar.md)) and provides a 40% PvM boost. Drops as a **Broken Dwarven Warhammer** and must be fixed, requiring 120 Smithing, Blacksmith's Outfit, and Dwarven Bars.
+**Dwarven Warhammer**: Rare drop from King Goldemar (see [King Goldemar](../bosses/king-goldemar.md)) and provides a 40% PvM boost. Drops as a **Broken Dwarven Warhammer** and must be fixed, requiring 120 Smithing, Blacksmith's Outfit, and 3 Dwarven Bars.
 
 **Dwarven Blessing**: Rare drop from [Grandmaster Caskets](https://bso-wiki.oldschool.gg/custom-items/grandmaster-clues) and provides a 20% boost to PvM (25% with Amulet of Zealots). Consumes 1 Prayer Potion per 5 minutes of PvM (reduced by 40% with Prayer Master Cape).
 
@@ -75,7 +67,7 @@ The following items can be obtained by killing Nex (see [Nex](../bosses/nex.md))
 
 These items can also be upgraded (except for Virtus Wand and Book) using Gorajan Shards to make Gorajan Armor.
 
-Additionally, the **Zaryte** **Bow** is also obtainable as a drop. It provides the highest range attack and strength bonus of any bow and gives a 20% boost to Nex.
+Additionally, the **Zaryte** **Bow** is also obtainable as a drop. It gives a 20% boost to Nex and is used in creating the Hellfire Bow.
 
 ### Drygore Weapons
 
@@ -114,7 +106,7 @@ The Master Farmer outfit is craftable with 110 Crafting using Ent hides dropped 
 
 ### Blacksmith Equipment
 
-The Blacksmith set is a reward from Blacksmith Crates, which drop at a rate of roughly one in 75 hours from [King Goldemar](https://bso-wiki.oldschool.gg/bosses/king-goldemar?q=blacksmith). The full set is required to both smith dwarven bars and tools. When the full set is equipped, a 10% xp boost is given when smelting bars at the blast furnace.
+The Blacksmith set is a reward from Blacksmith Crates, which drop at a rate of roughly one in 75 hours from [King Goldemar](https://bso-wiki.oldschool.gg/bosses/king-goldemar?q=blacksmith). The full set is required to smith dwarven equipment and tools. When the full set is equipped, a 10% xp boost is given when smelting bars at the blast furnace.
 
 ![](../.gitbook/assets/blacksmith.png)
 
@@ -155,9 +147,6 @@ Additionally, master capes have a perk that is related to the skill that they ar
 | Firemaking   | 2x Wintertodt loot                                                                                           |
 | Woodcutting  | 2x Woodcutting loot                                                                                          |
 | Farming      | 35% seeds saved when equipped (up to 50% with scroll of life), 1/10 per planted seed chance of a mystery box |
-|              |                                                                                                              |
-
-
 
 ### **Expert Capes**
 
