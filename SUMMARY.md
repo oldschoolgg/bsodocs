@@ -42,6 +42,7 @@
 
 ## Minigames
 
+* [Inferno](minigames/inferno.md)
 * [Emerged Zuk Inferno](minigames/emerged-zuk-inferno.md)
 * [Mad Marimbo's Monkey Rumble](minigames/mad-marimbos-monkey-rumble/README.md)
   * [Monkey Tame](minigames/mad-marimbos-monkey-rumble/monkey-tame.md)
