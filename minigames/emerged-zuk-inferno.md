@@ -6,8 +6,6 @@ The **Emerged Zuk Inferno** is a new, harder version of the Inferno, where Zuk e
 
 You can do it using: `=i start --emerged or =i start --em`
 
-
-
 ## Requirements
 
 * All the normal inferno requirements.
@@ -22,38 +20,36 @@ You can do it using: `=i start --emerged or =i start --em`
 
 ## Boosts
 
+Boosts listed here are specifically for Emerged Zuk attempts. Refer to the [Inferno ](inferno.md#bso-specific-boosts)guide or the [OSB Wiki](https://wiki.oldschool.gg/bosses/inferno) for other boosts you think you may be missing. The boosts that apply there will also apply to emerged runs since you have to complete the regular inferno prior to challenging the emerged version of Zuk in each run.
+
+The number of times you have completed the Inferno and the Emerged Inferno will also contribute to the boosts you receive greatly. Due to the math surrounding how these boosts are calculated, they are left out of this page.
+
+It is currently impossible to complete the Emerged Inferno in under 4 attempts. Until you exceed that, speed is encouraged.
+
 **Death chance reductions**
 
-* TzKal cape&#x20;
-* 120 Defence
-* Divine spirit shield (Elysian Spirit Shield if u do not have a Divine)
-* Gorajan outfits&#x20;
-* Justiciar Faceguard (Only if u do not have Gorajan Melee set)
-* Ring of Suffering (i) (In mage gear)
-* The amount of times u get to Zuk
-* Hellfire Bow\
-
+* TzKal cape (Pre-Zuk: -5%, Zuk: -5%, Emerged Zuk: -10%)
+* 120 Defence (Emerged Zuk: -10%)
+* Divine spirit shield (Pre-Zuk: -12%, Emerged Zuk: -9%)
+* Gorajan outfits\* (Pre-Zuk: -3.5%, Zuk: -3.5%, Emerged Zuk: -8% )
 
 **Speed Boosts**
 
-* TzKal cape
-* Ignis ring(i)
-* Virtus book
-* Hellfire Bow
-* Dexterour and Arcane Prayer Scroll
-* Dwarven warhammer
-* Gorajan outfits
-* Dragon darts
-* Slayer task (Tzhaar task)
+* TzKal cape (-5%)
+* Ignis ring(i) (-5%)
+* Dwarven warhammer (-7%) (Does not have to be equipped)
+* Gorajan outfits\* (-5%)
+
+_\*Boosts stack per outfit_
 
 **Rewards (All Are Untradeable)**
 
 * **TzKal-Zuk's skin:** Used to create the TzKal cape
 * **TzKal cape:** The new BiS melee cape, created with 1 TzKal-zuks skin, 20 onyx, 1 infernal cape, 1 abyssal cape. Gives boosts to various bosses/places.
-* **Head of TzKal-Zuk:** Used to craft the Infernal slayer helmet.
+* **Head of TzKal-Zuk:** Used to craft the Infernal slayer helmet. (1/15)
 * **Infernal slayer helmet:** A new slayer helmet, with a +3% higher on-task boost. Created with 1 head of tzkal-zuk, 30 onyx, 1 black mask.&#x20;
 * **Infernal slayer helmet(i):** The best slayer helmet, a imbued version of the regular infernal slayer helmet. Upgrades to a higher +7% ontask boost, and counts as all gorajan helmets. For example, if you have full gorajan warrior in your melee outfit, but instead of the gorajan helm, you have this slayer helm, the bot will still recognize you as having full gorajan warrior equipped. Created with Infernal slayer helmet, 10 onyx, 3 gorajan shards, torva full helm, virtus helmet, pernix helmet, magus scroll. _You use the Magus scroll to imbue the power of the pernix/virtus/torva helms and the gorajan shards into the slayer helm_
-* **Infernal core:** Used to create the Infernal Bulwark, and more things planned.
+* **Infernal core:** Used to create the Infernal Bulwark, and more things planned. (1/10)
 * **Infernal Bulwark:** An upgraded and stronger version of the Dinhs Bulwark, the new BiS defensive weapon. Created using an infernal core, 5 onyx and a dinhs bulwark.&#x20;
-* **Jal-MejJak:** The new pet! No use/perks
+* **Jal-MejJak:** The new pet! No use/perks (1/75 on task, 1/100)
 
