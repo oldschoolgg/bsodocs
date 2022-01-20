@@ -9,18 +9,22 @@ There are pets exclusive to BSO that provide unique and powerful perks and are r
 | Lil Lamb   | Boosts XP from offering bones by 1x-3x                                                                                                 | 1/8,000 Minutes of Alching                                         |
 | Scruffy    | 2x fletching speed                                                                                                                     | 1/4,000 Minutes of Varrock Agility Course                          |
 | Obis       | <p>2x Zalcano Boost</p><p>2x Runecraft boost (uses 3x essence)</p><p>Brings back random runes (non-PvM trips only)</p>                 | 1/5,000 Minutes of Runecrafting                                    |
-| Plopper    | <p>Crops never die</p><p>4x farming yield</p>                                                                                          | 5x more common than Tangleroot while Farming                       |
+| Plopper\*  | <p>Crops never die</p><p>4x farming yield</p>                                                                                          | 5x more common than Tangleroot while Farming                       |
 | Shelldon   | 2x fishing speed                                                                                                                       | 1/8,000 Minutes of Fishing                                         |
 | Harry      | <p>Brings back bananas</p><p>Increases mark of grace rate</p><p>Eliminates level-scaling for marks of grace </p>                       | 1/1,600 Minutes of Ardougne Agility Course                         |
 | Klik       | <p>Automatically smelts ore from mining and cooks fish from fishing (no xp given)</p><p>3x tanning boost (Does not stack with dgh)</p> | 1/7,500 Minutes of Killing Dragons                                 |
 | Remy       | 2x cooking speed                                                                                                                       | 1/5,000 Minutes of Cooking                                         |
-| Skipper    | <p>Removes tax from selling items</p><p>Adds 40% to sacrifice value</p><p>Gives more GP on dailies </p>                                | 1/1,600 Minutes of Penguin Agility Course                          |
+| Skipper\*  | <p>Removes tax from selling items</p><p>Adds 40% to sacrifice value</p><p>Gives more GP on dailies </p>                                | 1/1,600 Minutes of Penguin Agility Course                          |
 | Takon      | 5x Smithing boost (not smelting)                                                                                                       | 1/4,500 from CoX                                                   |
 | Wilvus     | <p>Brings back pickpocket loot</p><p>2x thieving speed</p>                                                                             | 1/2,000 Minutes of Thieving                                        |
 | Wintertoad | Halves Fight Caves time                                                                                                                | <p>1/100 Trips of Wintertodt</p><p>(minimum 20 minutes)</p>        |
 | Zak        | Increases maximum trip length by 40%                                                                                                   | <p>1/6,500 Minutes of Smelting</p><p>(requires 10 QP)</p>          |
 | Mr. E      | Increases chance of a Double Loot trip from 1/15 to 1/12, as well as eliminating the 3 worst implings from a trip.                     | 1/5000 From a TMB or UMB, 1/200 from a PMB, and 1/500 from an EMB. |
-| Voidling   | <p>Can alch your items while doing any activity<br></p>                                                                                | Vasa Magus                                                         |
+| Voidling\* | Can alch your items while doing any activity                                                                                           | Vasa Magus                                                         |
+
+\*Does not have to be equipped
+
+Note: Voidling alchs at a lower rate if it is not equipped and you do not have a Magic master cape.
 
 ## Resource Gathering & Loot Effecting pets
 
@@ -59,7 +63,9 @@ These pets are no longer obtainable, they are discontinued and were obtained fro
 {% endtab %}
 {% endtabs %}
 
-Note: Corgi and Snappy are no longer obtainable, even by ironmen.
+Notes:\
+\- Corgi and Snappy are no longer obtainable, even by ironmen.\
+\- Smokey does not have to be equipped for the perk
 
 ## Growable pets
 
