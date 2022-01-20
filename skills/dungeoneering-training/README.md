@@ -31,4 +31,4 @@ The best way to train dungeoneering is to lamp to either 100, from which you do 
 
 * Gorajan armour - 6% per completed set
 * Party Size - 5% for every person in a mass starting from a party of 2 to a limit of 25%
-* Scroll of Teleportation - 15%
+* Scroll of Teleportation - 15% (20% with Dungeoneering Cape)
