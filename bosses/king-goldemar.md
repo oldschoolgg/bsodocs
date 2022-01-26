@@ -20,7 +20,7 @@ You can use the command : `=kg`  to begin
 
 **Item Boosts:**&#x20;
 
-Drygore longsword: 10%, Offhand drygore longsword: 5%, Gorajan warrior helmet: 2%, Gorajan warrior top: 4%, Gorajan warrior legs: 2%, Gorajan warrior gloves: 1%, Gorajan warrior boots: 1%, Brawler's hook necklace: 4%&#x20;
+Drygore longsword: 10%, Offhand drygore longsword: 5%, Gorajan warrior helmet: 2%, Gorajan warrior top: 4%, Gorajan warrior legs: 2%, Gorajan warrior gloves: 1%, Gorajan warrior boots: 1%, Brawler's hook necklace: 4%, TzKal cape: 6%&#x20;
 
 ## Loot
 
@@ -52,11 +52,11 @@ It is recommended to Mass for the 1st 50kc as it reduces your death chance.
 | 9         | 76        | 65                            |
 | 10        | 71        | 60                            |
 
-| Unique Drop Table         | Drop Rate       |
+| **Unique Drop Table**     | **Drop Rate**   |
 | ------------------------- | --------------- |
-| Dwarven Ore               | 1/15            |
-| Dwarven Armour            | 1/150           |
-| Mystery Box               | 1/20            |
-| Blacksmith Crate          | 1/60            |
-| Clue scroll (grandmaster) | 1/15            |
+| Dwarven ore               | 1/15            |
+| Dwarven armour            | 1/150           |
+| Mystery box               | 1/20            |
+| Blacksmith crate          | 1/60            |
+| Clue scroll (grandmaster) | 1/4             |
 | Broken dwarven warhammer  | 1/850 (approx.) |

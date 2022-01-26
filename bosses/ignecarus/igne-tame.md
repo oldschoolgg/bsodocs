@@ -14,7 +14,7 @@ Fuelling the nursery will require 2,500 elder logs and 10,000 coal.
 
 Finally, once you have satisfied these requirements you can add your egg to the nursery with `=nursery add dragon egg`
 
-The dragon tame will take 18.5 hours to hatch. Once hatched there is a 1/30 chance its a rare shiny dragon.
+The dragon tame will take 18.5 hours to hatch. Once hatched there is a 1/30 chance its a rare shiny dragon, which is increased by 3% with a Ring of luck equipped.
 
 ## Growth
 
@@ -32,8 +32,9 @@ You can feed the dragon tame certain items with `=tame feed [item]`\
 **Note:** Feeding any other items (food included) will have no effect\
 
 
-| Item         | Boost                       |
-| ------------ | --------------------------- |
-| Abyssal Cape | 25% food reduction          |
-| Zak          | +35 minutes to trip lengths |
-| Ori          | 25% extra loot              |
+| Item              | Boost                       |
+| ----------------- | --------------------------- |
+| Abyssal Cape      | 25% food reduction          |
+| Zak               | +35 minutes to trip lengths |
+| Ori               | 25% extra loot              |
+| Dwarven Warhammer | 30% speed boost             |
