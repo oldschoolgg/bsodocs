@@ -4,6 +4,8 @@ King Goldemar is a boss that can be done via mass or solo. Please go to the chan
 
 Entrance fee to fight King Goldemar is 10 million but can be reduced to 5m if a Ring of Charos is equipped.
 
+Supply cost is initially 8 saradomin brews and 2 super restores per kill. This is reduced by 1 restore at 60 kc and 1 brew every 30 kc, capping out at 2 brews per kill at 180 kc.
+
 You can use the command : `=kg`  to begin
 
 ## Requirements
