@@ -43,7 +43,7 @@ Removed brews/restores from users: **30/10**. The trip will take 48 minutes 15 s
 {% endtab %}
 {% endtabs %}
 
-### Ironman setup
+### Ironman Setup
 
 **Warning -** It is extremely likely you will die repeatedly with this setup but your mileage may vary. It therefore is recommended for irons to gain some kc in masses.\
 
@@ -56,8 +56,17 @@ Removed brews/restores from users: **30/10**. The trip will take 48 minutes 15 s
 
 ## **Loot**
 
-**Ancient Emblem:** Currently does not have a use.
+* **Ancient emblem:** Currently does not have a use.
+* **Bloodsoaked feather:** Can be used to create the nex pet, [Nexterminator](../custom-items/pets.md#meme-pets-and-no-perk-pets).
+* **Nex armor:** Torva, pernix, and virtus armor sets that can be upgraded to bis [Gorajan armor](../skills/dungeoneering-training/dg-rewards.md#buyable-gear).&#x20;
+  * The rate to hit the gear table scales based on team size and each item on the table has an equal chance, meaning any specific item is roughly 1/1600
+* **Nex weapons:** High level weapons dropped on the same droptable as Nex armor.
+  * **Zaryte bow:** Provides a boost to Nex and is used to create the Hellfire bow.
+  * **Virtus wand and book:** Current bis magic weapon and offhand
 
-**Bloodsoaked Feather:** Can be used to create the nex pet, [Nexterminator](../custom-items/pets.md#meme-pets-and-no-perk-pets).
-
-**Nex Armour:**&#x20;
+| **Unique Drop Table**     | **Drop Rate** |
+| ------------------------- | ------------- |
+| Ancient emblem            | 1/1500        |
+| Bloodsoaked feather       | 1/3000        |
+| Clue scroll (grandmaster) | 1/20          |
+| Gear table                | 1/82-1/96     |
