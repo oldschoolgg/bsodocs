@@ -43,10 +43,21 @@ Removed brews/restores from users: **30/10**. The trip will take 48 minutes 15 s
 {% endtab %}
 {% endtabs %}
 
-### &#x20;Ironman setup
+### Ironman setup
 
 **Warning -** It is extremely likely you will die repeatedly with this setup but your mileage may vary. It therefore is recommended for irons to gain some kc in masses.\
 
 
 ![Nex Welfare](<../.gitbook/assets/image (7).png>)
 
+## Boosts
+
+20% boost for **Full Pernix** (2.4% per individual piece), 15% for **Gorajan Archer**, 20% boost for **Zaryte bow**
+
+## **Loot**
+
+**Ancient Emblem:** Currently does not have a use.
+
+**Bloodsoaked Feather:** Can be used to create the nex pet, [Nexterminator](../custom-items/pets.md#meme-pets-and-no-perk-pets).
+
+**Nex Armour:**&#x20;
