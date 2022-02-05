@@ -1,6 +1,6 @@
 # Vasa Magus
 
-Vasa Magus is a magic boss, it's fought solo, and you can't die fighting it. It has a special loot mechanic where it drops loot from a random boss on each kill. It also drops XP Lamps and mystery boxes.
+Vasa Magus is a magic boss, it's fought solo, and you can't die fighting it. It has a special loot mechanic where it drops loot from a random boss on each kill. It also drops mystery boxes.
 
 You can kill Vasa Magus using `=vasa`.
 
@@ -32,7 +32,7 @@ You should use the best possible mage gear you have, Virtus is the best gear you
 * **Voidling:** A pet that will alch items from your bank when you're on a trip, must be items in your favorite alchs list. With a Magic Master cape it increases the amount of Alchs per trip.&#x20;
   * `=favalch`
 * **Tattered robes of Vasa:** Used to craft a Vasa cloak, the BiS mage cape.&#x20;
-  * Requires 105 runecrafting & 105 crafting + 1 Abyssal cape + 1 Tattered robes of Vasa
+  * Requires 105 runecrafting & 105 crafting + 1 Imbued mage arena cape + 1 Abyssal cape + 1 Tattered robes of Vasa
     * `=create vasa cloak`
 * **Random Loot:**
   * Vasa has a special loot mechanic, every kill, it drops the loot of 1-3 kills of a random boss.
@@ -44,5 +44,5 @@ You should use the best possible mage gear you have, Virtus is the best gear you
 | Magus scroll              | 1/350         |
 | Voidling                  | 1/500         |
 | Jar of magic              | 1/1000        |
-| Clue scroll (grandmaster) | 1/12          |
+| Clue scroll (grandmaster) | 1/19          |
 | Magical artifact          | 1/9           |
