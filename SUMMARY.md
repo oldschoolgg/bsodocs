@@ -2,6 +2,7 @@
 
 * [Welcome to the Bot School Old Wiki!](README.md)
 * [Rules](rules.md)
+* [Getting Started](getting-started.md)
 
 ## Skills
 
@@ -36,10 +37,10 @@
 * [Nex](bosses/nex.md)
 * [Chambers of Xeric](bosses/chambers-of-xeric.md)
 * [Demi Bosses](bosses/demi-bosses/README.md)
-  * [Malygos](bosses/demi-bosses/malygos.md)
-  * [Sea Kraken](bosses/demi-bosses/sea-kraken.md)
   * [Queen Black Dragon](bosses/demi-bosses/queen-black-dragon.md)
+  * [Sea Kraken](bosses/demi-bosses/sea-kraken.md)
   * [Treebeard](bosses/demi-bosses/treebeard.md)
+  * [Malygos](bosses/demi-bosses/malygos.md)
 
 ## Minigames
 
