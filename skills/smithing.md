@@ -8,7 +8,7 @@
 
 #### Dwarven Ore
 
-The ore is used to smith dwarven bars which are used to make a variety of [Dwarven Equipment](../custom-items/equippables.md#dwarven-equipment).
+The ore is dropped by [King Goldemar](../bosses/king-goldemar.md#loot) and is used to smith dwarven bars which are used to make a variety of [Dwarven Equipment](../custom-items/equippables.md#dwarven-equipment).
 
 Requirements:
 
