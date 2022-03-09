@@ -24,13 +24,11 @@ Infernal Slayer Helmet - 22% boost to slayer tasks
 
 Rocktails - 7% boost to /k when food is consumed
 
-
-
 ### Method
 
 The best xp rates for these skills (roughly 25m xp/hr) are obtained through killing Black Demons with the maximum possible boosts, those being the following:
 
-![](<../.gitbook/assets/Black Demon boosts.png>)
+![37m/hr is achievable in ranged while on task with cannon and Infernal Slayer Helmet (i)](<../.gitbook/assets/Black Demon boosts.png>)
 
-37m/hr is achievable in ranged while on task with cannon and Infernal Slayer Helmet (i)
+
 
