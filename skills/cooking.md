@@ -1,10 +1,11 @@
 # Cooking
 
-### Custom Items
+### Custom Items and Content
 
-* [Remy ](https://bso-wiki.oldschool.gg/custom-items/pets)- 2x Cooking Speed
-* Dwarven Gauntlets - 3x Cooking Speed
-* Cooked Rocktail - Cookable at 120 cooking
+* [Remy ](https://bso-wiki.oldschool.gg/custom-items/pets)- 2x Cooking Speed (1.5x on wines)
+* Dwarven Gauntlets - 3x Cooking Speed (does not work with =kibble; does not stack with Remy)
+* Cooked Rocktail - Cookable at lvl 120 cooking
+* Kibble - Used as bait when training Hunter
 
 ### Kibble
 
@@ -23,6 +24,11 @@ Create kibble with `=kibble <quantity> <tier>`using all of the resources listed.
   * Crop: 7.5x Orange or Pineapple
   * Fish: 15x Raw Rocktail
 
-### Optimal Experience
+### Methods
 
-The best experience rates for Cooking are obtained while cooking Rocktails with Dwarven Gauntlets equipped (You should **not** have Remy equipped as it takes priority to the gauntlets, and provides a slightly less boost). You can receive rates of roughly 4.56m xp/h with this method.
+| Method               | Xp / Hr  |   |
+| -------------------- | -------- | - |
+| Rocktail             | \~4.56m  |   |
+| Simple Kibble        | \~11m    |   |
+| Delicious Kibble     | \~8.3m   |   |
+| Extraordinary Kibble | \~10.2m  |   |
