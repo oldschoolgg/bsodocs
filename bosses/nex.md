@@ -56,13 +56,16 @@ Removed brews/restores from users: **30/10**. The trip will take 48 minutes 15 s
 
 ## **Loot**
 
+As of 02/05/2022, Nex now requires drops to be **repaired** using various components made from the different Godwars sets by using the `=create` and `=revert` commands. The Torva set is made by using `=revert` on Bandos pieces, and then using `=create (piece name)` Both Pernix and Virtus follow this schematic, but rather require Armadyl and Ancestral armour pieces, respectively.
+
 * **Ancient emblem:** Currently does not have a use.
+* **Ancient Hilt**: Used to create the Ancient Godsword
 * **Bloodsoaked feather:** Can be used to create the nex pet, [Nexterminator](../custom-items/pets.md#meme-pets-and-no-perk-pets).
 * **Nex armor:** Torva, pernix, and virtus armor sets that can be upgraded to bis [Gorajan armor](../skills/dungeoneering-training/dg-rewards.md#buyable-gear).&#x20;
   * The rate to hit the gear table scales based on team size and each item on the table has an equal chance, meaning any specific item is roughly 1/1600
 * **Nex weapons:** High level weapons dropped on the same droptable as Nex armor.
   * **Zaryte bow:** Provides a boost to Nex and is used to create the Hellfire bow.
-  * **Virtus wand and book:** Current bis magic weapon and offhand
+  * **Virtus Crystal:** Used to make the Virtus Book and Virtus Wand
 
 | **Unique Drop Table**     | **Drop Rate** |
 | ------------------------- | ------------- |

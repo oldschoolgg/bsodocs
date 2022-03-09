@@ -68,4 +68,5 @@
 
 * [Halloween 2021](events/halloween-2021.md)
 * [Christmas 2021](events/christmas-2021.md)
+* [Crack the Clue 2022](events/crack-the-clue-2022.md)
 * [Lottery](events/lottery.md)

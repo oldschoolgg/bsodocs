@@ -79,7 +79,7 @@ There are various types of gear that can be obtained from Dungeoneering (see [Du
 
 ### Clue Hunter Outfit
 
-The Clue Hunter outfit can be obtained as a rare drop from Grandmaster Caskets (see [Misc](misc.md)). Previously it was obtainable from the [Crack the Clue ](https://wiki.oldschool.gg/miscellaneous/crack-the-clue)event. It gives a 2x speed boost to completing clues and increases Grandmaster Clue drop rate from Master caskets.&#x20;
+The Clue Hunter outfit can be obtained as a rare drop from Grandmaster Caskets (see [Misc](misc.md)). It is also obtainable from the [Crack the Clue ](https://wiki.oldschool.gg/miscellaneous/crack-the-clue)event. It gives a 2x speed boost to completing clues and increases Grandmaster Clue drop rate from Master caskets.&#x20;
 
 * Helm of Raedwald
 * Clue Hunter Cloak
