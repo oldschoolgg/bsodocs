@@ -24,13 +24,12 @@ Having the entire First Age set equipped will give the player an extra 1% boost,
 
 The dwarven tools are smithed from Dwarven Bars
 
-| Tool                | Boost                                                  |
-| ------------------- | ------------------------------------------------------ |
-| Dwarven Greataxe    | <p>2x Woodcutting speed </p><p>2x Wintertodt speed</p> |
-| Dwarven Pickaxe     | 2x Mining speed                                        |
-| Dwarven Gauntlets   | <p>2x Smelting speed</p><p>3x Cooking speed</p>        |
-| Dwarven Greathammer | <p>2x Smithing speed</p><p>2x Crafting speed</p>       |
-| Dwarven Knife       | 2x Fletching speed                                     |
+| Dwarven Greataxe    | <p>2x Woodcutting speed </p><p>2x Wintertodt speed</p> | 3 |
+| ------------------- | ------------------------------------------------------ | - |
+| Dwarven Pickaxe     | 2x Mining speed                                        | 3 |
+| Dwarven Gauntlets   | <p>2x Smelting speed</p><p>3x Cooking speed</p>        | 3 |
+| Dwarven Greathammer | <p>2x Smithing speed</p><p>2x Crafting speed</p>       | 4 |
+| Dwarven Knife       | 2x Fletching speed                                     | 2 |
 
 _Note: To smith tools, you will need 99 Smithing and Blacksmith Equipment_
 
