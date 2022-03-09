@@ -1,9 +1,17 @@
 # Woodcutting
 
-### **Custom Items**
+### **Custom Content and Boosts**
 
-* [Dwarven Greataxe](https://bso-wiki.oldschool.gg/custom-items/equippables#dwarven-equipment)
+Dwarven Greataxe - 2x speed&#x20;
 
-### Optimal Experience
+Peky - obtained randomly from woodcutting
 
-The best experience rates for Woodcutting are obtained from doing Sulliusceps from 65 to 105, and then doing Elder Trees from 105 Woodcutting forward. You will receive rates of roughly 2m xp/h with this method.
+Woodcutting Master Cape - 2x loot
+
+Elder Logs - logs obtained from Elder trees at lvl 105 wc
+
+### Methods
+
+| Method     | Xp / Hr |   |
+| ---------- | ------- | - |
+| Elder Tree | \~2m    |   |

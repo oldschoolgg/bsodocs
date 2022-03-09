@@ -1,25 +1,19 @@
 # Prayer
 
-### Optimal Prayer
+### Custom Content and Boosts
 
-It is recommended to offer dragon bones up until level 70 when you unlock the ability to offer superior dragon bones up until level 99. If going for the Prayer master skill cape, it is recommended to use [Abyssal Dragon Bones](https://bso-wiki.oldschool.gg/bosses/malygos#loot) or Royal Dragon Bones until the necessary 500m xp total.
+Lil' Lamb - 1x-3x boost from offering bones
 
-Usage of the custom pet, Lil Lamb, is very useful to speed up the process of gaining prayer xp. The perk of Lil Lamb is to boost XP from offering bones by 1x-3x multiplier.&#x20;
+Abyssal Dragon Bones - Bis bones obtained from Malygos
 
-Through this method, it is possible to reach rates of 17.2m xp/h
+Royal Dragon Bones - Bis bones obtained from QBD
 
-**Note:** When going for 500m xp, please use `=m lvl prayer`to determine how much xp you have gained after each trip as the trip report may be inaccurate in displaying your full xp gained per trip.
+Gorajan Bonecrusher - Passively crushes bones obtained from /k trips
 
-### Master Skill Cape
+### Methods
 
-The Prayer master skill cape is a BSO - exclusive cape that provides an 8% XP boost when training prayer, and 3% XP boost if training any other skill. A prayer master skillcape can be purchased using `=skillcape prayer master cape`  and will cost 1 billion gp.
+| Method                         | Xp / Hr |   |
+| ------------------------------ | ------- | - |
+| Offering Abyssal / Royal bones | \~17m   |   |
 
-Note: A master skill cape must be equipped in any of your gear setups in order for the XP boost to take effect.&#x20;
-
-Perk: 40% Less Prayer Potions consumed when using Dwarven Blessing
-
-\
-Note: Master cape perks do not currently include the original skill cape's perks, so you must equip both in different gear setups to get the effects of both.
-
-
-
+**n.b.** When going for 500m xp, please use `=m lvl prayer`to determine how much xp you have gained after each trip as the trip report may be inaccurate in displaying your full xp gained per trip.

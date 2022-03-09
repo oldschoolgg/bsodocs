@@ -1,9 +1,15 @@
 # Thieving
 
-### Custom Items
+### Custom Content and Boosts
 
-* [Wilvus](https://bso-wiki.oldschool.gg/custom-items/pets)
+Wilvus - 2x boost to pickpocket
 
-### Optimal Experience
+Thieves' Armband - greatly reduces failure rate of pickpocketing and gives 3x loot. (does not triple blood shards from vyres; disables easy clue scroll drop from ham members)
 
-The best experience for Thieving is obtained through pickpocketing Vyres, where you will want a Wilvus, Thieves' Armband, Thieving Cape, and full Rogue's Set. You will obtain roughly 9.5m xp/h with this method.
+Thieving Master Cape - 30% boost to pickpocket
+
+### Methods
+
+| Method                   | Xp / Hr |   |
+| ------------------------ | ------- | - |
+| Pickpocket Vyre pre-500m | \~10.1m |   |

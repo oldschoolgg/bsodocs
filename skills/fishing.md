@@ -1,10 +1,14 @@
 # Fishing
 
-### Custom Items
+### Custom Content and Boosts
 
 * [Shelldon](https://bso-wiki.oldschool.gg/custom-items/pets) - 2x Fishing Speed
 * Raw Rocktails - Caught at 120 fishing
+* Fishing Content - =fishingcontest, daily 1 minute trip that gives \~200k xp
+* Crystal FIshing Rod - Used in =fishingcontest, created with crystal tool seed and a fishing rod
 
-### Optimal Experience
+### Methods
 
-The best experience rates for fishing are obtained while catching Rocktails with a Shelldon, Full Angler Outfit, and Crystal Harpoon equipped. You can receive roughly 1.6m xp/h with this method.
+| Method   | Xp / Hr |   |
+| -------- | ------- | - |
+| Rocktail | \~1.6m  |   |

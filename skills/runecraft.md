@@ -4,22 +4,21 @@ description: Runecraft meta
 
 # Runecraft
 
-### Elder Runecrafting
+### Custom Content and Boosts
 
-Elder Runecrafting is the process of creating Elder Runes, which are unlocked when you have an Elder Talisman (obtained from [ODS](https://bso-wiki.oldschool.gg/minigames/ourania-delivery-service-ods)) in your possession.
+* Elder Runecrafting - the process of creating Elder Runes, which are unlocked when you have an Elder Talisman (obtained from [ODS](https://bso-wiki.oldschool.gg/minigames/ourania-delivery-service-ods)) in your possession.
+* Abyssal pouch - Upgrade to the giant pouch to hold much more essence. Requires abyssal thread, obtained from Malygos and requires 90 RC to use. `=create abyssal pouch` Ensure you create a new giant pouch after creating this.
+* Elder pouch - Upgrade the Abyssal pouch to hold much more essence. Requires elder thread from ODS and level 105 RC to use. `=create elder pouch` Ensure you create a new Abyssal pouch after creating this.
+* Obis - 2x boost but costs 3x essence
+* Master runecrafter outfit - 10% bonus to RC XP. Obtained from ODS
+* lvl 120 Runecraft - 2x rune production
+* Runecraft master cape - 2x speed
 
-### Item Boosts
+### Methods
 
-**Abyssal pouch** - Upgrade to the giant pouch to hold much more essence. Requires abyssal thread, obtained from Malygos and requires 90 RC to use. `=create abyssal pouch` Ensure you create a new giant pouch after creating this.\
-**Elder pouch** - Upgrade the Abyssal pouch to hold much more essence. Requires elder thread from ODS and level 105 RC to use. `=create elder pouch` Ensure you create a new Abyssal pouch after creating this.\
-[**Obis**](https://bso-wiki.oldschool.gg/custom-items/pets) **(pet)** - Obtain from other players or 1/5000 minutes from runecrafting. This will consume 3x more pure essence and boost your RC speed by 2x, this essentially causes you to consume 6x more pure essence within the same timeframe.\
-**Master runecrafter outfit** - Provides a flat 10% bonus to RC XP. Obtained from ODS.\
-**Any master cape** - Provides 3% XP bonus to all skills. Requires 500m XP in the skill.\
-**Runecraft master cape** - Provides 8% xp boost, aswell as 2x Runecraft speed. Requires 500m RC XP. \
-**First age equipment** - Each piece provides a 1% boost, with a set bonus of 1%, for a total of 6%. \
-**120 Runecraft** - While this is not an item boost, it causes double runecraft speed.
-
-### Optimal Experience
-
-The best method for getting runecraft experience is doing ODS until you are level 99, from there you will want to do Lava Rune crafting with maximum boosts, and you can expect rate of roughly 2.6m xp/h until you reach 500m xp. When you have a master Runecraft cape, it is possible to hit rates of 5.2m xp/h.
+| Method      | Xp / Hr |   |
+| ----------- | ------- | - |
+| ODS         | \~211k  |   |
+| Elder Runes | \~1.97m |   |
+| Lava Runes  | \~2.6m  |   |
 

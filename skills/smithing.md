@@ -1,47 +1,26 @@
 # Smithing
 
-### Custom Items
+### Custom Content and Boosts
 
-* [Blacksmith Equipment](../custom-items/equippables.md#blacksmith-equipment)
-* [Zak](https://bso-wiki.oldschool.gg/custom-items/pets)
-* [Takon](https://bso-wiki.oldschool.gg/custom-items/pets)
+Blacksmith Equipment - 10% boost at blast furnace
 
-#### Dwarven Ore
+Zak - obtained from /smelt
 
-The ore is dropped by [King Goldemar](../bosses/king-goldemar.md#loot) and is used to smith dwarven bars which are used to make a variety of [Dwarven Equipment](../custom-items/equippables.md#dwarven-equipment).
+Takon - 4x boost to =smith (does not stack with Dwarven Greathammer)
 
-Requirements:
+Dwarven Ore - Ore dropped by [King Goldemar](../bosses/king-goldemar.md#loot) and is used to smith dwarven bars. Must have Klik to smelt and 99 smithing. n.b. _There is a 35% chance to fail smelting the bar. The ore is used up in the attempt._
 
-* 99 Smithing
-* Klik
-* 20 coal per dwarven ore
+Dwarven Bar - bars which are used to make a variety of [Dwarven Equipment](../custom-items/equippables.md#dwarven-equipment). Must have the full blacksmith equipped to smith the bars.
 
-_Note: There is a 35% chance to fail smelting the bar. The ore is used up in the attempt. This is halved if you have a Smithing Master Cape._&#x20;
+Dwarven Greathammer - 2x boost to =smith (does not stack with takon)
 
-#### Dwarven Tools
+Dwarven Gauntlets - 2x boost to /smelt and =bf (does not stack with goldsmith gauntlets at the blast furnance, does stack when using /smelt)
 
-| Tool                | Bars Needed | Boost                                                  |
-| ------------------- | ----------- | ------------------------------------------------------ |
-| Dwarven Greataxe    | 3           | <p>2x Woodcutting speed </p><p>2x Wintertodt speed</p> |
-| Dwarven Pickaxe     | 3           | 2x Mining speed                                        |
-| Dwarven Gauntlets   | 3           | <p>2x Smelting speed</p><p>3x Cooking speed</p>        |
-| Dwarven Greathammer | 4           | <p>2x Smithing speed</p><p>2x Crafting speed</p>       |
-| Dwarven Knife       | 2           | 2x Fletching speed                                     |
+Smithing Master Cape - 2x boost to =bf, halves failure rate when smelting ore
 
-_Note: To smith tools, you will need 99 Smithing and Blacksmith Equipment_
+### Methods
 
-#### Dwarven Equipment
-
-| Armor Piece       | Bars Needed |
-| ----------------- | ----------- |
-| Dwarven Full Helm | 2           |
-| Dwarven Platebody | 5           |
-| Dwarven Platelegs | 4           |
-| Dwarven Boots     | 2           |
-| Dwarven Gloves    | 2           |
-
-_Note_: _To smith equipment, you will need 120 Smithing and Blacksmith Equipment_
-
-### Optimal Experience
-
-The fastest experience is obtained while wearing full Blacksmith Equipment, using Takon (You should **not** have the Dwarven Greathammer equipped as it takes priority to Takon, and provides a slightly smaller boost), and smithing Rune Platebodies, where you can obtain roughly 3.2m xp/h.
+| Method                  | Xp / Hr |   |
+| ----------------------- | ------- | - |
+| Bf Gold w/o Master Cape | \~1.95m |   |
+| Rune Platebody w/ Takon | \~3.2m  |   |

@@ -1,6 +1,6 @@
 # Cooking
 
-### Custom Items and Content
+### Custom Content and Boosts
 
 * [Remy ](https://bso-wiki.oldschool.gg/custom-items/pets)- 2x Cooking Speed (1.5x on wines)
 * Dwarven Gauntlets - 3x Cooking Speed (does not work with =kibble; does not stack with Remy)

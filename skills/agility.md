@@ -1,6 +1,6 @@
 # Agility
 
-### Custom Items and Content
+### Custom Content and Boosts
 
 * Harry - Increases mark of grace rate and eliminates level-scaling for marks of grace
 * Cob - 2x speed boost at Hallowed Sepulchre

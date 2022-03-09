@@ -22,7 +22,7 @@ Having the entire First Age set equipped will give the player an extra 1% boost,
 
 #### Dwarven Tools
 
-The dwarven tools are smithed from Dwarven Bars (smelted from dwarven ore, see [Dwarven Ore](../skills/smithing.md#dwarven-ore)).&#x20;
+The dwarven tools are smithed from Dwarven Bars
 
 | Tool                | Boost                                                  |
 | ------------------- | ------------------------------------------------------ |
@@ -32,11 +32,21 @@ The dwarven tools are smithed from Dwarven Bars (smelted from dwarven ore, see [
 | Dwarven Greathammer | <p>2x Smithing speed</p><p>2x Crafting speed</p>       |
 | Dwarven Knife       | 2x Fletching speed                                     |
 
-Note: Currently, the greathammer, when equipped in conjunction with a Takon, will be prioritized despite the higher bonus from Takon.
+_Note: To smith tools, you will need 99 Smithing and Blacksmith Equipment_
 
 #### Dwarven Armor
 
-[Dwarven armor](../skills/smithing.md#dwarven-equipment) is smithable from Dwarven Bars with 120 Smithing and is also dropped by King Goldemar (see [King Goldemar](../bosses/king-goldemar.md)). It currently is only used at Ignecarus.
+| Armor Piece       | Bars Needed |
+| ----------------- | ----------- |
+| Dwarven Full Helm | 2           |
+| Dwarven Platebody | 5           |
+| Dwarven Platelegs | 4           |
+| Dwarven Boots     | 2           |
+| Dwarven Gloves    | 2           |
+
+_Note_: _To smith equipment, you will need 120 Smithing and Blacksmith Equipment_
+
+Currently only used at Ignecarus.
 
 ![](../.gitbook/assets/dwarven.png)
 
@@ -44,7 +54,7 @@ Note: Currently, the greathammer, when equipped in conjunction with a Takon, wil
 
 These dwarven gear are unlike the previous in that they are not smithable from Dwarven bars and instead are rare drops.
 
-**Dwarven Warhammer**: Rare drop from King Goldemar (see [King Goldemar](../bosses/king-goldemar.md)) and provides a 40% PvM boost. Drops as a **Broken Dwarven Warhammer** and must be fixed, requiring 120 Smithing, Blacksmith's Outfit, and 3 Dwarven Bars.
+**Dwarven Warhammer**: Rare drop from [King Goldemar](../bosses/king-goldemar.md) and provides a 40% PvM boost. Drops as a **Broken Dwarven Warhammer** and must be fixed, requiring 120 Smithing, Blacksmith's Outfit, and 3 Dwarven Bars.
 
 **Dwarven Blessing**: Rare drop from [Grandmaster Caskets](https://bso-wiki.oldschool.gg/custom-items/grandmaster-clues) and provides a 20% boost to PvM (25% with Amulet of Zealots). Consumes 1 Prayer Potion per 5 minutes of PvM (reduced by 40% with Prayer Master Cape).
 
@@ -53,7 +63,7 @@ These dwarven gear are unlike the previous in that they are not smithable from D
 Abyssal equipment can be obtained by killing [Malygos](../bosses/demi-bosses/malygos.md).&#x20;
 
 * Abyssal Cape - Provides an aura which reduces food consumption by 50%
-* Dragon Hunter Lance - Provides a large boost against dragons (varies)
+* Abyssal Thread - Combine with Giant Pouch to create Abyssal Pouch
 
 ### Nex Equipment
 
@@ -71,7 +81,7 @@ Additionally, the **Zaryte** **Bow** is also obtainable as a drop. It gives a 20
 
 ### Drygore Weapons
 
-Drygore weapons are a drop from the Kalphite King (see [Kalphite King](../bosses/kalphite-king.md)). Each type of weapon has a main hand and offhand pair.&#x20;
+Drygore weapons are a drop from the [Kalphite King](../bosses/kalphite-king.md). Each type of weapon has a main hand and offhand pair.&#x20;
 
 ### Dungeoneering Gear
 
@@ -122,35 +132,35 @@ Master capes are skillcapes that can be purchased upon getting 500M XP in the re
 
 Additionally, master capes have a perk that is related to the skill that they are corresponding to. Skills with missing perks are either yet to be added or still unknown.
 
-| Skill        | Perk                                                                                                         |
-| ------------ | ------------------------------------------------------------------------------------------------------------ |
-| Attack       | 15% Boost to PvM                                                                                             |
-| Strength     | 15% Boost to [Mad Marimbo's Monkey Rumble](../minigames/mad-marimbos-monkey-rumble/)                         |
-| Defence      |                                                                                                              |
-| Hitpoints    | Extends PvM trips by 5-10%                                                                                   |
-| Ranged       | Reduces arrow usage by 90%                                                                                   |
-| Prayer       | 40% Less Prayer Potions consumed while using Dwarven Blessing                                                |
-| Magic        | Voidling pet alches 3x faster with master cape equipped                                                      |
-| Runecrafting | 2x boost to runecrafting, and 2x boost to the ODS minigame                                                   |
-| Construction | Hatches Nursery Eggs at 2x Speed                                                                             |
-| Agility      | Acts as a full set of graceful                                                                               |
-| Herblore     | 10% extra products in mixing a potion                                                                        |
-| Thieving     | 30% Thieving boost                                                                                           |
-| Crafting     |                                                                                                              |
-| Fletching    |                                                                                                              |
-| Slayer       | 2x superior rolls                                                                                            |
-| Hunter       | 2x Hunter speed                                                                                              |
-| Mining       | 2x nuggets and minerals                                                                                      |
-| Smithing     | 2x boost to blast furnace and halves failure rate of smelting                                                |
-| Fishing      | 4x loot and Mystery Boxes from Fishing Trawler                                                               |
-| Cooking      | 5x Cooking speed                                                                                             |
-| Firemaking   | 2x Wintertodt loot                                                                                           |
-| Woodcutting  | 2x Woodcutting loot                                                                                          |
-| Farming      | 35% seeds saved when equipped (up to 50% with scroll of life), 1/10 per planted seed chance of a mystery box |
+| Skill        | Perk                                                                                                   |
+| ------------ | ------------------------------------------------------------------------------------------------------ |
+| Attack       | 15% Boost to PvM                                                                                       |
+| Strength     | 15% Boost to [Mad Marimbo's Monkey Rumble](../minigames/mad-marimbos-monkey-rumble/)                   |
+| Defence      |                                                                                                        |
+| Hitpoints    | Extends PvM trips by 5-10%                                                                             |
+| Ranged       | Reduces arrow usage by 90%, 15% boost to pvm when training range                                       |
+| Prayer       | 40% Less Prayer Potions consumed while using Dwarven Blessing                                          |
+| Magic        | Voidling pet alches 3x faster with master cape equipped, 15% boost to pvm when training magic          |
+| Runecrafting | 2x boost to runecrafting, and 2x boost to the ODS minigame                                             |
+| Construction | Hatches Nursery Eggs at 2x Speed                                                                       |
+| Agility      | Acts as a full set of graceful                                                                         |
+| Herblore     | 10% extra products in mixing a potion                                                                  |
+| Thieving     | 30% Thieving boost                                                                                     |
+| Crafting     |                                                                                                        |
+| Fletching    |                                                                                                        |
+| Slayer       | 2x superiors killed on task                                                                            |
+| Hunter       | 2x Hunter speed, +4 birdhouses, 2x loot from Sand Geckos with Sandy equipped, 2x implings              |
+| Mining       | 2x nuggets and minerals                                                                                |
+| Smithing     | 2x boost to blast furnace and halves failure rate of smelting                                          |
+| Fishing      | 4x loot and Mystery Boxes from Fishing Trawler                                                         |
+| Cooking      | 5x Cooking speed                                                                                       |
+| Firemaking   | 2x Wintertodt loot                                                                                     |
+| Woodcutting  | 2x Woodcutting loot                                                                                    |
+| Farming      | 15% seeds saved when equipped (50% with scroll of life), 1/10 per planted seed chance of a mystery box |
 
 ### **Expert Capes**
 
-There are 4 expert capes that you can buy once you have bought all required master capes. The expert cape combines all perks of the capes required to purchase it. You can purchase an expert cape with `=buy` after you meet the requirements, for example: `=buy combatants cape.`
+There are 4 expert capes that you can buy once you have bought all required master capes. The expert cape combines all perks of the capes required to purchase it. You can purchase an expert cape with `=buy` and all the required capes are consumed.
 
 
 

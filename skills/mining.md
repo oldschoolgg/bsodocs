@@ -1,10 +1,12 @@
 # Mining
 
-### Custom Items
+### Custom Content and Boosts
 
 * [Doug](https://bso-wiki.oldschool.gg/custom-items/pets) - Provides random ores while doing trips
 * [Dwarven Pickaxe](https://bso-wiki.oldschool.gg/custom-items/equippables#dwarven-equipment) - 2x Mining Speed
 
-### Optimal Experience
+### Methods
 
-The best experience rates for Mining are obtained while doing the Volcanic Mine activity with a Dwarven Pickaxe and Doug equipped. You will get rates of roughly 1.3m xp/h.
+| Method        | Xp / Hr |   |
+| ------------- | ------- | - |
+| Volcanic Mine | \~1.35m |   |

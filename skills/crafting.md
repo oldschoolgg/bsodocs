@@ -1,6 +1,6 @@
 # Crafting
 
-### Custom Items and Content
+### Custom Content and Boosts
 
 * [Dwarven Greathammer](https://bso-wiki.oldschool.gg/custom-items/equippables#dwarven-equipment) - 2x Crafting Speed
 * Klik - Provides extremely increased speeds when tanning (Do not use in conjunction with the Dwarven Greathammer, as it will override the pet perk)

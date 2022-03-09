@@ -1,6 +1,6 @@
 # Construction
 
-### Custom Items and Content
+### Custom Content and Boosts
 
 * Elder Plank - Made at the Sawmill using Elder Logs
 * Elder Table - Made at 105 Construction with Elder Planks
@@ -12,3 +12,13 @@
 | Method      | Xp / Hr |   |
 | ----------- | ------- | - |
 | Elder Table | \~10m   |   |
+
+**n.b.** you can increase sawmill speed with =sawmill \<plank> --speed=x at an additional cost
+
+2x speed - 1.73x cost
+
+3x speed - 2.6x cost
+
+4x speed - 3.8x cost
+
+5x speed - 5.3x cost
