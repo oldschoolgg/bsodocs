@@ -18,7 +18,7 @@ Block and Roll (5000 Slayer Points) - +3 blocks
 
 ### Methods
 
-For EHP only use Konar and follow the following blocks and skips
+For EHP only use Konar and adhere to the following blocks, skips, and unlocks
 
 * Blocks: Hydras, Drakes, Wyrms, Black Demons, Cave Krakens, Hellhounds, Greater Demons, Aberrant Spectres, Gargoyles
 * Skips: Adamant Dragons, Blue Dragons, Brine Rats, Bronze Dragons, Iron Dragons, Kurasks, Mutated Zygomites, Rune Dragons, Skeletal Wyverns, Steel Dragons, Trolls, Turoths, Waterfieds.
