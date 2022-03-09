@@ -6,6 +6,7 @@
 
 ## Skills
 
+* [General Information](skills/general-information.md)
 * [Agility](skills/agility.md)
 * [Combat Skills](skills/combat-skills.md)
 * [Construction](skills/construction.md)
