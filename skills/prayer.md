@@ -2,13 +2,10 @@
 
 ### Custom Content and Boosts
 
-Lil' Lamb - 1x-3x boost from offering bones
-
-Abyssal Dragon Bones - Bis bones obtained from Malygos
-
-Royal Dragon Bones - Bis bones obtained from QBD
-
-Gorajan Bonecrusher - Passively crushes bones obtained from /k trips
+* Lil' Lamb - 1x-3x boost from offering bones
+* Abyssal Dragon Bones - Bis bones obtained from Malygos
+* Royal Dragon Bones - Bis bones obtained from QBD
+* Gorajan Bonecrusher - Passively crushes bones obtained from /k trips
 
 ### Methods
 

@@ -21,6 +21,7 @@
 * Ring of Endurance - 10% speed boost must be equipped
 * Farmers Outfit - 2.5% bonus exp. Does not need to be equipped.
 * 3000 QP - Unlocks additional Athelas and Mysterious Tree patches
+* Plopper - 4x harvest and crops can't die
 
 ### Methods
 

@@ -6,15 +6,11 @@ description: Slayer on BSO shares many things with OSB, with a handful of key di
 
 ### Custom Content and Boosts
 
-Infernal Slayer Helm - Provides a +18% boost on task (+22% when imbued) and is obtained from the [Emerged Zuk Inferno](https://bso-wiki.oldschool.gg/minigames/emerged-zuk-inferno)
-
-Scroll of Longevity - 2x task length
-
-Size Matters - 2x task length
-
-Pore Decisions - Unlocks tasks within the [Polypore Dungeon](https://bso-wiki.oldschool.gg/custom-items/custom-monsters#polypore-dungeon)
-
-Block and Roll (5000 Slayer Points) - +3 blocks
+* Infernal Slayer Helm - Provides a +18% boost on task (+22% when imbued) and is obtained from the [Emerged Zuk Inferno](https://bso-wiki.oldschool.gg/minigames/emerged-zuk-inferno)
+* Scroll of Longevity - 2x task length
+* Size Matters - 2x task length
+* Pore Decisions - Unlocks tasks within the [Polypore Dungeon](https://bso-wiki.oldschool.gg/custom-items/custom-monsters#polypore-dungeon)
+* Block and Roll (5000 Slayer Points) - +3 blocks
 
 ### Methods
 

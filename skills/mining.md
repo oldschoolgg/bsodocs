@@ -2,8 +2,8 @@
 
 ### Custom Content and Boosts
 
-* [Doug](https://bso-wiki.oldschool.gg/custom-items/pets) - Provides random ores while doing trips
-* [Dwarven Pickaxe](https://bso-wiki.oldschool.gg/custom-items/equippables#dwarven-equipment) - 2x Mining Speed
+* [Doug](https://bso-wiki.oldschool.gg/custom-items/pets) - gives a boost when mining and at Volcanic Mine
+* [Dwarven Pickaxe](https://bso-wiki.oldschool.gg/custom-items/equippables#dwarven-equipment) - 2x Mining Speed, 2x boost to Volcanic Mine
 
 ### Methods
 
