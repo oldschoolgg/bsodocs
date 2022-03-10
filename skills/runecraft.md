@@ -6,11 +6,11 @@ description: Runecraft meta
 
 ### Custom Content and Boosts
 
-* Elder Runecrafting - the process of creating Elder Runes, which are unlocked when you have an Elder Talisman (obtained from [ODS](https://bso-wiki.oldschool.gg/minigames/ourania-delivery-service-ods)) in your possession.
-* Abyssal pouch - Upgrade to the giant pouch to hold much more essence. Requires abyssal thread, obtained from Malygos and requires 90 RC to use. `=create abyssal pouch` Ensure you create a new giant pouch after creating this.
-* Elder pouch - Upgrade the Abyssal pouch to hold much more essence. Requires elder thread from ODS and level 105 RC to use. `=create elder pouch` Ensure you create a new Abyssal pouch after creating this.
-* Obis - 2x boost but costs 3x essence
-* Master runecrafter outfit - 10% bonus to RC XP. Obtained from ODS
+* Elder Runecrafting - the process of creating Elder Runes, which are unlocked when you have an [Elder Talisman](../minigames/ourania-delivery-service-ods.md#ods-shop).
+* Abyssal pouch - Upgrade to the giant pouch to hold much more essence. Requires [abyssal thread](../bosses/demi-bosses/malygos.md#loot) and requires 90 RC to use. `=create abyssal pouch` Ensure you create a new giant pouch after creating this.
+* Elder pouch - Upgrade the Abyssal pouch to hold much more essence. Requires [elder thread](../minigames/ourania-delivery-service-ods.md#ods-shop) and level 105 RC to use. `=create elder pouch` Ensure you create a new Abyssal pouch after creating this.
+* [Obis](../custom-items/pets.md#miscellaneous-pets) - 2x boost but costs 3x essence
+* [Master runecrafter outfit](../minigames/ourania-delivery-service-ods.md#ods-shop) - 10% bonus to RC XP
 * lvl 120 Runecraft - 2x rune production
 * Runecraft master cape - 2x speed
 

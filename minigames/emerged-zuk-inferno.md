@@ -42,7 +42,7 @@ It is currently impossible to complete the Emerged Inferno in under 4 attempts. 
 
 _\*Boosts stack per outfit_
 
-**Rewards (All Are Untradeable)**
+## **Rewards (All Are Untradeable)**
 
 * **TzKal-Zuk's skin:** Used to create the TzKal cape
 * **TzKal cape:** The new BiS melee cape, created with 1 TzKal-zuks skin, 20 onyx, 1 infernal cape, 1 abyssal cape. Gives boosts to various bosses/places.

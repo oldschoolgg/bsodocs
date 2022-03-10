@@ -2,10 +2,10 @@
 
 ### Custom Content and Boosts
 
-* Lil' Lamb - 1x-3x boost from offering bones
+* [Lil' Lamb](../custom-items/pets.md#miscellaneous-pets) - 1x-3x boost from offering bones
 * Abyssal Dragon Bones - Bis bones obtained from Malygos
 * Royal Dragon Bones - Bis bones obtained from QBD
-* Gorajan Bonecrusher - Passively crushes bones obtained from /k trips
+* Gorajan Bonecrusher - Passively crushes bones obtained from /k trips. Create by combining the [Gorajan Bonecrusher (u)](dungeoneering-training/#starting-out) with 2 gorajan shards
 
 ### Optimal Gear Setup
 

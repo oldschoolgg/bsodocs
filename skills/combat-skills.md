@@ -9,15 +9,15 @@ description: >-
 ### Boosts
 
 * Weekend - 10% boost to /k during the weekend
-* Dwarven Warhammer - 40% boost to /k outside the wilderness
-* Dwarven Blessing - 20% boost to /k
-* Amulet of Zealots - adds 5% boost to Dwarven Blessing. Additional 5% boost for /k in the wilderness
-* Gorajan - 10% boost to /k for having all 3 sets of gorajan equipped
+* [Dwarven Warhammer](../bosses/king-goldemar.md#loot) - 40% boost to /k outside the wilderness
+* [Dwarven Blessing](../custom-items/grandmaster-clues.md#unique-loot-table) - 20% boost to /k
+* [Amulet of Zealots](dungeoneering-training/dg-rewards.md#buyable-gear) - adds 5% boost to Dwarven Blessing. Additional 5% boost for /k in the wilderness
+* [Gorajan](dungeoneering-training/dg-rewards.md#gorajan-armor) - 10% boost to /k for having all 3 sets of gorajan equipped
 * Attack Master cape - 15% boost to /k (ranged and magic master capes will add 15% boost when training their respective skills only; these boosts do not stack with the attack master cape)
-* Infernal Slayer Helmet - 18% boost to slayer tasks
+* [Infernal Slayer Helmet](../minigames/emerged-zuk-inferno.md#rewards-all-are-untradeable) - 18% boost to slayer tasks
 * Infernal Slayer Helmet (i) - 22% boost to slayer tasks
 * Rocktails - 7% boost to /k when food is consumed
-* Hellfire Bow - 3x boost to /k in wilderness
+* [Hellfire Bow](fletching.md#custom-content-and-boosts) - 3x boost to /k in wilderness
 
 ### Optimal Gear Setup
 

@@ -4,8 +4,8 @@
 
 * Elder Birdhouses - can be set at level 99 Hunter, giving random seeds and a chance at [Grandmaster Clues](https://bso-wiki.oldschool.gg/custom-items/grandmaster-clues).
 * Sand Geckos - can be hunted at 120 hunter, requiring simple kibble to catch them. They reward various mystery boxes, and can be boosted using [Sandy](https://bso-wiki.oldschool.gg/custom-items/pets) and the Master Hunter Cape (500m XP)
-* Eastern Ferret - can be hunted at 96 hunter, requiring delicious kibble to catch them. Chance at Zippy pet
-* Sandy - 3x hunter loot (2x sand gecko loot w/ Hunter Master Cape)
+* Eastern Ferret - can be hunted at 96 hunter, requiring delicious kibble to catch them. Chance at [Zippy](../custom-items/pets.md#miscellaneous-pets) pet
+* [Sandy](../custom-items/pets.md#miscellaneous-pets) - 3x hunter loot (2x sand gecko loot w/ Hunter Master Cape)
 
 ### Optimal Gear Setup
 

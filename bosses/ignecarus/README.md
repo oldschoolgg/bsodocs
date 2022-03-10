@@ -14,7 +14,7 @@ You can kill Ignecarus using `=igne`.
 
 ## Gear
 
-Protection from dragonfire is paramount to killing Ignecarus. You should aim for dwarven armor (which has special dragonfire resistance) and a dragonfire shield. Torva will work okay, but your chance of death will increase from the lack of fire protection.
+Protection from dragonfire is paramount to killing Ignecarus. You should aim for [dwarven armor](../../custom-items/equippables.md#dwarven-armor) (which has special dragonfire resistance) and a dragonfire shield. Torva will work okay, but your chance of death will increase from the lack of fire protection.
 
 ![BiS Gear for Ignecarus](../../.gitbook/assets/igne\_bis.png)
 

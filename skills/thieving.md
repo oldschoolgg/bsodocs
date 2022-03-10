@@ -2,8 +2,8 @@
 
 ### Custom Content and Boosts
 
-* Wilvus - 2x boost to pickpocket
-* Thieves' Armband - greatly reduces failure rate of pickpocketing and gives 3x loot. (does not triple blood shards from vyres; disables easy clue scroll drop from ham members)
+* [Wilvus](../custom-items/pets.md#miscellaneous-pets) - 2x boost to pickpocket
+* Thieves' Armband - greatly reduces failure rate of pickpocketing and gives 3x loot. (does not triple blood shards from vyres; disables easy clue scroll drop from ham members) Obtained randomly from wilvus' passive.
 * Thieving Master Cape - 30% boost to pickpocket
 
 ### Optimal Gear Setup

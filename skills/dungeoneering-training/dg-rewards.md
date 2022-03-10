@@ -42,6 +42,8 @@ Additionally, with a **Chaotic Remnant** (500,000 tokens), the three BiS amulets
 * Necklace of Anguish + Chaotic Remnant = **Farsight Snapshot Necklace**
 * Occult Necklace + Chaotic Remnant = **Arcane Blast Necklace**
 
+### Gorajan Armor
+
 **Gorajan Armor** is made by using Gorajan Shards with Nex Armor. Each piece of armor requires 2 Gorajan Shards to upgrade and will become untradeable. Stats will remain the same as the original Nex Armor but give additional boosts. They give 2x XP when used to train their respective style (ex. Gorajan Occult Outfit gives 2x Magic XP) and they also give a boost to Dungeoneering XP.
 
 * Torva + Gorajan Shards = **Gorajan Warrior Outfit**
