@@ -18,9 +18,14 @@ The monsters listed under this heading do not belong to any specific section, an
 
 * Rum Pumped Crab: Drops the Brackish Blade, and an assortment of rune and adamant equipment alongside various mid level seeds, one dose potions, and Gold Stone Spirits. It requires the player to have 50 Dungeoneering, and a Fishbowl Helmet and Diving Apparatus equipped.
 * Frost Dragon: Drops Frost Dragon Bones (which are significantly better than Superior Bones, but worse than Royal and Abyssal Bones), Grandmaster Clues, the Draconic Visage, Rune Arrows, Water Talismans, Adamant Platelegs, Adamant Platebodies, Rune Weapons, Death Runes, Law Runes, Pure Essence, assorted grimy herbs, Coins, Water Orbs, Limpwurt Roots, Mahogany Logs, and Adamantite Stone Spirits.
+* Tormented Demon: Requires DIvine Water to kill, 126 QP required; Drops Dragon Claw and Offhand Dragon Claw, Ruined dragon armour slice, Ruined dragon armour lump, Ruined dragon armour shard, Grandmaster Clues, Adamantite stone spirit, Infernal Ashes, Diamond, Death Rune, Blood Rune, 300k or 600k coins, assorted grimy herbs, rune and adamant alchables.
 
 Frost Dragons are boosted by the following:
 
 * [Tzkal Cape](https://bso-wiki.oldschool.gg/minigames/emerged-zuk-inferno) / Infernal Cape / Fire Cape: 8% / 4% / 2%
 * [Ancient Rejuvenation Pool](https://bso-wiki.oldschool.gg/skills/construction) / Any other Tier: 5% / 3%
+
+Tormented Demons are boosted by the following:
+
+* Tzkal Cape: 5%
 

@@ -20,7 +20,7 @@ For EHP only use Konar and adhere to the following blocks, skips, and unlocks
 
 * Blocks: Hydras, Drakes, Wyrms, Black Demons, Cave Krakens, Hellhounds, Greater Demons, Aberrant Spectres, Gargoyles
 * Skips: Adamant Dragons, Blue Dragons, Brine Rats, Bronze Dragons, Iron Dragons, Kurasks, Mutated Zygomites, Rune Dragons, Skeletal Wyverns, Steel Dragons, Trolls, Turoths, Waterfieds.
-* Task Extentions: Nechs Please, To dust you shall return, Bleed me dry, Ankou Very Much, Augment my Abbies
+* Task Extensions: Nechs Please, To dust you shall return, Bleed me dry, Ankou Very Much, Augment my Abbies
 * Unlock Stop the Wyvern and do not unlock any additional tasks.&#x20;
 
 With all of these steps in place, one can expect to receive a rough average of 3m xp/h.
