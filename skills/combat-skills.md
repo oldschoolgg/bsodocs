@@ -19,6 +19,10 @@ description: >-
 * Rocktails - 7% boost to /k when food is consumed
 * Hellfire Bow - 3x boost to /k in wilderness
 
+### Optimal Gear Setup
+
+Lorem Ipsum
+
 ### Method
 
 The best xp rates for these skills ( \~25m xp/hr ) are obtained through killing Black Demons with the maximum possible boosts, those being the following:

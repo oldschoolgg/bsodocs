@@ -14,6 +14,10 @@ description: Runecraft meta
 * lvl 120 Runecraft - 2x rune production
 * Runecraft master cape - 2x speed
 
+### Optimal Gear Setup
+
+Lorem Ipsum
+
 ### Methods
 
 | Method      | Xp / Hr |   |

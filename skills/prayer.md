@@ -7,6 +7,10 @@
 * Royal Dragon Bones - Bis bones obtained from QBD
 * Gorajan Bonecrusher - Passively crushes bones obtained from /k trips
 
+### Optimal Gear Setup
+
+Lorem Ipsum
+
 ### Methods
 
 | Method                         | Xp / Hr |   |

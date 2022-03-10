@@ -7,6 +7,10 @@
 * Ancient Rejuvenation Pool - Built at 105 construction using 500 brews, 150 restores, 100 stams, 200 prayer pots, 30 elder planks, and 20 marble blocks. It must be built on top of an ornate rejuvenation pool, and it provides a boost to QBD, Corp, and Malygos.
 * Scroll of proficiency - 15% of planks saved in construction
 
+### Optimal Gear Setup
+
+Lorem Ipsum
+
 ### Methods
 
 | Method      | Xp / Hr |   |

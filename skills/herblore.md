@@ -11,6 +11,10 @@
 * Neem Oil - made with Neem Drupe and Jug of Water.
 * Dragon's Fury - (a potion made at 120 herblore using 3 Ignecarus Scales and 1 Abyssal Dragon Bones)
 
+### Optimal Gear Setup
+
+Lorem Ipsum
+
 ### Methods
 
 | Method               | Xp / Hr |   |

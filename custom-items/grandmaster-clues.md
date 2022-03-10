@@ -27,7 +27,7 @@ The general loot table from Grandmaster Caskets consists of:
 * Normal, Air, Earth, Fire, and Water battlestaves
 * Tradeable, Untradeable, Equippable, and Holiday Mystery boxes
 * Barrow's equipment
-* Lamps (Tiny to Large)
+* Lamps (Tiny to Huge)
 * Clue Scrolls (Beginner to Master)
 * Random Clue Scroll Loot (Beginner to Master)
 * Super Restores and Saradomin Brews

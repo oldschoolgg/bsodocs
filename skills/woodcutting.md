@@ -6,6 +6,10 @@
 * Woodcutting Master Cape - 2x loot
 * Elder Logs - logs obtained from Elder trees at lvl 105 wc
 
+### Optimal Gear Setup
+
+Lorem Ipsum
+
 ### Methods
 
 | Method     | Xp / Hr |   |

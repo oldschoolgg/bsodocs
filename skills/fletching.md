@@ -9,6 +9,10 @@
 * Elder Longbow (u) - Fletched from Elder logs at 105 Fletching
 * Elder Longbow - Fletched with Elder Longbow (u) and bowstring at 105 Fletching
 
+### Optimal Gear Setup
+
+Lorem Ipsum
+
 ### Methods
 
 | Method            | Xp / Hr |   |

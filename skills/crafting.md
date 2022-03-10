@@ -9,6 +9,10 @@
 * Scroll of dexterity - 15% extra output in crafting
 * Heat Res. Vial - Made with molten glass and athelas paste
 
+### Optimal Gear Setup
+
+Lorem Ipsum
+
 ### Methods
 
 | Method                | Xp / Hr |   |

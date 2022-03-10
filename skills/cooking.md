@@ -24,6 +24,10 @@ Create kibble with `=kibble <quantity> <tier>`using all of the resources listed.
   * Crop: 7.5x Orange or Pineapple
   * Fish: 15x Raw Rocktail
 
+### Optimal Gear Setup
+
+Lorem Ipsum
+
 ### Methods
 
 | Method               | Xp / Hr  |   |

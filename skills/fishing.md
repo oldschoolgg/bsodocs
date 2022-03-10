@@ -7,6 +7,10 @@
 * Fishing Content - =fishingcontest, daily 1 minute trip that gives \~200k xp
 * Crystal FIshing Rod - Used in =fishingcontest, created with crystal tool seed and a fishing rod
 
+### Optimal Gear Setup
+
+Lorem Ipsum
+
 ### Methods
 
 | Method   | Xp / Hr |   |

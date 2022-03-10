@@ -7,6 +7,10 @@
 * Eastern Ferret - can be hunted at 96 hunter, requiring delicious kibble to catch them. Chance at Zippy pet
 * Sandy - 3x hunter loot (2x sand gecko loot w/ Hunter Master Cape)
 
+### Optimal Gear Setup
+
+Lorem Ipsum
+
 ### Methods
 
 | Method           | Xp / Hr |   |

@@ -23,6 +23,10 @@
 * 3000 QP - Unlocks additional Athelas and Mysterious Tree patches
 * Plopper - 4x harvest and crops can't die
 
+### Optimal Gear Setup
+
+Lorem Ipsum
+
 ### Methods
 
 The best farming experience is obtained by planting and harvesting Athelas.&#x20;

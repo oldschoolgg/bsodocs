@@ -12,6 +12,8 @@ description: Slayer on BSO shares many things with OSB, with a handful of key di
 * Pore Decisions - Unlocks tasks within the [Polypore Dungeon](https://bso-wiki.oldschool.gg/custom-items/custom-monsters#polypore-dungeon)
 * Block and Roll (5000 Slayer Points) - +3 blocks
 
+n.b. for boosts please see the [combat skills](combat-skills.md) section
+
 ### Methods
 
 For EHP only use Konar and adhere to the following blocks, skips, and unlocks

@@ -9,6 +9,10 @@
 * Sepulchre Floor 6 and 7 - Unlocked at levels 105 and 115 respectively.&#x20;
 * Monkey Rumble - While doing this minigame you can receive agility experience at about 1/4th of the strength xp you receive
 
+### Optimal Gear Setup
+
+lorem ipsum
+
 ### Methods
 
 | Method                     | Xp / Hr |   |
