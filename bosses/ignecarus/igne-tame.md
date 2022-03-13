@@ -38,3 +38,4 @@ You can feed the dragon tame certain items with `=tame feed [item]`\
 | Zak               | +35 minutes to trip lengths |
 | Ori               | 25% extra loot              |
 | Dwarven Warhammer | 30% speed boost             |
+| Mr. E             | 1/12 chance to double loot  |
