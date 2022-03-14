@@ -5,6 +5,7 @@ The Queen Black Dragon is a Demi-Boss that drops several mid game items and mid 
 ### Boosts
 
 * Ancient Rejuvenation Pool - 6%
+* Royal crossbow - 8%
 * Dwarven Warhammer - 40%
 * Dragon Hunter Crossbow - 20%
 * Infernal Slayer Helmet (on task) - 18% on task (22% when imbued)
@@ -19,8 +20,9 @@ The Queen Black Dragon is a Demi-Boss that drops several mid game items and mid 
 * Queen Black Dragonling (1/2500) - Perkless pet
 * Royal Dragon Kiteshield (1/250) - An offhand shield, with no currently known use
 * Dragonbone Upgrade Kit (1/64) - Used to upgrade dragon equipment and infinity equipment into special cosmetic dragonbone versions
+* Grandmaster clue (1/37) - See [Grandmaster clues](../../custom-items/grandmaster-clues.md)
 
-The following four drops (1/18 per) are used in conjunction with the Chaotic Crossbow to craft the Royal Crossbow:
+The following four drops (1/18 for any, not dropped in order) are combined with the Chaotic Crossbow to craft the Royal Crossbow:
 
 * Royal Torsion Spring
 * Royal Sight

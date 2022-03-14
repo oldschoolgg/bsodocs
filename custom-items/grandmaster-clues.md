@@ -10,9 +10,9 @@ The most efficient and rewarding strategy when solving grandmaster clues is equi
 
 ### Obtaining
 
-Grandmaster Clues can be received from a wide range of content. The rates are not included here because they change often and vary greatly between sources. The full list of sources is as follows:
+Grandmaster Clues can be received from a wide range of content. The rates are not included here because they change often and vary greatly between sources. A list of common sources is as follows:
 
-[Kalphite King](https://bso-wiki.oldschool.gg/bosses/kalphite-king), [Vasa Magus](https://bso-wiki.oldschool.gg/bosses/vasa-magus?q=Vasa), [Sea Kraken](https://bso-wiki.oldschool.gg/bosses/sea-kraken), [Ignecarus](https://bso-wiki.oldschool.gg/bosses/ignecarus), [Nex](https://bso-wiki.oldschool.gg/bosses/nex), [Malygos](https://bso-wiki.oldschool.gg/bosses/malygos), [Sand Geckos](https://bso-wiki.oldschool.gg/custom-items/misc), [Elder Birdhouses](https://bso-wiki.oldschool.gg/custom-items/misc), Fishing, Woodcutting, Master Clue Caskets, and [Item Contracts](https://bso-wiki.oldschool.gg/custom-items/item-contracts).
+[Kalphite King](https://bso-wiki.oldschool.gg/bosses/kalphite-king), [Vasa Magus](https://bso-wiki.oldschool.gg/bosses/vasa-magus?q=Vasa), [Sea Kraken](https://bso-wiki.oldschool.gg/bosses/sea-kraken), [Ignecarus](https://bso-wiki.oldschool.gg/bosses/ignecarus), [Nex](https://bso-wiki.oldschool.gg/bosses/nex), [Malygos](https://bso-wiki.oldschool.gg/bosses/malygos), [QBD](../bosses/demi-bosses/queen-black-dragon.md#rewards), [Sand Geckos](https://bso-wiki.oldschool.gg/custom-items/misc), [Elder Birdhouses](https://bso-wiki.oldschool.gg/custom-items/misc), Fishing, Woodcutting, Master Clue Caskets, and [Item Contracts](https://bso-wiki.oldschool.gg/custom-items/item-contracts).
 
 ### General Loot Table
 
