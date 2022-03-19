@@ -4,7 +4,7 @@ In BSO, there are many types of custom weapons and armor that have higher than u
 
 ### First Age
 
-First Age equipment is obtained at a very rare (currently unknown) rate from [Grandmaster Caskets](https://bso-wiki.oldschool.gg/custom-items/grandmaster-clues)
+First Age equipment is obtained at a very rare rate from [Grandmaster Caskets](https://bso-wiki.oldschool.gg/custom-items/grandmaster-clues)
 
 |                    |                     |
 | ------------------ | ------------------- |
@@ -16,7 +16,7 @@ First Age equipment is obtained at a very rare (currently unknown) rate from [Gr
 
 ![](../.gitbook/assets/1a.png)
 
-Having the entire First Age set equipped will give the player an extra 1% boost, for a total of 6%.
+Having the entire First Age set equipped gives the player an extra 1% boost, for a total of 6%.
 
 ### Dwarven Equipment
 
@@ -32,7 +32,7 @@ The dwarven tools are smithed from Dwarven Bars
 | Dwarven Greathammer | <p>2x Smithing speed</p><p>2x Crafting speed</p>       | 4    |
 | Dwarven Knife       | 2x Fletching speed                                     | 2    |
 
-_Note: To smith tools, you will need 99 Smithing and Blacksmith Equipment_
+_Note: To smith tools, you need 99 Smithing and Blacksmith Equipment_
 
 #### Dwarven Armor
 
@@ -44,7 +44,7 @@ _Note: To smith tools, you will need 99 Smithing and Blacksmith Equipment_
 | Dwarven Boots     | 2           |
 | Dwarven Gloves    | 2           |
 
-_Note_: _To smith equipment, you will need 120 Smithing and Blacksmith Equipment_
+_Note_: _To smith equipment, you need 120 Smithing and Blacksmith Equipment_
 
 Currently only used at Ignecarus.
 
@@ -81,11 +81,11 @@ Additionally, the **Zaryte** **Bow** is also obtainable as a drop. It gives a 20
 
 ### Drygore Weapons
 
-Drygore weapons are a drop from the [Kalphite King](../bosses/kalphite-king.md). Each type of weapon has a main hand and offhand pair.&#x20;
+Drygore weapons are a drop from the [Kalphite King](../bosses/kalphite-king.md). Each type of weapon has a main hand and offhand pair which are the best-in-slot weapons for each respective melee style.&#x20;
 
 ### Dungeoneering Gear
 
-There are various types of gear that can be obtained from Dungeoneering (see [Dungeoneering](../skills/dungeoneering-training/dg-rewards.md)).&#x20;
+There is various gear that can be obtained from Dungeoneering (see [Dungeoneering](../skills/dungeoneering-training/dg-rewards.md)).&#x20;
 
 ### Clue Hunter Outfit
 
@@ -116,7 +116,7 @@ The Master Farmer outfit is craftable with 110 Crafting using Ent hides dropped 
 
 ### Blacksmith Equipment
 
-The Blacksmith set is a reward from Blacksmith Crates, which drop at a rate of roughly one in 75 hours from [King Goldemar](https://bso-wiki.oldschool.gg/bosses/king-goldemar?q=blacksmith). The full set is required to smith dwarven equipment and tools. When the full set is equipped, a 10% xp boost is given when smelting bars at the blast furnace.
+The Blacksmith set is obtainable from Blacksmith Crates, which drop at a rate of 1/60 from [King Goldemar](https://bso-wiki.oldschool.gg/bosses/king-goldemar?q=blacksmith), or from mystery boxes. You can recieve duplicates before finishing the set. The full set is required to smith dwarven equipment and tools. When the full set is equipped, a 10% xp boost is given when smithing and when smelting bars at the blast furnace.
 
 ![](../.gitbook/assets/blacksmith.png)
 
@@ -124,11 +124,11 @@ The Blacksmith set is a reward from Blacksmith Crates, which drop at a rate of r
 
 Dragonbone Equipment is an ornamental version of normal Dragon and Infinity equipment, and is created with Dragonbone Ornament Kits, which are an uncommon drop Queen Black Dragon.&#x20;
 
-![Dragonbone Melee](<../.gitbook/assets/dragonbone melee.png>) ![Dragonbone Mage](<../.gitbook/assets/dragonbone mage.png>)
+![Dragonbone Melee with Royal dragon kiteshield](<../.gitbook/assets/dragonbone melee.png>) ![Dragonbone Mage](<../.gitbook/assets/dragonbone mage.png>)
 
 ### Master Capes
 
-Master capes are skillcapes that can be purchased upon getting 500M XP in the respective skill. The command to purchase a master cape is `=skillcape hunter master cape` for example. Each one costs 1b gp to purchase and is untradeable. A master cape will provide 8% XP boost if training the corresponding skill, or 3% when training any other skill. This perk is global, and the master cape can be equipped in any gear tab to receive the XP boost. Master capes also have the same stats as an Abyssal Cape without the food reduction perk.&#x20;
+Master capes are skillcapes that can be purchased upon getting 500M XP in the respective skill. The command to purchase a master cape is `=skillcape hunter master cape`. Each cape costs 1b gp to purchase and is untradeable. Master capes provide an 8% XP boost if training the corresponding skill, or 3% when training any other skill. This perk is global, and the master cape can be equipped in any gear tab to receive the XP boost. Master capes also have the same stats as an Abyssal Cape without the food reduction perk.
 
 Additionally, master capes have a perk that is related to the skill that they are corresponding to. Skills with missing perks are either yet to be added or still unknown.
 
