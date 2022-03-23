@@ -1,8 +1,3 @@
----
-cover: ../.gitbook/assets/kk2.png
-coverY: 0
----
-
 # Kalphite King
 
 The Kalphite King is a strong boss, known for the Drygore weapons it drops.
