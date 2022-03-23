@@ -1,13 +1,18 @@
+---
+cover: ../.gitbook/assets/kk2.png
+coverY: 0
+---
+
 # Kalphite King
 
-The Kalphite King is a strong boss, known for the strong Drygore weapons it drops.
+The Kalphite King is a strong boss, known for the Drygore weapons it drops.
 
 You can kill Kalphite King using `=kk` or, `=kk solo` to solo.
 
 ## Requirements
 
-* Decent melee gear
-* Brews and restores
+* [Melee gear](kalphite-king.md#gear)
+* Saradomin brew(4), Super restore(4)
 * 95 Prayer
 * 90 Attack, Strength and Defence
 
@@ -15,7 +20,9 @@ You can kill Kalphite King using `=kk` or, `=kk solo` to solo.
 
 You should use the best melee gear you have.
 
-![BiS Gear for Kalphite King](<../.gitbook/assets/image (9).png>)
+![An entry level setup](<../.gitbook/assets/osbot (6).png>)
+
+![Best-in-slot setup](<../.gitbook/assets/image (9).png>)
 
 ## Boosts
 
@@ -29,8 +36,8 @@ You should use the best melee gear you have.
 
 ![Loot from 10,000 Kalphite King](<../.gitbook/assets/osbot (3).png>)
 
-* **Baby Kalphite King:** A pet with no use.
-* **Perfect Chitin**: Currently does not have a use.
+* **Baby Kalphite King** (Pet)
+* **Perfect Chitin** (Currently has no use)
 * **Drygore weapons:** A set of 6 drygore weapons which are very powerful, and used in many places.
   * **Drygore Rapier** + **Offhand Drygore Rapier** - BiS CoX Points and CoX boost
   * **Drygore Mace** + **Offhand Drygore Mace** - BiS Kalphite King
