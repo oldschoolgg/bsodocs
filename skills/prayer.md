@@ -5,11 +5,12 @@
 * [Lil' Lamb](../custom-items/pets.md#miscellaneous-pets) - 1x-3x boost from offering bones
 * Abyssal Dragon Bones - Bis bones obtained from Malygos
 * Royal Dragon Bones - Bis bones obtained from QBD
-* Gorajan Bonecrusher - Passively crushes bones obtained from /k trips. Create by combining the [Gorajan Bonecrusher (u)](dungeoneering-training/#starting-out) with 2 gorajan shards
+* Gorajan Bonecrusher - Passively crushes bones obtained from /k trips. Create by combining the [Gorajan Bonecrusher (u)](dungeoneering-training/#starting-out) with 3 gorajan shards
+* Prayer Master Cape - 40% Less Prayer Potions consumed while using Dwarven Blessing
 
 ### Optimal Gear Setup
 
-Lorem Ipsum
+Lil Lamb, Prayer master cape
 
 ### Methods
 

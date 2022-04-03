@@ -60,14 +60,11 @@ These dwarven gear are unlike the previous in that they are not smithable from D
 
 ### Abyssal Equipment
 
-Abyssal equipment can be obtained by killing [Malygos](../bosses/demi-bosses/malygos.md).&#x20;
-
-* Abyssal Cape - Provides an aura which reduces food consumption by 50%
-* Abyssal Thread - Combine with Giant Pouch to create Abyssal Pouch
+Abyssal Cape - Provides an aura which reduces food consumption by 50%. Obtained from [Malygos](../bosses/demi-bosses/malygos.md)
 
 ### Nex Equipment
 
-The following items can be obtained by killing Nex (see [Nex](../bosses/nex.md)). These items all have very high bonuses in their respective style, Pernix - range, Torva - melee, and Virtus - magic.&#x20;
+The following items are obtained from [Nex](../bosses/nex.md). These items all have very high bonuses in their respective style, Pernix - range, Torva - melee, and Virtus - magic.&#x20;
 
 * **Pernix**: Cowl, Body, Chaps, Gloves, Boots, Zaryte Bow
 * **Torva**: Full Helm, Platebody, Platelegs, Gloves, Boots

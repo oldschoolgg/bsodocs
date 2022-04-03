@@ -11,7 +11,7 @@
 
 ### Optimal Gear Setup
 
-Lorem Ipsum
+Scruffy, Dwarven knife, Fletching master cape
 
 ### Methods
 

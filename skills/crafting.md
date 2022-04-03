@@ -11,7 +11,7 @@
 
 ### Optimal Gear Setup
 
-Lorem Ipsum
+Klik when tanning, Dwarven Greathammer when crafting, Crafting master cape
 
 ### Methods
 

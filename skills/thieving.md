@@ -8,7 +8,7 @@
 
 ### Optimal Gear Setup
 
-Lorem Ipsum
+Thieving master cape, full rogue outfit, wilvus
 
 ### Methods
 

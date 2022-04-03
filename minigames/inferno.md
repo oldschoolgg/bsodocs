@@ -42,7 +42,7 @@ _Note: It is impossible to complete the inferno in under 8 attempts. While under
 
 #### Pre-Zuk Survivability
 
-![](<../.gitbook/assets/image (11).png>)![](<../.gitbook/assets/image (12).png>)
+![](<../.gitbook/assets/image (11) (1).png>)![](<../.gitbook/assets/image (12).png>)
 
 #### Speed
 

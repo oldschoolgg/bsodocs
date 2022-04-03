@@ -1,6 +1,6 @@
 # Herblore
 
-### Custom Items and Content
+### Custom Content and Boosts
 
 * Heat res. potions
 
@@ -10,10 +10,11 @@
 
 * Neem Oil - made with Neem Drupe and Jug of Water.
 * Dragon's Fury - (a potion made at 120 herblore using 3 Ignecarus Scales and 1 Abyssal Dragon Bones)
+* Herblore Master Cape - 10% chance per potion made to get an extra potion
 
 ### Optimal Gear Setup
 
-Lorem Ipsum
+Herblore master cape
 
 ### Methods
 

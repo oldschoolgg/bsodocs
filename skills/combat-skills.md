@@ -21,7 +21,7 @@ description: >-
 
 ### Optimal Gear Setup
 
-Lorem Ipsum
+Full Gorajan and a combat master cape for the respective skill you are training
 
 ### Method
 

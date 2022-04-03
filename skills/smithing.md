@@ -12,10 +12,11 @@ n.b. _There is a 35% chance to fail smelting the bar. The ore is used in the att
 * [Dwarven Greathammer](../custom-items/equippables.md#dwarven-tools) - 2x boost to =smith (does not stack with takon)
 * [Dwarven Gauntlets](../custom-items/equippables.md#dwarven-tools) - 2x boost to /smelt and =bf (does not stack with goldsmith gauntlets at the blast furnance, does stack when using /smelt)
 * Smithing Master Cape - 2x boost to =bf, halves failure rate when smelting ore
+* [Scroll of Efficiency](dungeoneering-training/dg-rewards.md#buyable-boosts-utility) - Saves 15% of the bars used
 
 ### Optimal Gear Setup
 
-Lorem Ipsum
+![](<../.gitbook/assets/image (14).png>)
 
 ### Methods
 

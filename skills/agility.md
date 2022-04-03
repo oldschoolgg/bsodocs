@@ -8,10 +8,11 @@
 * Daemonheim agility course - Chance to find dungeoneering dyes and gorajan shards (2.5x rate of the dungeoneering skill)
 * Sepulchre Floor 6 and 7 - Unlocked at levels 105 and 115 respectively.&#x20;
 * [Monkey Rumble](../minigames/mad-marimbos-monkey-rumble/#rewards) - While doing this minigame you can receive agility experience at about 1/4th of the strength xp you receive
+* Agility Master Cape - Acts as a full set of graceful
 
 ### Optimal Gear Setup
 
-lorem ipsum
+Cob, Agility master cape
 
 ### Methods
 

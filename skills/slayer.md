@@ -11,6 +11,7 @@ description: Slayer on BSO shares many things with OSB, with a handful of key di
 * Size Matters - 2x task length
 * Pore Decisions - Unlocks tasks within the [Polypore Dungeon](https://bso-wiki.oldschool.gg/custom-items/custom-monsters#polypore-dungeon)
 * Block and Roll (5000 Slayer Points) - +3 blocks
+* Slayer Master Cape - Doubles the amount of superiors you kill on a task
 
 n.b. for boosts please see the [combat skills](combat-skills.md) section
 

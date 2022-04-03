@@ -6,6 +6,7 @@
 * [Dwarven Gauntlets](../custom-items/equippables.md#dwarven-tools) - 3x Cooking Speed (does not work with =kibble; does not stack with Remy)
 * Cooked Rocktail - Cookable at lvl 120 cooking
 * Kibble - Used as bait when training Hunter
+* Cooking Master Cape - 5x cooking speed
 
 ### Kibble
 
@@ -26,7 +27,7 @@ Create kibble with `=kibble <quantity> <tier>`using all of the resources listed.
 
 ### Optimal Gear Setup
 
-Lorem Ipsum
+Cooking master cape, Dwarven gauntlets, Remy
 
 ### Methods
 

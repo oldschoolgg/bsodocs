@@ -6,10 +6,11 @@
 * Elder Table - Made at 105 Construction with Elder Planks
 * Ancient Rejuvenation Pool - Built at 105 construction using 500 brews, 150 restores, 100 stams, 200 prayer pots, 30 elder planks, and 20 marble blocks. It must be built on top of an ornate rejuvenation pool, and it provides a boost to QBD, Corp, and Malygos.
 * [Scroll of proficiency](dungeoneering-training/dg-rewards.md#buyable-boosts-utility) - 15% of planks saved in construction
+* Construction Master Cape - Hatches Nursery Eggs at 2x Speed
 
 ### Optimal Gear Setup
 
-Lorem Ipsum
+Plank sack, Carpenter's helmet, Carpenter's shirt, Carpenter's trousers, Carpenter's boots, Construction master cape
 
 ### Methods
 
