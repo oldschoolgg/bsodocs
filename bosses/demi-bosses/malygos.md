@@ -1,6 +1,6 @@
 # Malygos
 
-Malygos is the Abyssal dragon boss. It attacks with slash/stab/ranged and magic. This is a boss you can fight solo or in a mass.
+Malygos is the Abyssal dragon boss. It attacks with slash/stab/ranged and magic. Malygos uses the **Wildy** gear setup, however you cannot lose gear while doing Malygos. This is a boss you can fight solo or in a mass.
 
 You can kill Malygos with `=k malygos` or `=k mally`. To mass Malygos you can start the mass with `=mass malygos`.
 
@@ -21,12 +21,12 @@ You can kill Malygos with `=k malygos` or `=k mally`. To mass Malygos you can st
 
 ## Boosts
 
-* Dragon Hunter Lance
-* Saradomin Godsword
-* Dragon Warhammer
-* Bandos Godsword
-* Ancient Rejuvenation Pool
-* Hellfire Bow&#x20;
+* Bandos godsword - 5%
+* Dragon warhammer - 5%
+* Saradomin godsword - 5%
+* Ancient rejuvenation pool - 10%
+* Dragon hunter lance/Dragon hunter crossbow - 15%
+* Hellfire bow - 3x
 
 ## Loot
 
