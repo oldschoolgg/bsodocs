@@ -28,14 +28,16 @@ Note: Voidling alchs at a lower rate if it is not equipped and you do not have a
 
 ## Resource Gathering & Loot Affecting pets
 
-| **Pet** | **Perk**                                                                                                                                 | **Source**                     |
-| ------- | ---------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------ |
-| Brock   | <p>Brings back random logs (non-PvM trips only)<br>2x speed at Gauntlet<br>Bypass 50 Gauntlet KC requirement for Corrupted Gauntlet</p>  | 1/5,500 Minutes of Zulrah      |
-| Peky    | <p>Brings back random seeds (non-PvM trips only)<br>Chance to bring back a <a href="pets.md#growable-pets">Baby raven</a></p>            | 1/4,000 Minutes of Woodcutting |
-| Ori     | Boosts loot from PvM trips by 25% (rounds up)                                                                                            | 1/3,000 from Malygos           |
-| Sandy   | Triples hunter loot (doubles sand gecko loot if Hunter Master Cape is equipped)                                                          | 1/16,000 from Sand Geckos      |
-| Doug    | Brings back random ores                                                                                                                  | 1/12,000 Minutes of Mining     |
-| Zippy   | <p>Gives extra clue caskets and mystery boxes while completing clues</p><p>Can double the amount of loot from a clue completing trip</p> | 1/350 Trips of Questing        |
+| **Pet** | **Perk**                                                                                                                                     | **Source**                                                                   |
+| ------- | -------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------- |
+| Brock   | <p>Brings back random logs (non-PvM trips only)<br>2x speed at Gauntlet<br>Bypass 50 Gauntlet KC requirement for Corrupted Gauntlet</p>      | 1/5,500 Minutes of Zulrah                                                    |
+| Peky    | <p>Brings back random seeds (non-PvM trips only)<br>Chance to bring back a <a href="pets.md#growable-pets">Baby raven</a></p>                | 1/4,000 Minutes of Woodcutting                                               |
+| Ori     | Boosts loot from PvM trips by 25% (rounds up)                                                                                                | 1/3,000 from Malygos                                                         |
+| Sandy   | Triples hunter loot (doubles sand gecko loot if Hunter Master Cape is equipped)                                                              | 1/16,000 from Sand Geckos                                                    |
+| Doug    | Brings back random ores                                                                                                                      | 1/12,000 Minutes of Mining                                                   |
+| Zippy   | <ul><li>Gives extra clue caskets and mystery boxes while completing clues</li><li>1/15 chance to double loot from completing clues</li></ul> | <ul><li>Questing (1/350 per trip)</li><li>Hunting eastern ferrets*</li></ul> |
+
+* The drop rate increases the more zippys you have in your _CL_. The base drop rate is 1/3500 with no zippys in your CL, it _roughly_ doubles for each zippy you have. This is in order to protect the value of zippy, whilst not making it impossible to get more than 1, while making it viable to get your _first_ zippy from here.&#x20;
 
 ## Discontinued pets
 
