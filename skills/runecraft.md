@@ -7,8 +7,8 @@ description: Runecraft meta
 ### Custom Content and Boosts
 
 * Elder Runecrafting - the process of creating Elder Runes, which are unlocked when you have an [Elder Talisman](../minigames/ourania-delivery-service-ods.md#ods-shop).
-* Abyssal pouch - Upgrade to the giant pouch to hold much more essence. Requires [abyssal thread](../bosses/demi-bosses/malygos.md#loot) and requires 90 RC to use. `=create abyssal pouch` Ensure you create a new giant pouch after creating this.
-* Elder pouch - Upgrade the Abyssal pouch to hold much more essence. Requires [elder thread](../minigames/ourania-delivery-service-ods.md#ods-shop) and level 105 RC to use. `=create elder pouch` Ensure you create a new Abyssal pouch after creating this.
+* Abyssal pouch - Holds 64 essence (increases maximum to +89 inv spaces from pouches). Created using a giant pouch and an [abyssal thread](../bosses/demi-bosses/malygos.md#loot) with /`create item:abyssal pouch.` Requires 90 RC to use. Ensure you create a new giant pouch after creating this.
+* Elder pouch - Holds 128 essence (increases maximum to +216 inv spaces from pouches). Created using an Abyssal pouch and an [elder thread](../minigames/ourania-delivery-service-ods.md#ods-shop) with `/create item:elder pouch.` Requires level 105 RC to use. Ensure you create a new Abyssal pouch after creating this.
 * [Obis](../custom-items/pets.md#miscellaneous-pets) - 2x boost but costs 3x essence
 * [Master runecrafter outfit](../minigames/ourania-delivery-service-ods.md#ods-shop) - 10% bonus to RC XP
 * Lvl 120 Runecraft - 2x rune production
@@ -16,9 +16,9 @@ description: Runecraft meta
 
 ### Optimal Gear Setup
 
-Full Graceful in a setup
+Equipped anywhere: Full Graceful, Ring of endurance, Runecraft master cape, Obis
 
-Master runecrafter outfit, Runecraft master cape, obis
+In skilling setup: Master runecrafter outfit
 
 ### Methods
 
