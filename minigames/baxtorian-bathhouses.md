@@ -37,7 +37,7 @@ You will need 50 Herblore and 50 Firemaking for this minigame. As stated above, 
 
 ### Boosts
 
-You will receive a 20% reduction in used logs and ores if you have an idle Ignecarus Tame. You will also receive a 5% boost for having an equipped Firemaking master cape.
+You will receive a 20% reduction in used logs and ores if you have an idle Ignecarus Tame. You will also receive a 5% boost for having a Firemaking master cape.
 
 ### Rewards
 
