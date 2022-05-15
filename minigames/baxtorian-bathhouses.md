@@ -33,7 +33,7 @@ There are multiple species that are served in this minigame, each with their own
 
 ### Requirements
 
-You will need 50 Herblore and 50 Firemaking for this minigame. As stated above, the type of herbs, ores, and logs that you use are dependent on the selected tier.
+You will need 50 Herblore and 50 Firemaking for this minigame. As stated above, the type of ores and logs that you use are dependent on the selected tier. You will also use herbs of any kind, which you may select.
 
 ### Boosts
 
