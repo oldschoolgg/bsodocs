@@ -30,23 +30,24 @@
 
 ## Bosses
 
+* [Chambers of Xeric](bosses/chambers-of-xeric.md)
 * [Ignecarus](bosses/ignecarus/README.md)
   * [Igne Tame](bosses/ignecarus/igne-tame.md)
-* [Vasa Magus](bosses/vasa-magus.md)
 * [Kalphite King](bosses/kalphite-king.md)
 * [King Goldemar](bosses/king-goldemar.md)
 * [Nex](bosses/nex.md)
-* [Chambers of Xeric](bosses/chambers-of-xeric.md)
+* [Vasa Magus](bosses/vasa-magus.md)
 * [Demi Bosses](bosses/demi-bosses/README.md)
+  * [Malygos](bosses/demi-bosses/malygos.md)
   * [Queen Black Dragon](bosses/demi-bosses/queen-black-dragon.md)
   * [Sea Kraken](bosses/demi-bosses/sea-kraken.md)
   * [Treebeard](bosses/demi-bosses/treebeard.md)
-  * [Malygos](bosses/demi-bosses/malygos.md)
 
 ## Minigames
 
-* [Inferno](minigames/inferno.md)
+* [Baxtorian Bathhouses](minigames/baxtorian-bathhouses.md)
 * [Emerged Zuk Inferno](minigames/emerged-zuk-inferno.md)
+* [Inferno](minigames/inferno.md)
 * [Mad Marimbo's Monkey Rumble](minigames/mad-marimbos-monkey-rumble/README.md)
   * [Monkey Tame](minigames/mad-marimbos-monkey-rumble/monkey-tame.md)
   * [Monkey Rumble Store](minigames/mad-marimbos-monkey-rumble/monkey-rumble-store.md)
@@ -55,19 +56,19 @@
 ## Custom Content <a href="#custom-items" id="custom-items"></a>
 
 * [Custom Monsters](custom-items/custom-monsters.md)
-* [Item Contracts](custom-items/item-contracts.md)
-* [Pets](custom-items/pets.md)
-* [Equippables](custom-items/equippables.md)
-* [Tames](custom-items/tames.md)
-* [Implings](custom-items/implings.md)
-* [Grandmaster Clues](custom-items/grandmaster-clues.md)
-* [Misc](custom-items/misc.md)
 * [Dyes](custom-items/dyes.md)
+* [Equippables](custom-items/equippables.md)
+* [Grandmaster Clues](custom-items/grandmaster-clues.md)
+* [Implings](custom-items/implings.md)
+* [Item Contracts](custom-items/item-contracts.md)
+* [Misc](custom-items/misc.md)
+* [Pets](custom-items/pets.md)
 * [Patronage](custom-items/patronage.md)
+* [Tames](custom-items/tames.md)
 
 ## Events
 
-* [Halloween 2021](events/halloween-2021.md)
 * [Christmas 2021](events/christmas-2021.md)
 * [Crack the Clue 2022](events/crack-the-clue-2022.md)
+* [Halloween 2021](events/halloween-2021.md)
 * [Lottery](events/lottery.md)
