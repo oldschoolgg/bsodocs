@@ -40,8 +40,8 @@ You should use the best melee gear you have.
 
 | **Unique Drop Table**     | **Drop Rate** |
 | ------------------------- | ------------- |
-| Clue scroll (grandmaster) | 1/18          |
 | Baby kalphite king        | 1/6000        |
 | Perfect chitin            | 1/2500        |
 | Drygore weapon (any)      | 1/150         |
+| Clue scroll (grandmaster) | 1/18          |
 

@@ -13,18 +13,19 @@ The Queen Black Dragon is a Demi-Boss that drops several mid game items and mid 
 * Ranged Gorajan - 10%
 * Ranged Master Cape (when equipped using the ranged style) - 15%
 
-### Rewards
+### Loot
 
-* Royal Dragonhide - Used to craft Royal Dragonhide, providing the best xp rates
-* Royal Dragon Bones - Equal in experience rates to Abyssal Dragon Bones
-* Queen Black Dragonling (1/2500) - Perkless pet
-* Royal Dragon Kiteshield (1/250) - An offhand shield, with no currently known use
-* Dragonbone Upgrade Kit (1/64) - Used to upgrade dragon equipment and infinity equipment into special cosmetic dragonbone versions
-* Grandmaster clue (1/37) - See [Grandmaster clues](../../custom-items/grandmaster-clues.md)
+* **Royal dragonhide:** Used to craft Royal Dragonhide, providing the best xp rates
+* **Royal dragon bones:** Equal in experience rates to Abyssal Dragon Bones
+* **Queen black dragonling:** Perkless pet
+* **Royal dragon kiteshield:** An offhand shield, with no currently known use
+* **Dragonbone upgrade kit:** Used to upgrade dragon equipment and infinity equipment into special cosmetic dragonbone versions
+* **Royal crossbow pieces:** Royal torsion spring, Royal sight, Royal frame, and Royal bolt stabiliser. Not dropped in order. Combined with a Chaotic crossbow to make a Royal crossbow with `/create`**`item:`**`royal crossbow`
 
-The following four drops (1/18 for any, not dropped in order) are combined with the Chaotic Crossbow to craft the Royal Crossbow:
-
-* Royal Torsion Spring
-* Royal Sight
-* Royal Frame
-* Royal Bolt Stabiliser \
+| **Unique Drop Table**      | **Drop Rate** |
+| -------------------------- | ------------- |
+| Queen black dragonling     | 1/2500        |
+| Royal dragon kiteshield    | 1/250         |
+| Dragonbone upgrade kit     | 1/64          |
+| Clue scroll (grandmaster)  | 1/37          |
+| Royal crossbow piece (any) | 1/18          |

@@ -27,20 +27,24 @@ You can kill Malygos with `=k malygos` or `=k mally`. To mass Malygos you can st
 * Ancient rejuvenation pool - 10%
 * Dragon hunter lance/Dragon hunter crossbow - 15%
 * Hellfire bow - 3x
+* Dwarven Blessing - 20% (25% with Amulet of Zealots)
+* Amulet of Zealots - 5%
+* Full gorajan - 10%
+* Attack master cape - 15%
+* Infernal Slayer Helmet (on task) - 18% (22% when imbued)
 
 ## Loot
 
-* Abyssal Thread - Upgrades the giant pouch to hold more essence
-* Abyssal Cape - 50% Damage Reduction (50% less food needed), also required to make the Vasa Cloak and the Tzkal Cape.
-* Abyssal Dragon Bones - 5x more XP than superior dragon bones, also a secondary for Dragons Fury potions
-* Dragon Hunter Lance
-* [Ori](../../custom-items/pets.md#resource-gathering-and-loot-effecting-pets)
+* **Abyssal thread:** Used to create the [Abyssal pouch](../../skills/runecraft.md#custom-content-and-boosts)
+* **Abyssal cape:** 50% Damage Reduction (50% less food needed), also required to make the Vasa cloak and the Tzkal cape.
+* **Abyssal dragon bones:** 1.7x more XP than superior dragon bones, also a secondary for Dragons Fury potions
+* **Dragon hunter lance**
+* ****[**Ori**](../../custom-items/pets.md#resource-gathering-and-loot-effecting-pets)**:** 25% more loot from pvm trips when equipped
 
-| Uniques Drop Table        | Drop Rate |
-| ------------------------- | --------- |
-| Ori                       | 1/3000    |
-| Abyssal Cape              | 1/2600    |
-| Abyssal Thread            | 1/1024    |
-| Dragon Hunter Lance       | 1/1024    |
-| Lump Of Crystal           | 1/100     |
-| Clue scroll (grandmaster) | 1/140     |
+| **Uniques Drop Table**    | **Drop Rate** |
+| ------------------------- | ------------- |
+| Abyssal Thread            | 1/1024        |
+| Abyssal Cape              | 1/2600        |
+| Dragon Hunter Lance       | 1/1024        |
+| Ori                       | 1/3000        |
+| Clue scroll (grandmaster) | 1/140         |

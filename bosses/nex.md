@@ -22,7 +22,7 @@ To start with Nex, we recommend to go for a gear setup with 205+ ranged attack a
 * In a max range setup the arrow slot doesn't make any differences.
 * Each kill takes - 8 Minutes and 2 Seconds.
 
-![Max boosts](<../.gitbook/assets/range gear.png>)
+![Best in slot setup](<../.gitbook/assets/Nex Bis BSO.png>)
 
 {% tabs %}
 {% tab title="With Zak" %}
@@ -37,39 +37,39 @@ Removed brews/restores from users: **30/10**. The trip will take 48 minutes 15 s
 
 \*Note that this is with the time boost of a Hitpoints Master Cape and T3 Patron.
 {% endtab %}
-
-{% tab title="Boosts" %}
-20% boost for **Full Pernix**, 15% for **Gorajan Archer**, 20% boost for **Zaryte bow**, 4% boost for Kc, 15% for over 500 kc.
-{% endtab %}
 {% endtabs %}
 
 ### Ironman Setup
 
-**Warning -** It is extremely likely you will die repeatedly with this setup but your mileage may vary. It therefore is recommended for irons to gain some kc in masses.\
+**Warning -** It is extremely likely you will die repeatedly with this setup but your mileage may vary. It therefore is recommended for irons to gain some kc in masses.
 
-
-![Nex Welfare](<../.gitbook/assets/image (7).png>)
+![Welfare setup](<../.gitbook/assets/Nex Budget BSO.png>)
 
 ## Boosts
 
-20% boost for **Full Pernix** (2.4% per individual piece), 15% for **Gorajan Archer**, 20% boost for **Zaryte bow**
+All boosts are divided by team size
+
+* Full Pernix - 20% (2.4% per individual piece)
+* Full Gorajan Archer - 15%
+* Zaryte bow - 20%
 
 ## **Loot**
 
-As of 02/05/2022, Nex now requires drops to be **repaired** using various components made from the different Godwars sets by using the `=create` and `=revert` commands. The Torva set is made by using `=revert` on Bandos pieces, and then using `=create (piece name)` Both Pernix and Virtus follow this schematic, but rather require Armadyl and Ancestral armour pieces, respectively.
+Nex drops broken armor pieces that need to be repaired using components made from God Wars sets. The Torva set is made by using `/create`**`item:`**`revert` on Bandos pieces, and then using `/create`**`item:`**`[piece name].` Pernix and Virtus are made the same way, but require Armadyl and Ancestral components respectively.
 
 * **Ancient emblem:** Currently does not have a use.
-* **Ancient Hilt**: Used to create the Ancient Godsword
-* **Bloodsoaked feather:** Can be used to create the nex pet, [Nexterminator](../custom-items/pets.md#meme-pets-and-no-perk-pets).
-* **Nex armor:** Torva, pernix, and virtus armor sets that can be upgraded to bis [Gorajan armor](../skills/dungeoneering-training/dg-rewards.md#buyable-gear).&#x20;
+* **Bloodsoaked feather:** Used to create the nex pet, [Nexterminator](../custom-items/pets.md#meme-pets-and-no-perk-pets).
+* **Ancient hilt**: Used to create the Ancient Godsword
+* **Nex armor:** Torva, pernix, and virtus armor sets that can be upgraded to best-in-slot [Gorajan armor](../skills/dungeoneering-training/dg-rewards.md#buyable-gear).&#x20;
   * The rate to hit the gear table scales based on team size and each item on the table has an equal chance, meaning any specific item is roughly 1/1600
-* **Nex weapons:** High level weapons dropped on the same droptable as Nex armor.
+* **Nex weapons:** High level weapons dropped on the same table as Nex armor.
   * **Zaryte bow:** Provides a boost to Nex and is used to create the Hellfire bow.
-  * **Virtus Crystal:** Used to make the Virtus Book and Virtus Wand
+  * **Virtus Crystal:** Used to make a Virtus book or Virtus wand by combining with a Mage's book or Kodai wand
 
 | **Unique Drop Table**     | **Drop Rate** |
 | ------------------------- | ------------- |
 | Ancient emblem            | 1/1500        |
 | Bloodsoaked feather       | 1/3000        |
-| Clue scroll (grandmaster) | 1/20          |
+| Ancient hilt              | 1/86          |
 | Gear table                | 1/82-1/96     |
+| Clue scroll (grandmaster) | 1/20          |
