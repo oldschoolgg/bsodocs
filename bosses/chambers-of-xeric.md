@@ -26,4 +26,4 @@ All boosts work from the bank unless otherwise specified. Gorajan armor does not
 
 ![Range Gear](../.gitbook/assets/coxbisrange.png)
 
-![Melee Gear](<../.gitbook/assets/BSO Melee Cox Bis.png>)
+![Melee Gear](<../.gitbook/assets/BSO Melee Cox Bis (1).png>)

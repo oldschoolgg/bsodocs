@@ -17,11 +17,11 @@ You should use the best melee gear you have.
 
 ![An entry level setup](<../.gitbook/assets/osbot (6).png>)
 
-![Best-in-slot setup](<../.gitbook/assets/image (9).png>)
+![Best in slot setup](<../.gitbook/assets/KK Bis.png>)
 
 ## Boosts
 
-* Full Gorajan - 15% (solo)
+* Full Gorajan - 15% (divided by team size)
 * Full Torva - 8%
 * Drygore mace - 14%
 * Offhand drygore mace - 5%
@@ -31,12 +31,12 @@ You should use the best melee gear you have.
 
 ![Loot from 10,000 Kalphite King](<../.gitbook/assets/osbot (3).png>)
 
-* **Baby Kalphite King** (Pet)
-* **Perfect Chitin** (Currently has no use)
-* **Drygore weapons:** A set of 6 drygore weapons which are very powerful, and used in many places.
-  * **Drygore Rapier** + **Offhand Drygore Rapier** - BiS CoX Points and CoX boost
-  * **Drygore Mace** + **Offhand Drygore Mace** - BiS Kalphite King
-  * **Drygore Longsword** + **Offhand Drygore Longsword** - BiS King Goldemar and Ignecarus
+* **Baby Kalphite King:** Pet with no perk
+* **Perfect Chitin:** Currently has no use
+* **Drygore weapons:** A set of 6 weapons which are very powerful, and used in many places.
+  * _Drygore Rapier + Offhand Drygore Rapier:_ Best in slot for Cox melee setup
+  * _Drygore Mace + Offhand Drygore Mace:_ Best in slot at Kalphite King
+  * _Drygore Longsword + Offhand Drygore Longsword:_ Best in slot at King Goldemar and Ignecarus
 
 | **Unique Drop Table**     | **Drop Rate** |
 | ------------------------- | ------------- |
