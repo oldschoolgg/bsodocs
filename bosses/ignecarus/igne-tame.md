@@ -4,6 +4,8 @@ Once you have received a Dragon Egg drop from Ignecarus, you can go about growin
 
 You can send the dragon tame out on PvM trips and it will get you loot.
 
+Having an idle dragon tame gives a 20% reduction in log and ore cost at the [Baxtorian Bathhouses](../../minigames/baxtorian-bathhouses.md#boosts).
+
 ## Hatching the Tame
 
 In order to hatch the tame you must build a nursery with `=nursery build`.\

@@ -2,12 +2,13 @@
 
 A tame is a special form of pet that isn't in your bank or equipped. You can send the tame out on trips.
 
-Every tame has certain stats associated with it: combat, artisan, gatherer, support.\
+Every tame has a combat level (Dragon) or a gatherer score (Monkey).
+
 Items that your tames get will not be added to your collection log.
 
 **Currently the only tames that are in game are:**\
 The Dragon tame which does combat, see [Igne Tame](../bosses/ignecarus/igne-tame.md).\
-The Monkey tame which collects secondaries, see [Monkey Tame](../minigames/mad-marimbos-monkey-rumble/monkey-tame.md).
+The Monkey tame which does collect trips, see [Monkey Tame](../minigames/mad-marimbos-monkey-rumble/monkey-tame.md).
 
 | Commands                | Description                    |
 | ----------------------- | ------------------------------ |
@@ -16,6 +17,7 @@ The Monkey tame which collects secondaries, see [Monkey Tame](../minigames/mad-m
 | =tame setname \[name]   | Set the name                   |
 | =tame feed \[items]     | Feeds your tame items          |
 | =tame k \[monster]      | Send tame on PvM trip          |
+| =tame c \[item]         | Send tame on collection trip   |
 | =cl \[boss] --tame      | View your tames collection log |
 
 ## Hatching the Tame
@@ -32,9 +34,9 @@ Note: The ring of luck provides a 3% boost to the chance that on hatch the tame 
 
 ## Merging Tames
 
-Tames can be merged using the following commands: `=t select x` to select the tame you wish to keep, then `=t merge y` to merge `y` into `x`, deleting `y` in the process.
+Tames can be merged using the following commands: `=t select x` to select the tame you wish to keep, then `=t merge y` to merge `y` into `x`, deleting `y` in the process. **There is no way to revert this.**
 
-Both tames **must** be adults, and **there is no way to revert this.**
+Both tames do not need to be adults.
 
 When a tame is merged, all of the following will be kept:
 
