@@ -9,6 +9,7 @@ You can do it using: `=i start --emerged or =i start --em`
 ## Requirements
 
 * All the normal inferno requirements.
+* 102 Defence, 102 Magic, 100 Hitpoints, 107 Ranged, and 105 Prayer.
 * 20 Normal Inferno KC
 * Elder Barrage runes (Elder runes, Blood runes, Death runes)
 * Heat res. brews and Heat res. restores; _When Zuk emerges from the lava, lava is splashed and thrown everywhere, which would melt any glass potions, you still need normal brews/restores for before this point though, the heat res is only for the final fight_
