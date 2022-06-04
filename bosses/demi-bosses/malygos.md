@@ -25,7 +25,7 @@ You can kill Malygos with `=k malygos` or `=k mally`. To mass Malygos you can st
 * Dragon warhammer - 5%
 * Saradomin godsword - 5%
 * Ancient rejuvenation pool - 10%
-* Dragon hunter lance/Dragon hunter crossbow - 15%
+* Dragon hunter lance/Dragon hunter crossbow - 20%
 * Hellfire bow - 3x
 * Dwarven Blessing - 20% (25% with Amulet of Zealots)
 * Amulet of Zealots - 5%
