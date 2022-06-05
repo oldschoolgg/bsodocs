@@ -4,9 +4,9 @@ description: ALL INFORMATION ON THIS PAGE IS SUBJECT TO CHANGE
 
 # Invention
 
-Invention is the 25th skill in BSO and the second custom skill added. You begin training by disassembling your items into materials. You then research the materials to try and discover new inventinos that will provide boosts to various skills. Inventions typically have a material cost to use similiar to a charged item, as well as a material cost to create. These are the same type of material you will research when trying to discover that invention.&#x20;
+Invention is the 25th skill in BSO and the second custom skill added. All relevant commands can be found under `/invention`. You begin training by disassembling your items into materials. You then research the materials to try and discover new inventions that will provide boosts to various skills. Inventions typically have a material cost to use similiar to a charged item, as well as a material cost to create. These are the same type of material you will research when trying to discover that invention.&#x20;
 
-Types of Material (inventions used in): Junk(0), Smooth(0), Powerful(0), Crystal(0), Rocky(0), Corporeal(0), Third-Age(0), Mysterious(0), Barrows(0), Abyssal(0), Protective(1), Heavy(2), Precious(2), Simple(3), Base(3), Plated(3), Dexetrous(4), Flexible(5), Imbued(6), Strong(6), Pious(7), Drygore(7), Swift(8), Dwarven(8), Treasured(8), Sharp(9), Magic(14), Megallic(15), Organic(19)
+Types of Material (inventions used in): Junk (0), Smooth (0), Powerful (0), Crystal (0), Rocky (0), Corporeal (0), Third-Age (0), Mysterious (0), Barrows (0), Abyssal (0), Protective (1), Heavy (2), Precious (2), Simple (3), Base (3), Plated (3), Dexetrous (4), Flexible (5), Imbued (6), Strong (6), Pious (7), Drygore (7), Swift (8), Dwarven (8), Treasured (8), Sharp (9), Magic (14), Megallic (15), Organic (19)
 
 You can use =b --\<material type> to see all items in your bank that can be disassembled into that type.&#x20;
 
