@@ -20,6 +20,7 @@
 * [Fletching](skills/fletching.md)
 * [Herblore](skills/herblore.md)
 * [Hunter](skills/hunter.md)
+* [Invention](skills/invention.md)
 * [Mining](skills/mining.md)
 * [Prayer](skills/prayer.md)
 * [Runecraft](skills/runecraft.md)
