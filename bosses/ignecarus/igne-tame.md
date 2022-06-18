@@ -22,15 +22,15 @@ The dragon tame will take 18.5 hours to hatch. Once hatched there is a 1/30 chan
 
 It starts off as a baby, but grows from baby -> juvenile -> adult. At the adult stage, its the strongest. It grows up over time while doing PvM trips. You need to feed it raw food each time it goes on a trip.
 
-When your tame hatches, their stats are decided. However, it doesnt reach its full potential until its fully grown. You can calculate what max-stats your dragon will by just multiplying the baby stats by 3 (keeping in mind rounding up/down). This stat influences how fast it does PvM trips.
+When your tame hatches, their stats are decided. However, it doesn't reach its full potential until it's fully grown. You can calculate what max-stats your dragon will have by multiplying the baby stats by 3 (keeping in mind rounding up/down). This stat influences how fast it does PvM trips.
 
-You can send the dragon tame on trips with `=tame k [monster]`.
+You can send the dragon tame on trips with `/tames kill [monster]`.
 
 For more information on tame commands see [Tames](../../custom-items/tames.md)
 
 ## Boosts
 
-You can feed the dragon tame certain items with `=tame feed [item]`\
+You can feed the dragon tame certain items with `/tames feed [item]`\
 **Note:** Feeding any other items (food included) will have no effect\
 
 

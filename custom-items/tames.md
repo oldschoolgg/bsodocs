@@ -10,15 +10,18 @@ Items that your tames get will not be added to your collection log.
 The Dragon tame which does combat, see [Igne Tame](../bosses/ignecarus/igne-tame.md).\
 The Monkey tame which does collect trips, see [Monkey Tame](../minigames/mad-marimbos-monkey-rumble/monkey-tame.md).
 
-| Commands                | Description                    |
-| ----------------------- | ------------------------------ |
-| =tame/s                 | Show tames and current status  |
-| =tame select \[name/id] | Select a tame                  |
-| =tame setname \[name]   | Set the name                   |
-| =tame feed \[items]     | Feeds your tame items          |
-| =tame k \[monster]      | Send tame on PvM trip          |
-| =tame c \[item]         | Send tame on collection trip   |
-| =cl \[boss] --tame      | View your tames collection log |
+| Commands                  | Description                    |
+| ------------------------- | ------------------------------ |
+| `/tames status`           | Shows current tame's status    |
+| `/tames list`             | Shows a list of all tames      |
+| `/tames view [name/id]`   | Shows info about a tame        |
+| `/tames select [name/id]` | Selects a tame                 |
+| `/tames set_name [name`]  | Sets the tame's name           |
+| `/tames feed [items]`     | Feeds your tame items          |
+| `/tames kill [monster]`   | Send tame on PvM trip          |
+| `/tames collect [item]`   | Send tame on collection trip   |
+| `/tames cancel`           | Cancels your tame's trip       |
+| `=cl [boss] --tame`       | View your tames collection log |
 
 ## Hatching the Tame
 
@@ -34,7 +37,7 @@ Note: The ring of luck provides a 3% boost to the chance that on hatch the tame 
 
 ## Merging Tames
 
-Tames can be merged using the following commands: `=t select x` to select the tame you wish to keep, then `=t merge y` to merge `y` into `x`, deleting `y` in the process. **There is no way to revert this.**
+Tames can be merged using the following commands: `/tames select x` to select the tame you wish to keep, then `/tames merge y` to merge `y` into `x`, deleting `y` in the process. **There is no way to revert this.**
 
 Both tames do not need to be adults.
 
