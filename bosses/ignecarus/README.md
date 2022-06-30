@@ -32,4 +32,4 @@ Ignecarus drops lots of metal bars, uncut gems and rune items.
 | Ignecarus dragonclaw      | 1/200         |
 | Dragon egg                | 1/500         |
 | Ignis ring                | 1/300         |
-| Clue scroll (grandmaster) | 1/8           |
+| Clue scroll (grandmaster) | 1/13          |
