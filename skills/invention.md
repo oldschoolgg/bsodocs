@@ -43,9 +43,9 @@ All aspects of the Invention skill are accessed using `/invention`
 | Superior Dwarf Multicannon (80) | 37%-65% speed boost to pvm when cannoning                                         | Strong\[4] Heavy\[2] Metallic\[4]             |
 | Mecha Rod (85)                  | 45% speed boost to fishing                                                        | Flexible\[5] Organic\[3] Strong\[2]           |
 | Master Hammer and Chisel (90)   | 45% speed boost to crafting                                                       | Simple\[3] Sharp\[2] Metallic\[2] Swift\[3]   |
-| Mecha Mortar (90)               | 45% speed boost to herblore                                                       | Organic\[8] Metallic\[2]                      |
 | Quick Trap (90)                 | 25% speed boost to box-trap hunting                                               | Precious\[1] Magic\[6] Organic\[3]            |
 | Silverhawk Boots (90)           | 1.9x speed boost to agility, up to 36k agility xp/hr _fully_ passive              | <p>Swift[5] Protective[1] Dextrous[4]<br></p> |
+| Mecha Mortar (95)               | 45% speed boost to herblore                                                       | Organic\[8] Metallic\[2]                      |
 | Portable Tanner (95)            | Tans hides you get from PvM                                                       | Metallic\[2] Plated\[3] Organic\[5]           |
 | Drygore Saw (105)               | 40% speed boost to construction                                                   | Drygore \[7] Sharp \[3]                       |
 | Arcane Harvester (110)          | Increases farming yield by 20%                                                    | Organic\[5] Magic\[5]                         |

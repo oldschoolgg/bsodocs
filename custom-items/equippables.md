@@ -153,6 +153,7 @@ Additionally, master capes have a perk that is related to the skill that they ar
 | Cooking      | 5x Cooking speed                                                                                       |
 | Firemaking   | 2x Wintertodt loot                                                                                     |
 | Woodcutting  | 2x Woodcutting loot                                                                                    |
+| Invention    | 5% faster disassembly, 5% extra materials                                                              |
 | Farming      | 15% seeds saved when equipped (50% with scroll of life), 1/10 per planted seed chance of a mystery box |
 
 ### **Expert Capes**
