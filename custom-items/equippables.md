@@ -185,7 +185,7 @@ There are 4 expert capes that you can buy once you have bought all required mast
 
 ### Ganodermic
 
-**Grifolic equipment** is a mid-high level set of magical equipment created by upgrading Mycelium Web armour with Ganodermic Flakes.
+**Ganodermic equipment** is a mid-high level set of magical equipment created by upgrading Mycelium Web armour with Ganodermic Flakes.
 
 ![](../.gitbook/assets/ganodermic.png)
 
