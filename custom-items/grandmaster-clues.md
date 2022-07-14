@@ -34,7 +34,7 @@ The general loot table from Grandmaster Caskets consists of:
 
 ### Unique Loot Table
 
-The Grandmaster loot system operates on rolls, of which there are 6-11 for each casket opened. Because of this, the drop rate varies based on the rolls you receive, so it will be represented as X.
+The Grandmaster loot system operates on rolls, of which there are 5-11 for each casket opened. Because of this, the drop rate varies based on the rolls you receive, so it will be represented as X.
 
 * Malygos and Ignecarus Masks (x/50)
 

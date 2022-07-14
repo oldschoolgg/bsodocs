@@ -3,6 +3,7 @@
 * [Welcome to the Bot School Old Wiki!](README.md)
 * [Rules](rules.md)
 * [Getting Started](getting-started.md)
+* [Leagues](leagues.md)
 
 ## Skills
 

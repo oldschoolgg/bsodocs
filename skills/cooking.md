@@ -16,7 +16,7 @@ Create kibble with `=kibble <quantity> <tier>`using all of the resources listed.
   * Herb: 5x Marrentill or Tarromin
   * Crop: 2.5x Cabbage or Potato
   * Fish: 5 HP worth of any raw fish
-* **Delicious Kibble:** Requires 110 Cooking and 90 Herblore. Used to hunt eastern ferrets.
+* **Delicious Kibble:** Requires 110 Cooking and 110 Herblore. Used to hunt eastern ferrets.
   * Herb: 10x Cadantine or Kwuarm
   * Crop: 5x Strawberry or Papaya fruit
   * Fish: 190 HP worth of any raw fish that heals at least 19HP
