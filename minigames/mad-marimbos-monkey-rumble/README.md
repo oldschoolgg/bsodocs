@@ -60,7 +60,6 @@ Monkey Rumble is a minigame where you wear a greegree to turn into a monkey, and
 **Chimplings**
 
 * Requires Magic bananas to catch, when you catch one, they eat the magic banana from your bank.
-* Drops Shiny monkey nuts at a 1 in 1 million chance.
 * Can drop some of the monkey rumble rewards (including the egg) at a very rare rate.
 * Also drops seeds, TMB's and grandmaster clue scrolls.
 
