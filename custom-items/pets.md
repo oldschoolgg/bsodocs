@@ -85,7 +85,7 @@ Growable pets are pets which have a chance to grow as you do trips with them equ
 ## Meme pets & No Perk pets
 
 {% hint style="info" %}
-These pets are a meta-joke, or a meme pet, that serve no real use apart from being a joke.
+These pets are a meta-joke, or a meme pet, that serve no real use apart from being a joke, or otherwise have no perk.
 {% endhint %}
 
 | **Name**               | **Perk**                                                                                                                              | **Source**                                                                                                       |
@@ -100,4 +100,5 @@ These pets are a meta-joke, or a meme pet, that serve no real use apart from bei
 | Nexterminator          | No perk                                                                                                                               | Made with Bloodsoaked Feather from [Nex](../bosses/nex.md#loot) using /`create item:Nexterminator`               |
 | Baby kalphite king     | No perk                                                                                                                               | 1/6000 from [Kalphite King](../bosses/kalphite-king.md#loot)                                                     |
 | Jal-MejJak             | No perk                                                                                                                               | 1/100 (1/75 on task) from [Emerged Zuk Inferno](../minigames/emerged-zuk-inferno.md#rewards-all-are-untradeable) |
-| Phoenix Eggling        | No perk                                                                                                                               | <p>Warm: 1/2500<br>Hot: 1/1750<br>Fiery: 1/1000</p>                                                              |
+| Phoenix eggling        | No perk                                                                                                                               | <p>Warm: 1/2500<br>Hot: 1/1750<br>Fiery: 1/1000</p>                                                              |
+| Mini moktang           | No perk                                                                                                                               | 1/1536 from [Moktang](../bosses/moktang.md#rewards)                                                              |
