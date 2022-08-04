@@ -26,7 +26,7 @@ When your tame hatches, their stats are decided. However, it doesn't reach its f
 
 You can send the dragon tame on trips with `/tames kill [monster]`.
 
-For more information on tame commands see [Tames](../../custom-items/tames.md)
+For more information on tame commands see [Tames](../../custom-items/tames/)
 
 ## Boosts
 
@@ -34,10 +34,12 @@ You can feed the dragon tame certain items with `/tames feed [item]`\
 **Note:** Feeding any other items (food included) will have no effect\
 
 
-| Item              | Boost                       |
-| ----------------- | --------------------------- |
-| Abyssal Cape      | 25% food reduction          |
-| Zak               | +35 minutes to trip lengths |
-| Ori               | 25% extra loot              |
-| Dwarven Warhammer | 30% speed boost             |
-| Mr. E             | 1/12 chance to double loot  |
+| Item              | Boost                                                            |
+| ----------------- | ---------------------------------------------------------------- |
+| Abyssal Cape      | 25% food reduction                                               |
+| Zak               | +35 minutes to trip lengths                                      |
+| Ori               | 25% extra loot                                                   |
+| Dwarven Warhammer | 30% speed boost                                                  |
+| Mr. E             | 1/12 chance to double loot                                       |
+| Igne Claws        | 5-35% (See [Igne Claws](../../custom-items/tames/igne-claws.md)) |
+

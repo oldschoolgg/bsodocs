@@ -7,8 +7,8 @@ Every tame has a combat level (Dragon) or a gatherer score (Monkey).
 Items that your tames get will not be added to your collection log.
 
 **Currently the only tames that are in game are:**\
-The Dragon tame which does combat, see [Igne Tame](../bosses/ignecarus/igne-tame.md).\
-The Monkey tame which does collect trips, see [Monkey Tame](../minigames/mad-marimbos-monkey-rumble/monkey-tame.md).
+The Dragon tame which does combat, see [Igne Tame](../../bosses/ignecarus/igne-tame.md).\
+The Monkey tame which does collect trips, see [Monkey Tame](../../minigames/mad-marimbos-monkey-rumble/monkey-tame.md).
 
 | Commands                  | Description                    |
 | ------------------------- | ------------------------------ |

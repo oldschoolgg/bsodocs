@@ -67,7 +67,8 @@
 * [Misc](custom-items/misc.md)
 * [Pets](custom-items/pets.md)
 * [Patronage](custom-items/patronage.md)
-* [Tames](custom-items/tames.md)
+* [Tames](custom-items/tames/README.md)
+  * [Igne Claws](custom-items/tames/igne-claws.md)
 
 ## Events
 
