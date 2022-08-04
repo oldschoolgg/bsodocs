@@ -6,6 +6,8 @@ description: Igne Claws can be created to give your Igne tame a PvM speed boost
 
 <mark style="color:red;">**`Warning: Do NOT feed your claws to your tame. You will not get any boost and lose the item forever`**</mark><mark style="color:red;">`.`</mark>
 
+You can create each tier of igne claws by using the `/create` command, starting with **Runite igne claws**.
+
 To equip a pair of igne claws, use `/tames equip` and select the pair of claws you would like to equip. To unequip (and upgrade) the claws, use `/tames unequip`
 
 Each set of claws require a certain _**smithing, crafting, and invention**_ level to create them:

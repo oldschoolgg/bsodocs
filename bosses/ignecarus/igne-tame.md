@@ -26,7 +26,7 @@ When your tame hatches, their stats are decided. However, it doesn't reach its f
 
 You can send the dragon tame on trips with `/tames kill [monster]`.
 
-For more information on tame commands see [Tames](../../custom-items/tames/)
+For more information on tame commands see [Tames](../../custom-items/tames.md)
 
 ## Boosts
 

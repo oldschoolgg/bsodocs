@@ -9,7 +9,7 @@ Your ape can run around and gather supplies for you while you monkey around else
 
 ## Hatching the Tame
 
-There are no specific requirements to hatch the monkey tame. See [Tames](../../custom-items/tames/#hatching-the-tame) for more information on hatching it.&#x20;
+There are no specific requirements to hatch the monkey tame. See [Tames](../../custom-items/tames.md#hatching-the-tame) for more information on hatching it.&#x20;
 
 On hatching, there is a 1/60 chance that it could be a shiny monkey!
 
