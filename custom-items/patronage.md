@@ -38,7 +38,7 @@ The following are the current perks for different tiers of patronage at [Magnabo
   \- An additional 10 minutes on every trip\
   \- An additional 2 minutes may be earned by reaching a total sacrifice value of 10b \
   \- Bypass the account age restriction \
-  \- Simulate the opening of up to 400k caskets at a time \
+  \- Simulate the opening of up to 100k caskets at a time \
   \- Simulate up to 400k monster kills of any kind in the bot \
   \- A patron role in the main discord server \
   \- Access to the `=bstats` command (shows various stats about the bot) \
