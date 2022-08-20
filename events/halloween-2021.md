@@ -52,7 +52,7 @@ To participate in the mass you must have at least 60hp worth of Halloween candie
 * Benny's Brain Brew - 50hp
 * Roasted Newt - 120hp
 
-Two schedules for the boss can be found in the pinned messages of the Halloween channel in the discord. The boss rewards guaranteed Halloween candies, (listed above) as well as a chance (1/5) at a piece of the spooky armour set, and a pet. This consists of:
+Two schedules for the boss can be found in the pinned messages of the Halloween channel in the discord. The boss rewards guaranteed Halloween candies, (listed above) as well as a chance (1/5) at a piece of the spooky armor set, and a pet. This consists of:
 
 * Haunted Boots
 * Haunted Gloves

@@ -18,7 +18,7 @@ Plank sack, Carpenter's helmet, Carpenter's shirt, Carpenter's trousers, Carpent
 | ----------- | ------- | - |
 | Elder Table | \~10m   |   |
 
-**n.b.** you can increase sawmill speed with =sawmill \<plank> --speed=x at an additional cost
+**n.b.** you can increase sawmill speed with `/activities sawmill type:[Plank] speed:[x]` at an additional cost
 
 2x speed - 1.73x cost
 

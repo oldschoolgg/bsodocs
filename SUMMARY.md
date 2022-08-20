@@ -45,6 +45,7 @@
   * [Queen Black Dragon](bosses/demi-bosses/queen-black-dragon.md)
   * [Sea Kraken](bosses/demi-bosses/sea-kraken.md)
   * [Treebeard](bosses/demi-bosses/treebeard.md)
+  * [Nihiliz](bosses/demi-bosses/nihiliz.md)
 
 ## Minigames
 

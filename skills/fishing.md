@@ -14,10 +14,10 @@ Daily fishing trip that always takes 1 minute and 41 seconds and resets at 00:00
 #### Starting Out
 
 * A tackle box and contest rod are required to participate in the Fishing Contest.
-  * `=buy beginner's tackle box`
-  * `=buy contest rod`
-* Fishing Contest stats and current locations can be seen with `=fishingcontest`
-* Fishing Contest trips are sent with `=fishingcontest fish [location].` One piece of bait is used per fish caught. Type of bait used is based on the location.
+  * `/buy name: beginner's tackle box`
+  * `/buy contest rod`
+* Fishing Contest stats and current locations can be seen with `/bsominigames fishing_contest stats_info`
+* Fishing Contest trips are sent with `/bsominigames fishing_contest fish location:[Location]`. One piece of bait is used per fish caught. Type of bait used is based on the location.
 
 #### Upgrades
 

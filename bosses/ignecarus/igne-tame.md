@@ -8,13 +8,13 @@ Having an idle dragon tame gives a 20% reduction in log and ore cost at the [Bax
 
 ## Hatching the Tame
 
-In order to hatch the tame you must build a nursery with `=nursery build`.\
-You will need 105 Construction along with 200 elder planks, 10 marble blocks and 500 feathers to build the nursery.&#x20;
+In order to hatch the tame you must build a nursery with `/nursery build`.\
+You will need 105 Construction along with 200 elder planks, 10 marble blocks and 500 feathers to build the nursery.
 
-Once the nursery is built you can then fuel the nursery with `=nursery fuel`\
+Once the nursery is built you can then fuel the nursery with `/nursery fuel`\
 Fuelling the nursery will require 2,500 elder logs and 10,000 coal.
 
-Finally, once you have satisfied these requirements you can add your egg to the nursery with `=nursery add dragon egg`
+Finally, once you have satisfied these requirements you can add your egg to the nursery with `/nursery add_egg item:Dragon egg`
 
 The dragon tame will take 18.5 hours to hatch. Once hatched there is a 1/30 chance its a rare shiny dragon, which is increased by 3% with a Ring of luck equipped.
 

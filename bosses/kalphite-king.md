@@ -2,7 +2,7 @@
 
 The Kalphite King is a strong boss, known for the Drygore weapons it drops.
 
-You can kill Kalphite King using `=kk` or, `=kk solo` to solo.
+You can kill Kalphite King using `/k name:Kalphite King (Mass)` or, `/k name:Kalphite King (Solo)` to solo.
 
 ## Requirements
 

@@ -4,13 +4,13 @@ The ODS is like the Gnome Restaurant, except instead of delivering food, you cra
 
 It's a pretty simple activity to do, the only requirement is that you have Pure essence to craft the runes with.
 
-&#x20;You can start a trip using `=ods start`
+You can start a trip using `/bsominigames ourania_delivery_service start`
 
-After finishing deliveries, you'll get Runecraft XP and Ourania tokens. The tokens can be spent on a few rewards. You can buy rewards using tokens with `=ods buy [name]`.
+After finishing deliveries, you'll get Runecraft XP and Ourania tokens. The tokens can be spent on a few rewards. You can buy rewards using tokens with `/bsominigames ourania_delivery_service buy name:[Item name]`.
 
 ## ODS Shop
 
-Through ODS, you get Ourania tokens which scale with your Runecraft level. You can check how many tokens you have with `=ods`.&#x20;
+Through ODS, you get Ourania tokens which scale with your Runecraft level. You can check how many tokens you have with `/bsominigames ourania_delivery_service stats`.
 
 These are the things you can buy with the tokens:
 

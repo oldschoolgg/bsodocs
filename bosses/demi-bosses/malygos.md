@@ -2,7 +2,7 @@
 
 Malygos is the Abyssal dragon boss. It attacks with slash/stab/ranged and magic. Malygos uses the **Wildy** gear setup, however you cannot lose gear while doing Malygos. This is a boss you can fight solo or in a mass.
 
-You can kill Malygos with `=k malygos` or `=k mally`. To mass Malygos you can start the mass with `=mass malygos`.
+You can kill Malygos with `/k name:Malygos`. To mass Malygos you can start the mass with `/mass monster:Malygos`.
 
 **Note**: Malygos also counts for abyssal demon slayer tasks.
 

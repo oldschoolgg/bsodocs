@@ -3,8 +3,8 @@
 ### Custom Content and Boosts
 
 * [Blacksmith Equipment](../custom-items/equippables.md#blacksmith-equipment) - 10% bonus xp to all smithing activities. (works from bank)
-* [Takon](../custom-items/pets.md#miscellaneous-pets) - 4x boost to =smith (does not stack with Dwarven Greathammer)
-* [Dwarven Ore](../bosses/king-goldemar.md#loot) - Ore used to smith dwarven bars. Must have Klik to smelt and 99 smithing.&#x20;
+* [Takon](../custom-items/pets.md#miscellaneous-pets) - 4x boost to `/smith` (does not stack with Dwarven Greathammer)
+* [Dwarven Ore](../bosses/king-goldemar.md#loot) - Ore used to smith dwarven bars. Must have Klik to smelt and 99 smithing.
 
 n.b. _There is a 35% chance to fail smelting the bar. The ore is used in the attempt._
 

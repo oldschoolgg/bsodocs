@@ -2,9 +2,7 @@
 
 The **Emerged Zuk Inferno** is a new, harder version of the Inferno, where Zuk emerges from the lava, and engages you in a melee fight, and you have to truly kill him in his final form, to win. This is endgame, high-level, costly content, which has heavy requirements, but some very exclusive rewards, which are untradeable.
 
-
-
-You can do it using: `=i start --emerged or =i start --em`
+You can do it using: `/activities inferno action:Start Inferno Trip emerged:True`
 
 ## Requirements
 

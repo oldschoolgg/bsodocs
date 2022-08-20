@@ -2,7 +2,7 @@
 
 Vasa Magus is a solo only magic boss and you can't die fighting it. It has a special loot mechanic where it drops loot from a random boss on each kill. It also drops mystery boxes.
 
-You can kill Vasa Magus using `=vasa`.
+You can kill Vasa Magus using `/k name:Vasa Magus`.
 
 ## Requirements
 

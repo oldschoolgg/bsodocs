@@ -4,9 +4,13 @@ description: Dyes are custom items that cosmetically enhance various items
 
 # Dyes
 
-Dyes can be used on certain items by using the `=create` command. This process is irreversible, permanently turns items untradeable, and removes the dye.
+Dyes can be used on certain items by using the `/create` command. This process is irreversible, permanently turns items untradeable, and removes the dye.
 
-Ice, blood, shadow, and 3a dyes can only be obtained from grandmaster caskets, while monkey dyes can be obtained from catching chimplings, encountering special monkeys during [Mad Marimbo's Monkey Rumble](../minigames/mad-marimbos-monkey-rumble/), or by buying them from the minigame's shop. Dungeoneering dyes can be purchased from the dungeoneering shop.
+Ice, blood, shadow, and 3a dyes can only be obtained from grandmaster caskets.
+Monkey dyes can be obtained from catching chimplings, encountering special monkeys during [Mad Marimbo's Monkey Rumble](../minigames/mad-marimbos-monkey-rumble/), or by buying them from the minigame's shop. 
+Dungeoneering dyes can be purchased from the dungeoneering shop.
+Squid dye can be obtained from [Sea Kraken](../bosses/demi-bosses/sea-kraken).
+Volcanic dyes can be obtained from [Moktang](../bosses/moktang).
 
 ## Ice dye
 
@@ -99,3 +103,14 @@ Ice, blood, shadow, and 3a dyes can only be obtained from grandmaster caskets, w
 | ------------------ | -------------- | - |
 | Required item name | Dyed item name |   |
 | Seer               | Black swan     |   |
+
+## Volcanic Dye
+
+| Required item name        | Dyed item name                 |
+| ------------------------- | ------------------------------ |
+| Dwarven warhammer         | Dwarven warhammer (Volcanic)   |
+| Dwarven full helm         | Dwarven full helm (Volcanic)   |
+| Dwarven platebody         | Dwarven platebody (Volcanic)   |
+| Dwarven platelegs         | Dwarven platelegs (Volcanic)   |
+| Dwarven gloves            | Dwarven gloves (Volcanic)      |
+| Dwarven boots             | Dwarven boots (Volcanic)       |
