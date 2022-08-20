@@ -1,6 +1,6 @@
 # Pets
 
-There are pets exclusive to BSO that provide unique and powerful perks and are rare drops from certain activities. These custom pets must equipped using `=m equippet` or `=m ep` and in most cases, only one pet's effect can be active at once. All pets with a per minute drop rate can only be obtained on trips that are at least 20 minute long.
+There are pets exclusive to BSO that provide unique and powerful perks and are rare drops from certain activities. These custom pets must equipped using `/gear pet equip:`**`name`**` and in most cases, only one pet's effect can be active at once. All pets with a per minute drop rate can only be obtained on trips that are at least 20 minute long.
 
 ## Miscellaneous Pets
 
@@ -58,6 +58,7 @@ These pets are discontinued and were rewards from certain events. You can now on
 {% tab title="No perks" %}
 | Name                  | Source                                                           |
 | --------------------- | ---------------------------------------------------------------- |
+| Buzz                  | 2022 BSO Birthday Event                                                |
 | Leia                  | 2022 Easter Event                                                |
 | Seer                  | [2021 Christmas Event](../events/christmas-2021.md#unique-items) |
 | Mini Pumpkinhead      | [2021 Halloween Event](../events/halloween-2021.md#pumpkinhead)  |
@@ -102,3 +103,5 @@ These pets are a meta-joke, or a meme pet, that serve no real use apart from bei
 | Jal-MejJak             | No perk                                                                                                                               | 1/100 (1/75 on task) from [Emerged Zuk Inferno](../minigames/emerged-zuk-inferno.md#rewards-all-are-untradeable) |
 | Phoenix eggling        | No perk                                                                                                                               | <p>Warm: 1/2500<br>Hot: 1/1750<br>Fiery: 1/1000</p>                                                              |
 | Mini moktang           | No perk                                                                                                                               | 1/1536 from [Moktang](../bosses/moktang.md#rewards)                                                              |
+| Brain lee              | No perk                                                                                                                               | Achieve 40k+ [League Points](../leagues)                                                              |
+| Nexling           | No perk                                                                                                                               | 1/5000 from [Nihiliz](../bosses/demi-bosses/nihiliz)   

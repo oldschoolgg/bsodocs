@@ -14,7 +14,7 @@ Deathtouched Darts can be obtained from [Grandmaster Caskets](https://bso-wiki.o
 
 **Ancient rejuvenation pool**
 
-The ancient rejuvenation pool can be built in your PoH ontop of an Ornate rejuvenation pool, with 500 brews, 150 restores, 100 stams, 200 prayer pots, 20 marble blocks, 30 elder planks. It gives speed boosts to: Corp, Treebeard, Abyssal Dragon (Malygos), Sea Kraken, Barrows.
+The ancient rejuvenation pool can be built in your PoH ontop of an Ornate rejuvenation pool, with 500 brews, 150 restores, 100 stams, 200 prayer pots, 20 marble blocks, 30 elder planks. It gives speed boosts to: Corp, Treebeard, Abyssal Dragon (Malygos), Sea Kraken, Barrows, Nihiliz.
 
 #### Heat res. potions
 

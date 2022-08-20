@@ -2,6 +2,14 @@
 
 The Queen Black Dragon is a Demi-Boss that drops several mid game items and mid tier loot. The boss uses the **Ranged** gear setup&#x20;
 
+## Requirements
+
+* 182 Quest Points
+* 70 Prayer
+* 80 Defence
+* 85 Ranged
+* Dragonfire shield OR Dragonfire ward
+
 ### Boosts
 
 * Ancient Rejuvenation Pool - 6%
