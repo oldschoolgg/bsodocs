@@ -26,12 +26,7 @@ You can kill Malygos with `/k name:Malygos`. To mass Malygos you can start the m
 * Saradomin godsword - 5%
 * Ancient rejuvenation pool - 10%
 * Dragon hunter lance/Dragon hunter crossbow - 20%
-* Hellfire bow - 3x
-* Dwarven Blessing - 20% (25% with Amulet of Zealots)
-* Amulet of Zealots - 5%
-* Full gorajan - 10%
-* Attack master cape - 15%
-* Infernal Slayer Helmet (on task) - 18% (22% when imbued)
+* [Additional global boosts apply](../../skills/combat-skills.md#boosts) (This is a wilderness boss)
 
 ## Loot
 
