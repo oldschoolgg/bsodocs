@@ -4,7 +4,7 @@ Ignecarus is a giant dragon boss, it fights primarily using dragonfire, far hott
 
 The glass of typical potions (brews/restores) have a low melting point, and will melt and break during the fight. You need specially made [Heat resistant potions.](../../custom-items/misc.md#heat-res-potions)
 
-You can kill Ignecarus using `=igne`.
+You can kill Ignecarus using `/k name:Ignecarus (Solo)` to solo or `/k name:Ignecarus (Mass)` to start a mass.
 
 ## Requirements
 
@@ -14,7 +14,7 @@ You can kill Ignecarus using `=igne`.
 
 ## Gear
 
-Protection from dragonfire is paramount to killing Ignecarus. You should aim for [dwarven armor](../../custom-items/equippables.md#dwarven-armor) (which has special dragonfire resistance) and a dragonfire shield. Torva will work okay, but your chance of death will increase from the lack of fire protection.
+Protection from dragonfire is paramount to killing Ignecarus. You should aim for [dwarven armour](../../custom-items/equippables.md#dwarven-armour) (which has special dragonfire resistance) and a dragonfire shield. Torva will work okay, but your chance of death will increase from the lack of fire protection.
 
 ![BiS Gear for Ignecarus](../../.gitbook/assets/igne\_bis.png)
 

@@ -10,7 +10,7 @@ Elder logs can be cut at level 105 Woodcutting, they give the best XP/hr, and ca
 
 **Deathtouched Dart**
 
-Deathtouched Darts can be obtained from [Grandmaster Caskets](https://bso-wiki.oldschool.gg/custom-items/grandmaster-clues), and are used to cause any one `/kill` trip to return instantly.
+Deathtouched Darts can be obtained from [Grandmaster Caskets](https://bso-wiki.oldschool.gg/custom-items/grandmaster-clues), and are used to cause any one `/k` trip to return instantly.
 
 **Ancient rejuvenation pool**
 

@@ -20,7 +20,7 @@ Note: The gloves are gorajan ranger and the boots are gorajan mage. You wil also
 ## Boosts
 
 * Ancient Rejuvenation Pool - 10%
-* Hellfire Bow - 3x
+* [Additional global boosts apply](../../skills/combat-skills.md#boosts) (This is a wilderness boss)
 
 ## Loot
 

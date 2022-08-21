@@ -1,6 +1,6 @@
 # Equippables
 
-In BSO, there are many types of custom weapons and armor that have higher than usual stats or give bonuses to various skilling activities or bosses.
+In BSO, there are many types of custom weapons and armour that have higher than usual stats or give bonuses to various skilling activities or bosses.
 
 ### First Age
 
@@ -34,9 +34,9 @@ The dwarven tools are smithed from Dwarven Bars
 
 _Note: To smith tools, you need 99 Smithing and Blacksmith Equipment_
 
-#### Dwarven Armor
+#### Dwarven Armour
 
-| Armor Piece       | Bars Needed |
+| Armour Piece       | Bars Needed |
 | ----------------- | ----------- |
 | Dwarven Full Helm | 2           |
 | Dwarven Platebody | 5           |
@@ -72,7 +72,7 @@ The following items are obtained from [Nex](../bosses/nex.md). These items all h
 
 ![](../.gitbook/assets/pernix.png) ![](../.gitbook/assets/virtus.png) ![](../.gitbook/assets/torva.png)
 
-These items can also be upgraded (except for Virtus Wand and Book) using Gorajan Shards to make Gorajan Armor.
+These items can also be upgraded (except for Virtus Wand and Book) using Gorajan Shards to make Gorajan Armour.
 
 Additionally, the **Zaryte** **Bow** is also obtainable as a drop. It gives a 20% boost to Nex and is used in creating the Hellfire Bow.
 
@@ -173,7 +173,7 @@ There are 4 expert capes that you can buy once you have bought all required mast
 
 ### Mycelium
 
-**Mycelium web armor** is a low level magic armor that can be upgraded to Ganodermic or Grifolic equipment using Grifolic or Ganodermic flakes.
+**Mycelium web armour** is a low level magic armour that can be upgraded to Ganodermic or Grifolic equipment using Grifolic or Ganodermic flakes.
 
 ![](../.gitbook/assets/mycelium.png)
 
@@ -185,7 +185,7 @@ There are 4 expert capes that you can buy once you have bought all required mast
 
 ### Ganodermic
 
-**Ganodermic equipment** is a mid-high level set of magical equipment created by upgrading Mycelium Web armor with Ganodermic Flakes.
+**Ganodermic equipment** is a mid-high level set of magical equipment created by upgrading Mycelium Web armour with Ganodermic Flakes.
 
 ![](../.gitbook/assets/ganodermic.png)
 

@@ -6,7 +6,7 @@ See the [OSB wiki](https://wiki.oldschool.gg/minigames/cox-raids) for general in
 
 The following items give a boost to your combat score. Only the highest available boost from each line will be applied.
 
-All boosts work from the bank unless otherwise specified. Gorajan armor does not affect gear score.
+All boosts work from the bank unless otherwise specified. Gorajan armour does not affect gear score.
 
 * Twisted bow (7%) **OR** Bow of faerdhinen (c) (6%) **OR** Dragon hunter crossbow (5%)
 * Dragon warhammer (3%) **OR** Bandos godsword (2.5%)

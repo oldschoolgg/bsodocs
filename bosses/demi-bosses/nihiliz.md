@@ -20,11 +20,7 @@ Nihiliz, aka "mini-nex" is a Zaryte, minion of Nex, who holds the key to the myt
 * Drygore rapier - 15%
 * Offhand drygore rapier - 10%
 * Dragon warhammer - 5%
-* Dwarven Warhammer - 40%
-* Infernal Slayer Helmet (on task) - 18% on task (22% when imbued)
-* Dwarven Blessing - 20% (25% with Amulet of Zealots)
-* Full Melee Gorajan - 10%
-* Attack Master Cape - 15%
+* [Additional global boosts apply](../../skills/combat-skills.md#boosts)
 
 ## Loot
 
@@ -36,7 +32,7 @@ Nihiliz, aka "mini-nex" is a Zaryte, minion of Nex, who holds the key to the myt
 | **Unique Drop Table**      | **Drop Rate** |
 | -------------------------- | ------------- |
 | Nihil shard                | Common        |
-| Nihil horn                 | 1/1200        |
-| Zaryte vambraces           | 1/900         |
-| Clue scroll (grandmaster)  | 1/128         |
+| Nihil horn                 | 1/2000        |
+| Zaryte vambraces           | 1/1200         |
+| Clue scroll (grandmaster)  | 1/150         |
 | Nexling                    | 1/5000        |

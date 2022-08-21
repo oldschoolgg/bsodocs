@@ -32,7 +32,7 @@ Moktang offers the claws frame, which allows you to upgrade the speed your tame 
 
 * General loot: stone spirits (100% droprate), clues, boxes, bars, alchables.
 * &#x20;**** ![](../.gitbook/assets/52660.png)**Mini moktang:** The pet for moktang.
-* ****![](../.gitbook/assets/52672.png) **Volcanic dye:** Used to dye a dwwh or dwarven armor.
+* ****![](../.gitbook/assets/52672.png) **Volcanic dye:** Used to dye a dwwh or dwarven armour.
 * ****![](../.gitbook/assets/52671.png) **Volcanic shards:** Used to make Volcanic igne claws, Volcanic pickaxe, Offhand volcanic pickaxe.
 * ****![](../.gitbook/assets/52661.png) **Claws frame:** Used to make Runite igne claws, and to be upgraded higher, to boost the speed of your Igne tames.
 

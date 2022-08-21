@@ -42,13 +42,13 @@ Additionally, with a **Chaotic Remnant** (500,000 tokens), the three BiS neck it
 * Necklace of Anguish + Chaotic Remnant = **Farsight Snapshot Necklace - Requires 99 Dungeoneering, Defence and Ranged.**
 * Occult Necklace + Chaotic Remnant = **Arcane Blast Necklace - Requires 99 Dungeoneering, Defence and Magic.**
 
-### Gorajan Armor
+### Gorajan Armour
 
-**Gorajan Armor** is made by using Gorajan Shards with Nex Armor. Each piece of armor requires 2 Gorajan Shards to upgrade and will become untradeable. Stats will remain the same as the original Nex Armor but give additional boosts:
+**Gorajan Armour** is made by using Gorajan Shards with Nex Armour. Each piece of armour requires 2 Gorajan Shards to upgrade and will become untradeable. Stats will remain the same as the original Nex Armour but give additional boosts:
 
 * 2x XP when used to train their respective style (ex. Gorajan Occult Outfit gives 2x Magic XP)
 * Boost to Dungeoneering XP
-* Various boosts when using their respective style while on `/kill` trips
+* Various boosts when using their respective style while on `/k` trips
 
 #### Set creation
 
@@ -66,4 +66,4 @@ Gorajan items can be made with `/smith name: [Item name]`. You can create boots,
 | Frosty                  | 2,000,000  | None                                                       |
 | Chaotic Remnant         | 500,000    | Secondary for BiS necklace upgrade                         |
 | Daemonheim Agility Pass | 1,000,000  | Unlocks Daemonheim agility course                          |
-| Dungeoneering Dye       | 4,000,000  | Dyes gorajan armor pieces to look like dungeoneering armor |
+| Dungeoneering Dye       | 4,000,000  | Dyes gorajan armour pieces to look like dungeoneering armour |

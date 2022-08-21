@@ -12,7 +12,7 @@ description: >-
 * [Dwarven Warhammer](../bosses/king-goldemar.md#loot) - 40% boost to /k outside the wilderness
 * [Dwarven Blessing](../custom-items/grandmaster-clues.md#unique-loot-table) - 20% boost to /k
 * [Amulet of Zealots](dungeoneering-training/dg-rewards.md#buyable-gear) - adds 5% boost to Dwarven Blessing. Additional 5% boost for /k in the wilderness
-* [Gorajan](dungeoneering-training/dg-rewards.md#gorajan-armor) - 10% boost to /k for having all 3 sets of gorajan equipped
+* [Gorajan](dungeoneering-training/dg-rewards.md#gorajan-armour) - 10% boost to /k for having all 3 sets of gorajan equipped
 * Attack Master cape - 15% boost to /k (ranged and magic master capes will add 15% boost when training their respective skills only; these boosts do not stack with the attack master cape)
 * [Infernal Slayer Helmet](../minigames/emerged-zuk-inferno.md#rewards-all-are-untradeable) - 18% boost to slayer tasks
 * Infernal Slayer Helmet (i) - 22% boost to slayer tasks
