@@ -16,7 +16,7 @@ Naxxus is unique in that it calculates your gear score based off of two setups. 
 
 ![Post Upgrades](../.gitbook/assets/image\_2022-08-21\_014601089.png)
 
-For this fight you will also need Enhanced Potions. (Link)
+For this fight you will also need [Enhanced Potions](../skills/herblore.md#custom-content-and-boosts).&#x20;
 
 ## Getting Started
 
@@ -34,8 +34,8 @@ To fight the boss, use `/k` name: `naxxus`
 ## Loot
 
 * **Dark Crystal** (1/750): Upgradeable into the Void Staff, a chargeable bis magic weapon that provides boosts to Cox, Vasa, Sea Kraken, and Naxxus
-* **Tattered Tome** (1/750): Bis magic tome that boosts Naxxus
-* **Spellbound Ring** (1/500): Bis magic ring that boosts Naxxus, it can be imbued with a Magus Scroll to further increase the stats
-* **Abyssal Gem** (1/500): Used to invent the Abyssal Amulet(link)
+* **Tattered Tome** (1/750): BiS magic tome that boosts Naxxus
+* **Spellbound Ring** (1/500): BiS magic ring that boosts Naxxus, it can be imbued with a Magus Scroll to further increase the stats
+* **Abyssal Gem** (1/500): Used to invent the [Abyssal Amulet](../skills/invention.md#inventions)
 
 ![](../.gitbook/assets/image\_2022-08-21\_014210261.png)
