@@ -1,8 +1,8 @@
 # Nex
 
 Nex is an endgame boss that requires 95 prayer and a Frozen Key to start. You can either Solo or Mass it and requires some high level ranged gear to fight. Its unique drops are Pernix, Torva and Virtus gear. Nex also drops a decent amount of TMB's and Grandmaster clues.\
-`=nex solo`\
-`=nex mass`
+`/k name:Nex (Solo)`\
+`/k name:Nex (Mass)`
 
 ## Gear Recommendations
 
@@ -55,14 +55,14 @@ All boosts are divided by team size
 
 ## **Loot**
 
-Nex drops broken armor pieces that need to be repaired using components made from God Wars sets. The Torva set is made by using `/create`**`item:`**`revert` on Bandos pieces, and then using `/create`**`item:`**`[piece name].` Pernix and Virtus are made the same way, but require Armadyl and Ancestral components respectively.
+Nex drops broken armour pieces that need to be repaired using components made from God Wars sets. The Torva set is made by using `/create`**`item:`**`revert` on Bandos pieces, and then using `/create`**`item:`**`[piece name].` Pernix and Virtus are made the same way, but require Armadyl and Ancestral components respectively.
 
 * **Ancient emblem:** Currently does not have a use.
 * **Bloodsoaked feather:** Used to create the nex pet, [Nexterminator](../custom-items/pets.md#meme-pets-and-no-perk-pets).
 * **Ancient hilt**: Used to create the Ancient Godsword
-* **Nex armor:** Torva, pernix, and virtus armor sets that can be upgraded to best-in-slot [Gorajan armor](../skills/dungeoneering-training/dg-rewards.md#buyable-gear).&#x20;
+* **Nex armour:** Torva, pernix, and virtus armour sets that can be upgraded to best-in-slot [Gorajan armour](../skills/dungeoneering-training/dg-rewards.md#buyable-gear).&#x20;
   * The rate to hit the gear table scales based on team size and each item on the table has an equal chance, meaning any specific item is roughly 1/1600
-* **Nex weapons:** High level weapons dropped on the same table as Nex armor.
+* **Nex weapons:** High level weapons dropped on the same table as Nex armour.
   * **Zaryte bow:** Provides a boost to Nex and is used to create the Hellfire bow.
   * **Virtus Crystal:** Used to make a Virtus book or Virtus wand by combining with a Mage's book or Kodai wand
 

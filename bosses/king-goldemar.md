@@ -6,7 +6,7 @@ Entrance fee to fight King Goldemar is 10 million but can be reduced to 5m if a 
 
 Supply cost for masses is initially 8 Saradomin brews and 2 Super restores per kill. This is reduced to 1 Restore at 60 kc and is reduced by 1 Brew every 30 kc, capping out at 2 Brews per kill at 180 kc.
 
-You can use the command : `=kg`  to begin
+You can use the command : `/k name:King Goldemar (Mass)` to begin a mass, or `/k name:King Goldemar (Solo)` to solo.
 
 ## Requirements
 
@@ -39,14 +39,14 @@ You can use the command : `=kg`  to begin
 * **Athelas seed:** Plant these at 99 farming to recieve athelas
 * **Blacksmith crate:** Drops pieces of the [Blacksmith outfit](https://bso-wiki.oldschool.gg/custom-items/equippables#blacksmith-equipment)
 
-| **Unique Drop Table**      | **Drop Rate**   |
-| -------------------------- | --------------- |
-| Broken dwarven warhammer   | 1/450 (approx.) |
+| **Unique Drop Table**     | **Drop Rate**   |
+| ------------------------- | --------------- |
+| Broken dwarven warhammer  | 1/450 (approx.) |
 | Dwarven armour piece (any) | 1/150           |
-| Dwarven crate              | 1/100           |
-| Dwarven ore                | 1/6.5 (approx.) |
-| Blacksmith crate           | 1/60            |
-| Clue scroll (grandmaster)  | 1/4             |
+| Dwarven crate             | 1/100           |
+| Dwarven ore               | 1/6.5 (approx.) |
+| Blacksmith crate          | 1/60            |
+| Clue scroll (grandmaster) | 1/4             |
 
 ## Extra Information
 

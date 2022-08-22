@@ -10,28 +10,28 @@ Items that your tames get will not be added to your collection log.
 The Dragon tame which does combat, see [Igne Tame](../bosses/ignecarus/igne-tame.md).\
 The Monkey tame which does collect trips, see [Monkey Tame](../minigames/mad-marimbos-monkey-rumble/monkey-tame.md).
 
-| Commands                  | Description                    |
-| ------------------------- | ------------------------------ |
-| `/tames status`           | Shows current tame's status    |
-| `/tames list`             | Shows a list of all tames      |
-| `/tames view [name/id]`   | Shows info about a tame        |
-| `/tames select [name/id]` | Selects a tame                 |
-| `/tames set_name [name`]  | Sets the tame's name           |
-| `/tames feed [items]`     | Feeds your tame items          |
-| `/tames kill [monster]`   | Send tame on PvM trip          |
-| `/tames collect [item]`   | Send tame on collection trip   |
-| `/tames cancel`           | Cancels your tame's trip       |
-| `=cl [boss] --tame`       | View your tames collection log |
+| Commands                                           | Description                    |
+| -------------------------------------------------- | ------------------------------ |
+| `/tames status`                                    | Shows current tame's status    |
+| `/tames list`                                      | Shows a list of all tames      |
+| `/tames view [name/id]`                            | Shows info about a tame        |
+| `/tames select [name/id]`                          | Selects a tame                 |
+| `/tames set_name [name`]                           | Sets the tame's name           |
+| `/tames feed [items]`                              | Feeds your tame items          |
+| `/tames kill [monster]`                            | Send tame on PvM trip          |
+| `/tames collect [item]`                            | Send tame on collection trip   |
+| `/tames cancel`                                    | Cancels your tame's trip       |
+| `/cl name:[boss] type:Tame (Tames Collection Log)` | View your tames collection log |
 
 ## Hatching the Tame
 
-In order to hatch the tame you must build a nursery with `=nursery build`.\
+In order to hatch the tame you must build a nursery with `/nursery build`.\
 You will need 105 Construction along with 200 elder planks, 10 marble blocks and 500 feathers to build the nursery.
 
-Once the nursery is built you can then fuel the nursery with `=nursery fuel`\
+Once the nursery is built you can then fuel the nursery with `/nursery fuel`\
 Fuelling the nursery will require 2,500 elder logs and 10,000 coal.
 
-Finally, once you have satisfied these requirements you can add your egg to the nursery i.e.`=nursery add dragon egg`
+Finally, once you have satisfied these requirements you can add your egg to the nursery i.e. `/nursery add_egg item:Dragon egg`
 
 Note: The ring of luck provides a 3% boost to the chance that on hatch the tame will be a shiny.
 

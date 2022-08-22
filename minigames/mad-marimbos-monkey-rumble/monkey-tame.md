@@ -18,7 +18,7 @@ On hatching, there is a 1/60 chance that it could be a shiny monkey!
 Upon getting a Monkey Egg, you can put it in your nursery and hatch it. It will take 4.5 hours to hatch. Once hatched it will grow over time from a baby -> juvenile -> adult.&#x20;
 
 In order for the tame to grow you have to send it out on collecting trips\
-Like the `=collect` command, you can send your monkey tame off to go collect items. e.g. `/tames collect blue dragon scale`
+Like the `/collect` command, you can send your monkey tame off to go collect items. e.g. `/tames collect blue dragon scale`
 
 A baby monkey is equivalent to the collecting speed of a minion, an adult monkey can get over 3x faster, with the 2 fed item boosts!
 

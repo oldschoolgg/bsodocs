@@ -17,22 +17,22 @@ Moktang offers the claws frame, which allows you to upgrade the speed your tame 
 
 * 105 Mining
 * Heat res. brews and restores
-* Crystal OR Dwarven OR Dragon OR Volcanic pickaxe.
-* Moktang totems (20 elder runes, rocky/magic invention materials)
+* Crystal OR Dwarven OR Dragon OR Volcanic pickaxe
+* Moktang totems (20 elder runes, 50 rocky and 20 magic invention materials)
 
 ## Boosts
 
-* Higher mining levels
-* Mining master cape
+* Higher mining levels - up to 36% at 120 mining
+* Mining master cape - 5%
 * Dwarven outfit equipped in any setup (less brews needed)
-* Volcanic pickaxe
-* Offhand volcanic pickaxe
+* Volcanic pickaxe - 5%
+* Offhand volcanic pickaxe - 3%
 
 ## Rewards
 
 * General loot: stone spirits (100% droprate), clues, boxes, bars, alchables.
 * &#x20;**** ![](../.gitbook/assets/52660.png)**Mini moktang:** The pet for moktang.
-* ****![](../.gitbook/assets/52672.png) **Volcanic dye:** Used to dye a dwwh or dwarven armor.
+* ****![](../.gitbook/assets/52672.png) **Volcanic dye:** Used to dye a dwwh or dwarven armour.
 * ****![](../.gitbook/assets/52671.png) **Volcanic shards:** Used to make Volcanic igne claws, Volcanic pickaxe, Offhand volcanic pickaxe.
 * ****![](../.gitbook/assets/52661.png) **Claws frame:** Used to make Runite igne claws, and to be upgraded higher, to boost the speed of your Igne tames.
 

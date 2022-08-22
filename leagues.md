@@ -43,7 +43,12 @@ You buy them using `/buy`. For any ornament kit items or similar, such as trailb
 
 ### Rewards in BSO
 
-There are currently no rewards in BSO, but we do plan to add some.
+* Brain lee, the leagues pet, can be claimed at 40k points, The pet is untradeable, and has no perk. It cannot be regained if you drop it or do something with it.
+* +1min max trip length can be claimed at 50k points. Its a permanent, global +1min max trip length extension to any/all trips.
+
+Neither of the above rewards 'charge' or remove points from your point balance, they are just unlocked for free. You'll automatically get them next time you `/leagues claim` if you have enough total points.
+
+We plan to add more BSO rewards in the future.
 
 
 

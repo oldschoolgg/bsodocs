@@ -2,18 +2,22 @@
 
 The Queen Black Dragon is a Demi-Boss that drops several mid game items and mid tier loot. The boss uses the **Ranged** gear setup&#x20;
 
-### Boosts
+## Requirements
+
+* 182 Quest Points
+* 70 Prayer
+* 80 Defence
+* 85 Ranged
+* Dragonfire shield OR Dragonfire ward
+
+## Boosts
 
 * Ancient Rejuvenation Pool - 6%
 * Royal crossbow - 8%
-* Dwarven Warhammer - 40%
-* Dragon Hunter Crossbow - 20%
-* Infernal Slayer Helmet (on task) - 18% on task (22% when imbued)
-* Dwarven Blessing - 20% (25% with Amulet of Zealots)
-* Ranged Gorajan - 10%
-* Ranged Master Cape (when equipped using the ranged style) - 15%
+* Dragon hunter crossbow/Dragon hunter lance - 20%
+* [Additional global boosts apply](../../skills/combat-skills.md#boosts)
 
-### Loot
+## Loot
 
 * **Royal dragonhide:** Used to craft Royal Dragonhide, providing the best xp rates
 * **Royal dragon bones:** Equal in experience rates to Abyssal Dragon Bones

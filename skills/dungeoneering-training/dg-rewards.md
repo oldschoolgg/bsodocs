@@ -15,7 +15,7 @@
 | Scroll of longevity\*   | 800,000    | 2x increase to slayer task quantities                                               |
 | Scroll of the hunt\*    | 800,000    | Gives 2x higher chances of impling spawns, and +4 higher limit on birdhouses (4->8) |
 
-\[\*]Important: Only the scroll of farming, longevity and hunt are currently tradeable/useable. To enable these scrolls you must `=use` them, you can only do this once. All other scrolls work passively while stored in the bank.
+\[\*]Important: Only the scroll of farming, longevity and hunt are currently tradeable/useable. To enable these scrolls you must `/minion use item:[Scroll name]`, you can only do this once. All other scrolls work passively while stored in the bank.
 
 ### Buyable Gear
 
@@ -36,27 +36,34 @@ The following gear can be bought with tokens:
 
 None of the above have any perks or bonuses besides their respective stats except for the **Amulet of Zealots** which provides an extra 5% boost to the **Dwarven Blessing** or 10% if killing a mob in the Wilderness.
 
-Additionally, with a **Chaotic Remnant** (500,000 tokens), the three BiS amulets can be created:
+Additionally, with a **Chaotic Remnant** (500,000 tokens), the three BiS neck items can be created with `/create item:[Item Name]`. These are tradable and require 99 Crafting and 99 Dungeoneering to create.
 
-* Amulet of Torture + Chaotic Remnant =  **Brawler's Hook Necklace**
-* Necklace of Anguish + Chaotic Remnant = **Farsight Snapshot Necklace**
-* Occult Necklace + Chaotic Remnant = **Arcane Blast Necklace**
+* Amulet of Torture + Chaotic Remnant = **Brawler's Hook Necklace - Requires 99 Dungeoneering and Defence.**
+* Necklace of Anguish + Chaotic Remnant = **Farsight Snapshot Necklace - Requires 99 Dungeoneering, Defence and Ranged.**
+* Occult Necklace + Chaotic Remnant = **Arcane Blast Necklace - Requires 99 Dungeoneering, Defence and Magic.**
 
-### Gorajan Armor
+### Gorajan Armour
 
-**Gorajan Armor** is made by using Gorajan Shards with Nex Armor. Each piece of armor requires 2 Gorajan Shards to upgrade and will become untradeable. Stats will remain the same as the original Nex Armor but give additional boosts. They give 2x XP when used to train their respective style (ex. Gorajan Occult Outfit gives 2x Magic XP) and they also give a boost to Dungeoneering XP.
+**Gorajan Armour** is made by using Gorajan Shards with Nex Armour. Each piece of armour requires 2 Gorajan Shards to upgrade and will become untradeable. Stats will remain the same as the original Nex Armour but give additional boosts:
 
-* Torva + Gorajan Shards = **Gorajan Warrior Outfit**
-  * Gives boost at King Goldemar
-* Virtus + Gorajan Shards = **Gorajan Occult Outfit**
-* Pernix + Gorajan Shards = **Gorajan Archer Outfit**
+* 2x XP when used to train their respective style (ex. Gorajan Occult Outfit gives 2x Magic XP)
+* Boost to Dungeoneering XP
+* Various boosts when using their respective style while on `/k` trips
+
+#### Set creation
+
+Gorajan items can be made with `/smith name: [Item name]`. You can create boots, gloves, helmet, top, legs for each set
+
+* Torva + Gorajan Shards = **Gorajan Warrior Outfit (Melee)**
+* Virtus + Gorajan Shards = **Gorajan Occult Outfit (Magic)**
+* Pernix + Gorajan Shards = **Gorajan Archer Outfit (Ranged)**
 
 ### Miscellaneous Buyables
 
 | Item                    | Token Cost | Use                                                        |
 | ----------------------- | ---------- | ---------------------------------------------------------- |
-| Herbicide               | 400,000    |                                                            |
+| Herbicide               | 400,000    | None                                                       |
 | Frosty                  | 2,000,000  | None                                                       |
 | Chaotic Remnant         | 500,000    | Secondary for BiS necklace upgrade                         |
 | Daemonheim Agility Pass | 1,000,000  | Unlocks Daemonheim agility course                          |
-| Dungeoneering Dye       | 4,000,000  | Dyes gorajan armor pieces to look like dungeoneering armor |
+| Dungeoneering Dye       | 4,000,000  | Dyes gorajan armour pieces to look like dungeoneering armour |

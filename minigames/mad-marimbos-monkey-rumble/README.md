@@ -17,7 +17,7 @@ Monkey Rumble is a minigame where you wear a greegree to turn into a monkey, and
 * When doing fights, you will fight random monkeys, there are over 20,000+ possible monkeys you can fight. At a rare chance, you'll fight a special monkey.
 * Special monkeys have purple names and different appearances, and _they_ are the ones who give you the unique rewards after fighting them.
 * You also earn Rumble tokens, the reward currency of this minigame, which you can spend on some rewards, if you have all the rewards, you can spend them on Monkey crates.
-* Monkey rumble has a collection log, `=cl mr`
+* Monkey rumble has a collection log, `/cl name:Mad Marimbo's Monkey Rumble`
 
 ### **Boosts**
 

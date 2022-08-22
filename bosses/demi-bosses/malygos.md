@@ -2,7 +2,7 @@
 
 Malygos is the Abyssal dragon boss. It attacks with slash/stab/ranged and magic. Malygos uses the **Wildy** gear setup, however you cannot lose gear while doing Malygos. This is a boss you can fight solo or in a mass.
 
-You can kill Malygos with `=k malygos` or `=k mally`. To mass Malygos you can start the mass with `=mass malygos`.
+You can kill Malygos with `/k name:Malygos`. To mass Malygos you can start the mass with `/mass monster:Malygos`.
 
 **Note**: Malygos also counts for abyssal demon slayer tasks.
 
@@ -26,12 +26,7 @@ You can kill Malygos with `=k malygos` or `=k mally`. To mass Malygos you can st
 * Saradomin godsword - 5%
 * Ancient rejuvenation pool - 10%
 * Dragon hunter lance/Dragon hunter crossbow - 20%
-* Hellfire bow - 3x
-* Dwarven Blessing - 20% (25% with Amulet of Zealots)
-* Amulet of Zealots - 5%
-* Full gorajan - 10%
-* Attack master cape - 15%
-* Infernal Slayer Helmet (on task) - 18% (22% when imbued)
+* [Additional global boosts apply](../../skills/combat-skills.md#boosts) (This is a wilderness boss)
 
 ## Loot
 

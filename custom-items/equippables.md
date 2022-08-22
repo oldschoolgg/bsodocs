@@ -1,6 +1,6 @@
 # Equippables
 
-In BSO, there are many types of custom weapons and armor that have higher than usual stats or give bonuses to various skilling activities or bosses.
+In BSO, there are many types of custom weapons and armour that have higher than usual stats or give bonuses to various skilling activities or bosses.
 
 ### First Age
 
@@ -34,9 +34,9 @@ The dwarven tools are smithed from Dwarven Bars
 
 _Note: To smith tools, you need 99 Smithing and Blacksmith Equipment_
 
-#### Dwarven Armor
+#### Dwarven Armour
 
-| Armor Piece       | Bars Needed |
+| Armour Piece       | Bars Needed |
 | ----------------- | ----------- |
 | Dwarven Full Helm | 2           |
 | Dwarven Platebody | 5           |
@@ -72,7 +72,7 @@ The following items are obtained from [Nex](../bosses/nex.md). These items all h
 
 ![](../.gitbook/assets/pernix.png) ![](../.gitbook/assets/virtus.png) ![](../.gitbook/assets/torva.png)
 
-These items can also be upgraded (except for Virtus Wand and Book) using Gorajan Shards to make Gorajan Armor.
+These items can also be upgraded (except for Virtus Wand and Book) using Gorajan Shards to make Gorajan Armour.
 
 Additionally, the **Zaryte** **Bow** is also obtainable as a drop. It gives a 20% boost to Nex and is used in creating the Hellfire Bow.
 
@@ -125,9 +125,9 @@ Dragonbone Equipment is an ornamental version of normal Dragon and Infinity equi
 
 ### Master Capes
 
-Master capes are skillcapes that can be purchased upon getting 500M XP in the respective skill. The command to purchase a master cape is `=skillcape hunter master cape`. Each cape costs 1b gp to purchase and is untradeable. Master capes provide an 8% XP boost if training the corresponding skill, or 3% when training any other skill. This perk is global, and the master cape can be equipped in any gear tab to receive the XP boost. Master capes also have the same stats as an Abyssal Cape without the food reduction perk.
+Master capes are skillcapes that can be purchased upon getting 500M XP in the respective skill. The command to purchase a master cape is `/buy name:[Skill name] master cape`. Each cape costs 1b gp to purchase and is untradeable. Master capes provide an 8% XP boost if training the corresponding skill, or 3% when training any other skill. This perk is global, and the master cape can be equipped in any gear tab to receive the XP boost. Master capes also have the same stats as an Abyssal Cape without the food reduction perk.
 
-Additionally, master capes have a perk that is related to the skill that they are corresponding to. Skills with missing perks are either yet to be added or still unknown.
+Additionally, master capes have a perk that is related to the skill that they correspond to. Skills with missing perks are either yet to be added.
 
 | Skill        | Perk                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
 | ------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -158,16 +158,16 @@ Additionally, master capes have a perk that is related to the skill that they ar
 
 ### **Expert Capes**
 
-There are 4 expert capes that you can buy once you have bought all required master capes. The expert cape combines all perks of the capes required to purchase it. You can purchase an expert cape with `=buy` and all the required capes are consumed.
+There are 4 expert capes that you can buy once you have bought all required master capes. The expert cape combines all perks of the capes required to purchase it. You can purchase an expert cape with `/buy name:[Expert cape name]` and all the required capes are consumed.
 
 
 
 | Expert Cape | Required Master Capes                                                                                  |
 | ----------- | ------------------------------------------------------------------------------------------------------ |
-| Combatants  | <p>Attack/Strength/Defence/Hitpoints/</p><p>Prayer/Ranged/Magic</p>                                    |
-| Gatherers   | <p>Farming/Fishing/Hunter/Mining/</p><p>Woodcutting</p>                                                |
+| Combatant's | <p>Attack/Strength/Defence/Hitpoints/</p><p>Prayer/Ranged/Magic</p>                                    |
+| Gatherer's  | <p>Farming/Fishing/Hunter/Mining/</p><p>Woodcutting</p>                                                |
 | Support     | Agility/Dungeoneering/Thieving/Slayer                                                                  |
-| Artisans    | <p>Crafting/Construction/Cooking/</p><p>Firemaking/Fletching/Herblore/</p><p>Runecrafting/Smithing</p> |
+| Artisan's   | <p>Crafting/Construction/Cooking/</p><p>Firemaking/Fletching/Herblore/</p><p>Runecrafting/Smithing</p> |
 
 ## Polypore Equipment
 

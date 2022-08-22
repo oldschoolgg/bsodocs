@@ -4,8 +4,8 @@ The lottery is an ongoing event that occurs in BSO only. It is an opportunity to
 
 To get tickets you can either:
 
-* `=buy bank lottery ticket` - The tickets are 10M ea.
-* `=lotterybank item` -  You will receive one ticket for every 10M worth of items that you donate, rounded down.
+* `/buy name:Bank lottery ticket` - The tickets are 10M ea.
+* ~~`=lotterybank item` - You will receive one ticket for every 10M worth of items that you donate, rounded down.~~ **Not currently active**
 
 The tickets are tradeable and you can buy and sell them from other players. 
 
@@ -19,5 +19,4 @@ When the lottery is rolled, there are generally multiple winners. Prizes are spl
 
 For every ticket that you have in the bank, you have one roll. The more tickets you have the higher your chance to win. A short while before the lottery is rolled, all minions will be locked to keep track of how many tickets people have.
 
-To check on how the lottery is looking, Patreons T3 and above can do `=lottery`
-
+~~To check on how the lottery is looking, Patreons T3 and above can do `=lottery`~~**Not currently active**
