@@ -6,13 +6,13 @@ To complete a grandmaster clue you are required to have opened 100 master casket
 
 ### Strategy
 
-The most efficient and rewarding strategy when solving grandmaster clues is equipping full [clue hunter](https://bso-wiki.oldschool.gg/custom-items/equippables#clue-hunter-outfit), graceful, the Achievement Diary Cape and [Zippy](https://bso-wiki.oldschool.gg/custom-items/pets#resource-gathering-and-loot-effecting-pets). This gives the maximum amount of boosts (not including clue score from completing grandmaster clues, which is roughly 60 clues completed for the full 10% boost.) totaling 30%. The Zippy pet, when equipped, has a 1/15 chance to double the caskets rewarded from your clue solving trip.
+The most efficient and rewarding strategy when solving grandmaster clues is equipping full [clue hunter](https://bso-wiki.oldschool.gg/custom-items/equippables#clue-hunter-outfit), graceful, the Achievement Diary Cape and [Zippy](https://bso-wiki.oldschool.gg/custom-items/pets#resource-gathering-and-loot-effecting-pets). This gives the maximum amount of boosts (not including clue score from completing grandmaster clues, which is roughly 60 clues completed for the full 10% boost) totalling 30%. The Zippy pet, when equipped, has a 1/15 chance to double the caskets rewarded from your clue solving trip.
 
 ### Obtaining
 
 Grandmaster Clues can be received from a wide range of content. The rates are not included here because they change often and vary greatly between sources. A list of common sources is as follows:
 
-[Kalphite King](https://bso-wiki.oldschool.gg/bosses/kalphite-king), [Vasa Magus](https://bso-wiki.oldschool.gg/bosses/vasa-magus?q=Vasa), [Sea Kraken](https://bso-wiki.oldschool.gg/bosses/sea-kraken), [Ignecarus](https://bso-wiki.oldschool.gg/bosses/ignecarus), [Nex](https://bso-wiki.oldschool.gg/bosses/nex), [Malygos](https://bso-wiki.oldschool.gg/bosses/malygos), [QBD](../bosses/demi-bosses/queen-black-dragon.md#rewards), [Elder Birdhouses](https://bso-wiki.oldschool.gg/custom-items/misc), Fishing, Woodcutting, Master Clue Caskets, and [Item Contracts](https://bso-wiki.oldschool.gg/custom-items/item-contracts).
+[Kalphite King](https://bso-wiki.oldschool.gg/bosses/kalphite-king), [Vasa Magus](../bosses/vasa-magus.md), [Sea Kraken](https://bso-wiki.oldschool.gg/bosses/sea-kraken), [Ignecarus](https://bso-wiki.oldschool.gg/bosses/ignecarus), [Nex](https://bso-wiki.oldschool.gg/bosses/nex), [Malygos](https://bso-wiki.oldschool.gg/bosses/malygos), [QBD](../bosses/demi-bosses/queen-black-dragon.md#rewards), [Elder Birdhouses](../skills/hunter.md), Fishing, Woodcutting, Master Clue Caskets, and [Item Contracts](https://bso-wiki.oldschool.gg/custom-items/item-contracts).
 
 ### General Loot Table
 

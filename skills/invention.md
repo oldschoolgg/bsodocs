@@ -50,6 +50,7 @@ All aspects of the Invention skill are accessed using `/invention`
 | Drygore Saw (105)               | 40% speed boost to construction                                                   | Drygore \[7] Sharp \[3]                       |
 | Arcane Harvester (110)          | Increases farming yield by 20%                                                    | Organic\[5] Magic\[5]                         |
 | Clue Upgrader (110)             | Chance to upgrade Beginner-Elite clues to next tier when received as loot in PvM. | Treasured\[8] Metallic\[2]                    |
+| Abyssal Amulet (120)            | Boosts runecrafting by varying amounts depending on the rune                      | Magic\[4] Metallic \[2] Treasured \[2]        |
 
 ## Tips
 

@@ -2,6 +2,7 @@
 
 ### Custom Content and Boosts
 
+* Dark Animica - Mined at 105 mining, used to create the Void Staff
 * [Doug](https://bso-wiki.oldschool.gg/custom-items/pets) - gives 1.2x xp boost at Volcanic Mine
 * [Dwarven Pickaxe](https://bso-wiki.oldschool.gg/custom-items/equippables#dwarven-equipment) - 2x Mining Speed, 3x boost to Volcanic Mine, requires 99 mining
 * Volcanic pickaxe - 2.5x Mining speed

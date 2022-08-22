@@ -15,7 +15,7 @@ You can kill Kalphite King using `/k name:Kalphite King (Mass)` or, `/k name:Kal
 
 You should use the best melee gear you have.
 
-![An entry level setup](<../.gitbook/assets/osbot (6).png>)
+![An entry level setup](<../.gitbook/assets/osbot (5).png>)
 
 ![Best in slot setup](<../.gitbook/assets/KK Bis.png>)
 
@@ -44,4 +44,3 @@ You should use the best melee gear you have.
 | Perfect chitin            | 1/2500        |
 | Drygore weapon (any)      | 1/150         |
 | Clue scroll (grandmaster) | 1/18          |
-

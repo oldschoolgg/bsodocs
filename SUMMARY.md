@@ -38,6 +38,7 @@
 * [Kalphite King](bosses/kalphite-king.md)
 * [King Goldemar](bosses/king-goldemar.md)
 * [Moktang](bosses/moktang.md)
+* [Naxxus](bosses/naxxus.md)
 * [Nex](bosses/nex.md)
 * [Vasa Magus](bosses/vasa-magus.md)
 * [Demi Bosses](bosses/demi-bosses/README.md)

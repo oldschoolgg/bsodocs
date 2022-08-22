@@ -24,19 +24,19 @@ Having the entire First Age set equipped gives the player an extra 1% boost, for
 
 The dwarven tools are smithed from Dwarven Bars
 
-| Tool                | Boost                                                  | Bars |
-| ------------------- | ------------------------------------------------------ | ---- |
-| Dwarven Greataxe    | <p>2x Woodcutting speed </p><p>2x Wintertodt speed</p> | 3    |
-| Dwarven Pickaxe     | 2x Mining speed                                        | 3    |
-| Dwarven Gauntlets   | <p>2x Smelting speed</p><p>3x Cooking speed</p>        | 3    |
-| Dwarven Greathammer | <p>2x Smithing speed</p><p>2x Crafting speed</p>       | 4    |
-| Dwarven Knife       | 2x Fletching speed                                     | 2    |
+| Tool                | Boost                                                 | Bars |
+| ------------------- | ----------------------------------------------------- | ---- |
+| Dwarven Greataxe    | <p>2x Woodcutting speed</p><p>2x Wintertodt speed</p> | 3    |
+| Dwarven Pickaxe     | 2x Mining speed                                       | 3    |
+| Dwarven Gauntlets   | <p>2x Smelting speed</p><p>3x Cooking speed</p>       | 3    |
+| Dwarven Greathammer | <p>2x Smithing speed</p><p>2x Crafting speed</p>      | 4    |
+| Dwarven Knife       | 2x Fletching speed                                    | 2    |
 
 _Note: To smith tools, you need 99 Smithing and Blacksmith Equipment_
 
 #### Dwarven Armour
 
-| Armour Piece       | Bars Needed |
+| Armour Piece      | Bars Needed |
 | ----------------- | ----------- |
 | Dwarven Full Helm | 2           |
 | Dwarven Platebody | 5           |
@@ -56,7 +56,7 @@ These dwarven gear are unlike the previous in that they are not smithable from D
 
 **Dwarven Warhammer**: Rare drop from [King Goldemar](../bosses/king-goldemar.md) and provides a 40% PvM boost. Drops as a **Broken Dwarven Warhammer** and must be fixed, requiring 120 Smithing, Blacksmith's Outfit, and 3 Dwarven Bars.
 
-**Dwarven Blessing**: Rare drop from [Grandmaster Caskets](https://bso-wiki.oldschool.gg/custom-items/grandmaster-clues) and provides a 20% boost to PvM (25% with Amulet of Zealots). Consumes 1 Prayer Potion per 5 minutes of PvM (reduced by 40% with Prayer Master Cape).
+**Dwarven Blessing**: Rare drop from [Grandmaster Caskets](grandmaster-clues.md) and provides a 20% boost to PvM (25% with Amulet of Zealots). Consumes 1 Prayer Potion per 5 minutes of PvM (reduced by 40% with Prayer Master Cape).
 
 ### Abyssal Equipment
 
@@ -64,7 +64,7 @@ Abyssal Cape - Provides an aura which reduces food consumption by 50%. Obtained 
 
 ### Nex Equipment
 
-The following items are obtained from [Nex](../bosses/nex.md). These items all have very high bonuses in their respective style, Pernix - range, Torva - melee, and Virtus - magic.&#x20;
+The following items are obtained from [Nex](../bosses/nex.md). These items all have very high bonuses in their respective style, Pernix - range, Torva - melee, and Virtus - magic.
 
 * **Pernix**: Cowl, Body, Chaps, Gloves, Boots, Zaryte Bow
 * **Torva**: Full Helm, Platebody, Platelegs, Gloves, Boots
@@ -78,15 +78,15 @@ Additionally, the **Zaryte** **Bow** is also obtainable as a drop. It gives a 20
 
 ### Drygore Weapons
 
-Drygore weapons are a drop from the [Kalphite King](../bosses/kalphite-king.md). Each type of weapon has a main hand and offhand pair which are the best-in-slot weapons for each respective melee style.&#x20;
+Drygore weapons are a drop from the [Kalphite King](../bosses/kalphite-king.md). Each type of weapon has a main hand and offhand pair which are the best-in-slot weapons for each respective melee style.
 
 ### Dungeoneering Gear
 
-There is various gear that can be obtained from Dungeoneering (see [Dungeoneering](../skills/dungeoneering-training/dg-rewards.md)).&#x20;
+There is various gear that can be obtained from [Dungeoneering](../skills/dungeoneering-training/dg-rewards.md).
 
 ### Clue Hunter Outfit
 
-The Clue Hunter outfit can be obtained as a rare drop from Grandmaster Caskets (see [Misc](misc.md)). It is also obtainable from the [Crack the Clue ](https://wiki.oldschool.gg/miscellaneous/crack-the-clue)event. It gives a 2x speed boost to completing clues and increases Grandmaster Clue drop rate from Master caskets.&#x20;
+The Clue Hunter outfit can be obtained as a rare drop from Grandmaster Caskets (see [Misc](misc.md)). It is also obtainable from the [Crack the Clue](https://wiki.oldschool.gg/miscellaneous/crack-the-clue) event. It gives a 2x speed boost to completing clues and increases Grandmaster Clue drop rate from Master caskets.
 
 * Helm of Raedwald
 * Clue Hunter Cloak
@@ -99,7 +99,7 @@ The Clue Hunter outfit can be obtained as a rare drop from Grandmaster Caskets (
 
 ### Master Farmer Outfit
 
-The Master Farmer outfit is craftable with 110 Crafting using Ent hides dropped from Treebeard (see [Bosses](broken-reference)). The outfit gives +3 extra maximum patches, for every type of patch. This stacks with the +2 patches from the Scroll of farming. It does not have to be equipped.
+The Master Farmer outfit is craftable with 110 Crafting using Ent hides dropped from [Treebeard](../bosses/demi-bosses/treebeard.md). The outfit gives +3 extra maximum patches, for every type of patch. This stacks with the +2 patches from the Scroll of farming. It does not have to be equipped.
 
 | Piece                | Ent Hide Needed |
 | -------------------- | --------------- |
@@ -113,13 +113,13 @@ The Master Farmer outfit is craftable with 110 Crafting using Ent hides dropped 
 
 ### Blacksmith Equipment
 
-The Blacksmith set is obtainable from Blacksmith Crates, which drop at a rate of 1/60 from [King Goldemar](https://bso-wiki.oldschool.gg/bosses/king-goldemar?q=blacksmith), or from mystery boxes. You can recieve duplicates before finishing the set. The full set is required to smith dwarven equipment and tools. When the full set is equipped, a 10% xp boost is given when smithing and when smelting bars at the blast furnace.
+The Blacksmith set is obtainable from Blacksmith Crates, which drop at a rate of 1/60 from [King Goldemar](../bosses/king-goldemar.md), or from mystery boxes. You can recieve duplicates before finishing the set. The full set is required to smith dwarven equipment and tools. When the full set is equipped, a 10% xp boost is given when smithing and when smelting bars at the blast furnace.
 
 ![](../.gitbook/assets/blacksmith.png)
 
 ### Dragonbone Equipment
 
-Dragonbone Equipment is an ornamental version of normal Dragon and Infinity equipment, and is created with Dragonbone Ornament Kits, which are an uncommon drop Queen Black Dragon.&#x20;
+Dragonbone Equipment is an ornamental version of normal Dragon and Infinity equipment, and is created with Dragonbone Ornament Kits, which are an uncommon drop Queen Black Dragon.
 
 ![Dragonbone Melee with Royal dragon kiteshield](<../.gitbook/assets/dragonbone melee.png>) ![Dragonbone Mage](<../.gitbook/assets/dragonbone mage.png>)
 
@@ -127,7 +127,7 @@ Dragonbone Equipment is an ornamental version of normal Dragon and Infinity equi
 
 Master capes are skillcapes that can be purchased upon getting 500M XP in the respective skill. The command to purchase a master cape is `/buy name:[Skill name] master cape`. Each cape costs 1b gp to purchase and is untradeable. Master capes provide an 8% XP boost if training the corresponding skill, or 3% when training any other skill. This perk is global, and the master cape can be equipped in any gear tab to receive the XP boost. Master capes also have the same stats as an Abyssal Cape without the food reduction perk.
 
-Additionally, master capes have a perk that is related to the skill that they correspond to. Skills with missing perks are either yet to be added.
+Additionally, master capes have a perk that is related to the skill that they correspond to. Skills with missing perks are yet to be added.
 
 | Skill        | Perk                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
 | ------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -159,8 +159,6 @@ Additionally, master capes have a perk that is related to the skill that they co
 ### **Expert Capes**
 
 There are 4 expert capes that you can buy once you have bought all required master capes. The expert cape combines all perks of the capes required to purchase it. You can purchase an expert cape with `/buy name:[Expert cape name]` and all the required capes are consumed.
-
-
 
 | Expert Cape | Required Master Capes                                                                                  |
 | ----------- | ------------------------------------------------------------------------------------------------------ |

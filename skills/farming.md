@@ -2,11 +2,13 @@
 
 ### Custom Content
 
-* Athelas seed - Plant at 99 Farming in herb patch, give Athelas Herbs when harvested.
+* Athelas seed - Plant at 99 Farming in herb patch, gives Athelas Herbs when harvested.
 * Mysterious Tree seed - Plant at 120 Farming in tree patch, gives various Mystery Boxes when harvested.
 * Avocado seed - Plant at 99 Farming in bush patch, gives avocados when harvested
 * Mango seed - Plant at 105 Farming in bush patch, gives mangos when harvested
 * Lychee seed - Plant at 111 Farming in bush patch, gives lychee when harvested
+* Korulsi Seed - Plant at 110 Farming in herb patch, gives Korulsi Herbs when harvested.
+* Grand Crystal Acorn - Plant at 115 Farming in Crystal Tree patch, gives Crystal Shards when harvested.
 
 ### Boosts
 
@@ -23,4 +25,4 @@
 
 ### Methods
 
-The best farming experience is obtained by planting and harvesting Athelas. Each seed averages 1.1m xp.
+The best farming experience is obtained by planting and harvesting Korulsi. Each seed averages \~1.3m (may be inaccurate) xp.
