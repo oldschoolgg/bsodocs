@@ -2,9 +2,9 @@
 
 ### Custom Content and Boosts
 
-* [Wilvus](../custom-items/pets.md#miscellaneous-pets) - 2x boost to pickpocket
-* Thieves' Armband - greatly reduces failure rate of pickpocketing and gives 3x loot (does not triple blood shards from vyres). Obtained randomly from [Wilvus'](../custom-items/pets.md#miscellaneous-pets) passive.
-* Thieving Master Cape - 30% boost to pickpocket
+* [Wilvus](../custom-items/pets.md#miscellaneous-pets) - 2x Speed boost to `/steal`
+* Thieves' Armband - greatly reduces failure rate of pickpocketing and gives 3x loot (does not triple blood shards from vyres, enhanced crystal teleport seeds from elf, or easy clues from HAM). Obtained randomly from [Wilvus'](../custom-items/pets.md#miscellaneous-pets) passive.
+* [Thieving Master Cape](../custom-items/equippables.md#master-capes) - 30% Speed boost to `/steal`
 
 ### Optimal Gear Setup
 
@@ -12,7 +12,6 @@
 
 ### Methods
 
-| Method                           | Xp / Hr |   |
-| -------------------------------- | ------- | - |
-| Pickpocket Vyre w/o Master cape  | 9.2m    |   |
-| Pickpocket Vyre with Master cape | 14.2m   |   |
+| Method          | Xp / Hr   |   |
+| --------------- | --------- | - |
+| Pickpocket Vyre | 9,483,210 |   |

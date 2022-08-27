@@ -2,11 +2,12 @@
 
 ### Custom Content and Boosts
 
-* [Lil' Lamb](../custom-items/pets.md#miscellaneous-pets) - 1x-3x boost from offering bones
-* Abyssal Dragon Bones - Bis bones obtained from Malygos
-* Royal Dragon Bones - Bis bones obtained from QBD
-* Gorajan Bonecrusher - Passively crushes bones obtained from /k trips. Create by combining the [Gorajan Bonecrusher (u)](dungeoneering-training/#starting-out) with 3 gorajan shards
-* Prayer Master Cape - 40% Less Prayer Potions consumed while using Dwarven Blessing
+* [Lil' Lamb](../custom-items/pets.md#miscellaneous-pets) - 2x-4x xp boost from `/offer`
+* Abyssal Dragon Bones - Bis bones obtained from [Malygos](../bosses/demi-bosses/malygos.md)
+* Royal Dragon Bones - Bis bones obtained from [QBD](../bosses/demi-bosses/queen-black-dragon.md)
+* Gorajan Bonecrusher - Passively crushes bones obtained from `/k` trips. Create by combining the [Gorajan Bonecrusher (u)](dungeoneering-training/#starting-out) with 3 gorajan shards
+* [Prayer Master Cape](../custom-items/equippables.md#master-capes) - 40% Less Prayer Potions consumed while using Dwarven Blessing
+* [Superior Bonecrusher](invention.md#inventions) - 25% xp boost to the Gorajan Bonecrusher
 
 ### Optimal Gear Setup
 
@@ -14,8 +15,8 @@ Lil Lamb, Prayer master cape
 
 ### Methods
 
-| Method                         | Xp / Hr |   |
-| ------------------------------ | ------- | - |
-| Offering Abyssal / Royal bones | \~17m   |   |
+| Method                         | Xp / Hr (Average) |
+| ------------------------------ | ----------------- |
+| Offering Abyssal / Royal bones | 42,431,264        |
 
-**n.b.** When going for 500m xp, please use `/minion level skill:Prayer` to determine how much xp you have gained after each trip as the trip report may be inaccurate in displaying your full xp gained per trip.
+**n.b.** Xp shown in the trip return message does not include the BSO 5x multiplier or any cape multipliers/first age.

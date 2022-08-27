@@ -15,9 +15,10 @@ Scruffy, Dwarven knife, Fletching master cape
 
 ### Methods
 
-| Method            | Xp / Hr |   |
-| ----------------- | ------- | - |
-| Hellfire Arrow    | \~520m  |   |
-| Elder Longbow (u) | \~10.3m |   |
-| Elder Longbow     | \~14.6m |   |
+| Method           | Xp / Hr     |   |
+| ---------------- | ----------- | - |
+| Hellfire Arrow   | 534,807,692 |   |
+| Elder Bow (u)    | 10,622,063  |   |
+| Elder Bow        | 15,017,400  |   |
+| Elder Bow (Both) | 12,422,989  |   |
 

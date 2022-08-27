@@ -8,7 +8,8 @@
 * Eastern Ferret - can be hunted at 96 Hunter, consuming 1 delicious kibble per 2 ferrets. Chance at [Zippy](../custom-items/pets.md#miscellaneous-pets) pet
 * Chimpchompas - Requires 99 hunter, any MR greegree, and 1 banana per catch as bait
 * [Sandy](../custom-items/pets.md#miscellaneous-pets) - 3x hunter loot (2x sand gecko loot w/ Hunter Master Cape)
-* Hunter Master Cape - 2x Hunter speed, +4 birdhouses, 2x loot from Sand Geckos with Sandy equipped, 2x implings
+* [Hunter Master Cape](../custom-items/equippables.md#master-capes) - 2x Speed boost to Hunter, +4 birdhouses, 2x loot from Sand Geckos with Sandy equipped, 2x implings
+* [Quick Trap](invention.md#inventions) - 25% Speed boost to Hunter
 
 ### Optimal Gear Setup
 
@@ -20,8 +21,8 @@ Wildy setup - Royal d'hide body and chaps (cost effective)
 
 Xp rates without Hunter Master Cape
 
-| Method           | Xp / Hr |   |
-| ---------------- | ------- | - |
-| Eastern Ferret   | 140k    |   |
-| Sand Gecko       | 550k    |   |
-| Black Chinchompa | 1.5m    |   |
+| Method           | Xp / Hr   |   |
+| ---------------- | --------- | - |
+| Elder Birdhouse  | 3,255,309 |   |
+| Sand Gecko       | 562,955   |   |
+| Black Chinchompa | 1,545,000 |   |

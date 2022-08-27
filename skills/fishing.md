@@ -2,10 +2,11 @@
 
 ### Custom Content and Boosts
 
-* [Shelldon](https://bso-wiki.oldschool.gg/custom-items/pets) - 2x Fishing Speed
+* [Shelldon](https://bso-wiki.oldschool.gg/custom-items/pets) - 2x Speed boost to Fishing
 * [Klik](../custom-items/pets.md#miscellaneous-pets) - Cooks caught fish when equipped (No cooking xp granted)
 * Raw Rocktails - Caught at 120 fishing
 * Tackle boxes - Increases length of fishing trips according to tier of tackle box, obtained from Fishing Contest
+* [Mecha Rod ](invention.md#inventions)- 45% Speed boost to Fishing
 
 ### Fishing Contest
 
@@ -44,6 +45,6 @@ Daily fishing trip that always takes 1 minute and 41 seconds and resets at 00:00
 
 ### Methods
 
-| Method   | Xp / Hr |   |
-| -------- | ------- | - |
-| Rocktail | \~1.6m  |   |
+| Method   | Xp / Hr (Average) |
+| -------- | ----------------- |
+| Rocktail | 2,715,967         |

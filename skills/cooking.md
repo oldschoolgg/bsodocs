@@ -4,9 +4,9 @@
 
 * [Remy ](https://bso-wiki.oldschool.gg/custom-items/pets)- 2x Cooking Speed (1.5x on wines)
 * [Dwarven Gauntlets](../custom-items/equippables.md#dwarven-tools) - 3x Cooking Speed (does not work with `/kibble`; does not stack with Remy)
-* Cooked Rocktail - Cookable at lvl 120 cooking
+* Rocktail - Cooked from Raw Rocktail at lvl 120 cooking
 * Kibble - Used as bait when training Hunter
-* Cooking Master Cape - 5x cooking speed
+* [Cooking Master Cape](../custom-items/equippables.md#master-capes) - 5x cooking speed, Does not stack with other boosts
 
 ### Kibble
 
@@ -27,13 +27,11 @@ Create kibble with `/kibble kibble:[Kibble name] quantity:[x]` using all of the 
 
 ### Optimal Gear Setup
 
-Cooking master cape, Dwarven gauntlets, Remy
+Cooking master cape > Dwarven Gauntlets > Remy
 
 ### Methods
 
-| Method               | Xp / Hr  |   |
-| -------------------- | -------- | - |
-| Rocktail             | \~4.56m  |   |
-| Simple Kibble        | \~11m    |   |
-| Delicious Kibble     | \~8.3m   |   |
-| Extraordinary Kibble | \~10.2m  |   |
+| Method        | Xp / Hr    |   |
+| ------------- | ---------- | - |
+| Rocktail      | 4,696,800  |   |
+| Simple Kibble | 11,124,000 |   |

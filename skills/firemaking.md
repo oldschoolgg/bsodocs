@@ -10,11 +10,11 @@
 
 ### Optimal Gear Setup
 
-Pyromancer outfit, Firemaking master cape, Flappy, Dwarven greataxe
+Pyromancer outfit, Firemaking master cape, Dwarven greataxe, Ring of Fire, Flame Gloves
 
 ### Methods
 
-| Method     | Xp / Hr        |   |
-| ---------- | -------------- | - |
-| Wintertodt | Varies 12m-15m |   |
+| Method     | Xp / Hr (Average) |   |
+| ---------- | ----------------- | - |
+| Wintertodt | 15,324,130        |   |
 

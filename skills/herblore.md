@@ -8,15 +8,15 @@
 2. Craft Heat res. vials with molten glass and athelas paste. /`craft name: heat res. vial`
 3. Mix a Super antifire, 4-dose brew/restore into the heat res. vial. E.g. /`mix name: heat res. brew`.
 
-* Neem Oil - made with Neem Drupe and Jug of Water.
-* Dragon's Fury - (a potion made at 120 herblore using 3 Ignecarus Scales and 1 Abyssal Dragon Bones)
-* Herblore Master Cape - 10% chance per potion made to get an extra potion\
-
 * Enhanced Potions
 
-1. Create Crystal Dust by crushing crystal shards. `/crush name: crystal shard`
-2. Farm the Korulsi Herb.
-3. Combine Korulsi and 10 Crystal Dust with one base potion. (Stamina, Restore, Brew, Divine Water)
+1. Create Crystal Dust from crystal shards. `/create name:crystal dust`
+2. Combine Korulsi and 10 Crystal Dust with one base potion. (Stamina, Restore, Brew, Divine Water)
+
+* Neem Oil - made with Neem Drupe and Jug of Water.
+* Dragon's Fury - (a potion made at 120 herblore using 3 Ignecarus Scales and 1 Abyssal Dragon Bones)
+* [Herblore Master Cape](../custom-items/equippables.md#master-capes) - 10% chance per potion made to get an extra potion
+* [Mecha Mortar](invention.md#inventions) - 45% Speed boost to Herblore
 
 ### Optimal Gear Setup
 
@@ -24,12 +24,8 @@ Herblore master cape
 
 ### Methods
 
-| Method               | Xp / Hr |   |
-| -------------------- | ------- | - |
-| Heat Res. Brew       | \~2.75m |   |
-| Heat Res. Restore    | \~2.75m |   |
-| Dragon's Fury        | \~22m   |   |
-| Enhanced Potions     | \~2.88m |   |
-| Simple Kibble        | \~5.55m |   |
-| Delicious Kibble     | \~4.2m  |   |
-| Extraordinary Kibble | \~5.1m  |   |
+| Method            | Xp / Hr   |   |
+| ----------------- | --------- | - |
+| Heat Res. Potions | 5,168,727 |   |
+| Enhanced Potions  | 3,595,636 |   |
+| Simple Kibble     | 5,562,000 |   |

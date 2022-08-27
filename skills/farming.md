@@ -7,7 +7,7 @@
 * Avocado seed - Plant at 99 Farming in bush patch, gives avocados when harvested
 * Mango seed - Plant at 105 Farming in bush patch, gives mangos when harvested
 * Lychee seed - Plant at 111 Farming in bush patch, gives lychee when harvested
-* Korulsi Seed - Plant at 110 Farming in herb patch, gives Korulsi Herbs when harvested.
+* Korulsi Seed - Plant at 110 Farming in herb patch, gives grimy Korulsi when harvested.
 * Grand Crystal Acorn - Plant at 115 Farming in Crystal Tree patch, gives Crystal Shards when harvested.
 
 ### Boosts
@@ -16,8 +16,9 @@
 * [Master Farming Outfit](../custom-items/equippables.md#master-farmer-outfit) - Gives +3 patches of all types. Obtained via crafting with 110 Crafting using Ent hides dropped from [Treebeard](../bosses/demi-bosses/treebeard.md). Works from bank
 * [Scroll of Life](dungeoneering-training/dg-rewards.md#buyable-boosts-utility) - 15% less seeds used when farming
 * [Farming Master Cape](../custom-items/equippables.md#master-capes) - Save 15% seeds. (50% if you have the cape and scroll of life); 1/10 chance per seed of a mystery box.
-* 3000 QP - Unlocks additional Athelas and Mysterious Tree patches
+* 1500/3000 QP - Unlocks additional patches for custom crops
 * [Plopper](../custom-items/pets.md#miscellaneous-pets) - 4x harvest and crops can't die
+* [Arcane Harvester](invention.md#inventions) - 20% increased yield - does not work on Mysterios Trees
 
 ### Optimal Gear Setup
 
@@ -25,4 +26,8 @@
 
 ### Methods
 
-The best farming experience is obtained by planting and harvesting Korulsi. Each seed averages \~1.3m (may be inaccurate) xp.
+| Method  | Xp / Seed | Xp / Harvest |
+| ------- | --------- | ------------ |
+| Athelas | 1,235,501 | 15,270,786   |
+| Korulsi | 386,179   | 4,773,172    |
+
