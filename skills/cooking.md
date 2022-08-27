@@ -31,7 +31,7 @@ Cooking master cape > Dwarven Gauntlets > Remy
 
 ### Methods
 
-| Method        | Xp / Hr    |   |
-| ------------- | ---------- | - |
-| Rocktail      | 4,696,800  |   |
-| Simple Kibble | 11,124,000 |   |
+| Method        | Xp / Hr    |
+| ------------- | ---------- |
+| Rocktail      | 4,696,800  |
+| Simple Kibble | 11,124,000 |
