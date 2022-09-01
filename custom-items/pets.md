@@ -1,6 +1,6 @@
 # Pets
 
-There are pets exclusive to BSO that provide unique and powerful perks and are rare drops from certain activities. These custom pets must equipped using `/gear pet equip:`**`name`**` and in most cases, only one pet's effect can be active at once. All pets with a per minute drop rate can only be obtained on trips that are at least 20 minute long.
+There are pets exclusive to BSO that provide unique and powerful perks and are rare drops from certain activities. These custom pets must equipped using `/gear pet equip:`**`name`**\` and in most cases, only one pet's effect can be active at once. All pets with a per minute drop rate can only be obtained on trips that are at least 20 minute long.
 
 ## Miscellaneous Pets
 
@@ -11,16 +11,17 @@ There are pets exclusive to BSO that provide unique and powerful perks and are r
 | Obis       | <p>2x Zalcano Boost</p><p>2x Runecraft boost (uses 3x essence)</p><p>Brings back random runes (non-PvM trips only)</p>                                                                                                                  | 1/5,000 Minutes of Runecrafting                                                      |
 | Plopper\*  | <p>Crops never die</p><p>4x farming yield</p>                                                                                                                                                                                           | 5x more common than Tangleroot while Farming                                         |
 | Shelldon   | 2x fishing speed                                                                                                                                                                                                                        | 1/8,000 Minutes of Fishing                                                           |
-| Harry      | <p>Brings back bananas</p><p>Increases mark of grace rate</p><p>Eliminates level-scaling for marks of grace </p>                                                                                                                        | 1/1,600 Minutes of Ardougne Agility Course                                           |
+| Harry      | <p>Brings back bananas</p><p>Increases mark of grace rate</p><p>Eliminates level-scaling for marks of grace</p>                                                                                                                         | 1/1,600 Minutes of Ardougne Agility Course                                           |
 | Klik       | <p>Automatically smelts ore from mining and cooks fish from fishing (no xp given)</p><p>3x tanning boost (Does not stack with <a href="equippables.md#dwarven-tools">Dwarven greathammer</a>)<br>Required for smelting dwarven bars</p> | 1/7,500 Minutes of Killing Dragons                                                   |
 | Remy       | 2x cooking speed (Does not stack with [Dwarven gauntlets](equippables.md#dwarven-tools))                                                                                                                                                | 1/5,000 Minutes of Cooking                                                           |
-| Skipper\*  | <p>Removes 15% tax from selling items</p><p>Adds 40% to sacrifice value</p><p>Gives 50% more GP on dailies </p>                                                                                                                         | 1/1,600 Minutes of Penguin Agility Course                                            |
+| Skipper\*  | <p>Removes 15% tax from selling items</p><p>Adds 40% to sacrifice value</p><p>Gives 50% more GP on dailies</p>                                                                                                                          | 1/1,600 Minutes of Penguin Agility Course                                            |
 | Takon      | 4x Smithing boost (not smelting, does not stack with [Dwarven greathammer](equippables.md#dwarven-tools))                                                                                                                               | 1/4,500 from CoX                                                                     |
 | Wilvus     | <p>Brings back pickpocket loot, including <a href="../skills/thieving.md#custom-content-and-boosts">Thieves' Armband</a></p><p>2x thieving boost</p>                                                                                    | 1/2,000 Minutes of Thieving                                                          |
 | Wintertoad | Halves Fight Caves time                                                                                                                                                                                                                 | 1/3000 Minutes of Wintertodt                                                         |
 | Zak        | Increases maximum trip length by 40%                                                                                                                                                                                                    | <p>1/6,500 Minutes of Smelting</p><p>(only obtained from /smelt, requires 10 QP)</p> |
 | Mr. E      | Increases chance of a Double Loot trip from 1/15 to 1/12, as well as eliminating the 3 worst implings from a trip.                                                                                                                      | 1/5000 From a TMB or UMB, 1/200 from a PMB, and 1/500 from an EMB.                   |
 | Voidling\* | Can alch your items while doing any activity                                                                                                                                                                                            | 1/500 from [Vasa Magus](../bosses/vasa-magus.md#loot)                                |
+| RoboFlappy | Provides 2x loot from minigames.                                                                                                                                                                                                        | Created with [Invention](../skills/invention.md#inventions)                          |
 
 \*Does not have to be equipped
 
@@ -37,7 +38,7 @@ Note: Voidling alchs at a lower rate if it is not equipped and you do not have a
 | Doug    | Brings back random ores                                                                                                                      | 1/12,000 Minutes of Mining                                                   |
 | Zippy   | <ul><li>Gives extra clue caskets and mystery boxes while completing clues</li><li>1/15 chance to double loot from completing clues</li></ul> | <ul><li>Questing (1/350 per trip)</li><li>Hunting eastern ferrets*</li></ul> |
 
-* The drop rate increases the more zippys you have in your _CL_. The base drop rate is 1/3500 with no zippys in your CL, it _roughly_ doubles for each zippy you have. This is in order to protect the value of zippy, whilst not making it impossible to get more than 1, while making it viable to get your _first_ zippy from here.&#x20;
+* The drop rate increases the more zippys you have in your _CL_. The base drop rate is 1/3500 with no zippys in your CL, it _roughly_ doubles for each zippy you have. This is in order to protect the value of zippy, whilst not making it impossible to get more than 1, while making it viable to get your _first_ zippy from here.
 
 ## Discontinued pets
 
@@ -58,7 +59,7 @@ These pets are discontinued and were rewards from certain events. You can now on
 {% tab title="No perks" %}
 | Name                  | Source                                                           |
 | --------------------- | ---------------------------------------------------------------- |
-| Buzz                  | 2022 BSO Birthday Event                                                |
+| Buzz                  | 2022 BSO Birthday Event                                          |
 | Leia                  | 2022 Easter Event                                                |
 | Seer                  | [2021 Christmas Event](../events/christmas-2021.md#unique-items) |
 | Mini Pumpkinhead      | [2021 Halloween Event](../events/halloween-2021.md#pumpkinhead)  |
@@ -103,5 +104,5 @@ These pets are a meta-joke, or a meme pet, that serve no real use apart from bei
 | Jal-MejJak             | No perk                                                                                                                               | 1/100 (1/75 on task) from [Emerged Zuk Inferno](../minigames/emerged-zuk-inferno.md#rewards-all-are-untradeable) |
 | Phoenix eggling        | No perk                                                                                                                               | <p>Warm: 1/2500<br>Hot: 1/1750<br>Fiery: 1/1000</p>                                                              |
 | Mini moktang           | No perk                                                                                                                               | 1/1536 from [Moktang](../bosses/moktang.md#rewards)                                                              |
-| Brain lee              | No perk                                                                                                                               | Achieve 40k+ [League Points](../leagues)                                                              |
-| Nexling           | No perk                                                                                                                               | 1/5000 from [Nihiliz](../bosses/demi-bosses/nihiliz)   
+| Brain lee              | No perk                                                                                                                               | Achieve 40k+ [League Points](../leagues/)                                                                        |
+| Nexling                | No perk                                                                                                                               | 1/5000 from [Nihiliz](../bosses/demi-bosses/nihiliz/)                                                            |

@@ -33,8 +33,7 @@
 ## Bosses
 
 * [Chambers of Xeric](bosses/chambers-of-xeric.md)
-* [Ignecarus](bosses/ignecarus/README.md)
-  * [Igne Tame](bosses/ignecarus/igne-tame.md)
+* [Ignecarus](bosses/ignecarus.md)
 * [Kalphite King](bosses/kalphite-king.md)
 * [King Goldemar](bosses/king-goldemar.md)
 * [Moktang](bosses/moktang.md)
@@ -54,7 +53,6 @@
 * [Emerged Zuk Inferno](minigames/emerged-zuk-inferno.md)
 * [Inferno](minigames/inferno.md)
 * [Mad Marimbo's Monkey Rumble](minigames/mad-marimbos-monkey-rumble/README.md)
-  * [Monkey Tame](minigames/mad-marimbos-monkey-rumble/monkey-tame.md)
   * [Monkey Rumble Store](minigames/mad-marimbos-monkey-rumble/monkey-rumble-store.md)
 * [Ourania Delivery Service (ODS)](minigames/ourania-delivery-service-ods.md)
 
@@ -70,7 +68,9 @@
 * [Pets](custom-items/pets.md)
 * [Patronage](custom-items/patronage.md)
 * [Tames](custom-items/tames.md)
-  * [Igne Claws](custom-items/tames/igne-claws.md)
+  * [Igne Tame](custom-items/tames/igne-tame.md)
+  * [Igne Equipment](custom-items/tames/igne-claws.md)
+  * [Monkey Tame](custom-items/tames/monkey-tame.md)
 
 ## Events
 

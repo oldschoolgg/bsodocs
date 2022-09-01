@@ -4,10 +4,10 @@ Monkey Rumble is a minigame where you wear a greegree to turn into a monkey, and
 
 ### Quickstart Guide
 
-1. `/buy`` `**`name:`**`M'speak amulet`
-2. `/gear equip`` `**`gear_setup:`**`Misc`` `**`item:`**`M'speak amulet`
-3. `/buy`` `**`name:`**`Beginner rumble greegree`
-4. `/gear equip`` `**`gear_setup:`**`Misc`` `**`item:`**`Beginner rumble greegree`
+1. ` /buy`` `` `**`name:`**`M'speak amulet`
+2. ` /gear equip`` `` `**`gear_setup:`**` Misc`` `` `**`item:`**`M'speak amulet`
+3. ` /buy`` `` `**`name:`**`Beginner rumble greegree`
+4. ` /gear equip`` `` `**`gear_setup:`**` Misc`` `` `**`item:`**`Beginner rumble greegree`
 5. Make sure you have some fruit, for your monkey-form to eat!
 6. `/bsominigames monkey_rumble start`
 
@@ -31,10 +31,10 @@ Monkey Rumble is a minigame where you wear a greegree to turn into a monkey, and
 
 **Monkey Egg**
 
-* The Monkey Egg hatches into a monkey tame. See [Monkey Tame](monkey-tame.md) for more information.
+* The Monkey Egg hatches into a monkey tame. See [Monkey Tame](../../custom-items/tames/monkey-tame.md) for more information.
 * Dropped by purple monkeys and by chimplings.
 
-**Big Banana**&#x20;
+**Big Banana**
 
 * Reduces food needed in monkey rumbles by 25% and provides a 12% higher chance of purple monkeys.
 * Dropped by purple monkeys.
@@ -49,14 +49,14 @@ Monkey Rumble is a minigame where you wear a greegree to turn into a monkey, and
 **Marimbo statue**
 
 * A statue you can place in your PoH, as a garden decoration. It has a chance of being dropped by purple monkeys after obtaining a tier 5 rumble greegree.
-* You can place it in your PoH using /`poh build`` `**`name:`**`Marimbo statue`
+* You can place it in your PoH using /` poh build`` `` `**`name:`**`Marimbo statue`
 
 **Banana enchantment scroll**
 
 * Bought from the reward shop or obtained from chimplings.
 * Allows you to enchant bananas into magic bananas, cannot cast this spell without it.
-* `/minion use`` `**`item:`**`Banana enchantment scroll`
-* `/activities enchant`` `**`name:`**`Banana`
+* ` /minion use`` `` `**`item:`**`Banana enchantment scroll`
+* ` /activities enchant`` `` `**`name:`**`Banana`
 
 **Chimplings**
 

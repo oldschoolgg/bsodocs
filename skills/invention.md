@@ -35,22 +35,23 @@ All aspects of the Invention skill are accessed using `/invention`
 
 ## Inventions
 
-| Invention (level)               | Effect                                                                            | Materials \[Weight]                           |
-| ------------------------------- | --------------------------------------------------------------------------------- | --------------------------------------------- |
-| Superior Bonecrusher (70)       | 25% bonus xp over Gorajan Bonecrusher                                             | Pious\[5] Sharp\[1] Magic\[4]                 |
-| Dwarven Toolkit (80)            | 35% speed boost to disassembly                                                    | Dwarven\[8] Metallic\[2]                      |
-| Superior Inferno Adze (80)      | Automatically burns logs chopped and smelts ores mined. Costs nothing to use.     | Sharp\[3] Base\[3] Metallic\[1] Magic\[3]     |
-| Superior Dwarf Multicannon (80) | 37%-65% speed boost to pvm when cannoning                                         | Strong\[4] Heavy\[2] Metallic\[4]             |
-| Mecha Rod (85)                  | 45% speed boost to fishing                                                        | Flexible\[5] Organic\[3] Strong\[2]           |
-| Master Hammer and Chisel (90)   | 45% speed boost to crafting                                                       | Simple\[3] Sharp\[2] Metallic\[2] Swift\[3]   |
-| Quick Trap (90)                 | 25% speed boost to box-trap hunting                                               | Precious\[1] Magic\[6] Organic\[3]            |
-| Silverhawk Boots (90)           | 1.9x speed boost to agility, up to 36k agility xp/hr _fully_ passive              | <p>Swift[5] Protective[1] Dextrous[4]<br></p> |
-| Mecha Mortar (95)               | 45% speed boost to herblore                                                       | Organic\[8] Metallic\[2]                      |
-| Portable Tanner (95)            | Tans hides you get from PvM                                                       | Metallic\[2] Plated\[3] Organic\[5]           |
-| Drygore Saw (105)               | 40% speed boost to construction                                                   | Drygore \[7] Sharp \[3]                       |
-| Arcane Harvester (110)          | Increases farming yield by 20%                                                    | Organic\[5] Magic\[5]                         |
-| Clue Upgrader (110)             | Chance to upgrade Beginner-Elite clues to next tier when received as loot in PvM. | Treasured\[8] Metallic\[2]                    |
-| Abyssal Amulet (120)            | Boosts runecrafting by varying amounts depending on the rune                      | Magic\[4] Metallic \[2] Treasured \[2]        |
+| Invention (level)                                 | Effect                                                                                                                                | Materials \[Weight]                           |
+| ------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------- |
+| Superior Bonecrusher (70)                         | 25% bonus xp over Gorajan Bonecrusher                                                                                                 | Pious\[5] Sharp\[1] Magic\[4]                 |
+| Dwarven Toolkit (80)                              | 35% speed boost to disassembly                                                                                                        | Dwarven\[8] Metallic\[2]                      |
+| Superior Inferno Adze (80)                        | Automatically burns logs chopped and smelts ores mined. Costs nothing to use.                                                         | Sharp\[3] Base\[3] Metallic\[1] Magic\[3]     |
+| Superior Dwarf Multicannon (80)                   | 37%-65% speed boost to pvm when cannoning                                                                                             | Strong\[4] Heavy\[2] Metallic\[4]             |
+| Mecha Rod (85)                                    | 45% speed boost to fishing                                                                                                            | Flexible\[5] Organic\[3] Strong\[2]           |
+| Master Hammer and Chisel (90)                     | 45% speed boost to crafting                                                                                                           | Simple\[3] Sharp\[2] Metallic\[2] Swift\[3]   |
+| Quick Trap (90)                                   | 25% speed boost to box-trap hunting                                                                                                   | Precious\[1] Magic\[6] Organic\[3]            |
+| Silverhawk Boots (90)                             | 1.9x speed boost to agility, up to 36k agility xp/hr _fully_ passive                                                                  | <p>Swift[5] Protective[1] Dextrous[4]<br></p> |
+| Mecha Mortar (95)                                 | 45% speed boost to herblore                                                                                                           | Organic\[8] Metallic\[2]                      |
+| Portable Tanner (95)                              | Tans hides you get from PvM                                                                                                           | Metallic\[2] Plated\[3] Organic\[5]           |
+| Drygore Saw (105)                                 | 40% speed boost to construction                                                                                                       | Drygore \[7] Sharp \[3]                       |
+| Arcane Harvester (110)                            | Increases farming yield by 20%                                                                                                        | Organic\[5] Magic\[5]                         |
+| Clue Upgrader (110)                               | Chance to upgrade Beginner-Elite clues to next tier when received as loot in PvM.                                                     | Treasured\[8] Metallic\[2]                    |
+| Abyssal Amulet (120)                              | Boosts runecrafting by varying amounts depending on the rune                                                                          | Magic\[4] Metallic\[2] Treasured\[2]          |
+| [RoboFlappy](../custom-items/pets.md#perks) (120) | Provides extra loot from minigames, like the discontinued [Flappy](../custom-items/pets.md#discontinued-pets) but with material costs | Magic\[4] Organic\[2] Metallic\[4]            |
 
 ## Tips
 

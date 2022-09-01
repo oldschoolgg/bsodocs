@@ -6,8 +6,6 @@ Moktang is a mining-skilling boss, made of rocks and lava. The boss is _created_
 
 Moktang offers the claws frame, which allows you to upgrade the speed your tame can kill things. It also drops items to create volcanic pickaxes, the fastest and best pickaxes.
 
-
-
 ## Get Started
 
 * `/create`` `**`item:`**`Moktang totem`
@@ -31,14 +29,14 @@ Moktang offers the claws frame, which allows you to upgrade the speed your tame 
 ## Rewards
 
 * General loot: stone spirits (100% droprate), clues, boxes, bars, alchables.
-* &#x20;**** ![](../.gitbook/assets/52660.png)**Mini moktang:** The pet for moktang.
-* ****![](../.gitbook/assets/52672.png) **Volcanic dye:** Used to dye a dwwh or dwarven armour.
-* ****![](../.gitbook/assets/52671.png) **Volcanic shards:** Used to make Volcanic igne claws, Volcanic pickaxe, Offhand volcanic pickaxe.
-* ****![](../.gitbook/assets/52661.png) **Claws frame:** Used to make Runite igne claws, and to be upgraded higher, to boost the speed of your Igne tames.
+* \*\*\*\* ![](../.gitbook/assets/52660.png)**Mini moktang:** The pet for moktang.
+* \*\*\*\*![](../.gitbook/assets/52672.png) **Volcanic dye:** Used to dye a dwwh or dwarven armour.
+* \*\*\*\*![](../.gitbook/assets/52671.png) **Volcanic shards:** Used to make Volcanic igne claws, Volcanic pickaxe, Offhand volcanic pickaxe.
+* \*\*\*\*![](../.gitbook/assets/52661.png) **Igne gear frame:** Used to make Runite igne claws and Dragon igne armour. These can be upgraded to higher tiers, which boost your igne tame in different ways.
 
 | **Unique Drop Table** | **Drop Rate** |
 | --------------------- | ------------- |
 | Mini moktang          | 1/1536        |
 | Volcanic dye          | 1/750         |
 | Volcanic shards       | 1/128         |
-| Claws frame           | 1/1024        |
+| **Igne gear frame**   | 1/1024        |

@@ -33,24 +33,24 @@ You can use the command : `/k name:King Goldemar (Mass)` to begin a mass, or `/k
 ## Loot
 
 * **Broken dwarven warhammer:** 40% speed boost to all =k PvM activities, must be repaired with 3 dwarven bars
-* **Dwarven armour pieces:** full helm, platebody, platelegs, gloves, boots, best in slot at [Ignecarus](ignecarus/)
+* **Dwarven armour pieces:** full helm, platebody, platelegs, gloves, boots, best in slot at [Ignecarus](ignecarus.md)
 * **Dwarven crate:** When opened, has a chance to drop dwarven ore
 * **Dwarven ore:** Can be smelted into dwarven bars
 * **Athelas seed:** Plant these at 99 farming to recieve athelas
 * **Blacksmith crate:** Drops pieces of the [Blacksmith outfit](https://bso-wiki.oldschool.gg/custom-items/equippables#blacksmith-equipment)
 
-| **Unique Drop Table**     | **Drop Rate**   |
-| ------------------------- | --------------- |
-| Broken dwarven warhammer  | 1/450 (approx.) |
+| **Unique Drop Table**      | **Drop Rate**   |
+| -------------------------- | --------------- |
+| Broken dwarven warhammer   | 1/450 (approx.) |
 | Dwarven armour piece (any) | 1/150           |
-| Dwarven crate             | 1/100           |
-| Dwarven ore               | 1/6.5 (approx.) |
-| Blacksmith crate          | 1/60            |
-| Clue scroll (grandmaster) | 1/4             |
+| Dwarven crate              | 1/100           |
+| Dwarven ore                | 1/6.5 (approx.) |
+| Blacksmith crate           | 1/60            |
+| Clue scroll (grandmaster)  | 1/4             |
 
 ## Extra Information
 
-The most coveted drop from King Goldemar is the Broken Dwarven Warhammer, which when repaired becomes the Dwarven Warhammer (DWWH). When equipped in any gear setup, it provides a 40% speed boost to all  =k PVM activities. This does not include Nex, Vasa Magus, Ignecarus.&#x20;
+The most coveted drop from King Goldemar is the Broken Dwarven Warhammer, which when repaired becomes the Dwarven Warhammer (DWWH). When equipped in any gear setup, it provides a 40% speed boost to all =k PVM activities. This does not include Nex, Vasa Magus, Ignecarus.
 
 Players can equip a Ring of Luck, obtained via Grandmaster Clue Scrolls, to increase the drop rate of receiving the Broken Dwarven warhammer drop. **Note: If Participating in a mass, only 1 member of the party needs to have a Ring of Luck equipped to receive the increased drop rate.**
 

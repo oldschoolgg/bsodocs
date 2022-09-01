@@ -7,21 +7,23 @@ Every tame has a combat level (Dragon) or a gatherer score (Monkey).
 Items that your tames get will not be added to your collection log.
 
 **Currently the only tames that are in game are:**\
-The Dragon tame which does combat, see [Igne Tame](../bosses/ignecarus/igne-tame.md).\
-The Monkey tame which does collect trips, see [Monkey Tame](../minigames/mad-marimbos-monkey-rumble/monkey-tame.md).
+The Dragon tame which does combat, see [Igne Tame](tames/igne-tame.md).\
+The Monkey tame which does collect trips, see [Monkey Tame](tames/monkey-tame.md).
 
-| Commands                                           | Description                    |
-| -------------------------------------------------- | ------------------------------ |
-| `/tames status`                                    | Shows current tame's status    |
-| `/tames list`                                      | Shows a list of all tames      |
-| `/tames view [name/id]`                            | Shows info about a tame        |
-| `/tames select [name/id]`                          | Selects a tame                 |
-| `/tames set_name [name`]                           | Sets the tame's name           |
-| `/tames feed [items]`                              | Feeds your tame items          |
-| `/tames kill [monster]`                            | Send tame on PvM trip          |
-| `/tames collect [item]`                            | Send tame on collection trip   |
-| `/tames cancel`                                    | Cancels your tame's trip       |
-| `/cl name:[boss] type:Tame (Tames Collection Log)` | View your tames collection log |
+| Commands                                           | Description                       |
+| -------------------------------------------------- | --------------------------------- |
+| `/tames status`                                    | Shows current tame's status       |
+| `/tames list`                                      | Shows a list of all tames         |
+| `/tames view [name/id]`                            | Shows info about a tame           |
+| `/tames select [name/id]`                          | Selects a tame                    |
+| `/tames set_name [name`]                           | Sets the tame's name              |
+| `/tames feed [items]`                              | Feeds your tame items             |
+| `/tames kill [monster]`                            | Send tame on PvM trip             |
+| `/tames collect [item]`                            | Send tame on collection trip      |
+| `/tames cancel`                                    | Cancels your tame's trip          |
+| `/tames equip [item]`                              | Equip a igne claw or armor item   |
+| `/tames unequip [item]`                            | Unequip a igne claw or armor item |
+| `/cl name:[boss] type:Tame (Tames Collection Log)` | View your tames collection log    |
 
 ## Hatching the Tame
 
