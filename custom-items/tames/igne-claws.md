@@ -40,7 +40,7 @@ Each set of claws and armor require a certain _**smithing, crafting, and inventi
 |   Dragon Igne Armor  |       5%       |        85%       | Igne gear frame, 10x leather, 1500x metallic, 200x strong, 1000x protective, 80x orikalkum                              |
 |  Barrows Igne Armor  |       8%       |        75%       | Dragon Igne Armor, 10x leather, 1500x metallic, 200x strong, 200x protective, 100x barrows                              |
 |  Volcanic Igne Armor |       10%      |        65%       | Barrows Igne Armor, 10x leather, 250x Obsidian Shards, 2x Volcanic Shards, 1500x metallic, 200x strong, 200x protective |
-| Justiciar Igne Armor |       15%      |        50%       | Volcanic Igne Armor, 10x leather, 1500x metallic, 200x strong, 200x protective, 6x justiciar                            |
+| Justiciar Igne Armor |       15%      |        50%       | Volcanic Igne Armor, 10x leather, 1500x metallic, 200x strong, 200x protective, 5x justiciar                            |
 |  Drygore Igne Armor  |       22%      |        30%       | Justiciar Igne Armor, 10x leather, 2500x drygore, 1500x metallic, 200x strong, 200x protective                          |
 |  Dwarven Igne Armor  |       27%      |        10%       | Drygore Igne Armor, 10x leather, 3000x dwarven, 1500x metallic, 200x strong, 200x protective                            |
 |  Gorajan Igne Armor  |       33%      |        5%        | Dwarven Igne Armor, 10x leather, 2x Gorajan shards, 2000x metallic, 200x strong, 200x protective                        |

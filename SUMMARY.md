@@ -69,7 +69,7 @@
 * [Patronage](custom-items/patronage.md)
 * [Tames](custom-items/tames.md)
   * [Igne Tame](custom-items/tames/igne-tame.md)
-  * [Igne Equipment](custom-items/tames/igne-equipment.md)
+  * [Igne Equipment](custom-items/tames/igne-claws.md)
   * [Monkey Tame](custom-items/tames/monkey-tame.md)
 
 ## Events

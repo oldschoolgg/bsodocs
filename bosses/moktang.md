@@ -39,4 +39,4 @@ Moktang offers the claws frame, which allows you to upgrade the speed your tame 
 | Mini moktang          | 1/1536        |
 | Volcanic dye          | 1/750         |
 | Volcanic shards       | 1/128         |
-| **Igne gear frame**   | 1/1024        |
+| Igne gear frame       | 1/716         |
