@@ -33,7 +33,7 @@ To fight the boss, use `/k` name: `naxxus`
 
 ## Loot
 
-All Naxxus loot is untraedable. Due to this there is a mechanic so that you will not get duplicate items until you have acquired all items.
+The unique drops from Naxxus are untradeable (all four items listed below), but there is a mechanic that ensures you cannot receive a duplicate unique item when you roll one until you have one of each, effectively lowering the drop rate.
 
 * **Dark Crystal** (1/750): Used to `/create` the Void Staff (u), a chargeable BiS magic weapon that provides boosts to Cox, Vasa, Sea Kraken, and Naxxus
 * **Tattered Tome** (1/750): Used to `/create` the Abyssal Tome, a BiS magic tome that boosts Naxxus
