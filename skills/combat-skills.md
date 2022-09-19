@@ -29,16 +29,4 @@ Full Gorajan and a combat master cape for the respective skill you are training
 
 The best xp rates for these skills are obtained through killing Vet'ion with the maximum possible boosts; those being the following:
 
-<div>
-
-<figure><img src="../.gitbook/assets/Screenshot 2022-09-19 at 19.24.23.png" alt=""><figcaption><p>Ranged</p></figcaption></figure>
-
- 
-
-<figure><img src="../.gitbook/assets/Screenshot 2022-09-19 at 19.24.06.png" alt=""><figcaption><p>Magic</p></figcaption></figure>
-
- 
-
-<figure><img src="../.gitbook/assets/Screenshot 2022-09-19 at 19.23.47.png" alt=""><figcaption><p>Attack</p></figcaption></figure>
-
-</div>
+<figure><img src="../.gitbook/assets/Screenshot 2022-09-19 at 19.36.23.png" alt=""><figcaption></figcaption></figure>
