@@ -46,7 +46,7 @@ _Note: To smith tools, you need 99 Smithing and Blacksmith Equipment_
 
 _Note_: _To smith equipment, you need 120 Smithing and Blacksmith Equipment_
 
-Currently only used at Ignecarus.
+Currently only used at [Ignecarus](../bosses/ignecarus.md) and [Moktang](../bosses/moktang.md).
 
 ![](../.gitbook/assets/dwarven.png)
 
