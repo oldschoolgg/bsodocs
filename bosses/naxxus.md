@@ -33,11 +33,11 @@ To fight the boss, use `/k` name: `naxxus`
 
 ## Loot
 
-The unique drops from Naxxus are untradeable (all four items listed below), but there is a mechanic that ensures you cannot receive a duplicate unique item when you roll one until you have one of each, effectively lowering the drop rate.
+The unique drops from Naxxus are untradeable (all four items listed below). There is a special mechanic with Naxxus where you won't get a duplicate unique until you have all of them at least once. The chance to roll the unique table is 1/150, the Abyssal Gem and Spellbound ring are more likely to drop first.
 
-* **Dark Crystal** (1/750): Used to `/create` the Void Staff (u), a chargeable BiS magic weapon that provides boosts to Cox, Vasa, Sea Kraken, and Naxxus
-* **Tattered Tome** (1/750): Used to `/create` the Abyssal Tome, a BiS magic tome that boosts Naxxus
-* **Spellbound Ring** (1/500): BiS magic ring that boosts Naxxus, it can be imbued with a Magus Scroll to further increase the stats
-* **Abyssal Gem** (1/500): Used to invent the [Abyssal Amulet](../skills/invention.md#inventions)
+* **Dark Crystal:** Used to `/create` the Void Staff (u), a chargeable BiS magic weapon that provides boosts to Cox, Vasa, Sea Kraken, and Naxxus
+* **Tattered Tome:** Used to `/create` the Abyssal Tome, a BiS magic tome that boosts Naxxus
+* **Spellbound Ring:** BiS magic ring that boosts Naxxus, it can be imbued with a Magus Scroll to further increase the stats
+* **Abyssal Gem:** Used to invent the [Abyssal Amulet](../skills/invention.md#inventions)
 
 ![](../.gitbook/assets/image\_2022-08-21\_014210261.png)
