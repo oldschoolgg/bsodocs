@@ -27,7 +27,12 @@ There are pets exclusive to BSO that provide unique and powerful perks and are r
 
 †These pets increase in rarity based on how many you have. For every pet you have, the rate is reduced. Skipper has a base rate of 1/1600 with 0 found, with 1 in your CL the rate is reduced by 30% to 1/2080. Skipper is increased by 30%, Klik, Remy and Wintertoad are increased by 20% for each in the log.
 
-Note: Voidling alchs at a lower rate if it is not equipped and you do not have a Magic master cape.
+Note: Voidling alchs at different speeds depending on conditions:
+
+Equipped Voidling & equipped magic master cape: 3x regular speed.\
+Equipped Voidling or equipped magic master cape: 1x regular speed.\
+No Voidling equip and no magic master cape equipped: 1/6 - 1/7 regular speed.\
+
 
 ## Resource Gathering & Loot Affecting pets
 
@@ -56,7 +61,7 @@ These pets are discontinued and were rewards from certain events. You can now on
 | -------- | ----------------------------------------------------------------------------------------------- | --------------------------------------------------- |
 | Cob      | <p>2x Sepulchre speed</p><p>2x Nightmare speed</p>                                              | 2020 Halloween Event                                |
 | Smokey   | <p>10% chance of an extra roll when opening boxes*</p><p>1/15 chance of bringing back a box</p> | 2020 Christmas Event                                |
-| Flappy   | Doubles minigame loot (Soul Wars, CoX, Fight Caves, Wintertodt, Rogues Den, Barbarian Assault)  | 2021 Birthday Event                                 |
+| Flappy±  | Doubles minigame loot (Soul Wars, CoX, Fight Caves, Wintertodt, Rogues Den, Barbarian Assault)  | 2021 Birthday Event                                 |
 | Gregoyle | 20% boost to gargoyles and Grotesque Guardians                                                  | [2021 Halloween Event](../events/halloween-2021.md) |
 {% endtab %}
 
@@ -75,8 +80,9 @@ These pets are discontinued and were rewards from certain events. You can now on
 {% endtabs %}
 
 Notes:\
-\*Smokey does not have to be equipped for this perk\
-\*\*Corgi and Snappy are no longer obtainable, even by ironmen.
+\*Smokey does not have to be equipped for this perk.\
+\*\*Corgi and Snappy are no longer obtainable, even by ironmen.\
+±Invention provides this perk in the form of [RoboFlappy](../skills/invention.md#inventions).
 
 ## Growable pets
 

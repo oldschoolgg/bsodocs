@@ -5,9 +5,9 @@
 * Dark Animica - Mined at 105 mining, used to create the Void Staff
 * Obsidian - Mined at 80 mining, used to create volcanic items.
 * [Doug](https://bso-wiki.oldschool.gg/custom-items/pets) - gives 1.2x xp boost at Volcanic Mine
-* [Dwarven Pickaxe](https://bso-wiki.oldschool.gg/custom-items/equippables#dwarven-equipment) - 2x Speed boost to mining, 3x boost to Volcanic Mine, requires 99 mining
-* Volcanic pickaxe - 2.5x Speed boost to Mining
-* Offhand volcanic pickaxe - 2.5x Speed boost to Mining, destroys ores while equipped, requires 100 Strength and 105 Mining
+* [Dwarven Pickaxe](https://bso-wiki.oldschool.gg/custom-items/equippables#dwarven-equipment) - 1.5 tick speed mining, 3x boost to Volcanic Mine, requires 99 mining
+* Volcanic pickaxe - 1.24 tick speed mining
+* Offhand volcanic pickaxe - +150% quantity when mining, destroys all ores except obsidian while equipped, requires 100 Strength and 105 Mining
 * [Mining Master Cape](../custom-items/equippables.md#master-capes) - 2x nuggets and minerals
 
 ### Optimal Gear Setup
