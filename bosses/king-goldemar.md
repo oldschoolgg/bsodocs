@@ -32,7 +32,7 @@ You can use the command : `/k name:King Goldemar (Mass)` to begin a mass, or `/k
 
 ## Loot
 
-* **Broken dwarven warhammer:** 40% speed boost to all =k PvM activities, must be repaired with 3 dwarven bars
+* **Broken dwarven warhammer:** 40% speed boost to all /k PvM activities, must be repaired with 3 dwarven bars
 * **Dwarven armour pieces:** full helm, platebody, platelegs, gloves, boots, best in slot at [Ignecarus](ignecarus.md)
 * **Dwarven crate:** When opened, has a chance to drop dwarven ore
 * **Dwarven ore:** Can be smelted into dwarven bars
