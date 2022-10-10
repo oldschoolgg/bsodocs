@@ -14,7 +14,7 @@
 * [Cooking](skills/cooking.md)
 * [Crafting](skills/crafting.md)
 * [Dungeoneering](skills/dungeoneering-training/README.md)
-  * [Rewards](skills/dungeoneering-training/dg-rewards.md)
+  * [Dungeoneering Rewards](skills/dungeoneering-training/dg-rewards.md)
 * [Farming](skills/farming.md)
 * [Firemaking](skills/firemaking.md)
 * [Fishing](skills/fishing.md)
