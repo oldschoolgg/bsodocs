@@ -8,17 +8,18 @@
 * [Dwarven Knife](https://bso-wiki.oldschool.gg/custom-items/equippables#dwarven-equipment) - 2x fletching Speed (stacks with Scruffy)
 * Elder Longbow (u) - Fletched from Elder logs at 105 Fletching
 * Elder Longbow - Fletched with Elder Longbow (u) and bowstring at 105 Fletching
+* Fletcher's Skilling Outfit - 3% bonus xp to `/fletch`
 
 ### Optimal Gear Setup
 
-Scruffy, Dwarven knife, Fletching master cape
+Scruffy, Dwarven knife, Fletching master cape, Fletcher's outfit
 
 ### Methods
 
 | Method           | Xp / Hr     |   |
 | ---------------- | ----------- | - |
-| Hellfire Arrow   | 534,807,692 |   |
-| Elder Bow (u)    | 10,622,063  |   |
-| Elder Bow        | 15,017,400  |   |
-| Elder Bow (Both) | 12,422,989  |   |
+| Hellfire Arrow   | 550,851,923 |   |
+| Elder Bow (u)    | 10,940,725  |   |
+| Elder Bow        | 15,467,922  |   |
+| Elder Bow (Both) | 12,816,278  |   |
 

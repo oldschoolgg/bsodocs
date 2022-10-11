@@ -2,7 +2,7 @@
 
 ### Overview
 
-You can start this minigame through `/minigames baxtorian_bathhouses start`
+You can start this minigame through `/bsominigames baxtorian_bathhouses start`
 
 In this minigame, you play the role of a Boiler and Herbalist. Your job is to heat the water, and infuse it with herbs to give the water special properties.
 

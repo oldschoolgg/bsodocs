@@ -55,6 +55,8 @@
 * [Mad Marimbo's Monkey Rumble](minigames/mad-marimbos-monkey-rumble/README.md)
   * [Monkey Rumble Store](minigames/mad-marimbos-monkey-rumble/monkey-rumble-store.md)
 * [Ourania Delivery Service (ODS)](minigames/ourania-delivery-service-ods.md)
+* [Fist of Guthix](minigames/fist-of-guthix.md)
+* [Stealing Creation](minigames/stealing-creation.md)
 
 ## Custom Content <a href="#custom-items" id="custom-items"></a>
 
