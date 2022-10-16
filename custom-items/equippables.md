@@ -160,12 +160,12 @@ Additionally, master capes have a perk that is related to the skill that they co
 
 There are 4 expert capes that you can buy once you have bought all required master capes. The expert cape combines all perks of the capes required to purchase it. You can purchase an expert cape with `/buy name:[Expert cape name]` and all the required capes are consumed.
 
-| Expert Cape | Required Master Capes                                                                                  |
-| ----------- | ------------------------------------------------------------------------------------------------------ |
-| Combatant's | <p>Attack/Strength/Defence/Hitpoints/</p><p>Prayer/Ranged/Magic</p>                                    |
-| Gatherer's  | <p>Farming/Fishing/Hunter/Mining/</p><p>Woodcutting</p>                                                |
-| Support     | Agility/Dungeoneering/Thieving/Slayer                                                                  |
-| Artisan's   | <p>Crafting/Construction/Cooking/</p><p>Firemaking/Fletching/Herblore/</p><p>Runecrafting/Smithing</p> |
+| Expert Cape | Required Master Capes                                                               |
+| ----------- | ----------------------------------------------------------------------------------- |
+| Combatant's | <p>Attack/Strength/Defence/Hitpoints/</p><p>Prayer/Ranged/Magic</p>                 |
+| Gatherer's  | Farming/Fishing/Hunter/Mining/Woodcutting                                           |
+| Support     | Agility/Dungeoneering/Thieving/Slayer                                               |
+| Artisan's   | Crafting/Construction/Cooking/ Firemaking/Fletching/Herblore/ Runecrafting/Smithing |
 
 ## Polypore Equipment
 
