@@ -9,7 +9,7 @@
 * Sepulchre Floor 6 and 7 - Unlocked at levels 105 and 115 respectively.&#x20;
 * [Monkey Rumble](../minigames/mad-marimbos-monkey-rumble/#rewards) - While doing this minigame you can receive agility experience at about 1/4th of the strength xp you receive
 * [Agility Master Cape](../custom-items/equippables.md#master-capes) - Acts as a full set of graceful
-* [Silverhawk Boots](invention.md#inventions) - 36k/hr passive xp and 1.9x speed boost to `/laps`
+* [Silverhawk Boots](invention/#inventions) - 36k/hr passive xp and 1.9x speed boost to `/laps`
 
 ### Optimal Gear Setup
 
@@ -17,7 +17,4 @@ Cob, Agility master cape, silverhawk boots
 
 ### Methods
 
-| Method                     | Xp / Hr   |   |
-| -------------------------- | --------- | - |
-| Daemonheim Agility Course  | 2,547,880 |   |
-| Hallowed Sepulchre Floor 7 | 2,808,794 |   |
+<table><thead><tr><th>Method</th><th>Xp / Hr</th><th data-hidden></th></tr></thead><tbody><tr><td>Daemonheim Agility Course</td><td>2,547,880</td><td></td></tr><tr><td>Hallowed Sepulchre Floor 7</td><td>2,808,794</td><td></td></tr></tbody></table>

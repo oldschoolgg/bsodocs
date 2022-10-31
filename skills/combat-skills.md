@@ -19,7 +19,7 @@ description: >-
 * Rocktails - 7% boost to /k when food is consumed
 * [Hellfire Bow](fletching.md#custom-content-and-boosts) - 3x boost to /k in wilderness
 * [Void Staff](../bosses/naxxus.md#loot) - 8% boost when training magic, uses 5 elder runes per charge.
-* [Superior Dwarf Multicannon](invention.md#inventions) - 37%-65% boost when using a cannon
+* [Superior Dwarf Multicannon](invention/#inventions) - 37%-65% boost when using a cannon
 
 ### Optimal Gear Setup
 

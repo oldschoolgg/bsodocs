@@ -8,8 +8,8 @@
 * Royal dragon  leather - Made by tanning Royal dragonhide
 * [Scroll of dexterity](dungeoneering-training/dg-rewards.md#buyable-boosts-utility) - 15% extra output in crafting
 * Heat Res. Vial - Made with molten glass and athelas paste
-* [Master Hammer and Chisel](invention.md#inventions) - 45% Speed boost to Crafting
-* [Portable Tanner](invention.md#inventions) - Automatically tans hides obtained from `/k`
+* [Master Hammer and Chisel](invention/#inventions) - 45% Speed boost to Crafting
+* [Portable Tanner](invention/#inventions) - Automatically tans hides obtained from `/k`
 
 ### Optimal Gear Setup
 
@@ -17,7 +17,4 @@ Klik when tanning, Dwarven Greathammer when crafting, Crafting master cape
 
 ### Methods
 
-| Method                | Xp / Hr    |   |
-| --------------------- | ---------- | - |
-| Heat Res. Vial        | 2,630,953  |   |
-| Royal dragonhide body | 16,180,364 |   |
+<table><thead><tr><th>Method</th><th>Xp / Hr</th><th data-hidden></th></tr></thead><tbody><tr><td>Heat Res. Vial</td><td>2,630,953</td><td></td></tr><tr><td>Royal dragonhide body</td><td>16,180,364</td><td></td></tr></tbody></table>

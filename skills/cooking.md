@@ -6,7 +6,7 @@
 * [Dwarven Gauntlets](../custom-items/equippables.md#dwarven-tools) - 3x Cooking Speed (does not work with `/kibble; does not work with wines`; does not stack with Remy)
 * Rocktail - Cooked from Raw Rocktail at lvl 120 cooking
 * Kibble - Used as bait when training Hunter
-* [Cooking Master Cape](../custom-items/equippables.md#master-capes) - 5x cooking speed (does not stack with other boosts; does not work with `/kibble; does not work with wines`)
+* [Cooking Master Cape](../custom-items/equippables.md#master-capes) - 5x cooking speed (does not stack with other boosts; does not work with `/kibble`; does not work with wines)
 
 ### Kibble
 

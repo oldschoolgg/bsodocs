@@ -12,6 +12,4 @@ Full lumberjack outfit in skilling, Dwarven greataxe, Woodcutting master cape
 
 ### Methods
 
-| Method     | Xp / Hr   |   |
-| ---------- | --------- | - |
-| Elder Logs | 2,130,514 |   |
+<table><thead><tr><th>Method</th><th>Xp / Hr</th><th data-hidden></th></tr></thead><tbody><tr><td>Elder Logs</td><td>2,130,514</td><td></td></tr></tbody></table>

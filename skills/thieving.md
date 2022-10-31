@@ -12,6 +12,4 @@
 
 ### Methods
 
-| Method          | Xp / Hr   |   |
-| --------------- | --------- | - |
-| Pickpocket Vyre | 9,483,210 |   |
+<table><thead><tr><th>Method</th><th>Xp / Hr</th><th data-hidden></th></tr></thead><tbody><tr><td>Pickpocket Vyre</td><td>9,483,210</td><td></td></tr></tbody></table>

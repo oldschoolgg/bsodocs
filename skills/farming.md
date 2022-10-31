@@ -18,7 +18,7 @@
 * [Farming Master Cape](../custom-items/equippables.md#master-capes) - Save 15% seeds. (50% if you have the cape and scroll of life); 1/10 chance per seed of a mystery box.
 * 1500/3000 QP - Unlocks additional patches for custom crops
 * [Plopper](../custom-items/pets.md#miscellaneous-pets) - 4x harvest and crops can't die
-* [Arcane Harvester](invention.md#inventions) - 20% increased yield - does not work on Mysterious Trees
+* [Arcane Harvester](invention/#inventions) - 20% increased yield - does not work on Mysterious Trees
 
 ### Optimal Gear Setup
 

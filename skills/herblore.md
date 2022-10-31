@@ -16,7 +16,7 @@
 * Neem Oil - made with Neem Drupe and Jug of Water.
 * Dragon's Fury - (a potion made at 120 herblore using 3 Ignecarus Scales and 1 Abyssal Dragon Bones)
 * [Herblore Master Cape](../custom-items/equippables.md#master-capes) - 10% chance per potion made to get an extra potion
-* [Mecha Mortar](invention.md#inventions) - 45% Speed boost to Herblore
+* [Mecha Mortar](invention/#inventions) - 45% Speed boost to Herblore
 
 ### Optimal Gear Setup
 
@@ -24,8 +24,4 @@ Herblore master cape
 
 ### Methods
 
-| Method            | Xp / Hr   |   |
-| ----------------- | --------- | - |
-| Heat Res. Potions | 5,168,727 |   |
-| Enhanced Potions  | 3,595,636 |   |
-| Simple Kibble     | 5,562,000 |   |
+<table><thead><tr><th>Method</th><th>Xp / Hr</th><th data-hidden></th></tr></thead><tbody><tr><td>Heat Res. Potions</td><td>5,168,727</td><td></td></tr><tr><td>Enhanced Potions</td><td>3,595,636</td><td></td></tr><tr><td>Simple Kibble</td><td>5,562,000</td><td></td></tr></tbody></table>

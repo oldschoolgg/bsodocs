@@ -9,7 +9,7 @@
 * Chimpchompas - Requires 99 hunter, any MR greegree, and 1 banana per catch as bait
 * [Sandy](../custom-items/pets.md#miscellaneous-pets) - 3x hunter loot (2x sand gecko loot w/ Hunter Master Cape)
 * [Hunter Master Cape](../custom-items/equippables.md#master-capes) - 2x Speed boost to Hunter, +4 birdhouses, 2x loot from Sand Geckos with Sandy equipped, 2x implings
-* [Quick Trap](invention.md#inventions) - 25% Speed boost to Hunter
+* [Quick Trap](invention/#inventions) - 25% Speed boost to Hunter
 
 ### Optimal Gear Setup
 
@@ -21,8 +21,4 @@ Wildy setup - Royal d'hide body and chaps (cost effective)
 
 Xp rates without Hunter Master Cape
 
-| Method           | Xp / Hr   |   |
-| ---------------- | --------- | - |
-| Elder Birdhouse  | 3,255,309 |   |
-| Sand Gecko       | 562,955   |   |
-| Black Chinchompa | 1,545,000 |   |
+<table><thead><tr><th>Method</th><th>Xp / Hr</th><th data-hidden></th></tr></thead><tbody><tr><td>Elder Birdhouse</td><td>3,255,309</td><td></td></tr><tr><td>Sand Gecko</td><td>562,955</td><td></td></tr><tr><td>Black Chinchompa</td><td>1,545,000</td><td></td></tr></tbody></table>

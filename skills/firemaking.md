@@ -14,7 +14,5 @@ Pyromancer outfit, Firemaking master cape, Dwarven greataxe, Ring of Fire, Flame
 
 ### Methods
 
-| Method     | Xp / Hr (Average) |   |
-| ---------- | ----------------- | - |
-| Wintertodt | 15,324,130        |   |
+<table><thead><tr><th>Method</th><th>Xp / Hr (Average)</th><th data-hidden></th></tr></thead><tbody><tr><td>Wintertodt</td><td>15,324,130</td><td></td></tr></tbody></table>
 

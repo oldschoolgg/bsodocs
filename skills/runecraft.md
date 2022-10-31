@@ -15,7 +15,7 @@ description: Runecraft meta
 * [Master runecrafter outfit](../minigames/ourania-delivery-service-ods.md#ods-shop) - 10% xp boost to Runecraft
 * Lvl 120 Runecraft - 2x Elder runes
 * [Runecraft master cape](../custom-items/equippables.md#master-capes) - 2x speed boost to Runecraft
-* [Abyssal Amulet](invention.md#inventions) - Invention that boosts runecraft xp by varying amounts depending on the 'tier' of the rune. See the table below
+* [Abyssal Amulet](invention/#inventions) - Invention that boosts runecraft xp by varying amounts depending on the 'tier' of the rune. See the table below
 
 | Rune(s)                                                           | Boost |
 | ----------------------------------------------------------------- | ----- |
@@ -32,9 +32,5 @@ Equipped anywhere: Full Graceful, Runecraft master cape, Obis, Master runecrafte
 
 ### Methods
 
-| Method      | Xp / Hr   |   |
-| ----------- | --------- | - |
-| ODS         | \~211k    |   |
-| Lava Runes  | 4,997,932 |   |
-| Elder Runes | 5,788,081 |   |
+<table><thead><tr><th>Method</th><th>Xp / Hr</th><th data-hidden></th></tr></thead><tbody><tr><td>ODS</td><td>~211k</td><td></td></tr><tr><td>Lava Runes</td><td>4,997,932</td><td></td></tr><tr><td>Elder Runes</td><td>5,788,081</td><td></td></tr></tbody></table>
 

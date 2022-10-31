@@ -14,22 +14,7 @@ In this minigame, you play the role of a Boiler and Herbalist. Your job is to he
 
 There are multiple species that are served in this minigame, each with their own preferences.
 
-| Species           | Preference   |   |
-| ----------------- | ------------ | - |
-| Fairy             | Magical      |   |
-| Monkey            | Vitalizing   |   |
-| Goblin            | Caustic      |   |
-| Imp               | Unholy       |   |
-| Giant             | Invigorating |   |
-| Fiend             | Soothing     |   |
-| Troll             | Soothing     |   |
-| Ogre              | Healing      |   |
-| Gargoyle          | Caustic      |   |
-| TzHaar            | Healing      |   |
-| Wyvern            | Vitalizing   |   |
-| Abyssal Creatures | Magical      |   |
-| Dragons           | Invigorating |   |
-| Demons            | Unholy       |   |
+<table><thead><tr><th>Species</th><th>Preference</th><th data-hidden></th></tr></thead><tbody><tr><td>Fairy</td><td>Magical</td><td></td></tr><tr><td>Monkey</td><td>Vitalizing</td><td></td></tr><tr><td>Goblin</td><td>Caustic</td><td></td></tr><tr><td>Imp</td><td>Unholy</td><td></td></tr><tr><td>Giant</td><td>Invigorating</td><td></td></tr><tr><td>Fiend</td><td>Soothing</td><td></td></tr><tr><td>Troll</td><td>Soothing</td><td></td></tr><tr><td>Ogre</td><td>Healing</td><td></td></tr><tr><td>Gargoyle</td><td>Caustic</td><td></td></tr><tr><td>TzHaar</td><td>Healing</td><td></td></tr><tr><td>Wyvern</td><td>Vitalizing</td><td></td></tr><tr><td>Abyssal Creatures</td><td>Magical</td><td></td></tr><tr><td>Dragons</td><td>Invigorating</td><td></td></tr><tr><td>Demons</td><td>Unholy</td><td></td></tr></tbody></table>
 
 ### Requirements
 

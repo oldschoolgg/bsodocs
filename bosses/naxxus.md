@@ -38,6 +38,6 @@ The unique drops from Naxxus are untradeable (all four items listed below). Ther
 * **Dark Crystal:** Used to `/create` the Void Staff (u), a chargeable BiS magic weapon that provides boosts to Cox, Vasa, Sea Kraken, and Naxxus
 * **Tattered Tome:** Used to `/create` the Abyssal Tome, a BiS magic tome that boosts Naxxus
 * **Spellbound Ring:** BiS magic ring that boosts Naxxus, it can be imbued with a Magus Scroll to further increase the stats
-* **Abyssal Gem:** Used to invent the [Abyssal Amulet](../skills/invention.md#inventions)
+* **Abyssal Gem:** Used to invent the [Abyssal Amulet](../skills/invention/#inventions)
 
 ![](../.gitbook/assets/image\_2022-08-21\_014210261.png)

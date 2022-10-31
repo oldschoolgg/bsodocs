@@ -7,7 +7,7 @@
 * Royal Dragon Bones - Bis bones obtained from [QBD](../bosses/demi-bosses/queen-black-dragon.md)
 * Gorajan Bonecrusher - Passively crushes bones obtained from `/k` trips. Create by combining the [Gorajan Bonecrusher (u)](dungeoneering-training/#starting-out) with 3 gorajan shards
 * [Prayer Master Cape](../custom-items/equippables.md#master-capes) - 40% Less Prayer Potions consumed while using Dwarven Blessing
-* [Superior Bonecrusher](invention.md#inventions) - 25% xp boost to the Gorajan Bonecrusher
+* [Superior Bonecrusher](invention/#inventions) - 25% xp boost to the Gorajan Bonecrusher
 
 ### Optimal Gear Setup
 

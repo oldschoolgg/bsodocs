@@ -20,11 +20,11 @@ There are pets exclusive to BSO that provide unique and powerful perks and are r
 | Wintertoad | Halves Fight Caves time                                                                                                                                                                                                                 | 1/3000† minutes of Wintertodt                                                                |
 | Zak        | Increases maximum trip length by 40%                                                                                                                                                                                                    | <p>1/6,500 minutes of Smelting</p><p>(not obtainable from blast furnace, requires 10 QP)</p> |
 | Mr. E      | Increases chance of a Double Loot trip from 1/15 to 1/12, as well as eliminating the 3 worst implings from a trip.                                                                                                                      | 1/5000† from a TMB or UMB, 1/200† from a PMB, and 1/500† from an EMB.                        |
-| Voidling\* | Can alch your items while doing any activity (boosted with a Magic Master Cape equipped anywhere)                                                                                                                                       | 1/500 from [Vasa Magus](../bosses/vasa-magus.md#loot)                                        |
+| Voidling\* | Can alch your items while doing any activity                                                                                                                                                                                            | 1/500 from [Vasa Magus](../bosses/vasa-magus.md#loot)                                        |
 
 \*Does not have to be equipped
 
-†These pets increase in rarity based on how many you have. For every pet you have, the rate is reduced. Skipper has a base rate of 1/1600 with 0 found, with 1 in your CL the rate is reduced by 30% to 1/2080. Skipper is increased by 30%, Klik, Remy, Wintertoad, and Mr. E are increased by 20% for each in the log. Takon and Steve are increased by 100%.&#x20;
+†These pets increase in rarity based on how many you have. For every pet you have, the rate is reduced. Skipper has a base rate of 1/1600 with 0 found, with 1 in your CL the rate is reduced by 30% to 1/2080. Skipper is increased by 30%, Klik, Remy, Wintertoad, and Mr. E are increased by 20% for each in the log. Takon and Steve are increased by 2x.
 
 Note: Voidling alchs at different speeds depending on conditions:
 
@@ -81,7 +81,7 @@ These pets are discontinued and were rewards from certain events. You can now on
 Notes:\
 \*Smokey does not have to be equipped for this perk.\
 \*\*Corgi and Snappy are no longer obtainable, even by ironmen.\
-±Invention provides this perk in the form of [RoboFlappy](../skills/invention.md#inventions).
+±Invention provides this perk in the form of [RoboFlappy](../skills/invention/#inventions).
 
 ## Growable pets
 
