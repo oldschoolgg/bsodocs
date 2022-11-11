@@ -52,7 +52,7 @@ You can use the command : `/k name:King Goldemar (Mass)` to begin a mass, or `/k
 
 The most coveted drop from King Goldemar is the Broken Dwarven Warhammer, which when repaired becomes the Dwarven Warhammer (DWWH). When equipped in any gear setup, it provides a 40% speed boost to all =k PVM activities. This does not include Nex, Vasa Magus, Ignecarus.
 
-Players can equip a Ring of Luck, obtained via Grandmaster Clue Scrolls, to increase the drop rate of receiving the Broken Dwarven warhammer drop. **Note: If Participating in a mass, only 1 member of the party needs to have a Ring of Luck equipped to receive the increased drop rate.**
+Players can equip a Ring of Luck, obtained via Grandmaster Clue Scrolls, in the melee setup to increase the drop rate of receiving the Broken Dwarven warhammer drop. **Note: If Participating in a mass, only 1 member of the party needs to have a Ring of Luck equipped to receive the increased drop rate.**
 
 It is recommended to Mass for the 1st 50kc as it reduces your death chance.
 
