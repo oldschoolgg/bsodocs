@@ -40,7 +40,7 @@ No Voidling equip and no magic master cape equipped: 1/6 - 1/7 regular speed.\
 | Brock   | <p>Brings back random logs (non-PvM trips only)<br>2x speed at Gauntlet<br>Bypass 50 Gauntlet KC requirement for Corrupted Gauntlet</p>      | 1/5,500 minutes of Zulrah                                                    |
 | Peky    | <p>Brings back random seeds (non-PvM trips only)<br>Chance to bring back a <a href="pets.md#growable-pets">Baby raven</a></p>                | 1/4,000 minutes of Woodcutting                                               |
 | Ori     | Boosts loot from PvM trips by 25% (rounds up)                                                                                                | 1/3,000 from Malygos                                                         |
-| Sandy   | Triples hunter loot (doubles sand gecko loot if Hunter Master Cape is equipped)                                                              | 1/26,000 from Sand Geckos                                                    |
+| Sandy   | Triples hunter loot (doubles sand gecko loot if Hunter Master Cape is equipped). Does not work on Eastern ferrets.                           | 1/26,000 from Sand Geckos                                                    |
 | Doug    | Brings back random ores                                                                                                                      | 1/12,000 minutes of Mining                                                   |
 | Zippy   | <ul><li>Gives extra clue caskets and mystery boxes while completing clues</li><li>1/15 chance to double loot from completing clues</li></ul> | <ul><li>Questing (1/350 per trip)</li><li>Hunting eastern ferrets*</li></ul> |
 
