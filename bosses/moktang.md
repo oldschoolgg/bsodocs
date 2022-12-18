@@ -4,7 +4,7 @@
 
 Moktang is a mining-skilling boss, made of rocks and lava. The boss is _created_ by you, by using a spell on rocks. You create 'Moktang totems' using rocky/magic materials and elder runes, and then you use the totems to summon the boss and fight it.
 
-Moktang offers the claws frame, which allows you to upgrade the speed your tame can kill things. It also drops items to create volcanic pickaxes, the fastest and best pickaxes.
+Moktang drops the Igne gear frame, which is used in creating the [Igne Claws](../custom-items/tames/igne-claws.md#igne-claw-creation) and [Igne Armour](../custom-items/tames/igne-claws.md#igne-armor-creation) to improve your Igne tame. It also drops an item used to create volcanic pickaxes, the highest tier pickaxes.
 
 ## Get Started
 
@@ -22,7 +22,7 @@ Moktang offers the claws frame, which allows you to upgrade the speed your tame 
 
 * Higher mining levels - up to 36% at 120 mining
 * Mining master cape - 5%
-* Dwarven outfit equipped in any setup (less brews needed)
+* Dwarven armour equipped - less brews needed)
 * Volcanic pickaxe - 5%
 * Offhand volcanic pickaxe - 3%
 
