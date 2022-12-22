@@ -1,9 +1,5 @@
 # Misc
 
-**Box Spawns**
-
-At random times, mystery boxes will spawn in #bso-general that anyone can catch.
-
 **Elder logs**
 
 Elder logs can be cut at level 105 Woodcutting, they give the best XP/hr, and can be turned into Elder planks at the sawmill, or fletched into Elder bows. They are also required for some PoH buildings.
