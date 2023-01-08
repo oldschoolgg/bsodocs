@@ -62,11 +62,13 @@ These pets are discontinued and were rewards from certain events. You can now on
 | Smokey   | <p>10% chance of an extra roll when opening boxes*</p><p>1/15 chance of bringing back a box</p> | 2020 Christmas Event                                |
 | Flappy±  | Doubles minigame loot (Soul Wars, CoX, Fight Caves, Wintertodt, Rogues Den, Barbarian Assault)  | 2021 Birthday Event                                 |
 | Gregoyle | 20% boost to gargoyles and Grotesque Guardians                                                  | [2021 Halloween Event](../events/halloween-2021.md) |
+| Kuro     | 5% boost to Gnome Restaurant and Ourania delivery service                                       | 2022 Halloween Event                                |
 {% endtab %}
 
 {% tab title="No perks" %}
 | Name                  | Source                                                           |
 | --------------------- | ---------------------------------------------------------------- |
+| Frosty                | 2022 Christmas Event                                             |
 | Buzz                  | 2022 BSO Birthday Event                                          |
 | Leia                  | 2022 Easter Event                                                |
 | Seer                  | [2021 Christmas Event](../events/christmas-2021.md#unique-items) |
@@ -103,7 +105,7 @@ These pets are a meta-joke, or a meme pet, that serve no real use apart from bei
 | ---------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- |
 | Ishi                   | Chance to interrupt commands and change any PvM trip to `/k name:Ogress Warrior`                                                                   | 1/6,500 from Ogress Warriors                                                                                           |
 | Hammy                  | <p>Can interrupt commands</p><p>Can <code>/minion feed_hammy</code> a random item to Hammy with a 1/10 chance to spare, 1/100 chance to double</p> | <p>1/140† for every<br>51.53m sacrificed. You can get multiple rolls for each multiple of 51.53m<br>(In 1 command)</p> |
-| Frosty                 | No perk                                                                                                                                            | 2M [Dungeoneering](../skills/dungeoneering-training/dg-rewards.md#miscellaneous-buyables) Tokens                       |
+| Frostbite              | No perk                                                                                                                                            | 2M [Dungeoneering](../skills/dungeoneering-training/dg-rewards.md#miscellaneous-buyables) Tokens                       |
 | Steve                  | No perk                                                                                                                                            | 1/300† from [CoX](../bosses/chambers-of-xeric.md)                                                                      |
 | Blabberbeak            | No perk                                                                                                                                            | 1/20,000 rolls from [Grandmaster Caskets](grandmaster-clues.md#unique-loot-table)                                      |
 | Queen black dragonling | No perk                                                                                                                                            | 1/2,500 from [QBD](../bosses/demi-bosses/queen-black-dragon.md#rewards)                                                |
