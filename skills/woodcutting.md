@@ -2,7 +2,7 @@
 
 ### **Custom Content and Boosts**
 
-* [Dwarven Greataxe](../custom-items/equippables.md#dwarven-tools) - 2x speed
+* [Dwarven Greataxe](../custom-items/equippables.md#dwarven-tools) - 2x speed (requires lvl 99 wc)
 * Elder Logs - logs obtained from Elder trees at lvl 105 wc
 * [Woodcutting Master Cape](../custom-items/equippables.md#master-capes) - 2x Woodcutting loot
 
