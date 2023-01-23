@@ -20,15 +20,17 @@ You can use the command : `/k name:King Goldemar (Mass)` to begin a mass, or `/k
 
 ## Boosts
 
-* Drygore longsword - 10%
-* Offhand drygore longsword - 5%
-* Gorajan warrior helmet - 2%
-* Gorajan warrior top - 4%
-* Gorajan warrior legs - 2%
-* Gorajan warrior gloves - 1%
-* Gorajan warrior boots - 1%
-* Brawler's hook necklace - 4%
-* TzKal cape - 6%
+| Item                      | Weighting | Approx Boost |
+| ------------------------- | --------- | ------------ |
+| Drygore longsword         | 10        | 28.6%        |
+| Offhand drygore longsword | 5         | 14.3%        |
+| TzKal cape                | 6         | 17.1%        |
+| Brawler's hook necklace   | 4         | 11.4%        |
+| Gorajan warrior helmet    | 2         | 5.7%         |
+| Gorajan warrior top       | 4         | 11.4%        |
+| Gorajan warrior legs      | 2         | 5.7%         |
+| Gorajan warrior gloves    | 1         | 2.9%         |
+| Gorajan warrior boots     | 1         | 2.9%         |
 
 ## Loot
 
@@ -39,32 +41,34 @@ You can use the command : `/k name:King Goldemar (Mass)` to begin a mass, or `/k
 * **Athelas seed:** Plant these at 99 farming to recieve athelas
 * **Blacksmith crate:** Drops pieces of the [Blacksmith outfit](https://bso-wiki.oldschool.gg/custom-items/equippables#blacksmith-equipment)
 
-| **Unique Drop Table**      | **Drop Rate**   |
-| -------------------------- | --------------- |
-| Broken dwarven warhammer   | 1/450 (approx.) |
-| Dwarven armour piece (any) | 1/150           |
-| Dwarven crate              | 1/100           |
-| Dwarven ore                | 1/6.5 (approx.) |
-| Blacksmith crate           | 1/60            |
-| Clue scroll (grandmaster)  | 1/4             |
+| Unique Drop Table          | Drop Rate          |
+| -------------------------- | ------------------ |
+| Broken dwarven warhammer   | Varies, see below. |
+| Dwarven armour piece (any) | 1/150              |
+| Dwarven crate              | 1/100              |
+| Dwarven ore                | 1/1 (approx.)      |
+| Blacksmith crate           | 1/25               |
+| Clue scroll (grandmaster)  | 1/4                |
 
 ## Extra Information
 
-The most coveted drop from King Goldemar is the Broken Dwarven Warhammer, which when repaired becomes the Dwarven Warhammer (DWWH). When equipped in any gear setup, it provides a 40% speed boost to all =k PVM activities. This does not include Nex, Vasa Magus, Ignecarus.
+The most coveted drop from King Goldemar is the Broken dwarven warhammer, which when repaired via smithing, becomes the Dwarven warhammer (DWWH). When equipped in any gear setup, it provides a 40% speed boost to all /k activities excluding those in the wilderness. This does not include any bosses, but does work on some Demi Bosses.
 
-Players can equip a Ring of Luck, obtained via Grandmaster Clue Scrolls, in the melee setup to increase the drop rate of receiving the Broken Dwarven warhammer drop. **Note: If Participating in a mass, only 1 member of the party needs to have a Ring of Luck equipped to receive the increased drop rate.**
+Players can equip a Ring of Luck, obtained via Grandmaster Clue Scrolls, in the melee setup to increase the drop rate of receiving the Broken dwarven warhammer drop. **Note: If Participating in a mass, only 1 member of the party needs to have a Ring of Luck equipped to receive the increased drop rate.**
 
-It is recommended to Mass for the 1st 50kc as it reduces your death chance.
+It is recommended to Mass for the 1st[^1] 50kc as it reduces your death chance.
 
-| Team Size | Drop Rate | Drop Rate (with Ring of Luck) |
-| --------- | --------- | ----------------------------- |
-| 1         | 454       | 386                           |
-| 2         | 241       | 205                           |
-| 3         | 170       | 144                           |
-| 4         | 135       | 115                           |
-| 5         | 114       | 97                            |
-| 6         | 100       | 85                            |
-| 7         | 90        | 77                            |
-| 8         | 82        | 71                            |
-| 9         | 76        | 65                            |
-| 10        | 71        | 60                            |
+| Team Size | Drop Rate | Drop Rate with Ring of Luck |
+| --------- | --------- | --------------------------- |
+| 1         | 454       | 386                         |
+| 2         | 241       | 205                         |
+| 3         | 170       | 144                         |
+| 4         | 135       | 115                         |
+| 5         | 114       | 97                          |
+| 6         | 100       | 85                          |
+| 7         | 90        | 77                          |
+| 8         | 82        | 71                          |
+| 9         | 76        | 65                          |
+| 10        | 71        | 60                          |
+
+[^1]: 
