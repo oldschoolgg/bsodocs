@@ -68,7 +68,7 @@ It is highly recommended for anybody that is dry on items from the boss to attem
 
 Note: All the items obtainable from this event will be discontinued, and mysterious tokens will be unusable.
 
-**Special thanks to DarkLinkArisen and DT for compiling this information.**
+**Special thanks to Dark and DT for compiling this information.**
 
 
 

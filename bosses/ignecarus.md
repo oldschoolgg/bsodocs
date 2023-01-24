@@ -1,8 +1,8 @@
 # Ignecarus
 
-Ignecarus is a giant dragon boss, it fights primarily using dragonfire, far hotter than any other dragon in Runescape, your resistance to fire is therefore the most important thing. When killed, it gives 71,820 Hitpoints experience and 68,666 experience in Attack, Strength, and Defence per kill.
+Ignecarus is a giant dragon boss that attacks primarily using dragonfire, far hotter than any other dragon in Runescape, therefore your resistance to fire is the most important aspect of the fight. When killed, it gives 71,820 Hitpoints experience and 68,666 experience in Attack, Strength, and Defence per kill.
 
-The glass of typical potions (brews/restores) have a low melting point, and will melt and break during the fight. You need specially made [Heat resistant potions.](../custom-items/misc.md#heat-res-potions)
+Regular potions will be destroyed during the fight by the incredible heat, and as such you need special [Heat resistant potions.](../custom-items/misc.md#heat-res-potions)
 
 You can kill Ignecarus using `/k name:Ignecarus (Solo)` to solo or `/k name:Ignecarus (Mass)` to start a mass.
 
@@ -10,22 +10,22 @@ You can kill Ignecarus using `/k name:Ignecarus (Solo)` to solo or `/k name:Igne
 
 * 110 Slayer
 * [Heat res. brews and Heat res. restores](../custom-items/misc.md#heat-res-potions)
-* Highly recommended: dragonfire shield
+* Highly recommended: Dragonfire shield
 
 ## Gear
 
-Protection from dragonfire is paramount to killing Ignecarus. You should aim for [dwarven armour](../custom-items/equippables.md#dwarven-armour) (which has special dragonfire resistance) and a dragonfire shield. Torva will work okay, but your chance of death will increase from the lack of fire protection.
+Protection from dragonfire is paramount to killing Ignecarus. You should aim for [dwarven armour](../custom-items/equippables.md#dwarven-armour) (which has a special dragonfire resistance) and a dragonfire shield. Torva can be used as a substitute, but your chance of death will increase from the lack of fire protection.
 
 ![BiS Gear for Ignecarus](../.gitbook/assets/igne\_bis.png)
 
 ## Loot
 
-Ignecarus drops lots of metal bars, uncut gems and rune items.
+Ignecarus drops large quantities of metal bars, uncut gems and rune items.
 
-* **Ignis ring:** Can be imbued with a Magus scroll from [Vasa Magus](vasa-magus.md#loot) with level 120 Crafting and 105 Magic to create the BIS melee ring. It requires level 105 Defence to equip.
-* **Ignecarus scales:** Can be used with abyssal dragon bones to create the Dragon's fury potion (2 scales, 1 abyssal dragon bones per potion). It provides the highest herblore xp/hr. The use of the potion is to create the hellfire bow. Can also be used to create hellfire arrowtips, 1 scale=5 arrowtips.
-* **Ignecarus dragonclaw:** Used in conjunction with Dragon's fury, twisted bow, zaryte bow, and 3 smouldering stones to create a Hellfire Bow (BIS range weapon).
-* **Dragon egg**_**:**_ Can be placed in a nursery to hatch into a [dragon tame](../custom-items/tames/igne-tame.md) (like a pet), which can be sent out on PvM trips. Eggs are tradeable but once they hatch they can not be traded.
+* **Ignis ring:** Can be imbued with a Magus scroll from [Vasa Magus](vasa-magus.md#loot) with 120 Crafting and 105 Magic to create the Ignis Ring (i), requiring 105 Defence to equip.
+* **Ignecarus scales:** Can be used with abyssal dragon bones to create the Dragon's fury potion (2 scales, 1 abyssal dragon bones per potion). The potion is used in the creation of the Hellfire Bow. The scales can also be used to create Hellfire Arrows, requiring one scale and one arrow shaft, producing five arrows.
+* **Ignecarus dragonclaw:** Used in conjunction with Dragon's fury, twisted bow, zaryte bow, and 3 smouldering stones to create a Hellfire Bow.
+* **Dragon egg**_**:**_ Can be placed in a nursery to hatch into a [dragon tame](../custom-items/tames/igne-tame.md), which can be sent out on PvM trips. Eggs are tradeable, but once placed in a nursery they cannot be retrieved or traded.
 
 | **Unique Drop Table**     | **Drop Rate** |
 | ------------------------- | ------------- |
