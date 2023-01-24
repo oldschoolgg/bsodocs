@@ -34,7 +34,7 @@ You can kill Malygos with `/k name:Malygos`. To mass Malygos you can start the m
 * **Abyssal cape:** 50% Damage Reduction (50% less food needed), also required to make the Vasa cloak and the Tzkal cape.
 * **Abyssal dragon bones:** 1.7x more XP than superior dragon bones, also a secondary for Dragons Fury potions
 * **Dragon hunter lance**
-* ****[**Ori**](../../custom-items/pets.md#resource-gathering-and-loot-effecting-pets)**:** 25% more loot from pvm trips when equipped
+* [**Ori**](../../custom-items/pets.md#resource-gathering-and-loot-effecting-pets)**:** 25% more loot from pvm trips when equipped
 
 | **Uniques Drop Table**    | **Drop Rate** |
 | ------------------------- | ------------- |

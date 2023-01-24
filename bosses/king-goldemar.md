@@ -1,10 +1,10 @@
 # King Goldemar
 
-King Goldemar is a boss that can be done via mass or solo. Please go to the channel #mass-king-goldemar for more info.
+King Goldemar is a boss that can be done in a mass or solo. Please go to the channel #mass-king-goldemar for more info.
 
-Entrance fee to fight King Goldemar is 10 million but can be reduced to 5m if a Ring of Charos is equipped.
+The entrance fee to fight King Goldemar is 10 million but it can be reduced to 5m if a Ring of Charos is equipped.
 
-Supply cost for masses is initially 8 Saradomin brews and 2 Super restores per kill. This is reduced to 1 Restore at 60 kc and is reduced by 1 Brew every 30 kc, capping out at 2 Brews per kill at 180 kc.
+The supply cost for masses is initially 8 Saradomin brews and 2 Super restores per kill. This is reduced to 1 Super restore at 60 kc and is reduced by 1 Saradomin brew every 30 kc, capping out at 2 Saradomin brews per kill at 180 kc.
 
 You can use the command : `/k name:King Goldemar (Mass)` to begin a mass, or `/k name:King Goldemar (Solo)` to solo.
 
@@ -52,9 +52,9 @@ You can use the command : `/k name:King Goldemar (Mass)` to begin a mass, or `/k
 
 ## Extra Information
 
-The most coveted drop from King Goldemar is the Broken dwarven warhammer, which when repaired via smithing, becomes the Dwarven warhammer (DWWH). When equipped in any gear setup, it provides a 40% speed boost to all /k activities excluding those in the wilderness. This does not include any bosses, but does work on some Demi Bosses.
+The most coveted drop from King Goldemar is the Broken dwarven warhammer, which when repaired via smithing, becomes the Dwarven warhammer (DWWH). When equipped in any gear setup, it provides a 40% speed boost to all /k activities excluding those in the wilderness. (See the Hellfire Bow for the wilderness equivalent) This does not include any bosses, but does work on some Demi Bosses.
 
-Players can equip a Ring of Luck, obtained via Grandmaster Clue Scrolls, in the melee setup to increase the drop rate of receiving the Broken dwarven warhammer drop. **Note: If Participating in a mass, only 1 member of the party needs to have a Ring of Luck equipped to receive the increased drop rate.**
+Players can equip a Ring of Luck (obtained via [Grandmaster Clue Scrolls](https://bso-wiki.oldschool.gg/custom-items/grandmaster-clues)) in the melee setup to increase the drop rate of receiving the Broken Dwarven Warhammer drop. **Note: If participating in a mass, only 1 member of the party needs to have a Ring of Luck equipped to receive the increased drop rate.**
 
 It is recommended to Mass for the 1st[^1] 50kc as it reduces your death chance.
 

@@ -1,6 +1,6 @@
 # Vasa Magus
 
-Vasa Magus is a solo only magic boss and you can't die fighting it. It has a special loot mechanic where it drops loot from a random boss on each kill. It also drops mystery boxes.
+Vasa Magus is a solo only magic boss where it is not possible to fail. It has a special loot mechanic where loot is rolled from a random boss on each kill. It also drops mystery boxes.
 
 You can kill Vasa Magus using `/k name:Vasa Magus`.
 
@@ -15,7 +15,7 @@ You can kill Vasa Magus using `/k name:Vasa Magus`.
 
 You should use the best possible mage gear you have, Virtus is the best gear you can have aside from Gorajan Occult.
 
-![Best in slot gear](../.gitbook/assets/osbot.png)
+<figure><img src="../.gitbook/assets/image_2023-01-24_131727801.png" alt=""><figcaption><p>Best in slot gear</p></figcaption></figure>
 
 ## Loot
 
@@ -24,17 +24,19 @@ You should use the best possible mage gear you have, Virtus is the best gear you
 * **Magus scroll:**
   * Can be used to imbue a Bryophyta staff, making it 2x more effective at saving nature runes.
     * `/create`**`item:`**`bryophyta staff(i)`
-  * Can be used to imbue an Ignis ring to make the bis melee ring&#x20;
+  * Can be used to imbue an Ignis ring to make the bis melee ring
     * `/create`**`item:`**`ignis ring (i)`
   * Can be used to imbue an Infernal slayer helmet, see [Emerged Zuk Inferno](../minigames/emerged-zuk-inferno.md)
     * `/create`**`item:`**`infernal slayer helmet(i)`
-* **Voidling:** A pet that will alch items from your favorite alchs list when you're on a trip. Owning a Magic master cape greatly increases the amount of alchs per trip.&#x20;
-* **Tattered robes of Vasa:** Used to craft a Vasa cloak, the BiS mage cape.&#x20;
+  * Can be used to imbue a Spellbound ring from [Naxxus](https://bso-wiki.oldschool.gg/bosses/naxxus)\
+    &#x20; •  `/create`` `**`item`**`: spellbound ring(i)`
+* **Voidling:** A pet that will alch items from your favorite alchs list when you're on a trip. Owning a Magic master cape greatly increases the amount of alchs per trip.
+* **Tattered robes of Vasa:** Used to craft a Vasa cloak, the BiS mage cape.
   * Requires 105 runecrafting & 105 crafting + 1 Imbued mage arena cape + 1 Abyssal cape + 1 Tattered robes of Vasa
     * `/create`**`item:`**`vasa cloak`
 * **Magical artifact:** Alchs for 50m.
 * **Jar of magic:** Just a magical jar, has no use.
-* **Random Loot:** Vasa has a special loot mechanic, every kill, it drops the loot of 1-3 kills of a random boss.
+* **Random Loot:** Vasa has a special loot mechanic, where it drops the loot of 1-3 kills of a random boss per kill.
 
 | **Unique Drop Table**     | **Drop Rate** |
 | ------------------------- | ------------- |

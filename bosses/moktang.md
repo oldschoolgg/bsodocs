@@ -29,10 +29,10 @@ Moktang drops the Igne gear frame, which is used in creating the [Igne Claws](..
 ## Rewards
 
 * General loot: stone spirits (100% droprate), clues, boxes, bars, alchables.
-* \*\*\*\* ![](../.gitbook/assets/52660.png)**Mini moktang:** The pet for moktang.
-* \*\*\*\*![](../.gitbook/assets/52672.png) **Volcanic dye:** Used to dye a dwwh or dwarven armour.
-* \*\*\*\*![](../.gitbook/assets/52671.png) **Volcanic shards:** Used to make Volcanic igne claws, Volcanic pickaxe, Offhand volcanic pickaxe.
-* \*\*\*\*![](../.gitbook/assets/52661.png) **Igne gear frame:** Used to make Runite igne claws and Dragon igne armour. These can be upgraded to higher tiers, which boost your igne tame in different ways.
+* ![](../.gitbook/assets/52660.png)**Mini moktang:** The pet for moktang.
+* ![](../.gitbook/assets/52672.png) **Volcanic dye:** Used to dye a dwwh or dwarven armour.
+* ![](../.gitbook/assets/52671.png) **Volcanic shards:** Used to make Volcanic igne claws, Volcanic pickaxe, Offhand volcanic pickaxe.
+* ![](../.gitbook/assets/52661.png) **Igne gear frame:** Used to make Runite igne claws and Dragon igne armour. These can be upgraded to higher tiers, which boost your igne tame in different ways.
 
 | **Unique Drop Table** | **Drop Rate** |
 | --------------------- | ------------- |

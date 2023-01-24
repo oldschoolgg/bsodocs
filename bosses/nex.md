@@ -6,11 +6,9 @@ Nex is an endgame boss that requires 95 prayer and a Frozen Key to start. You ca
 
 ## Gear Recommendations
 
-_Abyssal cape is highly recommended to start out with. It significantly reduces your chance of death._
+_The Abyssal Cape is highly recommended to start out with. It significantly reduces your chance of death._
 
-To start with Nex, we recommend to go for a gear setup with 205+ ranged attack and as high ranged defence as possible, to reduce the cost of Saradomin Brews and Super Restores. Having a barbarian assault arrow (from untradeable mystery boxes) equipped in your ammo slot will help immensely with range attack bonus, allowing you to use more tanky gear. You will receive a speed penalty if you have less than 200 range attack bonus.&#x20;
-
-
+To start with Nex, it is recommended to aim for a gear setup with 205+ ranged attack and as high ranged defence as possible, to reduce the cost of Saradomin Brews and Super Restores. Having a barbarian assault arrow (from untradeable mystery boxes) equipped in your ammo slot will help immensely with range attack bonus, allowing you to use more tanky gear. You will receive a speed penalty if you have less than 200 ranged attack bonus.
 
 ### **Max Range Setup**
 
@@ -27,7 +25,7 @@ To start with Nex, we recommend to go for a gear setup with 205+ ranged attack a
 {% tabs %}
 {% tab title="With Zak" %}
 9 kills per trip.\*\
-Removed brews/restores from users: **45/15**. The trip will take 1 hour 12 minutes and 28 seconds. \
+Removed brews/restores from users: **45/15**. The trip will take 1 hour 12 minutes and 28 seconds.\
 \*Note that this is with the time boost of a Hitpoints Master Cape and T3 Patron.
 {% endtab %}
 
@@ -60,7 +58,7 @@ Nex drops broken armour pieces that need to be repaired using components made fr
 * **Ancient emblem:** Currently does not have a use.
 * **Bloodsoaked feather:** Used to create the nex pet, [Nexterminator](../custom-items/pets.md#meme-pets-and-no-perk-pets).
 * **Ancient hilt**: Used to create the Ancient Godsword
-* **Nex armour:** Torva, pernix, and virtus armour sets that can be upgraded to best-in-slot [Gorajan armour](../skills/dungeoneering-training/dg-rewards.md#buyable-gear).&#x20;
+* **Nex armour:** Torva, pernix, and virtus armour sets that can be upgraded to best-in-slot [Gorajan armour](../skills/dungeoneering-training/dg-rewards.md#buyable-gear).
   * The rate to hit the gear table scales based on team size and each item on the table has an equal chance, meaning any specific item is roughly 1/1600
 * **Nex weapons:** High level weapons dropped on the same table as Nex armour.
   * **Zaryte bow:** Provides a boost to Nex and is used to create the Hellfire bow.

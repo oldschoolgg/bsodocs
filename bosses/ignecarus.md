@@ -23,7 +23,7 @@ Protection from dragonfire is paramount to killing Ignecarus. You should aim for
 Ignecarus drops large quantities of metal bars, uncut gems and rune items.
 
 * **Ignis ring:** Can be imbued with a Magus scroll from [Vasa Magus](vasa-magus.md#loot) with 120 Crafting and 105 Magic to create the Ignis Ring (i), requiring 105 Defence to equip.
-* **Ignecarus scales:** Can be used with abyssal dragon bones to create the Dragon's fury potion (2 scales, 1 abyssal dragon bones per potion). The potion is used in the creation of the Hellfire Bow. The scales can also be used to create Hellfire Arrows, requiring one scale and one arrow shaft, producing five arrows.
+* **Ignecarus scales:** Can be used with abyssal dragon bones to create the Dragon's fury potion (2 scales, 1 abyssal dragon bones per potion). The potion is used in the creation of the Hellfire Bow. The scales can also be used to create Hellfire Arrows, requiring one scale and one headless arrow, producing five arrows.
 * **Ignecarus dragonclaw:** Used in conjunction with Dragon's fury, twisted bow, zaryte bow, and 3 smouldering stones to create a Hellfire Bow.
 * **Dragon egg**_**:**_ Can be placed in a nursery to hatch into a [dragon tame](../custom-items/tames/igne-tame.md), which can be sent out on PvM trips. Eggs are tradeable, but once placed in a nursery they cannot be retrieved or traded.
 
