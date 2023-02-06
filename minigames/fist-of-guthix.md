@@ -1,7 +1,7 @@
 # Fist of Guthix
 
 You can start this miningame with the command `/bsominigames fist_of_guthix start.`\
-``Each game awards 30 fist of guthix tokens.
+``Each game awards 5 fist of guthix tokens. (10 with flappy)
 
 ### `Rewards`
 

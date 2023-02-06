@@ -58,6 +58,7 @@
 * [Ourania Delivery Service (ODS)](minigames/ourania-delivery-service-ods.md)
 * [Fist of Guthix](minigames/fist-of-guthix.md)
 * [Stealing Creation](minigames/stealing-creation.md)
+* [Tinkering Workshop](minigames/tinkering-workshop.md)
 
 ## Custom Content <a href="#custom-items" id="custom-items"></a>
 

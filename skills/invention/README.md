@@ -61,6 +61,8 @@ All aspects of the Invention skill are accessed using `/invention`
 
 ## Boosts
 
+* Inventor's Outfit - 4% xp boost to disassemble
+
 ### Disassembly Boosts
 
 #### Master capes Disassembly Boosts
