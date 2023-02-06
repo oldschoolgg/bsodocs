@@ -18,7 +18,6 @@ Volcanic pickaxe, Offhand volcanic pickaxe, Expert mining gloves, Prospectors ou
 
 | Method        | Xp / Hr at 120 Mining |
 | ------------- | --------------------- |
-| Iron Ore      | 2,461,789             |
-| Dark Animica  | 1,987,911             |
+| Dark Animica  | 2m                    |
 | Volcanic Mine | 1,413,304             |
 | Moktang       | 1,676,614             |
