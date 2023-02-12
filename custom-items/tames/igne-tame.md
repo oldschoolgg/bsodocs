@@ -27,21 +27,21 @@ For more information on tame commands see [Tames](../tames.md)
 You can feed the dragon tame certain items with `/tames feed [item]`\
 **Note:** Feeding any other items (food included) will have no effect\\
 
-| Item              | Boost                                                                                                                              |
-| ----------------- | ---------------------------------------------------------------------------------------------------------------------------------- |
-| Abyssal Cape      | 20% food reduction                                                                                                                 |
-| Zak               | +35 minutes to trip lengths                                                                                                        |
-| Ori               | 25% extra loot                                                                                                                     |
-| Dwarven Warhammer | 30% speed boost                                                                                                                    |
-| Mr. E             | 1/12 chance to double loot                                                                                                         |
-| Igne Claws        | 5-35% (See [Igne Claws](igne-claws.md#igne-claw-creation))                                                                         |
-| Igne Armor        | Allow you to kill additional monsters, as well as reduce food usage by 5-33% (See [Igne Armo](igne-claws.md#igne-armor-creation)r) |
+| Item                               | Boost                                                                                                                              |
+| ---------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------- |
+| Abyssal Cape                       | 20% food reduction                                                                                                                 |
+| Zak                                | +35 minutes to trip lengths                                                                                                        |
+| Ori                                | 25% extra loot                                                                                                                     |
+| Dwarven Warhammer                  | 30% speed boost                                                                                                                    |
+| Mr. E                              | 1/12 chance to double loot                                                                                                         |
+| **Equip, do not feed:** Igne Claws | 5-35% (See [Igne Claws](igne-claws.md#igne-claw-creation))                                                                         |
+| **Equip, do not feed:** Igne Armor | Allow you to kill additional monsters, as well as reduce food usage by 5-33% (See [Igne Armo](igne-claws.md#igne-armor-creation)r) |
 
 ### Boss requirements
 
-Certain [demi bosses](../../bosses/demi-bosses/) require a minimum of [Igne Armor](igne-claws.md#igne-armor-creation) to be killed.
+Certain [demi bosses](../../bosses/demi-bosses/) require a minimum tier of [Igne Armor](igne-claws.md#igne-armor-creation) to be killed.
 
-Currently a minimum tier of Justiciar igne armor is needed for the following:
+A minimum of Justiciar igne armor is needed for the following:
 
 * [Nihiliz](../../bosses/demi-bosses/nihiliz.md)
 * [Treebeard](../../bosses/demi-bosses/treebeard.md)

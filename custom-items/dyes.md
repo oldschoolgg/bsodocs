@@ -6,11 +6,7 @@ description: Dyes are custom items that cosmetically enhance various items
 
 Dyes can be used on certain items by using the `/create` command. This process is irreversible, permanently turns items untradeable, and removes the dye.
 
-Ice, blood, shadow, and 3a dyes can only be obtained from grandmaster caskets.
-Monkey dyes can be obtained from catching chimplings, encountering special monkeys during [Mad Marimbo's Monkey Rumble](../minigames/mad-marimbos-monkey-rumble/), or by buying them from the minigame's shop. 
-Dungeoneering dyes can be purchased from the dungeoneering shop.
-Squid dye can be obtained from [Sea Kraken](../bosses/demi-bosses/sea-kraken).
-Volcanic dyes can be obtained from [Moktang](../bosses/moktang).
+Ice, blood, shadow, and third age dyes can only be obtained from grandmaster caskets. Monkey dyes can be obtained from catching chimplings, encountering special monkeys during [Mad Marimbo's Monkey Rumble](../minigames/mad-marimbos-monkey-rumble/), or by buying them from the minigame's shop. Dungeoneering dyes can be purchased from the dungeoneering shop. Squid dye can be obtained from [Sea Kraken](../bosses/demi-bosses/sea-kraken/). Volcanic dyes can be obtained from [Moktang](../bosses/moktang/).
 
 ## Ice dye
 
@@ -54,7 +50,7 @@ Volcanic dyes can be obtained from [Moktang](../bosses/moktang).
 | Drygore rapier            | Drygore rapier (shadow)            |
 | Offhand drygore rapier    | Offhand drygore rapier (shadow)    |
 
-## 3a dye
+## Third age dye
 
 | Required item name        | Dyed item name                 |
 | ------------------------- | ------------------------------ |
@@ -77,7 +73,7 @@ Volcanic dyes can be obtained from [Moktang](../bosses/moktang).
 | Zaryte bow         | Zaryte bownana   |
 | Hellfire bow       | Hellfire bownana |
 
-## Dungeoneering  dye
+## Dungeoneering dye
 
 | Required item name     | Dyed item name                      |
 | ---------------------- | ----------------------------------- |
@@ -106,11 +102,11 @@ Volcanic dyes can be obtained from [Moktang](../bosses/moktang).
 
 ## Volcanic Dye
 
-| Required item name        | Dyed item name                 |
-| ------------------------- | ------------------------------ |
-| Dwarven warhammer         | Dwarven warhammer (Volcanic)   |
-| Dwarven full helm         | Dwarven full helm (Volcanic)   |
-| Dwarven platebody         | Dwarven platebody (Volcanic)   |
-| Dwarven platelegs         | Dwarven platelegs (Volcanic)   |
-| Dwarven gloves            | Dwarven gloves (Volcanic)      |
-| Dwarven boots             | Dwarven boots (Volcanic)       |
+| Required item name | Dyed item name               |
+| ------------------ | ---------------------------- |
+| Dwarven warhammer  | Dwarven warhammer (Volcanic) |
+| Dwarven full helm  | Dwarven full helm (Volcanic) |
+| Dwarven platebody  | Dwarven platebody (Volcanic) |
+| Dwarven platelegs  | Dwarven platelegs (Volcanic) |
+| Dwarven gloves     | Dwarven gloves (Volcanic)    |
+| Dwarven boots      | Dwarven boots (Volcanic)     |
