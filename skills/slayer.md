@@ -20,7 +20,7 @@ n.b. for boosts please see the [combat skills](combat-skills.md) section
 For EHP only use Konar and adhere to the following blocks, skips, and unlocks
 
 * Blocks: Hydras, Drakes, Wyrms, Black Demons, Cave Krakens, Hellhounds, Greater Demons, Aberrant Spectres, Gargoyles
-* Skips: Adamant Dragons, Blue Dragons, Brine Rats, Bronze Dragons, Iron Dragons, Kurasks, Mutated Zygomites, Rune Dragons, Skeletal Wyverns, Steel Dragons, Trolls, Turoths, Waterfieds.
+* Skips: Adamant Dragons, Blue Dragons, Brine Rats, Bronze Dragons, Iron Dragons, Kurasks, Mutated Zygomites, Rune Dragons, Skeletal Wyverns, Steel Dragons, Trolls, Turoths, Waterfiends.
 * Task Extensions: Nechs Please, To dust you shall return, Bleed me dry, Ankou Very Much, Augment my Abbies
 * Unlock Stop the Wyvern and do not unlock any additional tasks.&#x20;
 
