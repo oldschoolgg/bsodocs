@@ -6,14 +6,14 @@ description: Slayer on BSO shares many things with OSB, with a handful of key di
 
 ### Custom Content and Boosts
 
-* [Infernal Slayer Helm](../minigames/emerged-zuk-inferno.md#rewards-all-are-untradeable) - Provides a +18% boost on task (+22% when imbued)
-* [Scroll of Longevity](dungeoneering-training/dg-rewards.md#buyable-boosts-utility) - 2x task length
+* [Infernal Slayer Helm](../../minigames/emerged-zuk-inferno.md#rewards-all-are-untradeable) - Provides a +18% boost on task (+22% when imbued)
+* [Scroll of Longevity](../dungeoneering-training/dg-rewards.md#buyable-boosts-utility) - 2x task length
 * Size Matters - 2x task length
 * Pore Decisions - Unlocks tasks within the [Polypore Dungeon](https://bso-wiki.oldschool.gg/custom-items/custom-monsters#polypore-dungeon)
 * Block and Roll (5000 Slayer Points) - +3 blocks
 * Slayer Master Cape - Doubles the amount of superiors you kill on a task
 
-n.b. for boosts please see the [combat skills](combat-skills.md) section
+n.b. for boosts please see the [combat skills](../combat-skills.md) section
 
 ### Methods
 

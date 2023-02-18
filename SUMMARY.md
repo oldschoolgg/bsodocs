@@ -26,7 +26,8 @@
 * [Mining](skills/mining.md)
 * [Prayer](skills/prayer.md)
 * [Runecraft](skills/runecraft.md)
-* [Slayer](skills/slayer.md)
+* [Slayer](skills/slayer/README.md)
+  * [Slayer Masks / Helmets](skills/slayer/slayer-masks-helmets.md)
 * [Smithing](skills/smithing.md)
 * [Thieving](skills/thieving.md)
 * [Woodcutting](skills/woodcutting.md)
@@ -59,6 +60,7 @@
 * [Fist of Guthix](minigames/fist-of-guthix.md)
 * [Stealing Creation](minigames/stealing-creation.md)
 * [Tinkering Workshop](minigames/tinkering-workshop.md)
+* [Balthazar's Big Bonanza](minigames/balthazars-big-bonanza.md)
 
 ## Custom Content <a href="#custom-items" id="custom-items"></a>
 
