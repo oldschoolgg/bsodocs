@@ -27,7 +27,7 @@
 * [Prayer](skills/prayer.md)
 * [Runecraft](skills/runecraft.md)
 * [Slayer](skills/slayer/README.md)
-  * [Slayer Masks / Helmets](skills/slayer/slayer-masks-helmets.md)
+  * [Slayer Masks / Helms](skills/slayer/slayer-masks-helms.md)
 * [Smithing](skills/smithing.md)
 * [Thieving](skills/thieving.md)
 * [Woodcutting](skills/woodcutting.md)
