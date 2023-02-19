@@ -17,24 +17,24 @@ Slayer rewards:
 
 The Mask drop rate and kills to upgrade into a slayer helmet are as followed:
 
-| Type          | Droprate (1/X) | Kills/upgrade | Monsters                                                     |
-| ------------- | -------------- | ------------- | ------------------------------------------------------------ |
-| Aberrant      | 340            | 3400          | Aberrant Spectre                                             |
-| Abyssal       | 340            | 3400          | Abyssal Demon, Abyssal Sire                                  |
-| Banshee       | 340            | 3400          | Banshee, Twisted Banshee                                     |
-| Basilisk      | 340            | 3400          | Basilisk, Basilisk Knight                                    |
-| Black demon   | 340            | 3400          | Black Demon                                                  |
-| Bloodveld     | 340            | 3400          | Bloodveld, Mutated bloodveld                                 |
-| Cockatrice    | 340            | 3400          | Cockatrice                                                   |
-| Crawling hand | 140            | 1400          | Crawling Hand                                                |
-| Dagannoth     | 340            | 3400          | Dagannoth, Dagannoth Prime, Dagannoth Rex, Dagannoth Supreme |
-| Dark beast    | 300            | 3000          | Dark Beast                                                   |
-| Dust Devil    | 340            | 3400          | Dust Devil                                                   |
-| Ganodermic    | 340            | 3400          | Ganodermic Beast, Ganodermic Runt                            |
-| Gargoyle      | 340            | 3400          | Gargoyle, Grotesque Guardians                                |
-| Jelly         | 340            | 3400          | Jelly, Warped Jelly                                          |
-| Kurask        | 340            | 3400          | Kurask                                                       |
-| Troll         | 340            | 3400          | Mountain Troll, Ice Troll, Reanimated Troll                  |
+| Mask/Helm         | Droprate (1/X) | Kills/upgrade | Monsters                                                     |
+| ----------------- | -------------- | ------------- | ------------------------------------------------------------ |
+| Aberrant          | 340            | 3400          | Aberrant Spectre                                             |
+| Abyssal           | 340            | 3400          | Abyssal Demon, Abyssal Sire                                  |
+| Banshee's         | 340            | 3400          | Banshee, Twisted Banshee                                     |
+| Basilisk          | 340            | 3400          | Basilisk, Basilisk Knight                                    |
+| Black demononical | 340            | 3400          | Black Demon                                                  |
+| Bloodveld         | 340            | 3400          | Bloodveld, Mutated bloodveld                                 |
+| Cockatrice        | 340            | 3400          | Cockatrice                                                   |
+| Crawling hand     | 140            | 1400          | Crawling Hand                                                |
+| Dagannoth         | 340            | 3400          | Dagannoth, Dagannoth Prime, Dagannoth Rex, Dagannoth Supreme |
+| Dark beast        | 300            | 3000          | Dark Beast                                                   |
+| Dust Devil        | 340            | 3400          | Dust Devil                                                   |
+| Ganodermic        | 340            | 3400          | Ganodermic Beast, Ganodermic Runt                            |
+| Gargoyle          | 340            | 3400          | Gargoyle, Grotesque Guardians                                |
+| Jelly             | 340            | 3400          | Jelly, Warped Jelly                                          |
+| Kurask            | 340            | 3400          | Kurask                                                       |
+| Troll             | 340            | 3400          | Mountain Troll, Ice Troll, Reanimated Troll                  |
 
 ### Efficient Slayer Rewards
 
