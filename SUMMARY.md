@@ -4,6 +4,7 @@
 * [Rules](rules.md)
 * [Getting Started](getting-started.md)
 * [Leagues](leagues.md)
+* ["Patch notes"](patch-notes.md)
 
 ## Skills
 
