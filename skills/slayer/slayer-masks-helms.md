@@ -50,13 +50,22 @@ Other rewards can be active in order to increase the task length of mask droppin
 
 ### Slayer Masters
 
+#### Slayer XP efficient method
+
+1. Complete Ganodermic at Nieve
+2. Complete Cockatrice, Crawling hand, Banshee at Mazchna
+3. Complete the rest at Konar doing efficient xp/h methods, ensuring you can receive tasks (unlocked and not blocked)
+
+**Slayer helm efficient method**
+
+Mask&#x20;
+
 Presuming all slayer rewards are set up for efficient mask/slayer helmet hunting, the following is most efficient based on average RNG:
 
 1. Always do Konar for slayer streaks (10th, 50th, 100th, 250th 1000th streak), this gives more slayer points to skip.
 2. Use Nieve as your default slayer master until you have a Ganodermic Slayer Mask.
 3. Vannaka until you have a Jelly mask
 4. Mazchna to finish Banshee/Crawling hand/Cocatrice KC
-5. Turael to finish Banshee/Crawling hand
 
 This should have you finish all masks. If not, use the below.
 
