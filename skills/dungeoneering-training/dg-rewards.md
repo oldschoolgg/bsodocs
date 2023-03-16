@@ -1,4 +1,4 @@
-# Rewards
+# Dungeoneering Rewards
 
 ### Buyable Boosts/Utility
 
@@ -60,10 +60,10 @@ Gorajan items can be made with `/smith name: [Item name]`. You can create boots,
 
 ### Miscellaneous Buyables
 
-| Item                    | Token Cost | Use                                                        |
-| ----------------------- | ---------- | ---------------------------------------------------------- |
-| Herbicide               | 400,000    | None                                                       |
-| Frosty                  | 2,000,000  | None                                                       |
-| Chaotic Remnant         | 500,000    | Secondary for BiS necklace upgrade                         |
-| Daemonheim Agility Pass | 1,000,000  | Unlocks Daemonheim agility course                          |
+| Item                    | Token Cost | Use                                                          |
+| ----------------------- | ---------- | ------------------------------------------------------------ |
+| Herbicide               | 400,000    | None                                                         |
+| Frostbite               | 2,000,000  | None                                                         |
+| Chaotic Remnant         | 500,000    | Secondary for BiS necklace upgrade                           |
+| Daemonheim Agility Pass | 1,000,000  | Unlocks Daemonheim agility course                            |
 | Dungeoneering Dye       | 4,000,000  | Dyes gorajan armour pieces to look like dungeoneering armour |
