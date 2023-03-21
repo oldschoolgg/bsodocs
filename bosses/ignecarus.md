@@ -2,7 +2,7 @@
 
 Ignecarus is a giant dragon boss that attacks primarily using dragonfire, far hotter than any other dragon in Runescape, therefore your resistance to fire is the most important aspect of the fight. When killed, it gives 71,820 Hitpoints experience and 68,666 experience in Attack, Strength, and Defence per kill.
 
-Regular potions will be destroyed during the fight by the incredible heat, and as such you need special [Heat resistant potions.](../custom-items/misc.md#heat-res-potions)
+Regular potions will be destroyed during the fight by the incredible heat, and as such you need special [Heat Resistant Potions](https://bso-wiki.oldschool.gg/skills/herblore).
 
 You can kill Ignecarus using `/k name:Ignecarus (Solo)` to solo or `/k name:Ignecarus (Mass)` to start a mass.
 
