@@ -2,11 +2,23 @@
 
 ### Prerequisites&#x20;
 
-To complete a grandmaster clue you are required to have opened 100 master caskets. These can be bought from other players or collected by solving master clue scrolls. Master clue scrolls can be created by Watson by using the `/create item:Master clue quantity:[#]` command if you have the required lower-tier clue scrolls in your bank.
+* 250 QP
+* Level 90 in all skills
+* 'Actual clues completed' - You have the clue drop on CL, you have run trips of the clues, and you have opened the caskets as followed:
+  * Easy - 300
+  * Medium - 250
+  * Hard - 200
+  * Elite - 150
+  * Master - 100
 
-### Strategy
+Master clue scrolls can be created by Watson by using the `/create item:Master clue quantity:[#]` command if you have the required lower-tier clue scrolls in your bank.
 
-The most efficient and rewarding strategy when solving grandmaster clues is equipping full [clue hunter](https://bso-wiki.oldschool.gg/custom-items/equippables#clue-hunter-outfit), graceful, the Achievement Diary Cape and [Zippy](https://bso-wiki.oldschool.gg/custom-items/pets#resource-gathering-and-loot-effecting-pets). This gives the maximum amount of boosts (not including clue score from completing grandmaster clues, which is roughly 60 clues completed for the full 10% boost) totalling 30%. The Zippy pet, when equipped, has a 1/15 chance to double the caskets rewarded from your clue solving trip.
+### Boosts
+
+* [Clue global boosts, information can be found on the OSB Wiki page](https://wiki.oldschool.gg/miscellaneous/clue-scrolls/boosts#global-boosts)
+* [Clue Hunter Outfit](equippables.md#clue-hunter-outfit) - 2x speed&#x20;
+* [Zippy](https://bso-wiki.oldschool.gg/custom-items/pets#resource-gathering-and-loot-effecting-pets) - 1/15 chance to double, chance of Beginner to Master caskets, UMB and TMB (stacks with global double)
+* Clue score - up to 10% at roughly 60 clues completed
 
 ### Obtaining
 
@@ -18,19 +30,18 @@ Grandmaster Clues can be received from a wide range of content. The rates are no
 
 The general loot table from Grandmaster Caskets consists of:
 
-* Small amounts of Elder logs
-* Small amounts of oak, teak, mahogany, and magic logs
+* Small amounts of teak, mahogany, yew, magic and elder logs
 * Varying amounts and types of runes
 * Rune and dragon equipment
 * Mysterious Seeds
 * Air, Earth, Fire, and Water orbs
-* Normal, Air, Earth, Fire, and Water battlestaves
-* Tradeable, Untradeable, Equippable, and Holiday Mystery boxes
-* Barrow's equipment
-* Lamps (Tiny to Huge)
+* Normal, Air, Earth, Fire, Water, Steam and Lava battlestaves
+* Tradeable, Untradeable, Equippable, Pet and Holiday Mystery boxes
+* Barrows equipment
+* Tiny, Small, Average, Large Huge Lamps
 * Clue Scrolls (Beginner to Master)
-* Random Clue Scroll Loot (Beginner to Master)
-* Super Restores and Saradomin Brews
+* Random Clue Scroll Loot (Hard to Master)
+* Super Restores and Saradomin Brew
 
 ### Unique Loot Table
 
