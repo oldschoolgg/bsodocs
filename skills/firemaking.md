@@ -3,10 +3,10 @@
 ### Custom Content and Boosts
 
 * [Dwarven Greataxe](https://bso-wiki.oldschool.gg/custom-items/equippables#dwarven-equipment) - 2x boost to Wintertodt
-* Flappy - 2x loot at Wintertodt
-* Firemaking master cape - 2x loot at Wintertodt
-* Ring of Fire - 2.5% xp boost
-* Flame Gloves - 2.5% xp boost
+* [Flappy](../custom-items/pets.md#perks) - 2x loot at Wintertodt
+* [Firemaking master cape](../custom-items/equippables.md#master-capes) - 2x loot at Wintertodt
+* [Ring of Fire](../minigames/baxtorian-bathhouses.md#rewards) - 2.5% xp boost
+* [Flame Gloves](../minigames/baxtorian-bathhouses.md#rewards) - 2.5% xp boost
 
 ### Optimal Gear Setup
 
