@@ -17,6 +17,13 @@ You should use the best possible mage gear you have, Virtus is the best gear you
 
 <figure><img src="../.gitbook/assets/image_2023-01-24_131727801.png" alt=""><figcaption><p>Best in slot gear</p></figcaption></figure>
 
+Necklace: Arcane blast necklace\
+Cape: Vasa cloak\
+Arrow slot: Dwarven blessing\
+Weapon: Void staff\
+Shield: Spellbound tome\
+Ring: Spellbound ring (i)
+
 ## Loot
 
 ![Loot from 10,000 Vasa Magus (excludes the random 3x boss loot)](<../.gitbook/assets/osbot (1).png>)
