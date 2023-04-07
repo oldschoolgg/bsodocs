@@ -2,7 +2,7 @@
 
 **To get a slayer mask as a drop, you need to have the slayer reward 'Maskuerade' unlocked.** Some of the monsters need to be unlocked. **You need to be on task** to receive a mask, and to also gain kills towards upgrading into the slayer helm.
 
-Slayer masks are drops from certain slayer monsters. They can then be upgraded into a Slayer helmet by killing the associated monster while having the mask equipped in any gear set
+Slayer masks are drops from certain slayer monsters. They can then be upgraded into a Slayer helmet by killing the associated monster while owning the mask.
 
 ### Requirements
 
@@ -52,9 +52,10 @@ Other rewards can be active in order to increase the task length of mask droppin
 
 #### Slayer XP efficient method
 
-1. Complete Ganodermic at Nieve
-2. Complete Cockatrice, Crawling hand, Banshee at Mazchna
-3. Complete the rest at Konar doing efficient xp/h methods, ensuring you can receive tasks (unlocked and not blocked)
+1. Always do task streaks at Konar
+2. Complete Ganodermic at Nieve
+3. Complete Cockatrice, Crawling hand, Banshee at Mazchna
+4. Complete the rest at Konar doing efficient xp/h methods, ensuring you can receive tasks (unlocked and not blocked)
 
 **Slayer helm efficient method**
 
@@ -64,8 +65,9 @@ Presuming all slayer rewards are set up for efficient mask/slayer helmet hunting
 
 1. Always do Konar for slayer streaks (10th, 50th, 100th, 250th 1000th streak), this gives more slayer points to skip.
 2. Use Nieve as your default slayer master until you have a Ganodermic Slayer Mask.
-3. Vannaka until you have a Jelly mask
-4. Mazchna to finish Banshee/Crawling hand/Cocatrice KC
+3. You can change block lists here to make Vannaka and Mazchna better
+4. Vannaka until you have a Jelly mask
+5. Mazchna to finish Banshee/Crawling hand/Cocatrice KC
 
 This should have you finish all masks. If not, use the below.
 
