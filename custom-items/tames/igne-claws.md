@@ -12,14 +12,16 @@ To equip igne claws and armor, use `/tames equip` and select the tier you would 
 
 Each set of claws and armor require a certain _**smithing, crafting, and invention**_ level to create them:
 
-* Runite: Level 80 (Claws only)
+* Runite: Level 80 (Claws only tier)
 * Dragon: Level 85
 * Barrows: Level 90
 * Volcanic: Level 95
-* Justiciar: Level 95 (Armor only)
+* Justiciar: Level 95**\*\*** (Armor only tier)
 * Drygore: Level 100
 * Dwarven: Level 110
 * Gorajan: Level 120
+
+**\*\***Justiciar requires Level 99 invention to disassemble
 
 ### Igne Claw Creation
 
