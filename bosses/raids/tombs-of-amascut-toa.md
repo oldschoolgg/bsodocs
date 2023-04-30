@@ -21,7 +21,7 @@ See [How does 'BiS gear' work?](./#how-does-bis-gear-work) for an explanation on
 
 <figure><img src="https://cdn.discordapp.com/attachments/1057963086046298112/1102224176506478692/image.jpg" alt=""><figcaption><p>Ava's assembler can be replaced with Master Range cape, Combatant's cape</p></figcaption></figure>
 
-Note: You need to equip enough arrows to use (150 per raid, usage is reduced by Ava's effect)
+Note: You need to equip enough arrows to use (150 per raid, usage is reduced by Ava's effect). If using a Hellfire bow you need to use Hellfire arrows, Twisted bow can use Adamant, Rune, Amethyst, Dragon or Hellfire arrows, Bow of Faedhinen (c) does not require arrows
 
 ### Mage
 
