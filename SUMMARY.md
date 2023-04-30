@@ -35,7 +35,9 @@
 
 ## Bosses
 
-* [Chambers of Xeric](bosses/chambers-of-xeric.md)
+* [Raids](bosses/raids/README.md)
+  * [Chambers of Xeric (CoX)](bosses/raids/chambers-of-xeric.md)
+  * [Tombs of Amascut (ToA)](bosses/raids/tombs-of-amascut-toa.md)
 * [Ignecarus](bosses/ignecarus.md)
 * [Kalphite King](bosses/kalphite-king.md)
 * [King Goldemar](bosses/king-goldemar.md)

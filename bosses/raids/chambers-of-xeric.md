@@ -1,4 +1,4 @@
-# Chambers of Xeric
+# Chambers of Xeric (CoX)
 
 See the [OSB wiki](https://wiki.oldschool.gg/minigames/cox-raids) for general info.
 
@@ -22,8 +22,8 @@ All boosts work from the bank unless otherwise specified. Gorajan armour does no
 
 ### Reference Setups
 
-![Mage Gear](../.gitbook/assets/coxbismage.png)
+![Mage Gear](../../.gitbook/assets/coxbismage.png)
 
-![Range Gear](../.gitbook/assets/coxbisrange.png)
+![Range Gear](../../.gitbook/assets/coxbisrange.png)
 
-![Melee Gear](<../.gitbook/assets/BSO Melee Cox Bis.png>)
+![Melee Gear](<../../.gitbook/assets/BSO Melee Cox Bis.png>)

@@ -72,4 +72,3 @@ Note: All the items obtainable from this event will be discontinued, and mysteri
 
 
 
-****
