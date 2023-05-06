@@ -8,7 +8,7 @@ Having an idle dragon tame gives a 20% reduction in log and ore cost at the [Bax
 
 ## Hatching the Tame
 
-The dragon tame will take 18.5 hours to hatch. Once hatched there is a 1/30 chance its a rare shiny dragon, which is increased by 3% with a Ring of luck equipped.
+The dragon tame will take 18.5 hours to hatch. Once hatched there is a 1/30 chance its a rare shiny dragon, which is increased by 3% (to 1/29) with a Ring of luck equipped or in the bank.
 
 See [Tames](../tames.md#hatching-the-tame) for more information on hatching it.
 

@@ -11,7 +11,7 @@ Your ape can run around and gather supplies for you while you monkey around else
 
 There are no specific requirements to hatch the monkey tame. See [Tames](../tames.md#hatching-the-tame) for more information on hatching it.
 
-On hatching, there is a 1/60 chance that it could be a shiny monkey!
+On hatching, there is a 1/60 chance that it could be a shiny monkey, which is increased by 3% (to 1/58) with a Ring of luck equipped or in the bank.
 
 ## Growth
 
