@@ -1,15 +1,17 @@
 # Tombs of Amascut (ToA)
 
+See the [OSB wiki ](https://wiki.oldschool.gg/raids/tombs-of-amascut-toa)for general info.
+
 ## Boosts
 
-Boosts are completely different in BSO to the OSB counterparts, they are as followed:
+Boosts are different in BSO to the OSB version, they are as followed:
 
 * Void staff (50%) (Equipped in Mage)
 * Bandos godsword (2%) (Works from bank)
 * Hellfire bow (4%) (Equipped in Range)
 * Zaryte crossbow (9%) or Dragon claws (6%) (Works from bank)
 
-## Gear Setups
+## Reference Setups
 
 See [How does 'BiS gear' work?](./#how-does-bis-gear-work) for an explanation on gear setups.
 

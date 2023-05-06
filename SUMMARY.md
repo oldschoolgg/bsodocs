@@ -4,7 +4,6 @@
 * [Rules](rules.md)
 * [Getting Started](getting-started.md)
 * [Leagues](leagues.md)
-* ["Patch notes"](patch-notes.md)
 
 ## Skills
 
@@ -37,6 +36,7 @@
 
 * [Raids](bosses/raids/README.md)
   * [Chambers of Xeric (CoX)](bosses/raids/chambers-of-xeric.md)
+  * [Theatre of Blood (ToB)](bosses/raids/theatre-of-blood-tob.md)
   * [Tombs of Amascut (ToA)](bosses/raids/tombs-of-amascut-toa.md)
 * [Ignecarus](bosses/ignecarus.md)
 * [Kalphite King](bosses/kalphite-king.md)
@@ -87,3 +87,4 @@
 * [Christmas 2021](events/christmas-2021.md)
 * [Halloween 2021](events/halloween-2021.md)
 * [Lottery](events/lottery.md)
+* [Bingo](events/bingo.md)
