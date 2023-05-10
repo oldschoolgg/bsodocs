@@ -9,7 +9,7 @@ You can kill Ignecarus using `/k name:Ignecarus (Solo)` to solo or `/k name:Igne
 ## Requirements
 
 * 110 Slayer
-* [Heat res. brews and Heat res. restores](../custom-items/misc.md#heat-res-potions)
+* [Heat res. brews and Heat res. restores](../skills/herblore.md)
 * Highly recommended: Dragonfire shield
 
 ## Gear

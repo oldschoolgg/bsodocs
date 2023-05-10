@@ -64,6 +64,7 @@
 * [Stealing Creation](minigames/stealing-creation.md)
 * [Tinkering Workshop](minigames/tinkering-workshop.md)
 * [Balthazar's Big Bonanza](minigames/balthazars-big-bonanza.md)
+* [Shades of Mort'ton](minigames/shades-of-mortton.md)
 
 ## Custom Content <a href="#custom-items" id="custom-items"></a>
 

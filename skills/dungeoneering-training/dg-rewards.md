@@ -42,6 +42,10 @@ Additionally, with a **Chaotic Remnant** (500,000 tokens), the three BiS neck it
 * Necklace of Anguish + Chaotic Remnant = **Farsight Snapshot Necklace - Requires 99 Dungeoneering, Defence and Ranged.**
 * Occult Necklace + Chaotic Remnant = **Arcane Blast Necklace - Requires 99 Dungeoneering, Defence and Magic.**
 
+### Gorajan Shards
+
+Gorajan Shards are dropped at a rate of 1/2000 minutes from floor 5+. With DG Master cape that lowers to 1/1000 minutes. WIthout DG master cape and with level 99 dg the droprate is 1/1400 minutes. These can be furthered lowered with a ring of luck to 1/970 and 1/1358 minutes respectively.&#x20;
+
 ### Gorajan Armour
 
 **Gorajan Armour** is made by using Gorajan Shards with Nex Armour. Each piece of armour requires 2 Gorajan Shards to upgrade and will become untradeable. Stats will remain the same as the original Nex Armour but give additional boosts:
