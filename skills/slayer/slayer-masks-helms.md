@@ -64,7 +64,7 @@ Mask&#x20;
 Presuming all slayer rewards are set up for efficient mask/slayer helmet hunting, the following is most efficient based on average RNG:
 
 1. Always do Konar for slayer streaks (10th, 50th, 100th, 250th 1000th streak), this gives more slayer points to skip.
-2. Use Chaeldar as your default slayer master until you have a Ganodermic Slayer Mask.
+2. Use Chaeldar as your default slayer master until you have a Ganodermic Slayer Helm.
 3. Mazchna to finish Banshee/Crawling hand/Cocatrice KC
 4. Finish anything else at Konar.&#x20;
 

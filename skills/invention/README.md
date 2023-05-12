@@ -97,6 +97,7 @@ Master capes give a 5% junk chance reduction for a group relating to their skill
 | Dwarven toolkit (Invention) | 35% faster disassembly |
 | Invention master cape       | 5% faster disassembly  |
 | Invention master cape       | 5% extra materials     |
+| Inventor's outfit           | 4% xp boost            |
 
 
 

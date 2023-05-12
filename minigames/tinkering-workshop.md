@@ -10,4 +10,4 @@ You can start this miningame with the command `/bsominigames tinkering_workshop 
 * Inventors' gloves
 * Inventors' boots
 * Inventors' backpack
-* Materials Bag
+* Materials Bag - +6 minutes to max trip length while researching

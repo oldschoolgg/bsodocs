@@ -12,9 +12,21 @@ You can kill Ignecarus using `/k name:Ignecarus (Solo)` to solo or `/k name:Igne
 * [Heat res. brews and Heat res. restores](../skills/herblore.md)
 * Highly recommended: Dragonfire shield
 
+### Boosts
+
+Drygore Longsword - 15%
+
+Ignis ring (i) - 10%
+
+TzKal Cape - 6%
+
+Brawler's Hook Necklace - 4%
+
 ## Gear
 
 Protection from dragonfire is paramount to killing Ignecarus. You should aim for [dwarven armour](../custom-items/equippables.md#dwarven-armour) (which has a special dragonfire resistance) and a dragonfire shield. Torva can be used as a substitute, but your chance of death will increase from the lack of fire protection.
+
+You have a base death chance of 95%. This is cut in half to 47.5% with full Dwarven armour and furthered reduced to 14.5% with a dragonfire shield.
 
 ![BiS Gear for Ignecarus](../.gitbook/assets/igne\_bis.png)
 
