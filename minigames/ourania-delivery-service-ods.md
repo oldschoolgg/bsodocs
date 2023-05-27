@@ -8,6 +8,8 @@ You can start a trip using `/bsominigames ourania_delivery_service start`
 
 After finishing deliveries, you'll get Runecraft XP and Ourania tokens. The tokens can be spent on a few rewards. You can buy rewards using tokens with `/bsominigames ourania_delivery_service buy name:[Item name]`.
 
+Because both Kuro and Flappy provide benefits to Ourania Delivery Service, it is optimal to have a Roboflappy in the bank and equip Kuro to get the benefit of both.
+
 ## ODS Shop
 
 Through ODS, you get Ourania tokens which scale with your Runecraft level. You can check how many tokens you have with `/bsominigames ourania_delivery_service stats`.

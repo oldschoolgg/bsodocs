@@ -60,7 +60,7 @@ These pets are discontinued and were rewards from certain events. You can now on
 | -------- | ----------------------------------------------------------------------------------------------- | --------------------------------------------------- |
 | Cob      | <p>2x Sepulchre speed</p><p>2x Nightmare speed</p>                                              | 2020 Halloween Event                                |
 | Smokey   | <p>10% chance of an extra roll when opening boxes*</p><p>1/15 chance of bringing back a box</p> | 2020 Christmas Event                                |
-| Flappy±  | Doubles minigame loot (Soul Wars, CoX, Fight Caves, Wintertodt, Rogues Den, Barbarian Assault)  | 2021 Birthday Event                                 |
+| Flappy±  | Doubles minigame loot [(see below)](pets.md#flappy-roboflappy-perks)                            | 2021 Birthday Event                                 |
 | Gregoyle | 20% boost to gargoyles and Grotesque Guardians                                                  | [2021 Halloween Event](../events/halloween-2021.md) |
 | Kuro     | 5% boost to Gnome Restaurant and Ourania delivery service                                       | 2022 Halloween Event                                |
 {% endtab %}
@@ -84,6 +84,35 @@ Notes:\
 \*Smokey does not have to be equipped for this perk.\
 \*\*Corgi and Snappy are no longer obtainable, even by ironmen.\
 ±Invention provides this perk in the form of [RoboFlappy](../skills/invention/#inventions).
+
+<details>
+
+<summary>Flappy/RoboFlappy perks</summary>
+
+* Kourend Favour
+* Volcanic Mine
+* Fist of Guthix
+* Ourania Delivery Service
+* Stealing Creation
+* Brimhaven Agility Arena
+* Barbarian Assault
+* Castle Wars&#x20;
+* Fight Caves
+* Gnome Restaurant
+* Guardians of the Rift
+* Mahogany Homes
+* Pest Control
+* Pyramid Plunder
+* Hallowed Sepulchre
+* Soul Wars
+* Temple Trekking
+* Tithe Farm
+* Trouble Brewing
+* Wintertodt
+* CoX
+* ToB
+
+</details>
 
 ## Growable pets
 
