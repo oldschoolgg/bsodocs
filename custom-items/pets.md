@@ -110,7 +110,6 @@ Notes:\
 * Trouble Brewing
 * Wintertodt
 * CoX
-* ToB
 
 </details>
 
