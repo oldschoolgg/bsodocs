@@ -38,6 +38,7 @@
   * [Chambers of Xeric (CoX)](bosses/raids/chambers-of-xeric.md)
   * [Theatre of Blood (ToB)](bosses/raids/theatre-of-blood-tob.md)
   * [Tombs of Amascut (ToA)](bosses/raids/tombs-of-amascut-toa.md)
+  * [Depths of Atlantis (DOA)](bosses/raids/depths-of-atlantis-doa.md)
 * [Ignecarus](bosses/ignecarus.md)
 * [Kalphite King](bosses/kalphite-king.md)
 * [King Goldemar](bosses/king-goldemar.md)

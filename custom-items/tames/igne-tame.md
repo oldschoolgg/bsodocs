@@ -27,15 +27,7 @@ For more information on tame commands see [Tames](../tames.md)
 You can feed the dragon tame certain items with `/tames feed [item]`\
 **Note:** Feeding any other items (food included) will have no effect\\
 
-| Item                               | Boost                                                                                                                              |
-| ---------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------- |
-| Abyssal Cape                       | 20% food reduction                                                                                                                 |
-| Zak                                | +35 minutes to trip lengths                                                                                                        |
-| Ori                                | 25% extra loot                                                                                                                     |
-| Dwarven Warhammer                  | 30% speed boost                                                                                                                    |
-| Mr. E                              | 1/12 chance to double loot                                                                                                         |
-| **Equip, do not feed:** Igne Claws | 5-35% (See [Igne Claws](igne-claws.md#igne-claw-creation))                                                                         |
-| **Equip, do not feed:** Igne Armor | Allow you to kill additional monsters, as well as reduce food usage by 5-33% (See [Igne Armo](igne-claws.md#igne-armor-creation)r) |
+<table><thead><tr><th width="289">Item</th><th>Boost</th></tr></thead><tbody><tr><td>Abyssal Cape</td><td>20% food reduction</td></tr><tr><td>Zak</td><td>+35 minutes to trip lengths</td></tr><tr><td>Ori</td><td>25% extra loot</td></tr><tr><td>Dwarven Warhammer</td><td>30% speed boost</td></tr><tr><td>Mr. E</td><td>1/12 chance to double loot</td></tr><tr><td><strong>Equip, do not feed:</strong> Igne Claws</td><td>5-35% (See <a href="igne-claws.md#igne-claw-creation">Igne Claws</a>)</td></tr><tr><td><strong>Equip, do not feed:</strong> Igne Armor</td><td>Allow you to kill additional monsters, as well as reduce food usage by 5-33% (See <a href="igne-claws.md#igne-armor-creation">Igne Armo</a>r)</td></tr></tbody></table>
 
 ### Boss requirements
 

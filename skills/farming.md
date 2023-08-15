@@ -26,8 +26,5 @@
 
 ### Methods
 
-| Method  | Xp / Seed | Xp / Harvest |
-| ------- | --------- | ------------ |
-| Athelas | 1,235,501 | 15,270,786   |
-| Korulsi | 386,179   | 4,773,172    |
+<table><thead><tr><th>Method</th><th width="242">Xp / Seed</th><th>Xp / Harvest</th></tr></thead><tbody><tr><td>Athelas</td><td>1,235,501</td><td>15,270,786</td></tr><tr><td>Korulsi</td><td>386,179</td><td>4,773,172</td></tr></tbody></table>
 

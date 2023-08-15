@@ -51,7 +51,7 @@ The Grandmaster loot system operates on rolls, of which there are 5-11 for each 
 
 ![Igne -> Maly](../.gitbook/assets/image\_2021-10-16\_012247.png)
 
-* [Deathtouched Dart](https://bso-wiki.oldschool.gg/custom-items/misc) (x/3000)
+* [Deathtouched Dart](https://bso-wiki.oldschool.gg/custom-items/misc) (x/4000)
 
 ![](<../.gitbook/assets/dt dart.png>)
 
@@ -72,4 +72,5 @@ The Grandmaster loot system operates on rolls, of which there are 5-11 for each 
 ![Helm of Raedwald -> CH Garb -> CH Gloves -> CH Trouser -> CH Boots -> CH Cloak](../.gitbook/assets/ch.png)
 
 * [Blabberbeak](pets.md#meme-pets-and-no-perk-pets) (x/20000)
+* Ring of luck (x/8000)
 
