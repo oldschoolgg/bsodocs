@@ -26,9 +26,4 @@ For more information on tame commands see [Tames](../tames.md)
 
 ## Boosts
 
-| Item              | Boost                          |
-| ----------------- | ------------------------------ |
-| Zak               | Adds 35 minutes to trip length |
-| Voidling          | 10% collecting speed increase  |
-| Ring of Endurance | 10% collecting speed increase  |
-| Mr. E             | 1/12 chance to double loot     |
+<table><thead><tr><th width="169">Item</th><th width="296" align="center">Boost</th><th width="95" data-type="checkbox">Collect</th><th data-type="checkbox">Cast</th></tr></thead><tbody><tr><td>Zak</td><td align="center">Adds 35 minutes to trip length</td><td>true</td><td>true</td></tr><tr><td>Voidling</td><td align="center">10% collecting speed increase</td><td>true</td><td>false</td></tr><tr><td>Ring of Endurance</td><td align="center">10% collecting speed increase</td><td>true</td><td>false</td></tr><tr><td>Mr. E</td><td align="center">1/12 chance to double loot</td><td>true</td><td>false</td></tr><tr><td>Klik</td><td align="center">22% casting speed increase</td><td>false</td><td>true</td></tr></tbody></table>

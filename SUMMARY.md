@@ -82,6 +82,7 @@
   * [Igne Tame](custom-items/tames/igne-tame.md)
   * [Igne Equipment](custom-items/tames/igne-claws.md)
   * [Monkey Tame](custom-items/tames/monkey-tame.md)
+  * [Monkey Staff & Spells](custom-items/tames/monkey-staff-and-spells.md)
 
 ## Events
 
