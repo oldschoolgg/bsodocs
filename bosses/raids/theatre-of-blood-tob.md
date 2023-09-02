@@ -38,11 +38,11 @@ See the [OSB wiki](https://wiki.oldschool.gg/raids/theatre-of-blood) for general
 
 See [How does 'BiS gear' work?](./#how-does-bis-gear-work) for an explanation on gear setups.
 
-<figure><img src="https://cdn.discordapp.com/attachments/935819857830756365/1104412860945277128/image.jpg" alt=""><figcaption><p>Melee - not bis</p></figcaption></figure>
+<figure><img src="https://cdn.discordapp.com/attachments/935819857830756365/1147593147409518592/image.jpg" alt=""><figcaption><p>Melee - not bis</p></figcaption></figure>
 
-<figure><img src="https://cdn.discordapp.com/attachments/935819857830756365/1104412765461942412/image.jpg" alt=""><figcaption><p>Range - not bis</p></figcaption></figure>
+<figure><img src="https://cdn.discordapp.com/attachments/935819857830756365/1147593116988223638/image.jpg" alt=""><figcaption><p>Range - not bis</p></figcaption></figure>
 
-<figure><img src="https://cdn.discordapp.com/attachments/935819857830756365/1104413470981632140/image.jpg" alt=""><figcaption><p>Mage - not bis</p></figcaption></figure>
+<figure><img src="https://cdn.discordapp.com/attachments/935819857830756365/1147593081802211439/image.jpg" alt=""><figcaption><p>Mage - not bis</p></figcaption></figure>
 
 ## Supplies
 

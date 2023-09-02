@@ -32,7 +32,7 @@ See [How does 'BiS gear' work?](./#how-does-bis-gear-work) for an explanation on
 
 <figure><img src="https://cdn.discordapp.com/attachments/935819857830756365/1104411458680393758/image.jpg" alt=""><figcaption><p>Mage</p></figcaption></figure>
 
-![Range Gear](../../.gitbook/assets/coxbisrange.png)
+![Range Gear](https://cdn.discordapp.com/attachments/935819857830756365/1147594073792843857/image.jpg)
 
 <figure><img src="https://cdn.discordapp.com/attachments/935819857830756365/1104411808539881472/image.jpg" alt=""><figcaption><p>Melee</p></figcaption></figure>
 
