@@ -10,7 +10,9 @@ There are 7 floors. Each floor requires +20 DG lvl to the last and increasingly 
 
 `/dg stats` to see your tokens, max floor, and shard boosts
 
-While doing dungeoneering in dungeons of Floor 5+, you have a chance of getting a tradeable Gorajan shard. You can combine 2 of these with a nex armour piece to make a gorajan armour piece, using smithing. (see [Dungeoneering Rewards](dg-rewards.md)). There is also a 1/20k chance of obtaining a gorajan bonecrusher (u)
+While doing dungeoneering in dungeons of Floor 5+, you have a chance of getting a tradeable Gorajan shard. You can combine 2 of these with a nex armour piece to make a gorajan armour piece, using smithing. (see [Dungeoneering Rewards](dg-rewards.md)).&#x20;
+
+Whilst doing floor 7 there is a 1/20k per minute chance of obtaining a gorajan bonecrusher (u). I.e. if you do a trip that lasts 1 hour 4 minutes, you would have 64 rolls at 1/20k to receive it.
 
 You recieve dungeoneering tokens at a rate of xp/40
 
@@ -35,4 +37,3 @@ Dungeoneering boosts, excluding party size, are divided by the number of players
 ### Methods
 
 The best way to train dungeoneering is to use xp lamps to lvl 100 and then train on the best floor you can do with as many people as you can.
-
