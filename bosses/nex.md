@@ -45,11 +45,9 @@ Removed brews/restores from users: **30/10**. The trip will take 48 minutes 15 s
 
 ## Boosts
 
-All boosts are divided by team size
-
-* Full Pernix - 20% (2.4% per individual piece)
-* Full Gorajan Archer - 15%
-* Zaryte bow - 20%
+* Full Pernix - 20% Solo / 8% Mass (2.4% Solo / 1% Mass per individual piece if not full)
+* Full Gorajan Archer - 15% (divided by team size)
+* Zaryte bow - 20% Solo / 14% Mass OR Twisted bow - 15% Solo / 9% Mass
 
 ## **Loot**
 
